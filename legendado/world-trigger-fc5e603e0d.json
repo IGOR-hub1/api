@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "world-trigger",
+  "capturadoEm": "2026-10-22T09:51:19.498Z",
+  "atualizadoEm": "2026-10-22T09:51:19.498Z",
+  "catalogo": {
+    "slug": "a/world-trigger",
+    "titulo": "World Trigger",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/nLqkR8Pe0IVRCgSK0dYUkqvXr0r.jpg",
+    "info": "Legendado • Oct. 05, 2014",
+    "audio": "Legendado",
+    "score": "7.3",
+    "ano": "2014",
+    "publicadoEm": "Oct. 05, 2014",
+    "url": "https://meusanimes.blog/a/world-trigger/",
+    "postId": "60399"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      28
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "World Trigger",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/nLqkR8Pe0IVRCgSK0dYUkqvXr0r.jpg",
+  "score": "7.3",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Oct. 05, 2014",
+  "url": "https://meusanimes.blog/a/world-trigger/"
+}

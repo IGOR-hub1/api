@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sushi-police",
+  "capturadoEm": "2026-10-22T09:52:50.478Z",
+  "atualizadoEm": "2026-10-22T09:52:50.478Z",
+  "catalogo": {
+    "slug": "a/sushi-police",
+    "titulo": "Sushi Police",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/vSYyiifMe9k0wP2vnf0WT2O4oNE.jpg",
+    "info": "Legendado • Jan. 06, 2016",
+    "audio": "Legendado",
+    "score": "4.4",
+    "ano": "2016",
+    "publicadoEm": "Jan. 06, 2016",
+    "url": "https://meusanimes.blog/a/sushi-police/",
+    "postId": "53376"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sushi Police",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/vSYyiifMe9k0wP2vnf0WT2O4oNE.jpg",
+  "score": "4.4",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jan. 06, 2016",
+  "url": "https://meusanimes.blog/a/sushi-police/"
+}

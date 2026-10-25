@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kamisama-hajimemashita",
+  "capturadoEm": "2026-10-22T09:49:48.956Z",
+  "atualizadoEm": "2026-10-22T09:49:48.956Z",
+  "catalogo": {
+    "slug": "a/kamisama-hajimemashita",
+    "titulo": "Kamisama Hajimemashita",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/8nfyyLqcAbEocNvPXj26uIflThp.jpg",
+    "info": "Legendado • Oct. 02, 2012",
+    "audio": "Legendado",
+    "score": "8.6",
+    "ano": "2012",
+    "publicadoEm": "Oct. 02, 2012",
+    "url": "https://meusanimes.blog/a/kamisama-hajimemashita/",
+    "postId": "67395"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      22
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kamisama Hajimemashita",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/8nfyyLqcAbEocNvPXj26uIflThp.jpg",
+  "score": "8.6",
+  "audio": "Legendado",
+  "ano": "2012",
+  "publicadoEm": "Oct. 02, 2012",
+  "url": "https://meusanimes.blog/a/kamisama-hajimemashita/"
+}

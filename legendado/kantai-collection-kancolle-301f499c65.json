@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kantai-collection-kancolle",
+  "capturadoEm": "2026-10-22T09:51:42.723Z",
+  "atualizadoEm": "2026-10-22T09:51:42.723Z",
+  "catalogo": {
+    "slug": "a/kantai-collection-kancolle",
+    "titulo": "Kantai Collection: KanColle",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/1I8eJyXIA1y2Vew6O7RIAGsPnzU.jpg",
+    "info": "Legendado • Jan. 08, 2015",
+    "audio": "Legendado",
+    "score": "6.1",
+    "ano": "2015",
+    "publicadoEm": "Jan. 08, 2015",
+    "url": "https://meusanimes.blog/a/kantai-collection-kancolle/",
+    "postId": "58334"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      30
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kantai Collection: KanColle",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/1I8eJyXIA1y2Vew6O7RIAGsPnzU.jpg",
+  "score": "6.1",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jan. 08, 2015",
+  "url": "https://meusanimes.blog/a/kantai-collection-kancolle/"
+}

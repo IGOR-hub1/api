@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kekkai-sensen",
+  "capturadoEm": "2026-10-22T09:51:44.761Z",
+  "atualizadoEm": "2026-10-22T09:51:44.761Z",
+  "catalogo": {
+    "slug": "a/kekkai-sensen",
+    "titulo": "Kekkai Sensen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/zg0YxHNIKG4AhbL5zLJSO45ehBM.jpg",
+    "info": "Legendado • Apr. 05, 2015",
+    "audio": "Legendado",
+    "score": "6.996",
+    "ano": "2015",
+    "publicadoEm": "Apr. 05, 2015",
+    "url": "https://meusanimes.blog/a/kekkai-sensen/",
+    "postId": "57848"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      30
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kekkai Sensen",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/zg0YxHNIKG4AhbL5zLJSO45ehBM.jpg",
+  "score": "6.996",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 05, 2015",
+  "url": "https://meusanimes.blog/a/kekkai-sensen/"
+}

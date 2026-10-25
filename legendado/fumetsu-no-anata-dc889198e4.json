@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "fumetsu-no-anata",
+  "capturadoEm": "2026-10-22T09:53:56.822Z",
+  "atualizadoEm": "2026-10-22T09:53:56.822Z",
+  "catalogo": {
+    "slug": "a/fumetsu-no-anata",
+    "titulo": "Fumetsu no Anata",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/jcINuyAjMmiv9xZM2LpDoQhu8Ew.jpg",
+    "info": "Legendado • Apr. 12, 2021",
+    "audio": "Legendado",
+    "ano": "2021",
+    "publicadoEm": "Apr. 12, 2021",
+    "url": "https://meusanimes.blog/a/fumetsu-no-anata/",
+    "postId": "20019"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      40
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Fumetsu no Anata",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/jcINuyAjMmiv9xZM2LpDoQhu8Ew.jpg",
+  "audio": "Legendado",
+  "ano": "2021",
+  "publicadoEm": "Apr. 12, 2021",
+  "url": "https://meusanimes.blog/a/fumetsu-no-anata/"
+}

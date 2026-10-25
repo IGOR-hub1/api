@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "vivid-strike",
+  "capturadoEm": "2026-10-22T09:52:06.612Z",
+  "atualizadoEm": "2026-10-22T09:52:06.612Z",
+  "catalogo": {
+    "slug": "a/vivid-strike",
+    "titulo": "ViVid Strike!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/rpQEdSxYcj3zn8rci7oZcxsPBkq.jpg",
+    "info": "Legendado • Oct. 02, 2016",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2016",
+    "publicadoEm": "Oct. 02, 2016",
+    "url": "https://meusanimes.blog/a/vivid-strike/",
+    "postId": "56371"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      32
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "ViVid Strike!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/rpQEdSxYcj3zn8rci7oZcxsPBkq.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 02, 2016",
+  "url": "https://meusanimes.blog/a/vivid-strike/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sansha-sanyou",
+  "capturadoEm": "2026-10-22T09:52:10.845Z",
+  "atualizadoEm": "2026-10-22T09:52:10.845Z",
+  "catalogo": {
+    "slug": "a/sansha-sanyou",
+    "titulo": "Sansha Sanyou",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/8Qepat7WSAip5bp1hPNaDTBIP15.jpg",
+    "info": "Legendado • Apr. 11, 2016",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2016",
+    "publicadoEm": "Apr. 11, 2016",
+    "url": "https://meusanimes.blog/a/sansha-sanyou/",
+    "postId": "56113"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      32
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sansha Sanyou",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/8Qepat7WSAip5bp1hPNaDTBIP15.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 11, 2016",
+  "url": "https://meusanimes.blog/a/sansha-sanyou/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "citrus",
+  "capturadoEm": "2026-10-22T09:55:50.871Z",
+  "atualizadoEm": "2026-10-22T09:55:50.871Z",
+  "catalogo": {
+    "slug": "a/citrus",
+    "titulo": "Citrus",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/u404BsPqJv5lxgNGLnbJbPe6PEe.jpg",
+    "info": "Legendado • Jan. 06, 2018",
+    "audio": "Legendado",
+    "score": "6.611",
+    "ano": "2018",
+    "publicadoEm": "Jan. 06, 2018",
+    "url": "https://meusanimes.blog/a/citrus/",
+    "postId": "36081"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      48
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Citrus",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/u404BsPqJv5lxgNGLnbJbPe6PEe.jpg",
+  "score": "6.611",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jan. 06, 2018",
+  "url": "https://meusanimes.blog/a/citrus/"
+}

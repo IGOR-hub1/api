@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "aria-the-animation",
+  "capturadoEm": "2026-10-22T09:48:50.912Z",
+  "atualizadoEm": "2026-10-22T09:48:50.912Z",
+  "catalogo": {
+    "slug": "a/aria-the-animation",
+    "titulo": "Aria The Animation",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/1XgXgWmsX1Un8eBHPjcBYpoae6M.jpg",
+    "info": "Legendado • Oct. 06, 2005",
+    "audio": "Legendado",
+    "score": "8.576",
+    "ano": "2005",
+    "publicadoEm": "Oct. 06, 2005",
+    "url": "https://meusanimes.blog/a/aria-the-animation/",
+    "postId": "73712"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Aria The Animation",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/1XgXgWmsX1Un8eBHPjcBYpoae6M.jpg",
+  "score": "8.576",
+  "audio": "Legendado",
+  "ano": "2005",
+  "publicadoEm": "Oct. 06, 2005",
+  "url": "https://meusanimes.blog/a/aria-the-animation/"
+}

@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach-dublado",
+  "capturadoEm": "2026-10-21T23:05:27.170Z",
+  "atualizadoEm": "2026-10-22T09:40:40.249Z",
+  "catalogo": {
+    "slug": "a/shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach-dublado",
+    "titulo": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ze0GjDGEbpq83LDmGyar358lbcT.jpg",
+    "info": "Dublado • Jul. 13, 2026",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 13, 2026",
+    "url": "https://meusanimes.blog/a/shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach-dublado/",
+    "postId": "94248"
+  },
+  "detalhes": {
+    "slug": "a/shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach-dublado",
+    "titulo": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ze0GjDGEbpq83LDmGyar358lbcT.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/ze0GjDGEbpq83LDmGyar358lbcT.jpg",
+    "sinopse": "Yuki é uma jogadora profissional de jogos mortais que continua desafiando a morte mesmo após superar a temida barreira dos trinta anos, quando a sobrevivência se torna muito mais difícil. Em seu novo desafio, ela e outros veteranos são reunidos em uma ilha isolada para participar de mais um jogo mortal, onde apenas os mais habilidosos têm chance de sobreviver.",
+    "generos": [
+      "Ação",
+      "Mistério",
+      "Suspense"
+    ],
+    "score": "7",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 13, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach-dublado/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/wEArA15wjHybHLKrj9ySVTY2Rck.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/16593381/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach-dublado/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/16593381/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:05:31.174Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/16593381/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/16593381/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "detalhesColetadosEm": "2026-10-21T23:05:27.170Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 1
+  },
+  "titulo": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ze0GjDGEbpq83LDmGyar358lbcT.jpg",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 13, 2026",
+  "url": "https://meusanimes.blog/a/shibou-yuugi-de-meshi-wo-kuu-44-cloudy-beach-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/ze0GjDGEbpq83LDmGyar358lbcT.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "Yuki é uma jogadora profissional de jogos mortais que continua desafiando a morte mesmo após superar a temida barreira dos trinta anos, quando a sobrevivência se torna muito mais difícil. Em seu novo desafio, ela e outros veteranos são reunidos em uma ilha isolada para participar de mais um jogo mortal, onde apenas os mais habilidosos têm chance de sobreviver."
+}

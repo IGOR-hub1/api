@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "junketsu-no-maria",
+  "capturadoEm": "2026-10-22T09:51:35.896Z",
+  "atualizadoEm": "2026-10-22T09:51:35.896Z",
+  "catalogo": {
+    "slug": "a/junketsu-no-maria",
+    "titulo": "Junketsu no Maria",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/rL8Z1Ztgma52J8B2FraCvcwrXh5.jpg",
+    "info": "Legendado • Jan. 11, 2015",
+    "audio": "Legendado",
+    "score": "5.6",
+    "ano": "2015",
+    "publicadoEm": "Jan. 11, 2015",
+    "url": "https://meusanimes.blog/a/junketsu-no-maria/",
+    "postId": "59161"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      30
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Junketsu no Maria",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/rL8Z1Ztgma52J8B2FraCvcwrXh5.jpg",
+  "score": "5.6",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jan. 11, 2015",
+  "url": "https://meusanimes.blog/a/junketsu-no-maria/"
+}

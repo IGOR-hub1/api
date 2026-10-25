@@ -1,0 +1,705 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "gnosia-dublado",
+  "capturadoEm": "2026-10-22T00:19:22.709Z",
+  "atualizadoEm": "2026-10-22T09:41:14.796Z",
+  "catalogo": {
+    "slug": "a/gnosia-dublado",
+    "titulo": "Gnosia Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2D4j3VlE2ZzNroic5imNLBQXGi.jpg",
+    "info": "Dublado • Oct. 12, 2025",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 12, 2025",
+    "url": "https://meusanimes.blog/a/gnosia-dublado/",
+    "postId": "90616"
+  },
+  "detalhes": {
+    "slug": "a/gnosia-dublado",
+    "titulo": "Gnosia Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2D4j3VlE2ZzNroic5imNLBQXGi.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/2D4j3VlE2ZzNroic5imNLBQXGi.jpg",
+    "sinopse": "Depois de ficar à deriva, a tripulação de uma nave espacial precisa criar um plano desesperado para escapar dos Gnosia, seres alienígenas que fingem ser membros da tripulação. Os suspeitos são colocados um a um em sono criogênico em uma tentativa de livrar a nave da ameaça.",
+    "generos": [
+      "Mistério"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 12, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/gnosia-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/gOQCnxMinIAtTssR1wGiGxTcWqH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-2/",
+          "nome": "Gnosia Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:51.416Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2xesA8YFSifs7538ahg2u17vre5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-1/",
+          "nome": "Gnosia Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-3/",
+          "nome": "Gnosia Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:47.362Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 26, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/oFH3MeNlhVt12yjJHMIHGZ38VGp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-2/",
+          "nome": "Gnosia Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-4/",
+          "nome": "Gnosia Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:43.176Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Nov. 02, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/fgwLiiOjDkF3KxrcznZtyYNCRq9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-3/",
+          "nome": "Gnosia Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-5/",
+          "nome": "Gnosia Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:38.781Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 09, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/7VB71CwuYZ0aLOLPsrLTuNLMeKy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-4/",
+          "nome": "Gnosia Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-6/",
+          "nome": "Gnosia Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:34.467Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 16, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/atzV3MTDxOkUOsj1oNfpaYzwHMJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-5/",
+          "nome": "Gnosia Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-7/",
+          "nome": "Gnosia Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:30.278Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 23, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/locr3Li30Tgkllgw9SYtHbRv1Qu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-6/",
+          "nome": "Gnosia Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-8/",
+          "nome": "Gnosia Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:25.958Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 30, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/8omDeTvqX8XceTQVfkae9cPZ4A2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-7/",
+          "nome": "Gnosia Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-9/",
+          "nome": "Gnosia Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:21.605Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 07, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/9WG4E5UgdGTWoRElwy9MGsiE0nA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-8/",
+          "nome": "Gnosia Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-10/",
+          "nome": "Gnosia Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:17.283Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 14, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/aAMDWLuB1PGJgqeJm86x3dIv2f2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-9/",
+          "nome": "Gnosia Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-11/",
+          "nome": "Gnosia Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:12.969Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 21, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/szGbtZHtzpldxifno3KqDqWUIVS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-10/",
+          "nome": "Gnosia Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-12/",
+          "nome": "Gnosia Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:08.907Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 21, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/ihjN9WbQ4awXesy1A3880ptkIVj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-11/",
+          "nome": "Gnosia Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-13/",
+          "nome": "Gnosia Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:04.499Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/9bCUGstnVxkS9Q4LmnJRpfvFeXA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-12/",
+          "nome": "Gnosia Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-14/",
+          "nome": "Gnosia Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:20:00.422Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/90CXug1MYtdE3DX3OVY1EaY6kmZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-13/",
+          "nome": "Gnosia Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-15/",
+          "nome": "Gnosia Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:19:56.346Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/lUUMG5CrBkn5GRh7fXX461IVNeD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-14/",
+          "nome": "Gnosia Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-16/",
+          "nome": "Gnosia Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:19:52.213Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Feb. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/p7mFg6SsANIztRMVwye04LV54Nq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-15/",
+          "nome": "Gnosia Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-17/",
+          "nome": "Gnosia Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:19:48.166Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/jUwTJZeJP3b5R7uD7jlTN73YesZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-16/",
+          "nome": "Gnosia Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-18/",
+          "nome": "Gnosia Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:19:44.083Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/y28FgNPe2YYh69GDXW6kPpk3i1q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-17/",
+          "nome": "Gnosia Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-19/",
+          "nome": "Gnosia Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:19:40.005Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/nTCOMYoA4OhFYoroTwFSXF9KjMn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-18/",
+          "nome": "Gnosia Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-20/",
+          "nome": "Gnosia Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:19:35.870Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Mar. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/4RvMrSXgFWns0RYwYlOTSRgGpNV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-19/",
+          "nome": "Gnosia Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-21/",
+          "nome": "Gnosia Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:19:31.362Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tDB1HrjhSup3jpcFOHW9sNetWaW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Gnosia Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/gnosia-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/gnosia-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/gnosia-dublado-1-episodio-20/",
+          "nome": "Gnosia Dublado 1 Episodio 20"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2786041/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:19:27.057Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2786041/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2786041/1/21/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 21,
+    "totalEpisodios": 21,
+    "detalhesColetadosEm": "2026-10-22T00:19:22.709Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 21
+  },
+  "titulo": "Gnosia Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2D4j3VlE2ZzNroic5imNLBQXGi.jpg",
+  "audio": "Dublado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 12, 2025",
+  "url": "https://meusanimes.blog/a/gnosia-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/2D4j3VlE2ZzNroic5imNLBQXGi.jpg",
+  "score": "8",
+  "temporadas": 1,
+  "descricao": "Depois de ficar à deriva, a tripulação de uma nave espacial precisa criar um plano desesperado para escapar dos Gnosia, seres alienígenas que fingem ser membros da tripulação. Os suspeitos são colocados um a um em sono criogênico em uma tentativa de livrar a nave da ameaça."
+}

@@ -1,0 +1,579 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "koori-no-jouheki",
+  "capturadoEm": "2026-10-22T09:45:13.541Z",
+  "atualizadoEm": "2026-10-22T13:52:01.949Z",
+  "catalogo": {
+    "slug": "a/koori-no-jouheki",
+    "titulo": "Koori no Jouheki",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pIgAgsitVZPwDlijRC8zH8RuO69.jpg",
+    "info": "Legendado • Apr. 02, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 02, 2026",
+    "url": "https://meusanimes.blog/a/koori-no-jouheki/",
+    "postId": "81283"
+  },
+  "detalhes": {
+    "slug": "a/koori-no-jouheki",
+    "titulo": "Koori no Jouheki",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pIgAgsitVZPwDlijRC8zH8RuO69.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/pIgAgsitVZPwDlijRC8zH8RuO69.jpg",
+    "sinopse": "Parede de Gelo, The Ramparts of Ice, Koyuki não consegue se conectar com as pessoas e curte ficar sozinha na escola. Até que Minato aparece e faz de tudo para quebrar o gelo.",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Escolar",
+      "Romance",
+      "Slice Of Life"
+    ],
+    "score": "8",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 02, 2026",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/koori-no-jouheki/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xAUiRr8Q4NQKSqX0SMNMkwVbvcb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 1 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-2",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-2/",
+          "nome": "Koori no Jouheki Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:52:01.949Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/cJWxtODFHxCUKsnCXy2Kp86dzHw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 2 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-1",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-1/",
+          "nome": "Koori no Jouheki Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-3",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-3/",
+          "nome": "Koori no Jouheki Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:57.852Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qYKosyOOSbxA0Gxsg6ZGzZqs4Lm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 3 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-2",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-2/",
+          "nome": "Koori no Jouheki Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-4",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-4/",
+          "nome": "Koori no Jouheki Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:53.819Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/90ZEbUGOQPuGV5zbSfpnJHohAQq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 4 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-3",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-3/",
+          "nome": "Koori no Jouheki Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-5",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-5/",
+          "nome": "Koori no Jouheki Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:49.715Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Apr. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pln6eub4dhG7RrBCDz735FCJ09S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 5 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-4",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-4/",
+          "nome": "Koori no Jouheki Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-6",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-6/",
+          "nome": "Koori no Jouheki Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:45.620Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/wkUDKzHWq0BTYTmJ3w9IMMd0D5v.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 6 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-5",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-5/",
+          "nome": "Koori no Jouheki Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-7",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-7/",
+          "nome": "Koori no Jouheki Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:41.560Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/l9gsJ2Hv6xYHCXNnFgexMhYkJvy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 7 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-6",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-6/",
+          "nome": "Koori no Jouheki Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-8",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-8/",
+          "nome": "Koori no Jouheki Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:37.485Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/qmViLcAXGu4A93Gl5ksdPS37Sfh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 8 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-7",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-7/",
+          "nome": "Koori no Jouheki Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-9",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-9/",
+          "nome": "Koori no Jouheki Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:33.433Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/y2MWjNqzDyEIHqmcXCJfE1SLZKC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 9 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-8",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-8/",
+          "nome": "Koori no Jouheki Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-10",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-10/",
+          "nome": "Koori no Jouheki Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:29.314Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/qPjRp98ypN9nYrFarNZUuVWcWnL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 10 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-9",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-9/",
+          "nome": "Koori no Jouheki Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-11",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-11/",
+          "nome": "Koori no Jouheki Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:25.258Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/yaF8ngrJCeZaz8QpKxiXo5p81Br.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 11 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-10",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-10/",
+          "nome": "Koori no Jouheki Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-12",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-12/",
+          "nome": "Koori no Jouheki Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:21.192Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/Atp4qBiDI9DolgHDDdBEYX7wrUP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 12 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-11",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-11/",
+          "nome": "Koori no Jouheki Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-13",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-13/",
+          "nome": "Koori no Jouheki Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:17.133Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/dBOB7kV5DmjOYG64pNq6JUt690v.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 13 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-12",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-12/",
+          "nome": "Koori no Jouheki Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-14",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-14/",
+          "nome": "Koori no Jouheki Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:13.082Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/78VF56LrrQmzJ7nT2BYRS1zgSHC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 1 Episodio 14 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-episodio-13",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-episodio-13/",
+          "nome": "Koori no Jouheki Episodio 13"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:09.011Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/tT68Nx8MMQ5rHONmkGNn8KBIiq7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 2 Episodio 1 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-2-episodio-2",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-2/",
+          "nome": "Koori no Jouheki 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:04.839Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/hVgHna4dQ2drYdvnxAZN6XlEezG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 2 Episodio 2 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-2-episodio-1",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-1/",
+          "nome": "Koori no Jouheki 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/koori-no-jouheki-2-episodio-3",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-3/",
+          "nome": "Koori no Jouheki 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:51:00.758Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xLrBDefoJRnfEIIDbNIwB64Z2iS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Koori no Jouheki: 2 Episodio 3 Online",
+        "animeSlug": "a/koori-no-jouheki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283428/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/koori-no-jouheki-2-episodio-2",
+          "link": "https://meusanimes.blog/e/koori-no-jouheki-2-episodio-2/",
+          "nome": "Koori no Jouheki 2 Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283428/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:50:56.160Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283428/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283428/2/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 17,
+    "totalEpisodios": 17,
+    "midiasColetadas": 0,
+    "iframesColetados": 17,
+    "detalhesColetadosEm": "2026-10-22T13:50:50.833Z"
+  },
+  "titulo": "Koori no Jouheki",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pIgAgsitVZPwDlijRC8zH8RuO69.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 02, 2026",
+  "url": "https://meusanimes.blog/a/koori-no-jouheki/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/pIgAgsitVZPwDlijRC8zH8RuO69.jpg",
+  "score": "8",
+  "status": "Em lançamento",
+  "temporadas": 2,
+  "descricao": "Parede de Gelo, The Ramparts of Ice, Koyuki não consegue se conectar com as pessoas e curte ficar sozinha na escola. Até que Minato aparece e faz de tudo para quebrar o gelo."
+}

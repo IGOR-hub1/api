@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "suikoden-the-anime",
+  "capturadoEm": "2026-10-22T09:44:51.138Z",
+  "atualizadoEm": "2026-10-22T12:59:40.060Z",
+  "catalogo": {
+    "slug": "a/suikoden-the-anime",
+    "titulo": "Suikoden: The Anime",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/b9Zm9y4MqQe4vEPgdEBjqCyqzRN.jpg",
+    "info": "Legendado • Em lançamento • Oct. 03, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "url": "https://meusanimes.blog/a/suikoden-the-anime/",
+    "postId": "99983"
+  },
+  "detalhes": {
+    "slug": "a/suikoden-the-anime",
+    "titulo": "Suikoden: The Anime",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/b9Zm9y4MqQe4vEPgdEBjqCyqzRN.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/b9Zm9y4MqQe4vEPgdEBjqCyqzRN.jpg",
+    "sinopse": "O herói de nossa história e seu amigo Jowy são membros da Brigada Juvenil Unicórnio, que participou de uma prolongada disputa de fronteira entre o Reino das Terras Altas e a Cidade-estado de Jowston. Alguns meses antes, um acordo de trégua foi assinado entre as duas forças, que ficaram felizes com o fim dos combates. No entanto, escondido sob a paz momentânea, o fogo de uma nova guerra continuava a arder…",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "score": "9",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/suikoden-the-anime/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/suikoden-the-anime-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/z25wpJFvh20PykW5K1LZoiSLbxs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Suikoden: The Anime: 1 Episodio 1 Online",
+        "animeSlug": "a/suikoden-the-anime",
+        "iframe": "https://serv01.meusdoramas.club/#/video/285710/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/suikoden-the-anime-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/suikoden-the-anime-episodio-2",
+          "link": "https://meusanimes.blog/e/suikoden-the-anime-episodio-2/",
+          "nome": "Suikoden: The Anime Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/285710/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:59:40.060Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/285710/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/285710/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/suikoden-the-anime-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/gheuC2Dv6NOoCttCGEHvMKoHiR3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Suikoden: The Anime: 1 Episodio 2 Online",
+        "animeSlug": "a/suikoden-the-anime",
+        "iframe": "https://serv01.meusdoramas.club/#/video/285710/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/suikoden-the-anime-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/suikoden-the-anime-episodio-1",
+          "link": "https://meusanimes.blog/e/suikoden-the-anime-episodio-1/",
+          "nome": "Suikoden: The Anime Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/suikoden-the-anime-episodio-3",
+          "link": "https://meusanimes.blog/e/suikoden-the-anime-episodio-3/",
+          "nome": "Suikoden: The Anime Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/285710/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:59:35.996Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/285710/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/285710/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/suikoden-the-anime-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/tXsFAlUp755gtLyUqBlVJiv2I85.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Suikoden: The Anime: 1 Episodio 3 Online",
+        "animeSlug": "a/suikoden-the-anime",
+        "iframe": "https://serv01.meusdoramas.club/#/video/285710/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/suikoden-the-anime-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/suikoden-the-anime-episodio-2",
+          "link": "https://meusanimes.blog/e/suikoden-the-anime-episodio-2/",
+          "nome": "Suikoden: The Anime Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/285710/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:59:31.900Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/285710/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/285710/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T12:59:27.573Z"
+  },
+  "titulo": "Suikoden: The Anime",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/b9Zm9y4MqQe4vEPgdEBjqCyqzRN.jpg",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 03, 2026",
+  "url": "https://meusanimes.blog/a/suikoden-the-anime/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/b9Zm9y4MqQe4vEPgdEBjqCyqzRN.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "O herói de nossa história e seu amigo Jowy são membros da Brigada Juvenil Unicórnio, que participou de uma prolongada disputa de fronteira entre o Reino das Terras Altas e a Cidade-estado de Jowston. Alguns meses antes, um acordo de trégua foi assinado entre as duas forças, que ficaram felizes com o fim dos combates. No entanto, escondido sob a paz momentânea, o fogo de uma nova guerra continuava a arder…"
+}

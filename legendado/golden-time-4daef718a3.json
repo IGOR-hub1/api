@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "golden-time",
+  "capturadoEm": "2026-10-22T09:51:35.232Z",
+  "atualizadoEm": "2026-10-22T09:51:35.232Z",
+  "catalogo": {
+    "slug": "a/golden-time",
+    "titulo": "Golden Time",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/c0nvzvf2QuAfP7rMcwVfHdf68lA.jpg",
+    "info": "Legendado • Oct. 03, 2013",
+    "audio": "Legendado",
+    "score": "8.518",
+    "ano": "2013",
+    "publicadoEm": "Oct. 03, 2013",
+    "url": "https://meusanimes.blog/a/golden-time/",
+    "postId": "59277"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      30
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Golden Time",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/c0nvzvf2QuAfP7rMcwVfHdf68lA.jpg",
+  "score": "8.518",
+  "audio": "Legendado",
+  "ano": "2013",
+  "publicadoEm": "Oct. 03, 2013",
+  "url": "https://meusanimes.blog/a/golden-time/"
+}

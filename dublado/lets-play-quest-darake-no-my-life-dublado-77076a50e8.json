@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "lets-play-quest-darake-no-my-life-dublado",
+  "capturadoEm": "2026-10-22T07:45:05.289Z",
+  "atualizadoEm": "2026-10-22T09:43:30.252Z",
+  "catalogo": {
+    "slug": "a/lets-play-quest-darake-no-my-life-dublado",
+    "titulo": "Let’s Play: Quest-darake no My Life Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q.jpg",
+    "info": "Dublado • Oct. 02, 2025",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 02, 2025",
+    "url": "https://meusanimes.blog/a/lets-play-quest-darake-no-my-life-dublado/",
+    "postId": "64900"
+  },
+  "detalhes": {
+    "slug": "a/lets-play-quest-darake-no-my-life-dublado",
+    "titulo": "Let’s Play: Quest-darake no My Life Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q.jpg",
+    "sinopse": "Samara “Sam” Young, uma desenvolvedora de Los Angeles, está prestes a realizar seu sonho com o lançamento de seu primeiro videogame, “Ruminate”. No entanto, seus planos são interrompidos quando um popular streamer faz uma crítica negativa do jogo. Para piorar, Sam descobre que o crítico problemático agora é seu vizinho.",
+    "generos": [
+      "Comédia",
+      "Romance"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 02, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/lets-play-quest-darake-no-my-life-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 02, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hnxHbRQ4F7uiCUaSbQYBHo4JxJE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-2/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:55.658Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 09, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/oo26QWuNPE0ZLs63lexHuJppHI6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-1/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-3/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:51.529Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 16, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/4vknBBl3BTNjO8V4HrLAZ80CKXP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-2/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-4/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:47.429Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 23, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/g4SxsOKo6bvkQf1e1uhSGgC22yT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-3/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-5/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:43.335Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 30, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/wNv3WlsExkN9zG2U6xgWtf4yMit.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-4/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-6/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:39.297Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/qcCtt1ZvSuSh846wtw4NWp2BOp0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-5/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-7/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:35.273Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ogqX18DAk1M5g7a2iTvLMkM7K9N.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-6/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-8/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:31.230Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/6BzMRK7Jji8QGZmaJ9RwWjq3VM4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-7/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-9/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:27.136Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/1uQudgiJIFbYs1wKhX1pyUOVDau.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-8/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-10/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:23.077Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 04, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/7ge4PZMYFHLxsjjgoRMdYAi641b.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-9/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-11/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:19.043Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 11, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/6UyVc0VmoacHBIm2tgstMUVpPdm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-10/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-12/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:14.790Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 18, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/pIBefsHUi1936RXwGudL9jfmF6T.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Let’s Play: Quest-darake no My Life Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/lets-play-quest-darake-no-my-life-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/lets-play-quest-darake-no-my-life-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/lets-play-quest-darake-no-my-life-dublado-1-episodio-11/",
+          "nome": "Let’s Play: Quest-darake no My Life Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2930101/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T07:45:10.646Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2930101/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2930101/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T07:45:05.289Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Let’s Play: Quest-darake no My Life Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q.jpg",
+  "audio": "Dublado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 02, 2025",
+  "url": "https://meusanimes.blog/a/lets-play-quest-darake-no-my-life-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/ohEVj2YPIyIJxuT9uw6r4eDMD5Q.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "Samara “Sam” Young, uma desenvolvedora de Los Angeles, está prestes a realizar seu sonho com o lançamento de seu primeiro videogame, “Ruminate”. No entanto, seus planos são interrompidos quando um popular streamer faz uma crítica negativa do jogo. Para piorar, Sam descobre que o crítico problemático agora é seu vizinho."
+}

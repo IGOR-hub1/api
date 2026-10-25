@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "carnival-phantasm",
+  "capturadoEm": "2026-10-22T09:49:17.194Z",
+  "atualizadoEm": "2026-10-22T09:49:17.194Z",
+  "catalogo": {
+    "slug": "a/carnival-phantasm",
+    "titulo": "Carnival Phantasm",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/tDqPa3IOm8kavnoqJu3R1csV3QQ.jpg",
+    "info": "Legendado • Aug. 12, 2011",
+    "audio": "Legendado",
+    "score": "8.484",
+    "ano": "2011",
+    "publicadoEm": "Aug. 12, 2011",
+    "url": "https://meusanimes.blog/a/carnival-phantasm/",
+    "postId": "70876"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Carnival Phantasm",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/tDqPa3IOm8kavnoqJu3R1csV3QQ.jpg",
+  "score": "8.484",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Aug. 12, 2011",
+  "url": "https://meusanimes.blog/a/carnival-phantasm/"
+}

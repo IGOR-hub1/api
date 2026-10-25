@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hanayamata",
+  "capturadoEm": "2026-10-22T09:51:10.010Z",
+  "atualizadoEm": "2026-10-22T09:51:10.010Z",
+  "catalogo": {
+    "slug": "a/hanayamata",
+    "titulo": "Hanayamata",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/3MU7UxHjvFyjLlGwas0ocrGGae0.jpg",
+    "info": "Legendado • Jul. 08, 2014",
+    "audio": "Legendado",
+    "score": "7.773",
+    "ano": "2014",
+    "publicadoEm": "Jul. 08, 2014",
+    "url": "https://meusanimes.blog/a/hanayamata/",
+    "postId": "61281"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      28
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Hanayamata",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/3MU7UxHjvFyjLlGwas0ocrGGae0.jpg",
+  "score": "7.773",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jul. 08, 2014",
+  "url": "https://meusanimes.blog/a/hanayamata/"
+}

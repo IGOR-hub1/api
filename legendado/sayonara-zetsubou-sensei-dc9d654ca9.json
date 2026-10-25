@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sayonara-zetsubou-sensei",
+  "capturadoEm": "2026-10-22T09:49:19.889Z",
+  "atualizadoEm": "2026-10-22T09:49:19.889Z",
+  "catalogo": {
+    "slug": "a/sayonara-zetsubou-sensei",
+    "titulo": "Sayonara Zetsubou Sensei",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/276AsHWttACemazdqLx9E9Iio2m.jpg",
+    "info": "Legendado • Jul. 07, 2007",
+    "audio": "Legendado",
+    "score": "7.2",
+    "ano": "2007",
+    "publicadoEm": "Jul. 07, 2007",
+    "url": "https://meusanimes.blog/a/sayonara-zetsubou-sensei/",
+    "postId": "70488"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sayonara Zetsubou Sensei",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/276AsHWttACemazdqLx9E9Iio2m.jpg",
+  "score": "7.2",
+  "audio": "Legendado",
+  "ano": "2007",
+  "publicadoEm": "Jul. 07, 2007",
+  "url": "https://meusanimes.blog/a/sayonara-zetsubou-sensei/"
+}

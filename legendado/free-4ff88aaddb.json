@@ -1,0 +1,1187 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "free",
+  "capturadoEm": "2026-10-22T09:48:32.007Z",
+  "atualizadoEm": "2026-10-22T23:50:53.394Z",
+  "catalogo": {
+    "slug": "a/free",
+    "titulo": "Free!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/owoZ7XlWMqnahtkIaQjWXPIHt3U.jpg",
+    "info": "Legendado • Jul. 04, 2013",
+    "audio": "Legendado",
+    "score": "8.22",
+    "ano": "2013",
+    "publicadoEm": "Jul. 04, 2013",
+    "url": "https://meusanimes.blog/a/free/",
+    "postId": "79795"
+  },
+  "detalhes": {
+    "slug": "a/free",
+    "titulo": "Free!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/owoZ7XlWMqnahtkIaQjWXPIHt3U.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/owoZ7XlWMqnahtkIaQjWXPIHt3U.jpg",
+    "sinopse": "!, O enredo gira em torno de um grupo de cinco rapazes do ensino médio que estão todos ligados pelo amor à natação: Haruka Nanase, Makoto Tachibana, Nagisa Hazuki, Rei Ryugazaki e Rin Matsuoka.",
+    "generos": [
+      "Comédia",
+      "Drama"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2013",
+    "publicadoEm": "Jul. 04, 2013",
+    "temporadas": 3,
+    "url": "https://meusanimes.blog/a/free/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 04, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/h1NcBoUIwG0uFHt2887RevtIrDG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 1 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-2",
+          "link": "https://meusanimes.blog/e/free-1-episodio-2/",
+          "nome": "Free! 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:53.394Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 11, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5WyGmnCDfiINCR90wQDTVNL0a0F.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 2 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-1",
+          "link": "https://meusanimes.blog/e/free-1-episodio-1/",
+          "nome": "Free! 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-3",
+          "link": "https://meusanimes.blog/e/free-1-episodio-3/",
+          "nome": "Free! 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:49.266Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 18, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/oEzrGQiOURngx3KAqIu6xqFjAJi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 3 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-2",
+          "link": "https://meusanimes.blog/e/free-1-episodio-2/",
+          "nome": "Free! 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-4",
+          "link": "https://meusanimes.blog/e/free-1-episodio-4/",
+          "nome": "Free! 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:45.176Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 25, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vH4lTn2gk65n7GReHqlLwEy0NQw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 4 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-3",
+          "link": "https://meusanimes.blog/e/free-1-episodio-3/",
+          "nome": "Free! 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-5",
+          "link": "https://meusanimes.blog/e/free-1-episodio-5/",
+          "nome": "Free! 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:41.062Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 08, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5uKwbn2F97gdhqeA1tn4Pcelb80.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 5 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-4",
+          "link": "https://meusanimes.blog/e/free-1-episodio-4/",
+          "nome": "Free! 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-6",
+          "link": "https://meusanimes.blog/e/free-1-episodio-6/",
+          "nome": "Free! 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:36.959Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 15, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bEA0omBBccLpJaby4n3Cp5QTa38.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 6 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-5",
+          "link": "https://meusanimes.blog/e/free-1-episodio-5/",
+          "nome": "Free! 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-7",
+          "link": "https://meusanimes.blog/e/free-1-episodio-7/",
+          "nome": "Free! 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:32.776Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 21, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/47zFQ7oOO5njc76rivXBEHc9BCj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 7 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-6",
+          "link": "https://meusanimes.blog/e/free-1-episodio-6/",
+          "nome": "Free! 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-8",
+          "link": "https://meusanimes.blog/e/free-1-episodio-8/",
+          "nome": "Free! 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:28.544Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 29, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/d8rXgo9ijuCCUymvrv3aFEV6fnV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 8 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-7",
+          "link": "https://meusanimes.blog/e/free-1-episodio-7/",
+          "nome": "Free! 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-9",
+          "link": "https://meusanimes.blog/e/free-1-episodio-9/",
+          "nome": "Free! 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:24.328Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 05, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/8R26zYktn2TUEkyKlCwU1skyNFf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 9 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-8",
+          "link": "https://meusanimes.blog/e/free-1-episodio-8/",
+          "nome": "Free! 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-10",
+          "link": "https://meusanimes.blog/e/free-1-episodio-10/",
+          "nome": "Free! 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:20.238Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 12, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xHkBsSdORmCMjBmxD1mSZXQ5VTm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 10 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-9",
+          "link": "https://meusanimes.blog/e/free-1-episodio-9/",
+          "nome": "Free! 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-11",
+          "link": "https://meusanimes.blog/e/free-1-episodio-11/",
+          "nome": "Free! 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:16.108Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 19, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/4E5hOZw0bbXMuPQy5e8fbpPF0rG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 11 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-10",
+          "link": "https://meusanimes.blog/e/free-1-episodio-10/",
+          "nome": "Free! 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/free-1-episodio-12",
+          "link": "https://meusanimes.blog/e/free-1-episodio-12/",
+          "nome": "Free! 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:11.742Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 26, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dVEBXk5bAM1XNMBX0UQqJqi0o2K.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 1 Episodio 12 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/free-1-episodio-11",
+          "link": "https://meusanimes.blog/e/free-1-episodio-11/",
+          "nome": "Free! 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:07.602Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 03, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/t17Yw1WSVCTwBcxxTPXcqoiDk3w.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 1 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-2",
+          "link": "https://meusanimes.blog/e/free-2-episodio-2/",
+          "nome": "Free! 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:50:03.452Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 10, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dR6p0WKP4ELZoCAq6MtIhWH3com.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 2 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-1",
+          "link": "https://meusanimes.blog/e/free-2-episodio-1/",
+          "nome": "Free! 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-3",
+          "link": "https://meusanimes.blog/e/free-2-episodio-3/",
+          "nome": "Free! 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:59.236Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 17, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cwszsJOZSnLU0iariUnPlXPNwSx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 3 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-2",
+          "link": "https://meusanimes.blog/e/free-2-episodio-2/",
+          "nome": "Free! 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-4",
+          "link": "https://meusanimes.blog/e/free-2-episodio-4/",
+          "nome": "Free! 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:55.113Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 24, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/DP8SnOhrm8toH82e7njkuKQOpl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 4 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-3",
+          "link": "https://meusanimes.blog/e/free-2-episodio-3/",
+          "nome": "Free! 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-5",
+          "link": "https://meusanimes.blog/e/free-2-episodio-5/",
+          "nome": "Free! 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:50.997Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 31, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hqszu0yPiL3dHgtqHkwRLrEdG14.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 5 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-4",
+          "link": "https://meusanimes.blog/e/free-2-episodio-4/",
+          "nome": "Free! 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-6",
+          "link": "https://meusanimes.blog/e/free-2-episodio-6/",
+          "nome": "Free! 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:46.881Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 07, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/13588exTFuGu1AQVRgFR0cOmrtX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 6 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-5",
+          "link": "https://meusanimes.blog/e/free-2-episodio-5/",
+          "nome": "Free! 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-7",
+          "link": "https://meusanimes.blog/e/free-2-episodio-7/",
+          "nome": "Free! 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:42.596Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 14, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vw704jTYbuCFb1NleCjsjpSWWL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 7 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-6",
+          "link": "https://meusanimes.blog/e/free-2-episodio-6/",
+          "nome": "Free! 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-8",
+          "link": "https://meusanimes.blog/e/free-2-episodio-8/",
+          "nome": "Free! 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:38.465Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 21, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6kPBhOSgPEVlkPAnKKOw0RPdB10.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 8 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-7",
+          "link": "https://meusanimes.blog/e/free-2-episodio-7/",
+          "nome": "Free! 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-9",
+          "link": "https://meusanimes.blog/e/free-2-episodio-9/",
+          "nome": "Free! 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:34.233Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 28, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vGqFWqvS9c63NEGcsFK76an4TeC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 9 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-8",
+          "link": "https://meusanimes.blog/e/free-2-episodio-8/",
+          "nome": "Free! 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-10",
+          "link": "https://meusanimes.blog/e/free-2-episodio-10/",
+          "nome": "Free! 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:30.098Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 04, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/mu31WHQQD8lBuabEIU31wBpMA1r.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 10 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-9",
+          "link": "https://meusanimes.blog/e/free-2-episodio-9/",
+          "nome": "Free! 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-11",
+          "link": "https://meusanimes.blog/e/free-2-episodio-11/",
+          "nome": "Free! 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:25.926Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 11, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1lhuu0e3OXZ4rWcwwqU2rUS8opc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 11 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-10",
+          "link": "https://meusanimes.blog/e/free-2-episodio-10/",
+          "nome": "Free! 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-12",
+          "link": "https://meusanimes.blog/e/free-2-episodio-12/",
+          "nome": "Free! 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:21.791Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 18, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cOsSjx5Fvf7SIUXPNXJUe64AlPE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 12 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-11",
+          "link": "https://meusanimes.blog/e/free-2-episodio-11/",
+          "nome": "Free! 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/free-2-episodio-13",
+          "link": "https://meusanimes.blog/e/free-2-episodio-13/",
+          "nome": "Free! 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:17.685Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 25, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tzxGdZ3XGCvF3HJOETg740VPab4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 2 Episodio 13 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/free-2-episodio-12",
+          "link": "https://meusanimes.blog/e/free-2-episodio-12/",
+          "nome": "Free! 2 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:13.548Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 12, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/jZNdzkCWLCTGrMiAaBo4AonUwA3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 1 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-2",
+          "link": "https://meusanimes.blog/e/free-3-episodio-2/",
+          "nome": "Free! 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:09.403Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 19, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xS5DtLjfl0OnAUopstv4ofyH4tm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 2 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-1",
+          "link": "https://meusanimes.blog/e/free-3-episodio-1/",
+          "nome": "Free! 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-3",
+          "link": "https://meusanimes.blog/e/free-3-episodio-3/",
+          "nome": "Free! 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:05.308Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 26, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/owGzoIsstNe70SSAuUJHiJrzfoZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 3 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-2",
+          "link": "https://meusanimes.blog/e/free-3-episodio-2/",
+          "nome": "Free! 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-4",
+          "link": "https://meusanimes.blog/e/free-3-episodio-4/",
+          "nome": "Free! 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:49:01.214Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/enPvJrLJo9PMSbHcohGf149Xztr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 4 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-3",
+          "link": "https://meusanimes.blog/e/free-3-episodio-3/",
+          "nome": "Free! 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-5",
+          "link": "https://meusanimes.blog/e/free-3-episodio-5/",
+          "nome": "Free! 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:57.054Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1AR2HCu9QyviH8wIwZucSU08AaI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 5 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-4",
+          "link": "https://meusanimes.blog/e/free-3-episodio-4/",
+          "nome": "Free! 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-6",
+          "link": "https://meusanimes.blog/e/free-3-episodio-6/",
+          "nome": "Free! 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:52.826Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 16, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/e53nq6iGfhVJsoiGAE4J9uArhhE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 6 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-5",
+          "link": "https://meusanimes.blog/e/free-3-episodio-5/",
+          "nome": "Free! 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-7",
+          "link": "https://meusanimes.blog/e/free-3-episodio-7/",
+          "nome": "Free! 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:48.693Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 23, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/w6ILf4QQ87uPP8qhrETM0aoTex0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 7 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-6",
+          "link": "https://meusanimes.blog/e/free-3-episodio-6/",
+          "nome": "Free! 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-8",
+          "link": "https://meusanimes.blog/e/free-3-episodio-8/",
+          "nome": "Free! 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:44.502Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 30, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/WGdOHuRczPO08OMtivgI4YlBEV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 8 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-7",
+          "link": "https://meusanimes.blog/e/free-3-episodio-7/",
+          "nome": "Free! 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-9",
+          "link": "https://meusanimes.blog/e/free-3-episodio-9/",
+          "nome": "Free! 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:40.403Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 06, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/86c9TCbdPl6BJtzo3LbBQYXyiJ9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 9 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-8",
+          "link": "https://meusanimes.blog/e/free-3-episodio-8/",
+          "nome": "Free! 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-10",
+          "link": "https://meusanimes.blog/e/free-3-episodio-10/",
+          "nome": "Free! 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:36.220Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 13, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1Z9REBoan6RgiQKg4zTJFxC9Ay8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 10 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-9",
+          "link": "https://meusanimes.blog/e/free-3-episodio-9/",
+          "nome": "Free! 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-11",
+          "link": "https://meusanimes.blog/e/free-3-episodio-11/",
+          "nome": "Free! 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:32.053Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 20, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9NxxUU0Dfiv0OKqD6YG8M7l6Ib8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 11 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-10",
+          "link": "https://meusanimes.blog/e/free-3-episodio-10/",
+          "nome": "Free! 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/free-3-episodio-12",
+          "link": "https://meusanimes.blog/e/free-3-episodio-12/",
+          "nome": "Free! 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:27.921Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/free-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 27, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hJoyk7EtFAJngU6z160Zy3sLN8Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Free!: 3 Episodio 12 Online",
+        "animeSlug": "a/free",
+        "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/free-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/free-3-episodio-11",
+          "link": "https://meusanimes.blog/e/free-3-episodio-11/",
+          "nome": "Free! 3 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/61456/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:23.773Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/61456/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/61456/3/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 37,
+    "totalEpisodios": 37,
+    "midiasColetadas": 0,
+    "iframesColetados": 37,
+    "detalhesColetadosEm": "2026-10-22T23:48:17.901Z"
+  },
+  "titulo": "Free!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/owoZ7XlWMqnahtkIaQjWXPIHt3U.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2013",
+  "publicadoEm": "Jul. 04, 2013",
+  "url": "https://meusanimes.blog/a/free/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/owoZ7XlWMqnahtkIaQjWXPIHt3U.jpg",
+  "temporadas": 3,
+  "descricao": "!, O enredo gira em torno de um grupo de cinco rapazes do ensino médio que estão todos ligados pelo amor à natação: Haruka Nanase, Makoto Tachibana, Nagisa Hazuki, Rei Ryugazaki e Rin Matsuoka."
+}

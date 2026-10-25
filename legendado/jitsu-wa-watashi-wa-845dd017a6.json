@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "jitsu-wa-watashi-wa",
+  "capturadoEm": "2026-10-22T09:51:57.799Z",
+  "atualizadoEm": "2026-10-22T09:51:57.799Z",
+  "catalogo": {
+    "slug": "a/jitsu-wa-watashi-wa",
+    "titulo": "Jitsu wa Watashi wa",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/wo62PJua1njqBO3mBivbfwAYZY8.jpg",
+    "info": "Legendado • Jul. 07, 2015",
+    "audio": "Legendado",
+    "score": "7.886",
+    "ano": "2015",
+    "publicadoEm": "Jul. 07, 2015",
+    "url": "https://meusanimes.blog/a/jitsu-wa-watashi-wa/",
+    "postId": "56796"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Jitsu wa Watashi wa",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/wo62PJua1njqBO3mBivbfwAYZY8.jpg",
+  "score": "7.886",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jul. 07, 2015",
+  "url": "https://meusanimes.blog/a/jitsu-wa-watashi-wa/"
+}

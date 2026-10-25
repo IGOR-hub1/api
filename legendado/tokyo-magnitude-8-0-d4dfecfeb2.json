@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tokyo-magnitude-8-0",
+  "capturadoEm": "2026-10-22T09:49:27.290Z",
+  "atualizadoEm": "2026-10-22T09:49:27.290Z",
+  "catalogo": {
+    "slug": "a/tokyo-magnitude-8-0",
+    "titulo": "Tokyo Magnitude 8.0",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/sGmtNIVyZHqB0MLmbleNG4GmRVV.jpg",
+    "info": "Legendado • Jul. 09, 2009",
+    "audio": "Legendado",
+    "score": "7.836",
+    "ano": "2009",
+    "publicadoEm": "Jul. 09, 2009",
+    "url": "https://meusanimes.blog/a/tokyo-magnitude-8-0/",
+    "postId": "69320"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Tokyo Magnitude 8.0",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/sGmtNIVyZHqB0MLmbleNG4GmRVV.jpg",
+  "score": "7.836",
+  "audio": "Legendado",
+  "ano": "2009",
+  "publicadoEm": "Jul. 09, 2009",
+  "url": "https://meusanimes.blog/a/tokyo-magnitude-8-0/"
+}

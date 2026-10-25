@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "wagamama-high-spec",
+  "capturadoEm": "2026-10-22T09:52:05.909Z",
+  "atualizadoEm": "2026-10-22T09:52:05.909Z",
+  "catalogo": {
+    "slug": "a/wagamama-high-spec",
+    "titulo": "Wagamama High Spec",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/2pBQMEGVzHrA5Hg4d9qXyY72V0F.jpg",
+    "info": "Legendado • Apr. 12, 2016",
+    "audio": "Legendado",
+    "score": "5",
+    "ano": "2016",
+    "publicadoEm": "Apr. 12, 2016",
+    "url": "https://meusanimes.blog/a/wagamama-high-spec/",
+    "postId": "56399"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      32
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Wagamama High Spec",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/2pBQMEGVzHrA5Hg4d9qXyY72V0F.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 12, 2016",
+  "url": "https://meusanimes.blog/a/wagamama-high-spec/"
+}

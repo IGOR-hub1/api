@@ -1,0 +1,802 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "ginga-eiyuu-densetsu-gaiden",
+  "capturadoEm": "2026-10-22T09:47:41.868Z",
+  "atualizadoEm": "2026-10-22T21:27:42.111Z",
+  "catalogo": {
+    "slug": "a/ginga-eiyuu-densetsu-gaiden",
+    "titulo": "Ginga Eiyuu Densetsu Gaiden",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/eHeNrR1RGe0VxbFtA3LKgTMJeFZ.jpg",
+    "info": "Legendado • Feb. 09, 1998",
+    "audio": "Legendado",
+    "score": "9.1",
+    "ano": "1998",
+    "publicadoEm": "Feb. 09, 1998",
+    "url": "https://meusanimes.blog/a/ginga-eiyuu-densetsu-gaiden/",
+    "postId": "82907"
+  },
+  "detalhes": {
+    "slug": "a/ginga-eiyuu-densetsu-gaiden",
+    "titulo": "Ginga Eiyuu Densetsu Gaiden",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/eHeNrR1RGe0VxbFtA3LKgTMJeFZ.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/eHeNrR1RGe0VxbFtA3LKgTMJeFZ.jpg",
+    "sinopse": "A primeira de duas adaptações OVA de histórias paralelas da nova novela Ginga Eiyuu Densetsu. Esta primeira adaptação segue as realizações de Reinhard von Müsel e Siegfried Kircheis, do Império Galático, antes da fatídica Batalha de Astarte.",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Ficção científica",
+      "Militar"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "1998",
+    "publicadoEm": "Feb. 09, 1998",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/ginga-eiyuu-densetsu-gaiden/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Feb. 09, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wl4ZMGbCJdz9iItU3lWeF0VkqRc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 1 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-2/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:42.111Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Feb. 09, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/y0XKThBH99FJlidSk0SfE7UOqcU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 2 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-1",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-1/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-3/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:38.027Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Feb. 09, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bsLfSZfPEpzhm3K3xPlsys1PmnC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 3 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-2/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-4/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:33.880Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 09, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9IIeiGSfcgj57itveH2nDaKwu4V.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 4 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-3/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-5/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:29.789Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 10, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zBKp0C5RbMBijrxrvDdddfmg1ft.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 5 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-4/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-6/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:25.109Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 10, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/x1OMvOsZGxr5gtj6wHLwyiHpeVz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 6 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-5/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-7/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:20.683Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 10, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9FtrJYsK9Mhhnw7KYySw75d16Wa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 7 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-6/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-8/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:13.931Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 10, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7F77LxKaOspPKdMNuNtyHwvEpZa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 8 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-7/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-9/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:09.509Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Feb. 12, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/5PGvncc5x7T7M14nC7LNaUTMSWi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 9 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-8/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-10/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:05.330Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Feb. 12, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wLlqjU7ikBCfOBwV1RqNn38wNRV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 10 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-9/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-11/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:27:01.146Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Feb. 12, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/u0Ux8TVm5Jhxt8IO3yBR1PDjRXt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 11 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-10/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-12",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-12/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:56.964Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Feb. 12, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/z76oJxwGEfwMBT8aI0pEepjT1We.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 12 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-11/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-13",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-13/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:52.866Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/hzobXFHC5u6eoxlDfeR1DONIWv3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 13 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-12",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-12/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-14",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-14/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:48.716Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xCzz4vIIDAeVm01ZAI9nLTrBMgU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 14 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-13",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-13/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-15",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-15/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:44.538Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xL0anUPTPFmesv8Wfo1xdRgHDGy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 15 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-14",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-14/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-16",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-16/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:40.469Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/rF4WVb61EjaQvdaDgFowSMfuZ3G.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 16 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-15",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-15/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-17",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-17/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:36.301Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pQFkiWAMBNJE40r6J8V2KCxo0hK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 17 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-16",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-16/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-18",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-18/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:32.155Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nOWjAjMYCsTLzCuw31hHnDndNNl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 18 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-17",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-17/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-19",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-19/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:28.050Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/aLk5O0uAUbLdkP6rtt0jpWbUuJn.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 19 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-18",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-18/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-20",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-20/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:23.910Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nGN8RhnHrzc2rqSIigJTYrGErtH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 20 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-19",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-19/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-21",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-21/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:19.761Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9mr5fo4lc38oFTu23DpQqyR6cV5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 21 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-20",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-20/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-22",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-22/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:15.649Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/orCVVlfZOioTKf8jq5hXojhGUwV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 22 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-21",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-21/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-23",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-23/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:11.237Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/140ruYc893nwQPmy48yN5m5wxkf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 23 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-22",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-22/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-24",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-24/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:07.166Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 26, 1998",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/cN01Jg31ZYzzsibVriW2q7qa3cD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ginga Eiyuu Densetsu Gaiden: 1 Episodio 24 Online",
+        "animeSlug": "a/ginga-eiyuu-densetsu-gaiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/ginga-eiyuu-densetsu-gaiden-1-episodio-23",
+          "link": "https://meusanimes.blog/e/ginga-eiyuu-densetsu-gaiden-1-episodio-23/",
+          "nome": "Ginga Eiyuu Densetsu Gaiden 1 Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68312/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:26:03.054Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68312/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68312/1/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      12
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "midiasColetadas": 0,
+    "iframesColetados": 24,
+    "detalhesColetadosEm": "2026-10-22T21:25:57.517Z"
+  },
+  "titulo": "Ginga Eiyuu Densetsu Gaiden",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/eHeNrR1RGe0VxbFtA3LKgTMJeFZ.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "1998",
+  "publicadoEm": "Feb. 09, 1998",
+  "url": "https://meusanimes.blog/a/ginga-eiyuu-densetsu-gaiden/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/eHeNrR1RGe0VxbFtA3LKgTMJeFZ.jpg",
+  "temporadas": 1,
+  "descricao": "A primeira de duas adaptações OVA de histórias paralelas da nova novela Ginga Eiyuu Densetsu. Esta primeira adaptação segue as realizações de Reinhard von Müsel e Siegfried Kircheis, do Império Galático, antes da fatídica Batalha de Astarte."
+}

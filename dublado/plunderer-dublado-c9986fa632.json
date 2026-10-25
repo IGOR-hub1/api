@@ -1,0 +1,802 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "plunderer-dublado",
+  "capturadoEm": "2026-10-22T05:15:31.198Z",
+  "atualizadoEm": "2026-10-22T09:42:38.722Z",
+  "catalogo": {
+    "slug": "a/plunderer-dublado",
+    "titulo": "Plunderer Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+    "info": "Dublado • Jan. 09, 2020",
+    "audio": "Dublado",
+    "score": "8.3",
+    "ano": "2020",
+    "publicadoEm": "Jan. 09, 2020",
+    "url": "https://meusanimes.blog/a/plunderer-dublado/",
+    "postId": "75300"
+  },
+  "detalhes": {
+    "slug": "a/plunderer-dublado",
+    "titulo": "Plunderer Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+    "sinopse": "Em um mundo pós-apocalíptico dominado pelos chamados “Números”, cada humano terá sua identidade marcada com seu próprio “Conde”, que pode definir qualquer número relacionado à sua vida. Que seja a distância percorrida ou a quantidade de elogios que outros lhes deram, esse conde pode levá-los ao abismo quando cair a zero. No ano 305 do calendário alciano, Hina herdou uma missão de sua mãe, cujo conde se depreciou a zero, para procurar o lendário Barão Vermelho. Em sua aventura, ela conhece um espadachim meio mascarado chamado Licht, que tenta esconder sua identidade, já que ele é conhecido como um degenerado por ter um conde incrivelmente baixo.",
+    "generos": [
+      "Ação",
+      "Ecchi",
+      "Fantasia",
+      "Shounen"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2020",
+    "publicadoEm": "Jan. 09, 2020",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/plunderer-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 09, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ePk9Ox64DFHbRS3ktQmu1KGxDfj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-2/",
+          "nome": "Plunderer Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:17:13.145Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 16, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/krJ9owwT5enG0W67sQABdbhx5SI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-1/",
+          "nome": "Plunderer Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-3/",
+          "nome": "Plunderer Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:17:09.065Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 23, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/iazgGEzTU33mQgKPJpPeQka49ik.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-2/",
+          "nome": "Plunderer Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-4/",
+          "nome": "Plunderer Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:17:04.911Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 30, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/x9jgw41Ga1VN5jX02S2V8Uu39Lq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-3/",
+          "nome": "Plunderer Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-5/",
+          "nome": "Plunderer Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:17:00.815Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 06, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/g4FW7KhwhyH8fwpcwKzknFZZhr5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-4/",
+          "nome": "Plunderer Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-6/",
+          "nome": "Plunderer Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:56.700Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 13, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wePuo92vuL8KYt1nreeB7xU5cSy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-5/",
+          "nome": "Plunderer Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-7/",
+          "nome": "Plunderer Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:52.574Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 20, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1Q2W9KuTw8RTIBkbiV46BU25FFr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-6/",
+          "nome": "Plunderer Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-8/",
+          "nome": "Plunderer Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:48.482Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/4T2wnCrwjsZoxJgY6boz0ZR3OJa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-7/",
+          "nome": "Plunderer Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-9/",
+          "nome": "Plunderer Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:44.324Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 05, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1UzkHreJ2fw94mLIRhQfPVuZOIV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-8/",
+          "nome": "Plunderer Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-10/",
+          "nome": "Plunderer Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:40.165Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 12, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wcn2obcAqpggkrvqQdRSFKggogh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-9/",
+          "nome": "Plunderer Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-11/",
+          "nome": "Plunderer Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:36.043Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 19, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/hQXfm1vKNxwN0zF0JTx3jBR0vXi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-10/",
+          "nome": "Plunderer Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-12/",
+          "nome": "Plunderer Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:31.894Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Apr. 02, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/9fm3JPGrab4kBd6FB78xYDTiOCP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-11/",
+          "nome": "Plunderer Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-13/",
+          "nome": "Plunderer Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:27.805Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Apr. 09, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/9TnXL4N5HjcObqvg6gH5uxhjBkZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-12/",
+          "nome": "Plunderer Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-14/",
+          "nome": "Plunderer Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:23.651Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Apr. 16, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/jEpyf5IMO9mz12kwFl4Uysjk48y.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-13/",
+          "nome": "Plunderer Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-15/",
+          "nome": "Plunderer Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:19.495Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Apr. 23, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1igaehEuEbnTGryqFEjqMTMbxGq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-14/",
+          "nome": "Plunderer Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-16/",
+          "nome": "Plunderer Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:15.413Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Apr. 30, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/eb0rmT7OdWRmG5ZIu3YStz1K890.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-15/",
+          "nome": "Plunderer Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-17/",
+          "nome": "Plunderer Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:11.295Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "May. 07, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/kwgMqqBgutaYOurC8zw64kXEjjy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-16/",
+          "nome": "Plunderer Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-18/",
+          "nome": "Plunderer Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:07.098Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "May. 14, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wYZni4XWzF4jv08faHVodC4Xr3u.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-17/",
+          "nome": "Plunderer Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-19/",
+          "nome": "Plunderer Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:16:03.002Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "May. 21, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/rbooPqNauziJVRYGcy5cSdKOYsi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-18/",
+          "nome": "Plunderer Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-20/",
+          "nome": "Plunderer Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:15:58.911Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "May. 28, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/o3FCKj0E4hkgV3BV794RuMizFVS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-19/",
+          "nome": "Plunderer Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-21/",
+          "nome": "Plunderer Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:15:54.791Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/mcPEzF0aTfSlQcVjooOp9MJFAwN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-20/",
+          "nome": "Plunderer Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-22/",
+          "nome": "Plunderer Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:15:50.647Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Jun. 11, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/4vLLSIwmAWer61GJDBEfla8q0x5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-21/",
+          "nome": "Plunderer Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-23/",
+          "nome": "Plunderer Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:15:46.536Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Jun. 18, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/h4akFVO0MOEpeqfgAXBsC7GPDKm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-22/",
+          "nome": "Plunderer Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-24/",
+          "nome": "Plunderer Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:15:42.437Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Jun. 25, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/m74tvOvkx0Zf3mX2Bnx2zACRPMb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Plunderer Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/plunderer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/plunderer-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/plunderer-dublado-1-episodio-23/",
+          "nome": "Plunderer Dublado 1 Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/931491/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:15:38.316Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/931491/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/931491/1/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      14
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T05:15:31.198Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Plunderer Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+  "score": "8.3",
+  "audio": "Dublado",
+  "ano": "2020",
+  "publicadoEm": "Jan. 09, 2020",
+  "url": "https://meusanimes.blog/a/plunderer-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg",
+  "temporadas": 1,
+  "descricao": "Em um mundo pós-apocalíptico dominado pelos chamados “Números”, cada humano terá sua identidade marcada com seu próprio “Conde”, que pode definir qualquer número relacionado à sua vida. Que seja a distância percorrida ou a quantidade de elogios que outros lhes deram, esse conde pode levá-los ao abismo quando cair a zero. No ano 305 do calendário alciano, Hina herdou uma missão de sua mãe, cujo conde se depreciou a zero, para procurar o lendário Barão Vermelho. Em sua aventura, ela conhece um espadachim meio mascarado chamado Licht, que tenta esconder sua identidade, já que ele é conhecido como um degenerado por ter um conde incrivelmente baixo."
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "soul-buster",
+  "capturadoEm": "2026-10-22T09:52:48.444Z",
+  "atualizadoEm": "2026-10-22T09:52:48.444Z",
+  "catalogo": {
+    "slug": "a/soul-buster",
+    "titulo": "Soul Buster",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/pIrMH6vCcXc52Tbd4jRf8Jq9fL3.jpg",
+    "info": "Legendado • Oct. 04, 2016",
+    "audio": "Legendado",
+    "score": "5.8",
+    "ano": "2016",
+    "publicadoEm": "Oct. 04, 2016",
+    "url": "https://meusanimes.blog/a/soul-buster/",
+    "postId": "53455"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Soul Buster",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/pIrMH6vCcXc52Tbd4jRf8Jq9fL3.jpg",
+  "score": "5.8",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 04, 2016",
+  "url": "https://meusanimes.blog/a/soul-buster/"
+}

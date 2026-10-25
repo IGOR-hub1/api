@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "fermat-no-ryouri",
+  "capturadoEm": "2026-10-22T09:53:23.867Z",
+  "atualizadoEm": "2026-10-22T09:53:23.867Z",
+  "catalogo": {
+    "slug": "a/fermat-no-ryouri",
+    "titulo": "Fermat no Ryouri",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/i15WF6yhXF6out0L0Ax3lwMjGgK.jpg",
+    "info": "Legendado • Jul. 05, 2025",
+    "audio": "Legendado",
+    "score": "8.667",
+    "ano": "2025",
+    "publicadoEm": "Jul. 05, 2025",
+    "url": "https://meusanimes.blog/a/fermat-no-ryouri/",
+    "postId": "50709"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      37
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Fermat no Ryouri",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/i15WF6yhXF6out0L0Ax3lwMjGgK.jpg",
+  "score": "8.667",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Jul. 05, 2025",
+  "url": "https://meusanimes.blog/a/fermat-no-ryouri/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mahou-sensou",
+  "capturadoEm": "2026-10-22T09:50:53.060Z",
+  "atualizadoEm": "2026-10-22T09:50:53.060Z",
+  "catalogo": {
+    "slug": "a/mahou-sensou",
+    "titulo": "Mahou Sensou",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/Sm3Xh2E7rpXVeWwtimpTZciB2d.jpg",
+    "info": "Legendado • Jan. 10, 2014",
+    "audio": "Legendado",
+    "score": "7.3",
+    "ano": "2014",
+    "publicadoEm": "Jan. 10, 2014",
+    "url": "https://meusanimes.blog/a/mahou-sensou/",
+    "postId": "62405"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      26
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Mahou Sensou",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/Sm3Xh2E7rpXVeWwtimpTZciB2d.jpg",
+  "score": "7.3",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jan. 10, 2014",
+  "url": "https://meusanimes.blog/a/mahou-sensou/"
+}

@@ -1,0 +1,546 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hotel-inhumans",
+  "capturadoEm": "2026-10-22T09:44:47.825Z",
+  "atualizadoEm": "2026-10-22T12:56:51.590Z",
+  "catalogo": {
+    "slug": "a/hotel-inhumans",
+    "titulo": "Hotel Inhumans",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC.jpg",
+    "info": "Legendado • Jul. 06, 2025",
+    "audio": "Legendado",
+    "score": "10",
+    "ano": "2025",
+    "publicadoEm": "Jul. 06, 2025",
+    "url": "https://meusanimes.blog/a/hotel-inhumans/",
+    "postId": "25982"
+  },
+  "detalhes": {
+    "slug": "a/hotel-inhumans",
+    "titulo": "Hotel Inhumans",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC.jpg",
+    "sinopse": "Hotel Inhumans Online , Para ser um dos melhores, um hotel precisa cumprir exigências. Precisa ter a melhor comida, o melhor conforto e os melhores meio de entretenimento. Os melhores hotéis também precisam ter as armas mais atuais, falsidade ideológica e um jeito perfeito de se livrar de corpos. Neste hotel, o “cliente é o assassino”. À beira da morte, o concierge que nunca diz “não” atende os pedidos dos assassinos. Quais serão esses desejos? Seja bem-vindo e descubra nesse hotel da morte!",
+    "generos": [
+      "Ação",
+      "Drama"
+    ],
+    "score": "8",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Jul. 06, 2025",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/hotel-inhumans/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/rgfGtxhZb2m92vYhPE7WXzINcTX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 1 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-episodio-2",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-episodio-2/",
+          "nome": "Hotel Inhumans Episódio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:51.590Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uX9YplPnd4p0MIAG6saHe3XnT5U.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 2 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-episodio-1",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-episodio-1/",
+          "nome": "Hotel Inhumans Episódio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-episodio-3",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-episodio-3/",
+          "nome": "Hotel Inhumans Episódio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:47.890Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/4PsxTvg6paFSf6sjbEo3GjPOFg5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 3 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-episodio-2",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-episodio-2/",
+          "nome": "Hotel Inhumans Episódio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-episodio-4",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-episodio-4/",
+          "nome": "Hotel Inhumans Episódio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:44.132Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/a9IMzY6Z7BzeAIeEHvxldGw1bEB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 4 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-episodio-3",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-episodio-3/",
+          "nome": "Hotel Inhumans Episódio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-episodio-5",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-episodio-5/",
+          "nome": "Hotel Inhumans Episódio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:40.372Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 03, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/bI5i1u4fIyULpiC5kBuplCSIFFp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 5 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-episodio-4",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-episodio-4/",
+          "nome": "Hotel Inhumans Episódio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-6",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-6/",
+          "nome": "Hotel Inhumans 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:36.657Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/8zcpyg0uUhB29aj35CakZOWLjsS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 6 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-episodio-5",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-episodio-5/",
+          "nome": "Hotel Inhumans Episódio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-7",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-7/",
+          "nome": "Hotel Inhumans 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:32.944Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 17, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/mg0GuDt0gPYbeoGyrbQURgjGq5K.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 7 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-6",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-6/",
+          "nome": "Hotel Inhumans 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-8",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-8/",
+          "nome": "Hotel Inhumans 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:29.229Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 24, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/t5E4rGObv68cexQ8K7P2P5aK8uf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 8 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-7",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-7/",
+          "nome": "Hotel Inhumans 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-9",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-9/",
+          "nome": "Hotel Inhumans 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:25.474Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 31, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/sZS5XYS4DQXPbr24juwDfGeMLRE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 9 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-8",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-8/",
+          "nome": "Hotel Inhumans 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-10",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-10/",
+          "nome": "Hotel Inhumans 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:21.764Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 07, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/pBX6SKKPATcMOC98XxSkivTusQa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 10 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-9",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-9/",
+          "nome": "Hotel Inhumans 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-11",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-11/",
+          "nome": "Hotel Inhumans 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:18.027Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 14, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/pJC2LgNrk0XACqdvBm9cMTLlECI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 11 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-10",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-10/",
+          "nome": "Hotel Inhumans 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-12",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-12/",
+          "nome": "Hotel Inhumans 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:14.308Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 21, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/tsJ9teE0leHgsTzS4cR4qFfWRJV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 12 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-11",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-11/",
+          "nome": "Hotel Inhumans 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-13",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-13/",
+          "nome": "Hotel Inhumans 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:10.568Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 28, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/pTf6HCPXrDRWHP4Wz55PEepwAcG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 1 Episodio 13 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-1-episodio-12",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-1-episodio-12/",
+          "nome": "Hotel Inhumans 1 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:06.827Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/5TzkdUqtvXAGrxvD3G8M0Vc8nrr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 2 Episodio 1 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-2-episodio-2",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-2/",
+          "nome": "Hotel Inhumans 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:56:03.052Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/M1zaSjSyTuNoXwb5pyXTPl9Oeo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 2 Episodio 2 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-2-episodio-1",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-1/",
+          "nome": "Hotel Inhumans 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/hotel-inhumans-2-episodio-3",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-3/",
+          "nome": "Hotel Inhumans 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:55:59.295Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/pISMSQ6sbTtB3xHwqnmngmxyLmA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Hotel Inhumans: 2 Episodio 3 Online",
+        "animeSlug": "a/hotel-inhumans",
+        "iframe": "https://serv01.meusdoramas.club/#/video/276288/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/hotel-inhumans-2-episodio-2",
+          "link": "https://meusanimes.blog/e/hotel-inhumans-2-episodio-2/",
+          "nome": "Hotel Inhumans 2 Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/276288/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:55:55.431Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/276288/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/276288/2/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 16,
+    "totalEpisodios": 16,
+    "midiasColetadas": 0,
+    "iframesColetados": 16,
+    "detalhesColetadosEm": "2026-10-22T12:55:50.341Z"
+  },
+  "titulo": "Hotel Inhumans",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Jul. 06, 2025",
+  "url": "https://meusanimes.blog/a/hotel-inhumans/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/6ZHkFKJekNYADTByu3QI7vJaUbC.jpg",
+  "status": "Em lançamento",
+  "temporadas": 2,
+  "descricao": "Hotel Inhumans Online , Para ser um dos melhores, um hotel precisa cumprir exigências. Precisa ter a melhor comida, o melhor conforto e os melhores meio de entretenimento. Os melhores hotéis também precisam ter as armas mais atuais, falsidade ideológica e um jeito perfeito de se livrar de corpos. Neste hotel, o “cliente é o assassino”. À beira da morte, o concierge que nunca diz “não” atende os pedidos dos assassinos. Quais serão esses desejos? Seja bem-vindo e descubra nesse hotel da morte!"
+}

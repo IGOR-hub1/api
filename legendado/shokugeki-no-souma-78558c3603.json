@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shokugeki-no-souma",
+  "capturadoEm": "2026-10-22T09:51:52.275Z",
+  "atualizadoEm": "2026-10-22T09:51:52.275Z",
+  "catalogo": {
+    "slug": "a/shokugeki-no-souma",
+    "titulo": "Shokugeki no Souma",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/txThYw4WP7XUFbcj5BEX2qjkVfL.jpg",
+    "info": "Legendado • Apr. 04, 2015",
+    "audio": "Legendado",
+    "score": "8.4",
+    "ano": "2015",
+    "publicadoEm": "Apr. 04, 2015",
+    "url": "https://meusanimes.blog/a/shokugeki-no-souma/",
+    "postId": "57198"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Shokugeki no Souma",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/txThYw4WP7XUFbcj5BEX2qjkVfL.jpg",
+  "score": "8.4",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 04, 2015",
+  "url": "https://meusanimes.blog/a/shokugeki-no-souma/"
+}

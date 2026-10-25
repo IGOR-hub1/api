@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "dagashi-kashi",
+  "capturadoEm": "2026-10-22T09:52:23.121Z",
+  "atualizadoEm": "2026-10-22T09:52:23.121Z",
+  "catalogo": {
+    "slug": "a/dagashi-kashi",
+    "titulo": "Dagashi Kashi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/bFuDrR4cAU6JkAnqeBZu06A4Yp6.jpg",
+    "info": "Legendado • Jan. 08, 2016",
+    "audio": "Legendado",
+    "score": "7.095",
+    "ano": "2016",
+    "publicadoEm": "Jan. 08, 2016",
+    "url": "https://meusanimes.blog/a/dagashi-kashi/",
+    "postId": "55428"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      33
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Dagashi Kashi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/bFuDrR4cAU6JkAnqeBZu06A4Yp6.jpg",
+  "score": "7.095",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jan. 08, 2016",
+  "url": "https://meusanimes.blog/a/dagashi-kashi/"
+}

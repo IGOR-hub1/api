@@ -1,0 +1,337 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "ingoku-danchi",
+  "capturadoEm": "2026-10-22T09:45:54.193Z",
+  "atualizadoEm": "2026-10-22T17:20:10.004Z",
+  "catalogo": {
+    "slug": "a/ingoku-danchi",
+    "titulo": "Ingoku Danchi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/oEGZCXMAqa4aGZTwmXigdHiihCU.jpg",
+    "info": "Legendado • Em lançamento • Apr. 06, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Apr. 06, 2026",
+    "url": "https://meusanimes.blog/a/ingoku-danchi/",
+    "postId": "81967"
+  },
+  "detalhes": {
+    "slug": "a/ingoku-danchi",
+    "titulo": "Ingoku Danchi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/oEGZCXMAqa4aGZTwmXigdHiihCU.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/oEGZCXMAqa4aGZTwmXigdHiihCU.jpg",
+    "sinopse": "Yoshida assume como síndico após o acidente do pai, mas, inexperiente e inseguro, precisa lidar com moradoras que ganham poderes e entram em frenesi devido a misteriosas “roupas de libido”, tentando manter a ordem no prédio.",
+    "generos": [
+      "Comédia",
+      "Ecchi"
+    ],
+    "score": "9",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 06, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/ingoku-danchi/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ingoku-danchi-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/hhi4eb4Rx8gwUcTXbFneFyKK7VG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ingoku Danchi: 1 Episodio 1 Online",
+        "animeSlug": "a/ingoku-danchi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ingoku-danchi-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/ingoku-danchi-episodio-2",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-2/",
+          "nome": "Ingoku Danchi Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/316427/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:10.004Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/316427/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ingoku-danchi-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8H18kKdaOrzNcNyaJWfNDqeifwX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ingoku Danchi: 1 Episodio 2 Online",
+        "animeSlug": "a/ingoku-danchi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ingoku-danchi-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/ingoku-danchi-episodio-1",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-1/",
+          "nome": "Ingoku Danchi Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/ingoku-danchi-episodio-3",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-3/",
+          "nome": "Ingoku Danchi Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/316427/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:05.959Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/316427/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ingoku-danchi-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/aYtJFrh0N4C0AtGPZxK8Dm1fmSj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ingoku Danchi: 1 Episodio 3 Online",
+        "animeSlug": "a/ingoku-danchi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ingoku-danchi-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/ingoku-danchi-episodio-2",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-2/",
+          "nome": "Ingoku Danchi Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/ingoku-danchi-episodio-4",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-4/",
+          "nome": "Ingoku Danchi Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/316427/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:01.832Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/316427/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ingoku-danchi-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4kNw0thUxE8UzAmaj3wzPw6I3d0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ingoku Danchi: 1 Episodio 4 Online",
+        "animeSlug": "a/ingoku-danchi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ingoku-danchi-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/ingoku-danchi-episodio-3",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-3/",
+          "nome": "Ingoku Danchi Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/ingoku-danchi-episodio-5",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-5/",
+          "nome": "Ingoku Danchi Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/316427/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:19:57.766Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/316427/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ingoku-danchi-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/tyoFSK9V84PSvMRlYUhN9VrpHZq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ingoku Danchi: 1 Episodio 5 Online",
+        "animeSlug": "a/ingoku-danchi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ingoku-danchi-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/ingoku-danchi-episodio-4",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-4/",
+          "nome": "Ingoku Danchi Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/ingoku-danchi-episodio-6",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-6/",
+          "nome": "Ingoku Danchi Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/316427/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:19:53.668Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/316427/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ingoku-danchi-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/8vfP6FF7DqXPO8vTGQUatT5iU8M.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ingoku Danchi: 1 Episodio 6 Online",
+        "animeSlug": "a/ingoku-danchi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ingoku-danchi-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/ingoku-danchi-episodio-5",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-5/",
+          "nome": "Ingoku Danchi Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/ingoku-danchi-episodio-7",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-7/",
+          "nome": "Ingoku Danchi Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/316427/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:19:49.613Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/316427/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ingoku-danchi-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/fLj3d01RVvqaFJ9rIAqblge8YOp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ingoku Danchi: 1 Episodio 7 Online",
+        "animeSlug": "a/ingoku-danchi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ingoku-danchi-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/ingoku-danchi-episodio-6",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-6/",
+          "nome": "Ingoku Danchi Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/ingoku-danchi-episodio-8",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-8/",
+          "nome": "Ingoku Danchi Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/316427/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:19:45.511Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/316427/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ingoku-danchi-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/7M5pM4eDMGwTYHqPdsgZCRLE4E3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ingoku Danchi: 1 Episodio 8 Online",
+        "animeSlug": "a/ingoku-danchi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ingoku-danchi-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/ingoku-danchi-episodio-7",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-7/",
+          "nome": "Ingoku Danchi Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/ingoku-danchi-episodio-9",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-9/",
+          "nome": "Ingoku Danchi Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/316427/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:19:41.424Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/316427/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ingoku-danchi-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/2eYiSsKgfaSJCU0tCTKHLlofYiQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ingoku Danchi: 1 Episodio 9 Online",
+        "animeSlug": "a/ingoku-danchi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ingoku-danchi-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/ingoku-danchi-episodio-8",
+          "link": "https://meusanimes.blog/e/ingoku-danchi-episodio-8/",
+          "nome": "Ingoku Danchi Episodio 8"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/316427/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:19:37.339Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/316427/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/316427/1/9/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 9,
+    "totalEpisodios": 9,
+    "midiasColetadas": 0,
+    "iframesColetados": 9,
+    "detalhesColetadosEm": "2026-10-22T17:19:32.669Z"
+  },
+  "titulo": "Ingoku Danchi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/oEGZCXMAqa4aGZTwmXigdHiihCU.jpg",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 06, 2026",
+  "url": "https://meusanimes.blog/a/ingoku-danchi/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/oEGZCXMAqa4aGZTwmXigdHiihCU.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Yoshida assume como síndico após o acidente do pai, mas, inexperiente e inseguro, precisa lidar com moradoras que ganham poderes e entram em frenesi devido a misteriosas “roupas de libido”, tentando manter a ordem no prédio."
+}

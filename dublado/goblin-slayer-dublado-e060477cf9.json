@@ -1,0 +1,793 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "goblin-slayer-dublado",
+  "capturadoEm": "2026-10-22T04:16:04.852Z",
+  "atualizadoEm": "2026-10-22T09:42:13.654Z",
+  "catalogo": {
+    "slug": "a/goblin-slayer-dublado",
+    "titulo": "Goblin Slayer Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/nUiT0whRDuUJKkk74L1pn8xUE2z.jpg",
+    "info": "Dublado • Oct. 07, 2018",
+    "audio": "Dublado",
+    "score": "8.086",
+    "ano": "2018",
+    "publicadoEm": "Oct. 07, 2018",
+    "url": "https://meusanimes.blog/a/goblin-slayer-dublado/",
+    "postId": "78475"
+  },
+  "detalhes": {
+    "slug": "a/goblin-slayer-dublado",
+    "titulo": "Goblin Slayer Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/nUiT0whRDuUJKkk74L1pn8xUE2z.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/nUiT0whRDuUJKkk74L1pn8xUE2z.jpg",
+    "sinopse": "Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate – um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. E quando seus feitos começam a se espalhar, ninguém sabe o que pode acontecer depois…",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2018",
+    "publicadoEm": "Oct. 07, 2018",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/goblin-slayer-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 07, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/oeHEWC0PbFVC0TrU6KgFhUK0CIh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-2/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:47.810Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 14, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/7jl5POUeCLkJntrIuU07Y7bU220.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-1/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-3/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:43.644Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 21, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/lajNvw0xidfkWo8GrDR1H8uFI0T.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-2/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-4/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:39.499Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 28, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/dk3jDsMo3bRqfimtQB7IXzHR2P9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-3/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-5/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:35.355Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 04, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/gQxRJgLmgCXX8CEPWZTfLg3X14V.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-4/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-6/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:31.179Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 11, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/qLLQSVYm76muPbQNxZmXa3izZRV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-5/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-7/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:27.021Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Jan. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/lM8ZegTyeOxHw28hRYBivurn6fi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-6/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-8/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:22.895Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 25, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/9NJdHXc2OAHgWjz1yr1Nw0W8kkK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-7/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-9/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:18.749Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/nU5vVMzz8FMIlxLNMjFx1hDv4Ev.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-8/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-10/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:14.619Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/1VaILduqlSSgwYhoVkEkQorpWw2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-9/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-11/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:10.462Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 23, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rfectYk8veny3CAIZCzk54zYO5o.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-10/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-12/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:06.368Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 30, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/bS4vx2yILDnROx5hftgCddyxGJj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-1-episodio-11/",
+          "nome": "Goblin Slayer Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:17:01.684Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 06, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/neVAFOKTDpzBeZmrdchiy3CKaqJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-2/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:57.545Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 13, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/2isqeRlQ80XEp5Bzz0jHih5NTmk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-1/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-3/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:53.336Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 20, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/krWJWecODxLzYkHIa8aZaIb8TYj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-2/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-4/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:49.242Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 27, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/g2ZXzU5eINachakCPMsHeigzk2y.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-3/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-5/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:45.125Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 03, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/yQHkNQfyZLJe9SMAAQ9zElH3Mvd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-4/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-6/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:41.000Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 10, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3KOFqPwuxkhgdDdis0zOV0SdNM3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-5/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-7/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:36.864Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 17, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/fuBqOTfQPBz6RGyiBUSK31KldD9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-6/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-8/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:32.770Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 24, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/feVxnVe9iHCktGBd6YpL5qjL0e1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-7/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-9/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:28.667Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 01, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/oDWxAd4Yx5Q3trXl9ADcgwgWXMK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-8/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-10/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:24.386Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 08, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/quGuzjDjqkzNG3WexFvEuVSRr1k.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-9/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-11/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:20.240Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 15, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rUK5uC1s6GI4hoYb6UBFBwiMHjC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-10/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-12/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:16.064Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 22, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/yJZpP2PNFOg5xNzcIWLyDaLOdD7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Goblin Slayer Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/goblin-slayer-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/goblin-slayer-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/goblin-slayer-dublado-2-episodio-11/",
+          "nome": "Goblin Slayer Dublado 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/825911/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:16:11.894Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/825911/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/825911/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      12
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T04:16:04.852Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Goblin Slayer Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/nUiT0whRDuUJKkk74L1pn8xUE2z.jpg",
+  "score": "8.086",
+  "audio": "Dublado",
+  "ano": "2018",
+  "publicadoEm": "Oct. 07, 2018",
+  "url": "https://meusanimes.blog/a/goblin-slayer-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/nUiT0whRDuUJKkk74L1pn8xUE2z.jpg",
+  "temporadas": 2,
+  "descricao": "Uma jovem sacerdotisa forma seu primeiro bando de aventureiros, mas eles imediatamente se metem em apuros. É então que o Goblin Slayer vem a seu resgate – um homem que dedica sua vida a exterminar todos os goblins, custe o que custar. E quando seus feitos começam a se espalhar, ninguém sabe o que pode acontecer depois…"
+}

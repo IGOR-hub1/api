@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "girl-friend-beta",
+  "capturadoEm": "2026-10-22T09:51:14.177Z",
+  "atualizadoEm": "2026-10-22T09:51:14.177Z",
+  "catalogo": {
+    "slug": "a/girl-friend-beta",
+    "titulo": "Girl Friend Beta",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/a8Jv4IKznREnKOB9gkoBb1zT2Ux.jpg",
+    "info": "Legendado • Oct. 12, 2014",
+    "audio": "Legendado",
+    "score": "4.8",
+    "ano": "2014",
+    "publicadoEm": "Oct. 12, 2014",
+    "url": "https://meusanimes.blog/a/girl-friend-beta/",
+    "postId": "60992"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      28
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Girl Friend Beta",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/a8Jv4IKznREnKOB9gkoBb1zT2Ux.jpg",
+  "score": "4.8",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Oct. 12, 2014",
+  "url": "https://meusanimes.blog/a/girl-friend-beta/"
+}

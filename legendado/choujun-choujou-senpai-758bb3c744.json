@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "choujun-choujou-senpai",
+  "capturadoEm": "2026-10-22T09:44:39.223Z",
+  "atualizadoEm": "2026-10-22T12:53:23.289Z",
+  "catalogo": {
+    "slug": "a/choujun-choujou-senpai",
+    "titulo": "Choujun! Choujou Senpai",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/z1iwCNN5gdvgW5PXcOaoZwHNvNy.jpg",
+    "info": "Legendado • Oct. 06, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 06, 2026",
+    "url": "https://meusanimes.blog/a/choujun-choujou-senpai/",
+    "postId": "100152"
+  },
+  "detalhes": {
+    "slug": "a/choujun-choujou-senpai",
+    "titulo": "Choujun! Choujou Senpai",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/z1iwCNN5gdvgW5PXcOaoZwHNvNy.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/z1iwCNN5gdvgW5PXcOaoZwHNvNy.jpg",
+    "sinopse": "Acompanha Meguru Choujou, um policial com poderes psíquicos, e Nao Ippongi, uma policial novata extremamente forte. Juntos, eles investigam crimes sobrenaturais enquanto enfrentam situações caóticas e engraçadas.",
+    "generos": [
+      "Comédia",
+      "Shounen"
+    ],
+    "score": "8",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 06, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/choujun-choujou-senpai/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/lc7HDqROa7HaVxTxBqoLdBXj5m8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Choujun! Choujou Senpai: 1 Episodio 1 Online",
+        "animeSlug": "a/choujun-choujou-senpai",
+        "iframe": "https://serv01.meusdoramas.club/#/video/327765/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/choujun-choujou-senpai-episodio-2",
+          "link": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-2/",
+          "nome": "Choujun! Choujou Senpai Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/327765/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:53:23.289Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/327765/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/327765/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/rHo7KWA0L4ZQuK5NnNss7ywemPu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Choujun! Choujou Senpai: 1 Episodio 2 Online",
+        "animeSlug": "a/choujun-choujou-senpai",
+        "iframe": "https://serv01.meusdoramas.club/#/video/327765/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/choujun-choujou-senpai-episodio-1",
+          "link": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-1/",
+          "nome": "Choujun! Choujou Senpai Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/choujun-choujou-senpai-episodio-3",
+          "link": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-3/",
+          "nome": "Choujun! Choujou Senpai Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/327765/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:53:19.591Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/327765/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/327765/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/g5c6gfrYxUlDb3CABisuTrCKHOj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Choujun! Choujou Senpai: 1 Episodio 3 Online",
+        "animeSlug": "a/choujun-choujou-senpai",
+        "iframe": "https://serv01.meusdoramas.club/#/video/327765/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/choujun-choujou-senpai-episodio-2",
+          "link": "https://meusanimes.blog/e/choujun-choujou-senpai-episodio-2/",
+          "nome": "Choujun! Choujou Senpai Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/327765/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:53:15.894Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/327765/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/327765/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T12:53:11.930Z"
+  },
+  "titulo": "Choujun! Choujou Senpai",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/z1iwCNN5gdvgW5PXcOaoZwHNvNy.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 06, 2026",
+  "url": "https://meusanimes.blog/a/choujun-choujou-senpai/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/z1iwCNN5gdvgW5PXcOaoZwHNvNy.jpg",
+  "score": "8",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Acompanha Meguru Choujou, um policial com poderes psíquicos, e Nao Ippongi, uma policial novata extremamente forte. Juntos, eles investigam crimes sobrenaturais enquanto enfrentam situações caóticas e engraçadas."
+}

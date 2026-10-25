@@ -1,0 +1,431 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "kuutei-dragons-dublado",
+  "capturadoEm": "2026-10-22T09:38:58.707Z",
+  "atualizadoEm": "2026-10-22T09:40:28.148Z",
+  "catalogo": {
+    "slug": "a/kuutei-dragons-dublado",
+    "titulo": "Kuutei Dragons Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pdSAcireZWWqj0l75WLzwojpjZe.jpg",
+    "info": "Dublado • Jan. 09, 2020",
+    "audio": "Dublado",
+    "score": "7.6",
+    "ano": "2020",
+    "publicadoEm": "Jan. 09, 2020",
+    "url": "https://meusanimes.blog/a/kuutei-dragons-dublado/",
+    "postId": "95626"
+  },
+  "detalhes": {
+    "slug": "a/kuutei-dragons-dublado",
+    "titulo": "Kuutei Dragons Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pdSAcireZWWqj0l75WLzwojpjZe.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/pdSAcireZWWqj0l75WLzwojpjZe.jpg",
+    "sinopse": "A história acompanha a vida cotidiana da tripulação do navio voador Quin Zaza, que ganha a vida caçando dragões. Para viver, eles não têm direito ao fracasso, porque é a única maneira de ganhar dinheiro e se alimentar.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica",
+      "Seinen"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2020",
+    "publicadoEm": "Jan. 09, 2020",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/kuutei-dragons-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 09, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/l0x1w6qg0qeEDz7R0qT1VabMbYE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-2/",
+          "nome": "Kuutei Dragons Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:50.227Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 16, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/iPaiEfkCpO3gsW59D6uznMgtNmd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-1/",
+          "nome": "Kuutei Dragons Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-3/",
+          "nome": "Kuutei Dragons Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:46.127Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 23, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/elyE82mrlfS9Bia7Ljmz7OBzYDK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-2/",
+          "nome": "Kuutei Dragons Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-4/",
+          "nome": "Kuutei Dragons Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:42.064Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 30, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/tuFMR5xQozRPmrVaM2IMORnHVjs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-3/",
+          "nome": "Kuutei Dragons Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-5/",
+          "nome": "Kuutei Dragons Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:38.047Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 06, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/i1SPMX35PQ3JYM91k1fhpF1aLGi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-4/",
+          "nome": "Kuutei Dragons Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-6/",
+          "nome": "Kuutei Dragons Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:33.510Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 13, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bAZ54PP7ezP7XwVZmqzsAdKs1xI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-5/",
+          "nome": "Kuutei Dragons Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-7/",
+          "nome": "Kuutei Dragons Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:29.411Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 20, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bzpTDF8yGOhqiOReBqitZXIbdIl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-6/",
+          "nome": "Kuutei Dragons Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-8/",
+          "nome": "Kuutei Dragons Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:25.351Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uFXxy8nktrXzTSRqQCPDhOFON40.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-7/",
+          "nome": "Kuutei Dragons Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-9/",
+          "nome": "Kuutei Dragons Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:21.274Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 05, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/zz10yWsJWcrOHva3R5PUn6Wzhx6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-8/",
+          "nome": "Kuutei Dragons Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-10/",
+          "nome": "Kuutei Dragons Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:17.172Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 12, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bs1QIFrx8fuz0p0fmKbXzB0YZN2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-9/",
+          "nome": "Kuutei Dragons Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-11/",
+          "nome": "Kuutei Dragons Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:13.001Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 19, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/qJbiFMyIsEJbCTAuQGN0BTrXkMC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-10/",
+          "nome": "Kuutei Dragons Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-12/",
+          "nome": "Kuutei Dragons Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:08.930Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uxY5WU1m6wjKLnkUzWfPRCXu6ft.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuutei Dragons Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/kuutei-dragons-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kuutei-dragons-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/kuutei-dragons-dublado-episodio-11/",
+          "nome": "Kuutei Dragons Dublado Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/925911/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:39:04.813Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/925911/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/925911/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T09:38:58.707Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Kuutei Dragons Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pdSAcireZWWqj0l75WLzwojpjZe.jpg",
+  "score": "7.6",
+  "audio": "Dublado",
+  "ano": "2020",
+  "publicadoEm": "Jan. 09, 2020",
+  "url": "https://meusanimes.blog/a/kuutei-dragons-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/pdSAcireZWWqj0l75WLzwojpjZe.jpg",
+  "temporadas": 1,
+  "descricao": "A história acompanha a vida cotidiana da tripulação do navio voador Quin Zaza, que ganha a vida caçando dragões. Para viver, eles não têm direito ao fracasso, porque é a única maneira de ganhar dinheiro e se alimentar."
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kyousou-giga",
+  "capturadoEm": "2026-10-22T09:49:00.349Z",
+  "atualizadoEm": "2026-10-22T09:49:00.349Z",
+  "catalogo": {
+    "slug": "a/kyousou-giga",
+    "titulo": "Kyousou Giga",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/MMbtUEs6MEpP9PcWKvY4xf2oJj.jpg",
+    "info": "Legendado • Oct. 10, 2013",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2013",
+    "publicadoEm": "Oct. 10, 2013",
+    "url": "https://meusanimes.blog/a/kyousou-giga/",
+    "postId": "72567"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kyousou Giga",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/MMbtUEs6MEpP9PcWKvY4xf2oJj.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2013",
+  "publicadoEm": "Oct. 10, 2013",
+  "url": "https://meusanimes.blog/a/kyousou-giga/"
+}

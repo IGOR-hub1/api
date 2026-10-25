@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "major-2nd",
+  "capturadoEm": "2026-10-22T09:55:43.894Z",
+  "atualizadoEm": "2026-10-22T09:55:43.894Z",
+  "catalogo": {
+    "slug": "a/major-2nd",
+    "titulo": "Major 2nd",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/tCoSxUAjMSG8mH4AdBpGqMdYWLg.jpg",
+    "info": "Legendado • Apr. 07, 2018",
+    "audio": "Legendado",
+    "score": "7.8",
+    "ano": "2018",
+    "publicadoEm": "Apr. 07, 2018",
+    "url": "https://meusanimes.blog/a/major-2nd/",
+    "postId": "36461"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      48
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Major 2nd",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/tCoSxUAjMSG8mH4AdBpGqMdYWLg.jpg",
+  "score": "7.8",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Apr. 07, 2018",
+  "url": "https://meusanimes.blog/a/major-2nd/"
+}

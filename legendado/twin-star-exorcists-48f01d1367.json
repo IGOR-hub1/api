@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "twin-star-exorcists",
+  "capturadoEm": "2026-10-22T09:52:51.792Z",
+  "atualizadoEm": "2026-10-22T09:52:51.792Z",
+  "catalogo": {
+    "slug": "a/twin-star-exorcists",
+    "titulo": "Twin Star Exorcists",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/fSghTQOmghCM9kaX3cjlIDfleTU.jpg",
+    "info": "Legendado • Apr. 06, 2016",
+    "audio": "Legendado",
+    "score": "8.43",
+    "ano": "2016",
+    "publicadoEm": "Apr. 06, 2016",
+    "url": "https://meusanimes.blog/a/twin-star-exorcists/",
+    "postId": "53242"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Twin Star Exorcists",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/fSghTQOmghCM9kaX3cjlIDfleTU.jpg",
+  "score": "8.43",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 06, 2016",
+  "url": "https://meusanimes.blog/a/twin-star-exorcists/"
+}

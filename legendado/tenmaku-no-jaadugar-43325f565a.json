@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tenmaku-no-jaadugar",
+  "capturadoEm": "2026-10-22T09:46:32.732Z",
+  "atualizadoEm": "2026-10-22T18:58:46.307Z",
+  "catalogo": {
+    "slug": "a/tenmaku-no-jaadugar",
+    "titulo": "Tenmaku no Jaadugar",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/6EXyD21wQMTWgpwk5677vaqZ827.jpg",
+    "info": "Legendado • Jul. 04, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 04, 2026",
+    "url": "https://meusanimes.blog/a/tenmaku-no-jaadugar/",
+    "postId": "92335"
+  },
+  "detalhes": {
+    "slug": "a/tenmaku-no-jaadugar",
+    "titulo": "Tenmaku no Jaadugar",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/6EXyD21wQMTWgpwk5677vaqZ827.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/6EXyD21wQMTWgpwk5677vaqZ827.jpg",
+    "sinopse": "O momento: século XIII. O lugar: yeke Mongγol ulus, o maior império que o mundo já conheceu. A mulher: Fátima, vinda da Pérsia, onde as técnicas medicinais e o conhecimento científico superavam qualquer precedente. O desejo de Fátima por um lugar onde ela pudesse colocar seus conhecimentos à mostra a leva para o palácio dos mongóis, onde ela vira subordinada de Töregene, a sexta esposa de Ögedei, o segundo grande Khan. Ela é uma mulher poderosa que tem sentimentos confusos sobre o rumo que o império está tomando. Essas duas mulheres são o eixo que farão as políticas do palácio e, em breve, do próprio mundo, mudarem…",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Histórico"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 04, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/tenmaku-no-jaadugar/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/vCRc4rK4smpTEIYe3PLKkwUWEdl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 1 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-2",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-2/",
+          "nome": "Tenmaku no Jaadugar Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:46.307Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/58JRDHjYv3FXbjur3hr5Ii0LNjV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 2 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-1",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-1/",
+          "nome": "Tenmaku no Jaadugar Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-3",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-3/",
+          "nome": "Tenmaku no Jaadugar Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:42.210Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xeg43pMcMll2P4MkmtKyYtTvAGP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 3 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-2",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-2/",
+          "nome": "Tenmaku no Jaadugar Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-4",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-4/",
+          "nome": "Tenmaku no Jaadugar Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:38.132Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/nvJUMMhxVEWo3PZtrZH1MMc9sRL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 4 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-3",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-3/",
+          "nome": "Tenmaku no Jaadugar Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-5",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-5/",
+          "nome": "Tenmaku no Jaadugar Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:34.029Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/h7lTH6ERJ8zrFk6ud5RnSeAqLwZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 5 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-4",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-4/",
+          "nome": "Tenmaku no Jaadugar Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-6",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-6/",
+          "nome": "Tenmaku no Jaadugar Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:29.986Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/liJJwhYrUYfcaNDyh7OFc7Abn90.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 6 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-5",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-5/",
+          "nome": "Tenmaku no Jaadugar Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-7",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-7/",
+          "nome": "Tenmaku no Jaadugar Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:25.884Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/tLsnfuvD1DsWcJEGwSi0FpmFYWv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 7 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-6",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-6/",
+          "nome": "Tenmaku no Jaadugar Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-8",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-8/",
+          "nome": "Tenmaku no Jaadugar Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:21.767Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/c1HE3RSG0vbT0568CebmQlt9EDj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 8 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-7",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-7/",
+          "nome": "Tenmaku no Jaadugar Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-9",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-9/",
+          "nome": "Tenmaku no Jaadugar Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:17.667Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/cp0CzEFVxviDz19IK0gS7uJrYYJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 9 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-8",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-8/",
+          "nome": "Tenmaku no Jaadugar Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-10",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-10/",
+          "nome": "Tenmaku no Jaadugar Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:13.553Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Aug. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/u8T8mdaGtL3xwXBDgXIr1eQpexz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 10 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-9",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-9/",
+          "nome": "Tenmaku no Jaadugar Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-11",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-11/",
+          "nome": "Tenmaku no Jaadugar Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:09.418Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/d3UrISdoFuG2QVeRdYJd1kLyn4D.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 11 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-10",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-10/",
+          "nome": "Tenmaku no Jaadugar Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-12",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-12/",
+          "nome": "Tenmaku no Jaadugar Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:05.360Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/gVZMl85xoxTUOG5jmzwNh0skA7Q.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tenmaku no Jaadugar: 1 Episodio 12 Online",
+        "animeSlug": "a/tenmaku-no-jaadugar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/tenmaku-no-jaadugar-episodio-11",
+          "link": "https://meusanimes.blog/e/tenmaku-no-jaadugar-episodio-11/",
+          "nome": "Tenmaku no Jaadugar Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288971/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:01.179Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288971/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288971/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T18:57:56.457Z"
+  },
+  "titulo": "Tenmaku no Jaadugar",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/6EXyD21wQMTWgpwk5677vaqZ827.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 04, 2026",
+  "url": "https://meusanimes.blog/a/tenmaku-no-jaadugar/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/6EXyD21wQMTWgpwk5677vaqZ827.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "O momento: século XIII. O lugar: yeke Mongγol ulus, o maior império que o mundo já conheceu. A mulher: Fátima, vinda da Pérsia, onde as técnicas medicinais e o conhecimento científico superavam qualquer precedente. O desejo de Fátima por um lugar onde ela pudesse colocar seus conhecimentos à mostra a leva para o palácio dos mongóis, onde ela vira subordinada de Töregene, a sexta esposa de Ögedei, o segundo grande Khan. Ela é uma mulher poderosa que tem sentimentos confusos sobre o rumo que o império está tomando. Essas duas mulheres são o eixo que farão as políticas do palácio e, em breve, do próprio mundo, mudarem…"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "isuca",
+  "capturadoEm": "2026-10-22T09:51:42.033Z",
+  "atualizadoEm": "2026-10-22T09:51:42.033Z",
+  "catalogo": {
+    "slug": "a/isuca",
+    "titulo": "Isuca",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/5lS0VmKbjsczRxvDvGzricRf1Mb.jpg",
+    "info": "Legendado • Jan. 24, 2015",
+    "audio": "Legendado",
+    "score": "6.318",
+    "ano": "2015",
+    "publicadoEm": "Jan. 24, 2015",
+    "url": "https://meusanimes.blog/a/isuca/",
+    "postId": "58362"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      30
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Isuca",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/5lS0VmKbjsczRxvDvGzricRf1Mb.jpg",
+  "score": "6.318",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jan. 24, 2015",
+  "url": "https://meusanimes.blog/a/isuca/"
+}

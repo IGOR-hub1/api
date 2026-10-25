@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "toaru-anbu-no-item",
+  "capturadoEm": "2026-10-22T09:44:18.683Z",
+  "atualizadoEm": "2026-10-22T12:41:18.285Z",
+  "catalogo": {
+    "slug": "a/toaru-anbu-no-item",
+    "titulo": "Toaru Anbu no Item",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+    "info": "Legendado • Oct. 09, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 09, 2026",
+    "url": "https://meusanimes.blog/a/toaru-anbu-no-item/",
+    "postId": "100398"
+  },
+  "detalhes": {
+    "slug": "a/toaru-anbu-no-item",
+    "titulo": "Toaru Anbu no Item",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+    "sinopse": "A história acompanha uma unidade de elite encarregada de missões secretas no “lado sombrio” da Cidade Acadêmica.",
+    "generos": [
+      "Ação",
+      "Ficção científica",
+      "Mistério"
+    ],
+    "score": "8",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 09, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/toaru-anbu-no-item/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/toaru-anbu-no-item-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/b0raqDr2XfRjs1mLCcpZeOIsbAa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Toaru Anbu no Item: 1 Episodio 1 Online",
+        "animeSlug": "a/toaru-anbu-no-item",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284580/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/toaru-anbu-no-item-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/toaru-anbu-no-item-episodio-2",
+          "link": "https://meusanimes.blog/e/toaru-anbu-no-item-episodio-2/",
+          "nome": "Toaru Anbu no Item Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284580/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:41:18.285Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284580/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284580/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/toaru-anbu-no-item-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/pqfJrdUNEZTDgkcXqmecnbN0f2Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Toaru Anbu no Item: 1 Episodio 2 Online",
+        "animeSlug": "a/toaru-anbu-no-item",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284580/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/toaru-anbu-no-item-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/toaru-anbu-no-item-episodio-1",
+          "link": "https://meusanimes.blog/e/toaru-anbu-no-item-episodio-1/",
+          "nome": "Toaru Anbu no Item Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284580/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:41:14.466Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284580/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284580/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T12:41:10.542Z"
+  },
+  "titulo": "Toaru Anbu no Item",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 09, 2026",
+  "url": "https://meusanimes.blog/a/toaru-anbu-no-item/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/4xlLvgDOumCt0ejdfEiZiTqD6Ma.jpg",
+  "score": "8",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "A história acompanha uma unidade de elite encarregada de missões secretas no “lado sombrio” da Cidade Acadêmica."
+}

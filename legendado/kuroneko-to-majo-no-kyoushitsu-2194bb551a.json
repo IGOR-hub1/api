@@ -1,0 +1,802 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kuroneko-to-majo-no-kyoushitsu",
+  "capturadoEm": "2026-10-22T09:47:27.117Z",
+  "atualizadoEm": "2026-10-22T21:01:52.610Z",
+  "catalogo": {
+    "slug": "a/kuroneko-to-majo-no-kyoushitsu",
+    "titulo": "Kuroneko to Majo no Kyoushitsu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r7ec9R5MY39TPWDtj0SrqnDecsv.jpg",
+    "info": "Legendado • Apr. 12, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 12, 2026",
+    "url": "https://meusanimes.blog/a/kuroneko-to-majo-no-kyoushitsu/",
+    "postId": "83576"
+  },
+  "detalhes": {
+    "slug": "a/kuroneko-to-majo-no-kyoushitsu",
+    "titulo": "Kuroneko to Majo no Kyoushitsu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r7ec9R5MY39TPWDtj0SrqnDecsv.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/r7ec9R5MY39TPWDtj0SrqnDecsv.jpg",
+    "sinopse": "Spica Virgo é uma aprendiz de bruxa que não consegue fazer nenhuma magia. Para entrar numa academia que ela tanto sonha, ela precisa de um mestre, mas não tem dinheiro ou contatos. De repente, surge diante dela um misterioso gato preto falante… que sabe usar magia! Spica quer aprender magia, o gato quer quebrar uma maldição… objetivos que se alinham! Assim, nasce uma relação secreta de mestre e aprendiz! Mas o segredo para quebrar a maldição é… beijar o seu…?!",
+    "generos": [
+      "Comédia",
+      "Escolar",
+      "Fantasia",
+      "Magia",
+      "Romance"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 12, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/kuroneko-to-majo-no-kyoushitsu/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/s5EmxAuS6QLSggEGTOCSKQmUxRS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 1 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-2",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-2/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:52.610Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/74cUwuCETCxxmjtBBbpi9RzSN7Z.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 2 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-1",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-1/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-3",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-3/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:48.453Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/uvkX0wBwPJHQ2Eai5uWsGcsADuA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 3 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-2",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-2/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-4",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-4/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:44.151Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "May. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/whPQXRcNtZGPWr6KJdUFm1GEY3Z.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 4 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-3",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-3/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-5",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-5/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:40.003Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/lgzT6yr3pKpwg0qrs0mrAxjoMIy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 5 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-4",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-4/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-6",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-6/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:35.781Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/eMi3KfJeExaWtKHWLJZw18ODShU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 6 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-5",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-5/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-7",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-7/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:31.601Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/oULGC8FFXcCqquNfSrq4xQsElta.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 7 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-6",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-6/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-8",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-8/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:27.125Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/9Mbf7tYOXiSGwVrdviIjcBgEZA1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 8 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-7",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-7/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-9",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-9/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:22.962Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/8uRI0phVoWDdJUweG3sf0VbYu3Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 9 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-8",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-8/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-10",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-10/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:18.792Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/2xheHYjWwJXHXfJNBE7Ql2E8MDV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 10 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-9",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-9/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-11",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-11/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:14.565Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/e5R72xHona3rEJgP6HtzHd4qASc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 11 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-10",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-10/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-12",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-12/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:10.410Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/dl8PKnqY9GX3qZfsC34Xlr4nv9r.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 12 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-11",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-11/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-13",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-13/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:06.357Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rluE8wn5bg8ObHap093M23lmtqY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 13 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-12",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-12/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-14",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-14/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:02.261Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/hlIyvYzjJRrytW3b5twwMruXnfC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 14 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-13",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-13/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-15",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-15/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:58.102Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/nzCuShPmvBqfGe57jeZunWBvrwj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 15 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-14",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-14/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-16",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-16/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:53.993Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/x6T8tMX2Oj4mu2mZepm4DeiZMwB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 16 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-15",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-15/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-17",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-17/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:49.801Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ckZ9Nyqwq0rpNRqrtytapEuHbB0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 17 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-16",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-16/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-18",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-18/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:45.624Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/5KZoU3NFFMgwqhVujrLYoOCZ8eN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 18 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-17",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-17/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-19",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-19/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:41.201Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/naSjSoQDRa8zBbrfPeaueq6RQ9Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 19 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-18",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-18/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-20",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-20/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:37.125Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/eryB9W8hc9YWWaAurhOThM8U6Fm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 20 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-19",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-19/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-21",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-21/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:32.968Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/dwo6rG3zqkfUFgChatldLW60RnP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 21 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-20",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-20/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-22",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-22/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:28.649Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/lnXxu9gIJeuZH5ZA6xkLgWem4kW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 22 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-21",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-21/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-23",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-23/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:24.526Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/9Mbf7tYOXiSGwVrdviIjcBgEZA1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 23 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-22",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-22/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-24",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-24/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:20.408Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/2BIV7H2DvpW2RnZDjnEEPsWlHXY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kuroneko to Majo no Kyoushitsu: 1 Episodio 24 Online",
+        "animeSlug": "a/kuroneko-to-majo-no-kyoushitsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/kuroneko-to-majo-no-kyoushitsu-episodio-23",
+          "link": "https://meusanimes.blog/e/kuroneko-to-majo-no-kyoushitsu-episodio-23/",
+          "nome": "Kuroneko to Majo no Kyoushitsu Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/297557/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:00:16.312Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/297557/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/297557/1/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      11
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "midiasColetadas": 0,
+    "iframesColetados": 24,
+    "detalhesColetadosEm": "2026-10-22T21:00:10.763Z"
+  },
+  "titulo": "Kuroneko to Majo no Kyoushitsu",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r7ec9R5MY39TPWDtj0SrqnDecsv.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 12, 2026",
+  "url": "https://meusanimes.blog/a/kuroneko-to-majo-no-kyoushitsu/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/r7ec9R5MY39TPWDtj0SrqnDecsv.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Spica Virgo é uma aprendiz de bruxa que não consegue fazer nenhuma magia. Para entrar numa academia que ela tanto sonha, ela precisa de um mestre, mas não tem dinheiro ou contatos. De repente, surge diante dela um misterioso gato preto falante… que sabe usar magia! Spica quer aprender magia, o gato quer quebrar uma maldição… objetivos que se alinham! Assim, nasce uma relação secreta de mestre e aprendiz! Mas o segredo para quebrar a maldição é… beijar o seu…?!"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "radiant",
+  "capturadoEm": "2026-10-22T09:55:58.519Z",
+  "atualizadoEm": "2026-10-22T09:55:58.519Z",
+  "catalogo": {
+    "slug": "a/radiant",
+    "titulo": "Radiant",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/yPgjtFvf62BT6EbjGYPt9AwGP2.jpg",
+    "info": "Legendado • Oct. 06, 2018",
+    "audio": "Legendado",
+    "score": "7.185",
+    "ano": "2018",
+    "publicadoEm": "Oct. 06, 2018",
+    "url": "https://meusanimes.blog/a/radiant/",
+    "postId": "35546"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      49
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Radiant",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/yPgjtFvf62BT6EbjGYPt9AwGP2.jpg",
+  "score": "7.185",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Oct. 06, 2018",
+  "url": "https://meusanimes.blog/a/radiant/"
+}

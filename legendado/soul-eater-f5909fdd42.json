@@ -1,0 +1,1640 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "soul-eater",
+  "capturadoEm": "2026-10-22T09:45:35.993Z",
+  "atualizadoEm": "2026-10-22T15:18:53.289Z",
+  "catalogo": {
+    "slug": "a/soul-eater",
+    "titulo": "Soul Eater",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9KH4ZJO3BKaoEBlqATBUSXCg4G7.jpg",
+    "info": "Legendado • Apr. 07, 2008",
+    "audio": "Legendado",
+    "score": "7.794",
+    "ano": "2008",
+    "publicadoEm": "Apr. 07, 2008",
+    "url": "https://meusanimes.blog/a/soul-eater/",
+    "postId": "97856"
+  },
+  "detalhes": {
+    "slug": "a/soul-eater",
+    "titulo": "Soul Eater",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9KH4ZJO3BKaoEBlqATBUSXCg4G7.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/09/9KH4ZJO3BKaoEBlqATBUSXCg4G7.jpg",
+    "sinopse": "Conta a história dos artesões estudantes de uma Escola Técnica Shinigami. Cada um tem uma arma diferente que é também o seu parceiro. Todos os estudantes e armas vão as aulas e tem dever de casa para fazer. O dever de casa normalmente consiste em capturar uma certa alma ou manter a paz no Mundo. Cada artesão tenta ajudar da melhor forma possível o seu companheiro e arma, para fazê-lo tornar-se uma “Death Scyte” e para isso a arma deve comer 99 ovos de Kishin e a alma de uma bruxa.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Sobrenatural"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2008",
+    "publicadoEm": "Apr. 07, 2008",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/soul-eater/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 07, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/mpObk51DgsnJMDoAS9Q4SSxWb2o.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 1 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-2",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-2/",
+          "nome": "Soul Eater 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:53.289Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 14, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/a3UB3at47XeMTqeqtohRdo4ygHe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 2 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-1",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-1/",
+          "nome": "Soul Eater 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-3",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-3/",
+          "nome": "Soul Eater 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:49.016Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 21, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/tu5vmhD7b5kbgYm7ZOAi1zB2AjC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 3 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-2",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-2/",
+          "nome": "Soul Eater 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-4",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-4/",
+          "nome": "Soul Eater 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:44.929Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 28, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/AvHlAWJdIfykXOKE4adqYRmMci2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 4 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-3",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-3/",
+          "nome": "Soul Eater 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-5",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-5/",
+          "nome": "Soul Eater 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:40.461Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 05, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/xyRMmDUm52I6rXUrqypSGj42imt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 5 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-4",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-4/",
+          "nome": "Soul Eater 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-6",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-6/",
+          "nome": "Soul Eater 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:36.378Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 12, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/dO9PnaK8P9Obz31wfiOatuvhBKP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 6 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-5",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-5/",
+          "nome": "Soul Eater 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-7",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-7/",
+          "nome": "Soul Eater 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:32.268Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 19, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/dXV7X7wq0nko7cKl6kC93tNtZav.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 7 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-6",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-6/",
+          "nome": "Soul Eater 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-8",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-8/",
+          "nome": "Soul Eater 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:28.152Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 26, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/j94RjOVAT5hZxaZwhzncDwvtjR7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 8 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-7",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-7/",
+          "nome": "Soul Eater 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-9",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-9/",
+          "nome": "Soul Eater 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:24.031Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 02, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/zOYB7eqyJtLZxv6BN16bk0mYnTS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 9 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-8",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-8/",
+          "nome": "Soul Eater 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-10",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-10/",
+          "nome": "Soul Eater 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:19.945Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 09, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/wz1L3lN0nmB87zlYQ3L5edLON7S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 10 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-9",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-9/",
+          "nome": "Soul Eater 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-11",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-11/",
+          "nome": "Soul Eater 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:15.897Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 16, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/dWDdEw3Y4oppvRydfDFGw1nO9AQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 11 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-10",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-10/",
+          "nome": "Soul Eater 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-12",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-12/",
+          "nome": "Soul Eater 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:11.779Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 23, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/gVlPu1HRjVF60mVyq64hYx1Go3P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 12 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-11",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-11/",
+          "nome": "Soul Eater 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-13",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-13/",
+          "nome": "Soul Eater 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:07.377Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 30, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/cI8eYd6BY4KLEtIXp3yWvbjcoV3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 13 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-12",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-12/",
+          "nome": "Soul Eater 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-14",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-14/",
+          "nome": "Soul Eater 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:18:03.278Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 07, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/fb2CGwhZ5A2wd4A17FcOFBjp0FH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 14 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-13",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-13/",
+          "nome": "Soul Eater 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-15",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-15/",
+          "nome": "Soul Eater 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:59.186Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 14, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/wZw0EK8ZHAgzRg61ccFmqmaLjEA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 15 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-14",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-14/",
+          "nome": "Soul Eater 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-16",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-16/",
+          "nome": "Soul Eater 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:55.112Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 21, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/dESUj2bmnoM9YzALdp5X3vozCJE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 16 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-15",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-15/",
+          "nome": "Soul Eater 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-17",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-17/",
+          "nome": "Soul Eater 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:50.950Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 28, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/7YfybH5R1EZDZo6vVTT9mGdrRyQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 17 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-16",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-16/",
+          "nome": "Soul Eater 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-18",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-18/",
+          "nome": "Soul Eater 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:46.894Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 04, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/1qxiBUoycy51nLRe5jEhLntnn6C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 18 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-17",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-17/",
+          "nome": "Soul Eater 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-19",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-19/",
+          "nome": "Soul Eater 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:42.812Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 11, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/gnbH4jvYzw48exXSArowtdj5wYK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 19 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-18",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-18/",
+          "nome": "Soul Eater 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-20",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-20/",
+          "nome": "Soul Eater 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:38.728Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 18, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9xNpQtqmBdy5qMZQrGmYlpA9ng5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 20 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-19",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-19/",
+          "nome": "Soul Eater 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-21",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-21/",
+          "nome": "Soul Eater 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:34.625Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 25, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/a7r6ozdD5r7gGXsBf5weLnnbpGf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 21 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-20",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-20/",
+          "nome": "Soul Eater 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-22",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-22/",
+          "nome": "Soul Eater 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:30.518Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 01, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/vucGl2jNVht1DB0FR8XoTudkWHD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 22 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-21",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-21/",
+          "nome": "Soul Eater 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-23",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-23/",
+          "nome": "Soul Eater 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:26.460Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 08, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/reDhihcgjSJpq3QTxrDZtLo0v83.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 23 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-22",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-22/",
+          "nome": "Soul Eater 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-24",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-24/",
+          "nome": "Soul Eater 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:22.387Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 15, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/gC8veeCaV9v3ophjZQ5CxYdU7Oz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 24 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-23",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-23/",
+          "nome": "Soul Eater 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-25",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-25/",
+          "nome": "Soul Eater 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:18.276Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 22, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/zH6x9BvgYc3EOhe1TqrPfw9ulmA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 25 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-24",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-24/",
+          "nome": "Soul Eater 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-26",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-26/",
+          "nome": "Soul Eater 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:14.174Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 29, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/icxhdfXiUjwuRSHkrKDBjXLSnzl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 26 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-25",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-25/",
+          "nome": "Soul Eater 1 Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-27",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-27/",
+          "nome": "Soul Eater 1 Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:10.096Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Oct. 06, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/d6ZYkLehxbRYMqdIwlav4l0YAWE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 27 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/27/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-26",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-26/",
+          "nome": "Soul Eater 1 Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-28",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-28/",
+          "nome": "Soul Eater 1 Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:06.006Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-28/",
+      "numero": 28,
+      "temporada": 1,
+      "nome": "Episódio 28",
+      "descricao": "Oct. 13, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/aQ5b7Y9ccqLnCJ83c45cdu806Js.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 28 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/28/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-27",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-27/",
+          "nome": "Soul Eater 1 Episodio 27"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-29",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-29/",
+          "nome": "Soul Eater 1 Episodio 29"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:17:01.892Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/28/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-29/",
+      "numero": 29,
+      "temporada": 1,
+      "nome": "Episódio 29",
+      "descricao": "Oct. 20, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/xfZjPqtxC7eIPcR70GWekQJGKov.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 29 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/29/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-29/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-28",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-28/",
+          "nome": "Soul Eater 1 Episodio 28"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-30",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-30/",
+          "nome": "Soul Eater 1 Episodio 30"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/29/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:57.830Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/29/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/29/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-30/",
+      "numero": 30,
+      "temporada": 1,
+      "nome": "Episódio 30",
+      "descricao": "Oct. 27, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/g6k4W6YLgTgWrZ4VTZNk9eqlbzK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 30 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/30/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-30/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-29",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-29/",
+          "nome": "Soul Eater 1 Episodio 29"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-31",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-31/",
+          "nome": "Soul Eater 1 Episodio 31"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/30/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:53.771Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/30/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/30/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-31/",
+      "numero": 31,
+      "temporada": 1,
+      "nome": "Episódio 31",
+      "descricao": "Nov. 03, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9ed8tgTOCrPJynuW7VlimGkzfk1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 31 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/31/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-31/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-30",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-30/",
+          "nome": "Soul Eater 1 Episodio 30"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-32",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-32/",
+          "nome": "Soul Eater 1 Episodio 32"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/31/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:49.669Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/31/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/31/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-32/",
+      "numero": 32,
+      "temporada": 1,
+      "nome": "Episódio 32",
+      "descricao": "Nov. 10, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/8odfTSrXOX1eY6iCv86kIzloSHR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 32 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/32/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-32/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-31",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-31/",
+          "nome": "Soul Eater 1 Episodio 31"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-33",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-33/",
+          "nome": "Soul Eater 1 Episodio 33"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/32/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:45.548Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/32/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/32/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-33/",
+      "numero": 33,
+      "temporada": 1,
+      "nome": "Episódio 33",
+      "descricao": "Nov. 17, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/839xfPFpzz4WURIGtf7Otg1rOwg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 33 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/33/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-33/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-32",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-32/",
+          "nome": "Soul Eater 1 Episodio 32"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-34",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-34/",
+          "nome": "Soul Eater 1 Episodio 34"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/33/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:41.476Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/33/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/33/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-34/",
+      "numero": 34,
+      "temporada": 1,
+      "nome": "Episódio 34",
+      "descricao": "Nov. 24, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/nQwutYCvQGKdeflU5bhRA2oaAId.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 34 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/34/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-34/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-33",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-33/",
+          "nome": "Soul Eater 1 Episodio 33"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-35",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-35/",
+          "nome": "Soul Eater 1 Episodio 35"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/34/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:37.290Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/34/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/34/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-35/",
+      "numero": 35,
+      "temporada": 1,
+      "nome": "Episódio 35",
+      "descricao": "Dec. 01, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/y3q8hwXejhRn6NehKgXuGHKuuBN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 35 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/35/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-35/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-34",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-34/",
+          "nome": "Soul Eater 1 Episodio 34"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-36",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-36/",
+          "nome": "Soul Eater 1 Episodio 36"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/35/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:33.216Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/35/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/35/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-36/",
+      "numero": 36,
+      "temporada": 1,
+      "nome": "Episódio 36",
+      "descricao": "Dec. 08, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/m29FqDxUZ2wz5YuGwqbNWJdD1Oh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 36 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/36/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-36/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-35",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-35/",
+          "nome": "Soul Eater 1 Episodio 35"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-37",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-37/",
+          "nome": "Soul Eater 1 Episodio 37"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/36/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:28.966Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/36/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/36/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-37/",
+      "numero": 37,
+      "temporada": 1,
+      "nome": "Episódio 37",
+      "descricao": "Dec. 15, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/5n0y1yf3nS9ZbOWusMNmVmlKeIu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 37 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/37/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-37/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-36",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-36/",
+          "nome": "Soul Eater 1 Episodio 36"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-38",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-38/",
+          "nome": "Soul Eater 1 Episodio 38"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/37/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:24.856Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/37/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/37/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-38/",
+      "numero": 38,
+      "temporada": 1,
+      "nome": "Episódio 38",
+      "descricao": "Dec. 22, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/eT4ClfY0ssTrzmlsMS9Zy6ovsDh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 38 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/38/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-38/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-37",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-37/",
+          "nome": "Soul Eater 1 Episodio 37"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-39",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-39/",
+          "nome": "Soul Eater 1 Episodio 39"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/38/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:20.768Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/38/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/38/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-39/",
+      "numero": 39,
+      "temporada": 1,
+      "nome": "Episódio 39",
+      "descricao": "Jan. 05, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/cDE4r7YNDbFniPU15sLSZxjXppG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 39 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/39/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-39/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-38",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-38/",
+          "nome": "Soul Eater 1 Episodio 38"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-40",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-40/",
+          "nome": "Soul Eater 1 Episodio 40"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/39/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:16.684Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/39/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/39/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-40/",
+      "numero": 40,
+      "temporada": 1,
+      "nome": "Episódio 40",
+      "descricao": "Jan. 12, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/EUCyxs839AllK5aJNHculLfvYd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 40 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/40/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-40/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-39",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-39/",
+          "nome": "Soul Eater 1 Episodio 39"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-41",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-41/",
+          "nome": "Soul Eater 1 Episodio 41"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/40/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:12.605Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/40/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/40/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-41/",
+      "numero": 41,
+      "temporada": 1,
+      "nome": "Episódio 41",
+      "descricao": "Jan. 19, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/dZ4JcBBZfA9yLkOHaE220dHePcN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 41 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/41/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-41/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-40",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-40/",
+          "nome": "Soul Eater 1 Episodio 40"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-42",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-42/",
+          "nome": "Soul Eater 1 Episodio 42"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/41/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:08.531Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/41/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/41/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-42/",
+      "numero": 42,
+      "temporada": 1,
+      "nome": "Episódio 42",
+      "descricao": "Jan. 26, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/vqTj0Vch5Z58E7MVtP4x3e7HNEG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 42 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/42/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-42/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-41",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-41/",
+          "nome": "Soul Eater 1 Episodio 41"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-43",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-43/",
+          "nome": "Soul Eater 1 Episodio 43"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/42/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:04.393Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/42/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/42/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-43/",
+      "numero": 43,
+      "temporada": 1,
+      "nome": "Episódio 43",
+      "descricao": "Feb. 02, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/eEHfK3iLBkraGssZbhWp4r7ntLF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 43 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/43/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-43/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-42",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-42/",
+          "nome": "Soul Eater 1 Episodio 42"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-44",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-44/",
+          "nome": "Soul Eater 1 Episodio 44"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/43/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:16:00.262Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/43/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/43/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-44/",
+      "numero": 44,
+      "temporada": 1,
+      "nome": "Episódio 44",
+      "descricao": "Feb. 09, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/swjwtrNs4b27nFVNe2mo2cBx1Fs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 44 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/44/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-44/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-43",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-43/",
+          "nome": "Soul Eater 1 Episodio 43"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-45",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-45/",
+          "nome": "Soul Eater 1 Episodio 45"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/44/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:15:56.063Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/44/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/44/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-45/",
+      "numero": 45,
+      "temporada": 1,
+      "nome": "Episódio 45",
+      "descricao": "Feb. 16, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/arFs0pw59Szdk7atpHoEsmecuaf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 45 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/45/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-45/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-44",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-44/",
+          "nome": "Soul Eater 1 Episodio 44"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-46",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-46/",
+          "nome": "Soul Eater 1 Episodio 46"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/45/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:15:51.760Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/45/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/45/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-46/",
+      "numero": 46,
+      "temporada": 1,
+      "nome": "Episódio 46",
+      "descricao": "Feb. 23, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9sYL8gCO0T1buZyI5gx0eRdVERB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 46 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/46/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-46/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-45",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-45/",
+          "nome": "Soul Eater 1 Episodio 45"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-47",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-47/",
+          "nome": "Soul Eater 1 Episodio 47"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/46/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:15:47.678Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/46/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/46/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-47/",
+      "numero": 47,
+      "temporada": 1,
+      "nome": "Episódio 47",
+      "descricao": "Mar. 02, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/ptjTan3i1kqIS3wdM1Ovhhbajz9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 47 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/47/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-47/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-46",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-46/",
+          "nome": "Soul Eater 1 Episodio 46"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-48",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-48/",
+          "nome": "Soul Eater 1 Episodio 48"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/47/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:15:43.067Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/47/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/47/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-48/",
+      "numero": 48,
+      "temporada": 1,
+      "nome": "Episódio 48",
+      "descricao": "Mar. 09, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9HQXbvPmWRi9VyDyaRzIP83sP8N.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 48 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/48/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-48/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-47",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-47/",
+          "nome": "Soul Eater 1 Episodio 47"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-49",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-49/",
+          "nome": "Soul Eater 1 Episodio 49"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/48/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:15:38.937Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/48/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/48/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-49/",
+      "numero": 49,
+      "temporada": 1,
+      "nome": "Episódio 49",
+      "descricao": "Mar. 16, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/w1djjtwokzb9xyX71H0pSzgTmvl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 49 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/49/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-49/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-48",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-48/",
+          "nome": "Soul Eater 1 Episodio 48"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-50",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-50/",
+          "nome": "Soul Eater 1 Episodio 50"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/49/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:15:34.675Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/49/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/49/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-50/",
+      "numero": 50,
+      "temporada": 1,
+      "nome": "Episódio 50",
+      "descricao": "Mar. 23, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/bEZjb1RQAgQLxxYrFw85kYouoHV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 50 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/50/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-50/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-49",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-49/",
+          "nome": "Soul Eater 1 Episodio 49"
+        },
+        "nextEpisode": {
+          "slug": "e/soul-eater-1-episodio-51",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-51/",
+          "nome": "Soul Eater 1 Episodio 51"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/50/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:15:30.613Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/50/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/50/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/soul-eater-1-episodio-51/",
+      "numero": 51,
+      "temporada": 1,
+      "nome": "Episódio 51",
+      "descricao": "Mar. 30, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/7R6Ue5Y2Bsi70Av4alAMAnspfqV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Soul Eater: 1 Episodio 51 Online",
+        "animeSlug": "a/soul-eater",
+        "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/51/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/soul-eater-1-episodio-51/",
+        "previousEpisode": {
+          "slug": "e/soul-eater-1-episodio-50",
+          "link": "https://meusanimes.blog/e/soul-eater-1-episodio-50/",
+          "nome": "Soul Eater 1 Episodio 50"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/37305/1/51/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:15:26.451Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/37305/1/51/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/37305/1/51/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 51,
+    "totalEpisodios": 51,
+    "midiasColetadas": 0,
+    "iframesColetados": 51,
+    "detalhesColetadosEm": "2026-10-22T15:15:18.701Z"
+  },
+  "titulo": "Soul Eater",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9KH4ZJO3BKaoEBlqATBUSXCg4G7.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2008",
+  "publicadoEm": "Apr. 07, 2008",
+  "url": "https://meusanimes.blog/a/soul-eater/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/09/9KH4ZJO3BKaoEBlqATBUSXCg4G7.jpg",
+  "temporadas": 1,
+  "descricao": "Conta a história dos artesões estudantes de uma Escola Técnica Shinigami. Cada um tem uma arma diferente que é também o seu parceiro. Todos os estudantes e armas vão as aulas e tem dever de casa para fazer. O dever de casa normalmente consiste em capturar uma certa alma ou manter a paz no Mundo. Cada artesão tenta ajudar da melhor forma possível o seu companheiro e arma, para fazê-lo tornar-se uma “Death Scyte” e para isso a arma deve comer 99 ovos de Kishin e a alma de uma bruxa."
+}

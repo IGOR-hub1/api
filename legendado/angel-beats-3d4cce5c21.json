@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "angel-beats",
+  "capturadoEm": "2026-10-22T09:49:29.356Z",
+  "atualizadoEm": "2026-10-22T09:49:29.356Z",
+  "catalogo": {
+    "slug": "a/angel-beats",
+    "titulo": "Angel Beats!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/6FGbsF8k9dJrHfFVYV9mkoMRWvn.jpg",
+    "info": "Legendado • Apr. 03, 2010",
+    "audio": "Legendado",
+    "score": "7.903",
+    "ano": "2010",
+    "publicadoEm": "Apr. 03, 2010",
+    "url": "https://meusanimes.blog/a/angel-beats/",
+    "postId": "69097"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Angel Beats!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/6FGbsF8k9dJrHfFVYV9mkoMRWvn.jpg",
+  "score": "7.903",
+  "audio": "Legendado",
+  "ano": "2010",
+  "publicadoEm": "Apr. 03, 2010",
+  "url": "https://meusanimes.blog/a/angel-beats/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "fumikiri-jikan",
+  "capturadoEm": "2026-10-22T09:55:41.151Z",
+  "atualizadoEm": "2026-10-22T09:55:41.151Z",
+  "catalogo": {
+    "slug": "a/fumikiri-jikan",
+    "titulo": "Fumikiri Jikan",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/u5fDBSdpuU3IuFQFvtGgMzcto6k.jpg",
+    "info": "Legendado • Apr. 10, 2018",
+    "audio": "Legendado",
+    "score": "6.423",
+    "ano": "2018",
+    "publicadoEm": "Apr. 10, 2018",
+    "url": "https://meusanimes.blog/a/fumikiri-jikan/",
+    "postId": "36685"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      47
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Fumikiri Jikan",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/u5fDBSdpuU3IuFQFvtGgMzcto6k.jpg",
+  "score": "6.423",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Apr. 10, 2018",
+  "url": "https://meusanimes.blog/a/fumikiri-jikan/"
+}

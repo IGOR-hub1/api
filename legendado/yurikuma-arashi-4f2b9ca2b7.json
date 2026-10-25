@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "yurikuma-arashi",
+  "capturadoEm": "2026-10-22T09:51:20.185Z",
+  "atualizadoEm": "2026-10-22T09:51:20.185Z",
+  "catalogo": {
+    "slug": "a/yurikuma-arashi",
+    "titulo": "Yurikuma Arashi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/dxDVHkDSzW7TLsrbSvX7e5gjU9y.jpg",
+    "info": "Legendado • Jan. 05, 2015",
+    "audio": "Legendado",
+    "score": "6.391",
+    "ano": "2015",
+    "publicadoEm": "Jan. 05, 2015",
+    "url": "https://meusanimes.blog/a/yurikuma-arashi/",
+    "postId": "60358"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      28
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Yurikuma Arashi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/dxDVHkDSzW7TLsrbSvX7e5gjU9y.jpg",
+  "score": "6.391",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jan. 05, 2015",
+  "url": "https://meusanimes.blog/a/yurikuma-arashi/"
+}

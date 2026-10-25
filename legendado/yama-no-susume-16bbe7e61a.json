@@ -1,0 +1,1020 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "yama-no-susume",
+  "capturadoEm": "2026-10-22T09:48:39.451Z",
+  "atualizadoEm": "2026-10-23T03:39:19.688Z",
+  "catalogo": {
+    "slug": "a/yama-no-susume",
+    "titulo": "Yama no Susume",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/r1L7E5dtfPr6RMuBL9FVskmRxGc.jpg",
+    "info": "Legendado • Jan. 03, 2013",
+    "audio": "Legendado",
+    "score": "6.448",
+    "ano": "2013",
+    "publicadoEm": "Jan. 03, 2013",
+    "url": "https://meusanimes.blog/a/yama-no-susume/",
+    "postId": "76770"
+  },
+  "detalhes": {
+    "slug": "a/yama-no-susume",
+    "titulo": "Yama no Susume",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/r1L7E5dtfPr6RMuBL9FVskmRxGc.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/r1L7E5dtfPr6RMuBL9FVskmRxGc.jpg",
+    "sinopse": "Aoi, Encouragement Of Climb, prefere hobbies internos e tem medo de altura, mas sua amiga de infância, Hinata, adora mostrar sua paixão por escalar montanhas. Quando crianças, uma vez elas assistiram o nascer do sol no topo de uma montanha e agora decidiram voltar a escalar, esperando poder ver aquele nascer do sol de novo. Elas travam batalhas culinárias com equipamento de montanhismo, escalam pequenas colinas em seu bairro e conhecem novos amigos de montanhismo enquanto aprendem as cordas do hobby. Conseguirão elas ver aquele nascer do sol novamente?",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2013",
+    "publicadoEm": "Jan. 03, 2013",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/yama-no-susume/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 03, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/3tkC8rM1QuIKy2XILcjNNqv87GP.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 10, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9r7MblRzTiL0rnMxuRrFiiXV6Bc.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 17, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yx9lhvMZ6ZPgsMgS5v0Kd49kHBH.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 24, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6I6g2MI3uOzBnp2c1Q93i7sijWU.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jan. 31, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vBgFfKkplCHYnDJOmLzRoVwaKdv.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 07, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/v2cRcH66lLIVupzo2jsxZVnEV6h.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 14, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yRTMedLPogNt5fbZom7uTJk0gry.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 21, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/oJglSG2IKGDlhWiYKdZviOLkEGO.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Feb. 28, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/8LP9czDVUw7X6iTUbGdNnUJfdev.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 07, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/263uk35Du9kWBQvEtx0hBIzQLCO.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 14, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tRLPD80e5lSmLQql3P6qnDD0QTN.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 21, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bRsY2PxbqH3edwsrqXwEBRZLYx5.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 09, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/8XW3fzEo3RHSO58itojUlFAo7lZ.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 16, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/zCurU8ENGH6B2MSvw9z6QlhHgqP.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 23, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/20GkCDmYv864KYrjJWf6sUxAddX.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 30, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/a5JrA2Ynlbefr4wiezx4nx27ag1.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 06, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/iNMz1UQqqYM4ytcfmxczFRnDwT3.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 13, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rw24BF9UQo9KltDK3oTqQqo4DWY.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 20, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bZcXpr70qfG5xilTbGaW3OAZcY4.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 27, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/jWt7wrp0JQFRRuOGGQXOfFsFSvT.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 03, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/3deGyxg84oCUIoLhkMe46KyEXuf.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 10, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vIJHTydNqZC49014pcxJuEuoahQ.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 17, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5WwOgZ60ES38zCuSrl53pF7yCvt.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 24, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6ufdpQ2QofKYWxPljNbvcP0ue5C.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 08, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7IbJh0zDcQZJGPMTIHkPLg5QRjj.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 15, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rm9kl9UjWrBjeupFDIum1sG8JCo.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 22, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/3Up5WA85iIBHu7MaBOz7NQ9Gu0u.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 29, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2fufcBWCNX4IUOhpC4rF9P17Box.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Nov. 05, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/y71dPX1ywPNysLYVhDlul6mdicJ.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-18/",
+      "numero": 18,
+      "temporada": 2,
+      "nome": "Episódio 18",
+      "descricao": "Nov. 12, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pkAzcseYh8lniHjTrPpcD4JFsFq.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-19/",
+      "numero": 19,
+      "temporada": 2,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 19, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/q7PSQLOpnUWu2F5wmQsdg7NTwxs.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-20/",
+      "numero": 20,
+      "temporada": 2,
+      "nome": "Episódio 20",
+      "descricao": "Nov. 26, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/jOuHUpnH3sW3cDiGaqgA7O1Dv2R.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-21/",
+      "numero": 21,
+      "temporada": 2,
+      "nome": "Episódio 21",
+      "descricao": "Dec. 03, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/guzZec4knP5SI7Ku1KeuzR0bLfn.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-22/",
+      "numero": 22,
+      "temporada": 2,
+      "nome": "Episódio 22",
+      "descricao": "Dec. 10, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hmUk41mzcm5zyFXKBIDsLmKd9D.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-23/",
+      "numero": 23,
+      "temporada": 2,
+      "nome": "Episódio 23",
+      "descricao": "Dec. 17, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/3AnD8uoSnqw7kRLqebNJlgQZBgV.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-2-episodio-24/",
+      "numero": 24,
+      "temporada": 2,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 24, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ueCdpYjaUJXXxfNSA14XuJgb3dg.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/g4wTsXmGs14pG7rdHsx4Ggb2cvY.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gnqqzzRSVyfZAbKTqn5tT1RB8y0.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 16, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/Anv6HYFMSK66mNj2Cdj9gKgLP0J.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 23, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/mpoPEynm1lXkl6sujE16cg7Vlfw.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 30, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/24oV8uqavn1OyL8gVQxN0lDiVR8.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 06, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6fPU29lx2p2lAqgvW3F487OhVo5.jpg",
+      "audio": "Legendado"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 13, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tOCaP4UwmK6oz0iWp8zzEMQGxPN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 3 Episodio 7 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-6",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-6/",
+          "nome": "Encouragement Of Climb 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-8",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-8/",
+          "nome": "Encouragement Of Climb 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-23T03:39:19.688Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 20, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/nFMexpK36ssorcldZEEYcpWrZxM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 3 Episodio 8 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-7",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-7/",
+          "nome": "Encouragement Of Climb 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-9",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-9/",
+          "nome": "Encouragement Of Climb 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-23T03:39:10.829Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 27, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/adtme3iM3ovAEyA37BIUYhiCVue.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 3 Episodio 9 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-8",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-8/",
+          "nome": "Encouragement Of Climb 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-10",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-10/",
+          "nome": "Encouragement Of Climb 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-23T03:39:04.180Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 03, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/4rYW9kg108qOJ5e5BovuVcwT1OL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 3 Episodio 10 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-9",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-9/",
+          "nome": "Encouragement Of Climb 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-11",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-11/",
+          "nome": "Encouragement Of Climb 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-23T03:38:41.885Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 10, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pUVnTs3xFIEn6MYuaEhRgBlVWxP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 3 Episodio 11 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-10",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-10/",
+          "nome": "Encouragement Of Climb 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-12",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-12/",
+          "nome": "Encouragement Of Climb 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-23T03:38:37.427Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 17, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pNcwAB9y52ZUuF3OHouMfIc5d0F.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 3 Episodio 12 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-11",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-11/",
+          "nome": "Encouragement Of Climb 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-13",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-13/",
+          "nome": "Encouragement Of Climb 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:24:55.388Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-13/",
+      "numero": 13,
+      "temporada": 3,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 24, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dnkkLespBtd4K4GogRMX70oe66I.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 3 Episodio 13 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-3-episodio-12",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-3-episodio-12/",
+          "nome": "Encouragement Of Climb 3 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/3/13/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:23:01.631Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/3/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/3/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 05, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vmX3WDJDhpclZ1dL4X8ypOBFrZG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 1 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-2",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-2/",
+          "nome": "Encouragement Of Climb 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:22:23.041Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 12, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sPCwMc2XKMrhHSNK1QluA5KtggZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 2 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-1",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-1/",
+          "nome": "Encouragement Of Climb 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-3",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-3/",
+          "nome": "Encouragement Of Climb 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:22:18.756Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 19, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yIbYzQ23PX5NXQ6Mg1pahZkQRVV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 3 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-2",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-2/",
+          "nome": "Encouragement Of Climb 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-4",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-4/",
+          "nome": "Encouragement Of Climb 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:22:14.492Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 26, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vSzhodFXOqra4qtjJvvcRgDv7Ca.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 4 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-3",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-3/",
+          "nome": "Encouragement Of Climb 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-5",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-5/",
+          "nome": "Encouragement Of Climb 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:22:10.088Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 02, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/x6vgJcHSb3J2y2bxxR3zWwFpBW7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 5 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-4",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-4/",
+          "nome": "Encouragement Of Climb 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-6",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-6/",
+          "nome": "Encouragement Of Climb 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:22:05.941Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 09, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/u40tvoduPu9pq4dfed9KgkF2v60.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 6 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-5",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-5/",
+          "nome": "Encouragement Of Climb 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-7",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-7/",
+          "nome": "Encouragement Of Climb 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:22:01.506Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 16, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/mCwAxI8vFm3aoFWExE6eWuV1Bng.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 7 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-6",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-6/",
+          "nome": "Encouragement Of Climb 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-8",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-8/",
+          "nome": "Encouragement Of Climb 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:57.264Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 23, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xw3eVwnYGvt7EV7mk0fmjV43LOO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 8 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-7",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-7/",
+          "nome": "Encouragement Of Climb 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-9",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-9/",
+          "nome": "Encouragement Of Climb 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:53.016Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 30, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/iOa0H2yU2SCxjekqUCp0BQmWhRv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 9 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-8",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-8/",
+          "nome": "Encouragement Of Climb 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-10",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-10/",
+          "nome": "Encouragement Of Climb 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:48.610Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 07, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/jUiDOGyWBx6isFD6ySAKenS05g0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 10 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-9",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-9/",
+          "nome": "Encouragement Of Climb 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-11",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-11/",
+          "nome": "Encouragement Of Climb 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:44.363Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 14, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/p1SQPH9lFiNeI747zEkc9z9bE2y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 11 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-10",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-10/",
+          "nome": "Encouragement Of Climb 4 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-12",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-12/",
+          "nome": "Encouragement Of Climb 4 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:40.179Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 21, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bcdG9JFThJQ73RFDhSJna42YKK4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yama no Susume: 4 Episodio 12 Online",
+        "animeSlug": "a/yama-no-susume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/encouragement-of-climb-4-episodio-11",
+          "link": "https://meusanimes.blog/e/encouragement-of-climb-4-episodio-11/",
+          "nome": "Encouragement Of Climb 4 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/53918/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:36.041Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/53918/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/53918/4/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 19,
+    "totalEpisodios": 61,
+    "midiasColetadas": 0,
+    "iframesColetados": 19,
+    "detalhesColetadosEm": "2026-10-23T00:21:28.787Z"
+  },
+  "titulo": "Yama no Susume",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/r1L7E5dtfPr6RMuBL9FVskmRxGc.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2013",
+  "publicadoEm": "Jan. 03, 2013",
+  "url": "https://meusanimes.blog/a/yama-no-susume/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/r1L7E5dtfPr6RMuBL9FVskmRxGc.jpg",
+  "temporadas": 4,
+  "descricao": "Aoi, Encouragement Of Climb, prefere hobbies internos e tem medo de altura, mas sua amiga de infância, Hinata, adora mostrar sua paixão por escalar montanhas. Quando crianças, uma vez elas assistiram o nascer do sol no topo de uma montanha e agora decidiram voltar a escalar, esperando poder ver aquele nascer do sol de novo. Elas travam batalhas culinárias com equipamento de montanhismo, escalam pequenas colinas em seu bairro e conhecem novos amigos de montanhismo enquanto aprendem as cordas do hobby. Conseguirão elas ver aquele nascer do sol novamente?"
+}

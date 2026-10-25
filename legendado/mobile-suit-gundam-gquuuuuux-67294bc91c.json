@@ -1,0 +1,431 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mobile-suit-gundam-gquuuuuux",
+  "capturadoEm": "2026-10-22T09:45:58.124Z",
+  "atualizadoEm": "2026-10-22T17:28:32.504Z",
+  "catalogo": {
+    "slug": "a/mobile-suit-gundam-gquuuuuux",
+    "titulo": "Mobile Suit Gundam GQuuuuuuX",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fyPkuoqllQX6k8KbjJvkkEAIgpq.jpg",
+    "info": "Legendado • Apr. 09, 2025",
+    "audio": "Legendado",
+    "score": "7.38",
+    "ano": "2025",
+    "publicadoEm": "Apr. 09, 2025",
+    "url": "https://meusanimes.blog/a/mobile-suit-gundam-gquuuuuux/",
+    "postId": "94044"
+  },
+  "detalhes": {
+    "slug": "a/mobile-suit-gundam-gquuuuuux",
+    "titulo": "Mobile Suit Gundam GQuuuuuuX",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fyPkuoqllQX6k8KbjJvkkEAIgpq.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/fyPkuoqllQX6k8KbjJvkkEAIgpq.jpg",
+    "sinopse": "Amate Yuzuriha é uma estudante do colegial vivendo de forma pacata em uma colônia flutuando no meio do espaço. Quando ela conhece uma refugiada de guerra chamada Nyaan, Amate é atraída para um esporte ilegal de batalhas de Mobile Suits, chamado Batalha de Clãs.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Drama",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Apr. 09, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/mobile-suit-gundam-gquuuuuux/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 09, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/z8yrLuo5SK2XHp3Wj4NkHSCNXZ0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 1 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-2",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-2/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:28:32.504Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 16, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/5NrQ0GgrA0Mi85x0b9Va5W5iNMV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 2 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-1",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-1/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-3",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-3/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:28:28.372Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 23, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/1mL7LdFYRNHIsPHBCIgwrXWocxo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 3 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-2",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-2/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-4",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-4/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:28:24.153Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 30, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fU1P9SjwYeT7w68dbNEFRZRzSKI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 4 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-3",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-3/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-5",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-5/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:28:19.871Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 07, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xWdqyBebyohym1jbMxcKFJsNYIC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 5 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-4",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-4/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-6",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-6/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:28:15.752Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 14, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4kBro2xsfpCQUWcO0IxznJaTlry.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 6 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-5",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-5/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-7",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-7/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:28:11.647Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 21, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/bbraJvMPTFgVXI1NPPhzv6xwtvG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 7 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-6",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-6/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-8",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-8/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:28:07.529Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 28, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/jBmiq2VVwUDkjau0nQmamSLxNjt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 8 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-7",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-7/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-9",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-9/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:28:03.407Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 04, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/5CxnpKGjifCpQairtaBpBhiNjkE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 9 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-8",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-8/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-10",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-10/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:59.271Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 11, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/qgd6yNR6pq6WSHMNLSmAlkOnOQu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 10 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-9",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-9/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-11",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-11/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:55.152Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 18, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8KsrleOjthwLraE9qtgv06GNUQx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 11 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-10",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-10/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-12",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-12/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:51.029Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 25, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/e6i2CHGYj3oN2YM3CSIYNDXuxkZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mobile Suit Gundam GQuuuuuuX: 1 Episodio 12 Online",
+        "animeSlug": "a/mobile-suit-gundam-gquuuuuux",
+        "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mobile-suit-gundam-gquuuuuux-episodio-11",
+          "link": "https://meusanimes.blog/e/mobile-suit-gundam-gquuuuuux-episodio-11/",
+          "nome": "Mobile Suit Gundam GQuuuuuuX Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/278704/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:46.889Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/278704/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/278704/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T17:27:42.086Z"
+  },
+  "titulo": "Mobile Suit Gundam GQuuuuuuX",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fyPkuoqllQX6k8KbjJvkkEAIgpq.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Apr. 09, 2025",
+  "url": "https://meusanimes.blog/a/mobile-suit-gundam-gquuuuuux/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/fyPkuoqllQX6k8KbjJvkkEAIgpq.jpg",
+  "temporadas": 1,
+  "descricao": "Amate Yuzuriha é uma estudante do colegial vivendo de forma pacata em uma colônia flutuando no meio do espaço. Quando ela conhece uma refugiada de guerra chamada Nyaan, Amate é atraída para um esporte ilegal de batalhas de Mobile Suits, chamado Batalha de Clãs."
+}

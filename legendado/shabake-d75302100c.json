@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shabake",
+  "capturadoEm": "2026-10-22T09:53:51.341Z",
+  "atualizadoEm": "2026-10-22T09:53:51.341Z",
+  "catalogo": {
+    "slug": "a/shabake",
+    "titulo": "Shabake",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/95frFI1k6Acjes3LNKAv4mexU0C.jpg",
+    "info": "Legendado • Oct. 03, 2025",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 03, 2025",
+    "url": "https://meusanimes.blog/a/shabake/",
+    "postId": "44916"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      39
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Shabake",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/95frFI1k6Acjes3LNKAv4mexU0C.jpg",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 03, 2025",
+  "url": "https://meusanimes.blog/a/shabake/"
+}

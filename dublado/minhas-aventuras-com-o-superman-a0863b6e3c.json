@@ -1,0 +1,974 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "minhas-aventuras-com-o-superman",
+  "capturadoEm": "2026-10-22T00:16:25.433Z",
+  "atualizadoEm": "2026-10-22T09:41:13.586Z",
+  "catalogo": {
+    "slug": "a/minhas-aventuras-com-o-superman",
+    "titulo": "Minhas Aventuras com o Superman",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/fWUT4nigzZHdmK7KlzJHvTocNFq.jpg",
+    "info": "Dublado • Jul. 07, 2023",
+    "audio": "Dublado",
+    "score": "8.153",
+    "ano": "2023",
+    "publicadoEm": "Jul. 07, 2023",
+    "url": "https://meusanimes.blog/a/minhas-aventuras-com-o-superman/",
+    "postId": "90661"
+  },
+  "detalhes": {
+    "slug": "a/minhas-aventuras-com-o-superman",
+    "titulo": "Minhas Aventuras com o Superman",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/fWUT4nigzZHdmK7KlzJHvTocNFq.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/06/fWUT4nigzZHdmK7KlzJHvTocNFq.jpg",
+    "sinopse": "Acompanha Clark Kent, Lois Lane e Jimmy Olsen no processo de descobrir quem eles são e o que conseguem fazer enquanto salvam sua cidade de forças que conspiram para destruí-la!",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Ficção científica",
+      "Romance",
+      "Shounen",
+      "Slice Of Life"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2023",
+    "publicadoEm": "Jul. 07, 2023",
+    "temporadas": 3,
+    "url": "https://meusanimes.blog/a/minhas-aventuras-com-o-superman/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 07, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/9QmV72WQgujO3SAqz3Z2vfMPDSc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 1 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-2",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-2/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:18:30.018Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 07, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/2y0u4CCzuFctOLqwWrHWmJwf795.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 2 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-1",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-1/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-3",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-3/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:18:25.861Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 14, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/1FM9HlxYFGWMc4b9bzhLZMHdTVN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 3 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-2",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-2/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-4",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-4/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:18:21.564Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/dsS6xuMBGr83Jvu5gegZOfCBojo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 4 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-3",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-3/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-5",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-5/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:18:17.492Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 28, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/eVHTeQKfuTxkEpo8yNb9suAeCvM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 5 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-4",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-4/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-6",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-6/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:18:13.328Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 04, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/dtzGqPr6DxLnZt8qAossTQyycyQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 6 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-5",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-5/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-7",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-7/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:18:09.176Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 11, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/8BtIQ2wuj5MEbvu4vhnTqUDo98u.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 7 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-6",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-6/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-8",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-8/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:18:05.095Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 18, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/yuZUXf88P1AmwQTfAmyjxzkkrlH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 8 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-7",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-7/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-9",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-9/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:18:00.960Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 25, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/beuYsuCaxFrMngKwF3NTH0uDenn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 9 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-8",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-8/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-10",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-10/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:56.570Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 01, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/meRkQo2HokP00dEVHJVQvHJaDVF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 1 Episodio 10 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-1-episodio-9",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-1-episodio-9/",
+          "nome": "Minhas Aventuras com o Superman 1 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:52.477Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "May. 26, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/62arZSh1BDbQcQNh2vX9Z4BeOcD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 1 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-2",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-2/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:48.371Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "May. 26, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/mkboEKciB1D4dvXkz3vA7WwRzGD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 2 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-1",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-1/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-3",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-3/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:44.289Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jun. 02, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/yvprgEMWqVRTnCSx5FGDFm9u6tS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 3 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-2",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-2/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-4",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-4/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:40.193Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jun. 09, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/8F1qnXkunGLVvvBtPyG12hdsjql.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 4 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-3",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-3/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-5",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-5/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:36.124Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Jun. 16, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/f9X6wHj2t3OEdpl2euBP1qVlZJQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 5 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-4",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-4/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-6",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-6/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:32.001Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Jun. 23, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/w8CzsyJVQdg8JH3e5CJIlQA2RDM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 6 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-5",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-5/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-7",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-7/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:27.958Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Jun. 30, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/eW8v4mT8jGDGRmw1uzSaxpfRBJG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 7 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-6",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-6/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-8",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-8/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:23.388Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Jul. 07, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/giqnv0PscrCAwuEsWGvEtnSPyHS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 8 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-7",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-7/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-9",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-9/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:19.275Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Jul. 14, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/unQiCXOKlySNQ87dxlWDxKyRoqp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 9 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-8",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-8/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-10",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-10/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:15.185Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jul. 21, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/nnkZY615dU0cEqYh2dnI2NKBXym.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 2 Episodio 10 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-2-episodio-9",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-2-episodio-9/",
+          "nome": "Minhas Aventuras com o Superman 2 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:11.140Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/k4qcd3KYQ5L322tO8Z9CcDoHzvc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 1 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-2",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-2/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:07.034Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Jun. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/dLqxgU2l3HmlsSeCKeew6I0OHcM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 2 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-1",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-1/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-3",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-3/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:17:02.832Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Jun. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/lJZQQSso12QPp2T0wFiUgr5JBTr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 3 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-2",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-2/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-4",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-4/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:16:58.746Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lGpVJHg8qmiXXykjxyVIMCunFkb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 4 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-3",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-3/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-5",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-5/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:16:54.678Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xnGl9YjDOeyQychED7WAtuRLmPh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 5 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-4",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-4/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-6",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-6/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:16:50.552Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Jul. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/zj8YvpaIV8GPSJlRfkEtLml6JAU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 6 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-5",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-5/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-7",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-7/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:16:46.465Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Jul. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fPrbwecQuxtiZ5F3hWChAXOm1FI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 7 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-6",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-6/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-8",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-8/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:16:42.334Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/4R3zLZzDgizc1YBzUqvTkn28kqe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 8 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-7",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-7/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-9",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-9/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:16:38.237Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/p6Hn9qnZ8fFnqxrSBh4epqiRmAk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 9 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-8",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-8/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-10",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-10/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:16:34.102Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Aug. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/p3JCMbeeeEp4BWC28mmNceJRUY6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Minhas Aventuras com o Superman: 3 Episodio 10 Online",
+        "animeSlug": "a/minhas-aventuras-com-o-superman",
+        "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/minhas-aventuras-com-o-superman-dublado-s03-episodio-9",
+          "link": "https://meusanimes.blog/e/minhas-aventuras-com-o-superman-dublado-s03-episodio-9/",
+          "nome": "Minhas Aventuras com o Superman Dublado S03 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/125928/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:16:29.970Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/125928/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/125928/3/10/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 30,
+    "totalEpisodios": 30,
+    "detalhesColetadosEm": "2026-10-22T00:16:25.433Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 30
+  },
+  "titulo": "Minhas Aventuras com o Superman",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/fWUT4nigzZHdmK7KlzJHvTocNFq.jpg",
+  "score": "8.153",
+  "audio": "Dublado",
+  "ano": "2023",
+  "publicadoEm": "Jul. 07, 2023",
+  "url": "https://meusanimes.blog/a/minhas-aventuras-com-o-superman/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/06/fWUT4nigzZHdmK7KlzJHvTocNFq.jpg",
+  "temporadas": 3,
+  "descricao": "Acompanha Clark Kent, Lois Lane e Jimmy Olsen no processo de descobrir quem eles são e o que conseguem fazer enquanto salvam sua cidade de forças que conspiram para destruí-la!"
+}

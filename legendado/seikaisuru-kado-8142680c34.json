@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "seikaisuru-kado",
+  "capturadoEm": "2026-10-22T09:53:16.968Z",
+  "atualizadoEm": "2026-10-22T09:53:16.968Z",
+  "catalogo": {
+    "slug": "a/seikaisuru-kado",
+    "titulo": "Seikaisuru Kado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qCKBJzeQgkINkxvMEfMqZobm4dA.jpg",
+    "info": "Legendado • Apr. 07, 2017",
+    "audio": "Legendado",
+    "score": "7.8",
+    "ano": "2017",
+    "publicadoEm": "Apr. 07, 2017",
+    "url": "https://meusanimes.blog/a/seikaisuru-kado/",
+    "postId": "51131"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      37
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Seikaisuru Kado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qCKBJzeQgkINkxvMEfMqZobm4dA.jpg",
+  "score": "7.8",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Apr. 07, 2017",
+  "url": "https://meusanimes.blog/a/seikaisuru-kado/"
+}

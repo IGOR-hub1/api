@@ -1,0 +1,554 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+  "capturadoEm": "2026-10-22T09:45:50.147Z",
+  "atualizadoEm": "2026-10-22T16:01:15.913Z",
+  "catalogo": {
+    "slug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+    "titulo": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oulMDIOJBoFqMvM5Fku5XKazYGX.jpg",
+    "info": "Legendado • Em lançamento • Jul. 03, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Jul. 03, 2026",
+    "url": "https://meusanimes.blog/a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru/",
+    "postId": "92221"
+  },
+  "detalhes": {
+    "slug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+    "titulo": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oulMDIOJBoFqMvM5Fku5XKazYGX.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/oulMDIOJBoFqMvM5Fku5XKazYGX.jpg",
+    "sinopse": "Elma Edvaughn nasceu em uma família prestigiosa de mestres espadachins, mas seu futuro se despedaça quando ele desperta a chamada classe “falha” de Cavaleiro Pesado. Deserdado e banido, ele recupera as memórias de outra vida. Munido de um conhecimento que ninguém mais possui, ele parte para reescrever seu destino e provar a força da classe “mais fraca”.",
+    "generos": [
+      "Ação",
+      "Fantasia"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 03, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/t3UzqD6baWwEkcDw7rz8HML4k1W.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 1 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-2",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-2/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:01:15.913Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/22h9s3em8TxZYb46JyFGnb8IhgD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 2 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-1",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-1/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-3",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-3/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:01:11.784Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/mibYdWH4QAmdGn17hOChtOE7GsI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 3 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-2",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-2/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-4",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-4/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:01:07.742Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/2y0dlWJPTGXWAb3lazoiRqeflku.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 4 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-3",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-3/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-5",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-5/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:01:03.657Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/zwqiGXuZZEMpEtJNYJKQIyw0tAw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 5 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-4",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-4/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-6",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-6/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:59.555Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/95NZXAYb2pDKrZmWMTsyVBeOXXK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 6 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-5",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-5/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-7",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-7/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:55.446Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/9kviyiXte0KkL7WNFaGqRY7GjLX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 7 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-6",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-6/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-8",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-8/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:51.366Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/gKqQE0ww8K1Y9lmSefjKRgCpGDX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 8 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-7",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-7/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-9",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-9/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:47.287Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/qq2cc5cOhWBMGdUcbJgE8D2BX0o.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 9 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-8",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-8/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-10",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-10/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:43.103Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/8ZpUZZvkiKubSNcqJpPaw84B9xw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 10 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-9",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-9/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-11",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-11/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:38.981Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/8SApfPGTBto5Isiaxv2bEbHqLOZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 11 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-10",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-10/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-12",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-12/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:34.930Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/iAsmmqb0na9cAn6Q3Upx1b4YNtO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 12 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-11",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-11/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-13",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-13/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:30.856Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/7JMkQTaoAD0Z5vRRxQp6cFvJ0J9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 13 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-12",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-12/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-14",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-14/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:26.833Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/9Whma3O8sJePeIU9ZU81wIbQX3P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 14 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-13",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-13/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-15",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-15/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:22.743Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/tcQTDdZ4AuoiHiK5o6Cw00h2hp6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 15 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-14",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-14/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-16",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-16/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:18.670Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/lvgZ0gOjXItvE4I0UUIw77PWiBi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru: 1 Episodio 16 Online",
+        "animeSlug": "a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-15",
+          "link": "https://meusanimes.blog/e/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru-episodio-15/",
+          "nome": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru Episodio 15"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/270603/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T16:00:14.625Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/270603/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/270603/1/16/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 16,
+    "totalEpisodios": 16,
+    "midiasColetadas": 0,
+    "iframesColetados": 16,
+    "detalhesColetadosEm": "2026-10-22T16:00:09.382Z"
+  },
+  "titulo": "Tsuihou Sareta Tensei Juu Kishi wa Game Chishiki de Musou Suru",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oulMDIOJBoFqMvM5Fku5XKazYGX.jpg",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 03, 2026",
+  "url": "https://meusanimes.blog/a/tsuihou-sareta-tensei-juu-kishi-wa-game-chishiki-de-musou-suru/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/oulMDIOJBoFqMvM5Fku5XKazYGX.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Elma Edvaughn nasceu em uma família prestigiosa de mestres espadachins, mas seu futuro se despedaça quando ele desperta a chamada classe “falha” de Cavaleiro Pesado. Deserdado e banido, ele recupera as memórias de outra vida. Munido de um conhecimento que ninguém mais possui, ele parte para reescrever seu destino e provar a força da classe “mais fraca”."
+}

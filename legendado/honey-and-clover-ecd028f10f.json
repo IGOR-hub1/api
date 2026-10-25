@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "honey-and-clover",
+  "capturadoEm": "2026-10-22T09:49:49.617Z",
+  "atualizadoEm": "2026-10-22T09:49:49.617Z",
+  "catalogo": {
+    "slug": "a/honey-and-clover",
+    "titulo": "Honey and Clover",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg",
+    "info": "Legendado • Apr. 15, 2005",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2005",
+    "publicadoEm": "Apr. 15, 2005",
+    "url": "https://meusanimes.blog/a/honey-and-clover/",
+    "postId": "67317"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      22
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Honey and Clover",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2005",
+  "publicadoEm": "Apr. 15, 2005",
+  "url": "https://meusanimes.blog/a/honey-and-clover/"
+}

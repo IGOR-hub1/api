@@ -1,0 +1,787 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "o-sangue-de-zeus-dublado",
+  "capturadoEm": "2026-10-22T05:08:09.220Z",
+  "atualizadoEm": "2026-10-22T09:42:34.964Z",
+  "catalogo": {
+    "slug": "a/o-sangue-de-zeus-dublado",
+    "titulo": "O Sangue de Zeus Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uJQLr38lPns27rthb7fs80U3kGA.jpg",
+    "info": "Dublado • Oct. 27, 2020",
+    "audio": "Dublado",
+    "score": "7.755",
+    "ano": "2020",
+    "publicadoEm": "Oct. 27, 2020",
+    "url": "https://meusanimes.blog/a/o-sangue-de-zeus-dublado/",
+    "postId": "75463"
+  },
+  "detalhes": {
+    "slug": "a/o-sangue-de-zeus-dublado",
+    "titulo": "O Sangue de Zeus Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uJQLr38lPns27rthb7fs80U3kGA.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/uJQLr38lPns27rthb7fs80U3kGA.jpg",
+    "sinopse": "Blood of Zeus, Um plebeu que vive na Grécia antiga descobre que é filho de Zeus e que seu propósito é salvar o mundo de um exército demoníaco.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica",
+      "Suspense"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2020",
+    "publicadoEm": "Oct. 27, 2020",
+    "temporadas": 3,
+    "url": "https://meusanimes.blog/a/o-sangue-de-zeus-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uShXWseJqyVGHI9H8sT7hg2Ojmk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-2",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-2/",
+          "nome": "O Sangue de Zeus 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:52.631Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9Fqc9VsUejycJlx1BBzstWUYr2o.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-1",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-1/",
+          "nome": "O Sangue de Zeus 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-3",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-3/",
+          "nome": "O Sangue de Zeus 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:48.459Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kmeBH4P3xfiEWzjfnoouj67pL9O.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-2",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-2/",
+          "nome": "O Sangue de Zeus 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-4",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-4/",
+          "nome": "O Sangue de Zeus 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:44.144Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gjUjNokqNHOuJvLdSRRjVm1sSMv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-3",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-3/",
+          "nome": "O Sangue de Zeus 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-5",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-5/",
+          "nome": "O Sangue de Zeus 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:39.997Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yLEVVVmJKlDoxpC1tSRv2yG4MGx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-4",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-4/",
+          "nome": "O Sangue de Zeus 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-6",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-6/",
+          "nome": "O Sangue de Zeus 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:35.843Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Oct. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/82qsUw4SccKVG3uN1VQRgsuFPTm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-5",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-5/",
+          "nome": "O Sangue de Zeus 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-7",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-7/",
+          "nome": "O Sangue de Zeus 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:31.687Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Oct. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qayo5Z5bKSq5dX9f0XvIAogaen4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-6",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-6/",
+          "nome": "O Sangue de Zeus 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-8",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-8/",
+          "nome": "O Sangue de Zeus 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:27.526Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Oct. 27, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/4UDXgYyB4tDbuIKVmg0hxgdIFM1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-1-episodio-7",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-1-episodio-7/",
+          "nome": "O Sangue de Zeus 1 Episodio 7"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:23.361Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "May. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/A2eAd5aEXtce211D8A7G9JqKfNL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-2",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-2/",
+          "nome": "O Sangue de Zeus 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:19.144Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "May. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/oGjH4uXw5s03F46X2ReNCsrIUeJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-1",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-1/",
+          "nome": "O Sangue de Zeus 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-3",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-3/",
+          "nome": "O Sangue de Zeus 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:15.009Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "May. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/t8yCdpmyXFKXUU81jh2qEsxq3IH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-2",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-2/",
+          "nome": "O Sangue de Zeus 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-4",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-4/",
+          "nome": "O Sangue de Zeus 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:10.843Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "May. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pSUxDRqOJGqX5GrT6PWBV6TdACQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-3",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-3/",
+          "nome": "O Sangue de Zeus 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-5",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-5/",
+          "nome": "O Sangue de Zeus 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:06.668Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pwzAV61b1czKm5RyhtlcQoAtOs7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-4",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-4/",
+          "nome": "O Sangue de Zeus 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-6",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-6/",
+          "nome": "O Sangue de Zeus 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:09:02.452Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/8UIS2vA7AOJH7P8BLSwDSGSWrhq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-5",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-5/",
+          "nome": "O Sangue de Zeus 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-7",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-7/",
+          "nome": "O Sangue de Zeus 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:58.285Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wR1jjFUskXkIrqHqGsxCJP7dxpl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-6",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-6/",
+          "nome": "O Sangue de Zeus 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-8",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-8/",
+          "nome": "O Sangue de Zeus 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:54.108Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cOe8E7L6FtUXOjQKrIXqQKpurb2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-2-episodio-7",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-2-episodio-7/",
+          "nome": "O Sangue de Zeus 2 Episodio 7"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:49.970Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "May. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bo5uZB6jcwzu1OeJyf6HpeRb6bd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 3 Episodio 1 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-2",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-2/",
+          "nome": "O Sangue de Zeus 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:45.753Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "May. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gqsjSTDVQMufqivJ8SByosx0cef.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 3 Episodio 2 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-1",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-1/",
+          "nome": "O Sangue de Zeus 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-3",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-3/",
+          "nome": "O Sangue de Zeus 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:41.589Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "May. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dE7JkSfzMRcadGfJMhYYvsUhUGX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 3 Episodio 3 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-2",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-2/",
+          "nome": "O Sangue de Zeus 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-4",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-4/",
+          "nome": "O Sangue de Zeus 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:37.404Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "May. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6Yox5yzDC75FcCaa0ywBBRsU0I2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 3 Episodio 4 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-3",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-3/",
+          "nome": "O Sangue de Zeus 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-5",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-5/",
+          "nome": "O Sangue de Zeus 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:33.240Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "May. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pRzix3ZuUYnYVolv6jfqIulfOwW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 3 Episodio 5 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-4",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-4/",
+          "nome": "O Sangue de Zeus 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-6",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-6/",
+          "nome": "O Sangue de Zeus 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:29.036Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "May. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7jAlse3WZav55dzwO1KUGon2isg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 3 Episodio 6 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-5",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-5/",
+          "nome": "O Sangue de Zeus 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-7",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-7/",
+          "nome": "O Sangue de Zeus 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:24.868Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "May. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/39KunFOGgC6j5Bf8gSkZXfK7DZm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 3 Episodio 7 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-6",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-6/",
+          "nome": "O Sangue de Zeus 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-8",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-8/",
+          "nome": "O Sangue de Zeus 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:20.704Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "May. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/h3xDQ6A3plQtmYCx1ZdpKNdKhkM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "O Sangue de Zeus Dublado: 3 Episodio 8 Online",
+        "animeSlug": "a/o-sangue-de-zeus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/o-sangue-de-zeus-3-episodio-7",
+          "link": "https://meusanimes.blog/e/o-sangue-de-zeus-3-episodio-7/",
+          "nome": "O Sangue de Zeus 3 Episodio 7"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/111111/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:08:16.393Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/111111/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/111111/3/8/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      13
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T05:08:09.220Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "O Sangue de Zeus Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uJQLr38lPns27rthb7fs80U3kGA.jpg",
+  "score": "7.755",
+  "audio": "Dublado",
+  "ano": "2020",
+  "publicadoEm": "Oct. 27, 2020",
+  "url": "https://meusanimes.blog/a/o-sangue-de-zeus-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/uJQLr38lPns27rthb7fs80U3kGA.jpg",
+  "temporadas": 3,
+  "descricao": "Blood of Zeus, Um plebeu que vive na Grécia antiga descobre que é filho de Zeus e que seu propósito é salvar o mundo de um exército demoníaco."
+}

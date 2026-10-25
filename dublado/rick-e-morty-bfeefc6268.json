@@ -1,0 +1,2814 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "rick-e-morty",
+  "capturadoEm": "2026-10-22T00:59:46.143Z",
+  "atualizadoEm": "2026-10-22T09:41:32.401Z",
+  "catalogo": {
+    "slug": "a/rick-e-morty",
+    "titulo": "Rick e Morty",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+    "info": "Dublado • Dec. 02, 2013",
+    "audio": "Dublado",
+    "score": "8.686",
+    "ano": "2013",
+    "publicadoEm": "Dec. 02, 2013",
+    "url": "https://meusanimes.blog/a/rick-e-morty/",
+    "postId": "10808"
+  },
+  "detalhes": {
+    "slug": "a/rick-e-morty",
+    "titulo": "Rick e Morty",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+    "sinopse": "Online, Assistir Rick e Morty Completo em HD e Full HD, Assistir Rick and Morty Online. Rick é um velho mentalmente desequilibrado, mas cientificamente talentoso que se reconectou recentemente com sua família. Ele passa a maior parte do tempo envolvendo o jovem neto Morty em aventuras perigosas e estranhas no espaço e em universos alternativos. Compostos à vida familiar já instável de Morty, esses eventos causam muito sofrimento a Morty em casa e na escola.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Desenho"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2013",
+    "publicadoEm": "Dec. 02, 2013",
+    "temporadas": 9,
+    "url": "https://meusanimes.blog/a/rick-e-morty/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Dec. 02, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 1 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-2/",
+          "nome": "Rick e Morty 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:06:07.126Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Dec. 09, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/zsO5ylZLn7ihplZFqPmOz2v87R7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 2 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-1",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-1/",
+          "nome": "Rick e Morty 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-3/",
+          "nome": "Rick e Morty 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:06:03.022Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Dec. 16, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3cp6QrExDBQUFGcOu43NBtaugNY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 3 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-2/",
+          "nome": "Rick e Morty 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-4/",
+          "nome": "Rick e Morty 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:58.919Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 13, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9hbDdbHeHIuquiwQ5zdux57nYTk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 4 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-3/",
+          "nome": "Rick e Morty 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-5/",
+          "nome": "Rick e Morty 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:54.340Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jan. 20, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9nh9ZpxOyCJMD73biS2h3CvHfm2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 5 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-4/",
+          "nome": "Rick e Morty 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-6/",
+          "nome": "Rick e Morty 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:50.138Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Jan. 27, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hY750JVvL7K9KQN9lcqPTqcUEkN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 6 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-5/",
+          "nome": "Rick e Morty 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-7/",
+          "nome": "Rick e Morty 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:45.931Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 10, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/j7qn7TIOSQOHZBgVi4NKnTpIcgM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 7 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-6/",
+          "nome": "Rick e Morty 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-8/",
+          "nome": "Rick e Morty 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:41.843Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 17, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/HaTpHoQw2DWFAtHgGKn4gLOEaX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 8 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-7/",
+          "nome": "Rick e Morty 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-9/",
+          "nome": "Rick e Morty 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:37.702Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 24, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/daA9q3U3ibIcm5OGuklySeIsQWV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 9 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-8/",
+          "nome": "Rick e Morty 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-10/",
+          "nome": "Rick e Morty 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:33.541Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Apr. 07, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8gOouaPQhfB8cC01sYyFLYgTcRq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 10 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-9/",
+          "nome": "Rick e Morty 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-11",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-11/",
+          "nome": "Rick e Morty 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:29.444Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Apr. 14, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mLJbMSLaB8CZmr07GJGH9TiG4PL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 1 Episodio 11 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-1-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-1-episodio-10/",
+          "nome": "Rick e Morty 1 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:25.316Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 26, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/49kPj1L8KkJAnhnqJIftr3fdXHt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 1 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-2/",
+          "nome": "Rick e Morty 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:20.931Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Aug. 02, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/zsrtewu4jJPh4vB5ZDB9oW36tm8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 2 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-1",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-1/",
+          "nome": "Rick e Morty 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-3/",
+          "nome": "Rick e Morty 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:16.568Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Aug. 09, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/6zOHPMTvduupyEDqL8FnLGt6fxq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 3 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-2/",
+          "nome": "Rick e Morty 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-4/",
+          "nome": "Rick e Morty 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:12.416Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 16, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xVQqoLFSCzFtKp0OkW4PGPc7NtB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 4 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-3/",
+          "nome": "Rick e Morty 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-5/",
+          "nome": "Rick e Morty 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:08.222Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 23, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jBUDahgRdHQUrDGcd44ju2AllbV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 5 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-4/",
+          "nome": "Rick e Morty 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-6/",
+          "nome": "Rick e Morty 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:05:04.071Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 30, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9T5ZiW2qhqMRdx79q800SBYbxDv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 6 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-5/",
+          "nome": "Rick e Morty 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-7/",
+          "nome": "Rick e Morty 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:59.844Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Sep. 13, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mmGdga7NBsz7CCZNVJrZ7bvzuOe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 7 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-6/",
+          "nome": "Rick e Morty 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-8/",
+          "nome": "Rick e Morty 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:55.560Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 20, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fm5rzPCXTLr1SlSmylBkNkZhF1P.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 8 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-7/",
+          "nome": "Rick e Morty 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-9/",
+          "nome": "Rick e Morty 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:51.220Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 27, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/uK0bpV9Oc07FfCsPk6BISqKj7bS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 9 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-8/",
+          "nome": "Rick e Morty 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-10/",
+          "nome": "Rick e Morty 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:47.052Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Oct. 04, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/tre38ZRSWjC1Z5f7AbI4TDo8w1t.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 2 Episodio 10 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-2-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-2-episodio-9/",
+          "nome": "Rick e Morty 2 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:42.964Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 01, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xwxRcQRpTpUlWN34mP0SpQCbfvs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 1 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-2/",
+          "nome": "Rick e Morty 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:38.842Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 30, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/2uXVtyVMsQ4ju9Ts4Fhnj5IXFdr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 2 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-1",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-1/",
+          "nome": "Rick e Morty 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-3/",
+          "nome": "Rick e Morty 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:34.732Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Aug. 06, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/zUkZulTI93An9JrQ54NDlaQn2Ti.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 3 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-2/",
+          "nome": "Rick e Morty 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-4/",
+          "nome": "Rick e Morty 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:30.591Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 13, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/c1BdCiPvk13xWalDrm2VT4wFEBw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 4 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-3/",
+          "nome": "Rick e Morty 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-5/",
+          "nome": "Rick e Morty 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:26.481Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 20, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/sGWF8xQH6OtCk6m7WxBG8kztma9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 5 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-4/",
+          "nome": "Rick e Morty 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-6/",
+          "nome": "Rick e Morty 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:22.338Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 27, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/kBlUIclFyabFCzaubgot6hUyQii.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 6 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-5/",
+          "nome": "Rick e Morty 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-7/",
+          "nome": "Rick e Morty 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:18.188Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Sep. 10, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/qaQewfpan7KdMLVkAzBQoWPO1fY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 7 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-6/",
+          "nome": "Rick e Morty 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-8/",
+          "nome": "Rick e Morty 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:14.077Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 17, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/htGYT3DrkEqT1ZB7lgLCEyUH2EF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 8 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-7/",
+          "nome": "Rick e Morty 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-9/",
+          "nome": "Rick e Morty 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:09.902Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 24, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/qGwRWniPFiFsXE1Y13PxP71tnSW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 9 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-8/",
+          "nome": "Rick e Morty 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-10/",
+          "nome": "Rick e Morty 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:05.795Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Oct. 01, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ej2Y8gRkOllPF5dRMG0nS7HKy6w.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 3 Episodio 10 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-3-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-3-episodio-9/",
+          "nome": "Rick e Morty 3 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:04:01.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Nov. 10, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/z0qw504V0rkLKGviNsBnq1HOnXR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 1 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-2/",
+          "nome": "Rick e Morty 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:57.608Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Nov. 17, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3QrhXUMAtmNvtlJy3XLDWvr2Xk7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 2 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-1",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-1/",
+          "nome": "Rick e Morty 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-3/",
+          "nome": "Rick e Morty 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:53.393Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Nov. 24, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/etaGJvYnUNN7Hrs5ddNIkKxuXFn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 3 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-2/",
+          "nome": "Rick e Morty 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-4/",
+          "nome": "Rick e Morty 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:49.229Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Dec. 08, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xG2DlQB8amHLCiiDohheCpjjUrd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 4 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-3/",
+          "nome": "Rick e Morty 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-5/",
+          "nome": "Rick e Morty 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:45.110Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "Dec. 15, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/po6Uuzz17eFcGFgiB2f6n7v0chL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 5 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-4/",
+          "nome": "Rick e Morty 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-6/",
+          "nome": "Rick e Morty 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:40.768Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "May. 03, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/zAUbOurESu3aWQazYkdVbhlKoVp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 6 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-5/",
+          "nome": "Rick e Morty 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-7/",
+          "nome": "Rick e Morty 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:36.656Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "May. 10, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/cgtHF7rqaac6ZhJp94orTFnNHgJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 7 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-6/",
+          "nome": "Rick e Morty 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-8/",
+          "nome": "Rick e Morty 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:32.509Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "May. 17, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fN6d00et55OzeVSqq34Ww2wGQxR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 8 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-7/",
+          "nome": "Rick e Morty 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-9/",
+          "nome": "Rick e Morty 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:28.357Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "May. 24, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/h5QkB2nmmBwPhNhPN2FNTj3bm2I.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 9 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-8/",
+          "nome": "Rick e Morty 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-10/",
+          "nome": "Rick e Morty 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:24.245Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "May. 31, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/6TemRqYYm1JQDEqf2sc6jRD5uXH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 4 Episodio 10 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-4-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-4-episodio-9/",
+          "nome": "Rick e Morty 4 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:20.166Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-1/",
+      "numero": 1,
+      "temporada": 5,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 20, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/w864XNoMFjrR8dP0lfDkH8uYBym.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 1 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-2/",
+          "nome": "Rick e Morty 5 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:15.729Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-2/",
+      "numero": 2,
+      "temporada": 5,
+      "nome": "Episódio 2",
+      "descricao": "Jun. 27, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wzKkvUbWMso3bceAwJRXDDdMzNI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 2 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-1",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-1/",
+          "nome": "Rick e Morty 5 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-3/",
+          "nome": "Rick e Morty 5 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:11.622Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-3/",
+      "numero": 3,
+      "temporada": 5,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/lvz0voQGGInAES52IyP7KeTzaHz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 3 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-2/",
+          "nome": "Rick e Morty 5 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-4/",
+          "nome": "Rick e Morty 5 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:07.505Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-4/",
+      "numero": 4,
+      "temporada": 5,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wyrLdz6hcOGnuMhm0VHVSMnnCR2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 4 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-3/",
+          "nome": "Rick e Morty 5 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-5/",
+          "nome": "Rick e Morty 5 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:03:03.307Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-5/",
+      "numero": 5,
+      "temporada": 5,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5nCh9wrr93WdYhquBFEMjZrDgFq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 5 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-4/",
+          "nome": "Rick e Morty 5 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-6/",
+          "nome": "Rick e Morty 5 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:59.175Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-6/",
+      "numero": 6,
+      "temporada": 5,
+      "nome": "Episódio 6",
+      "descricao": "Jul. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/n3U2G3QOrfU3vQTpo42q23OwJKa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 6 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-5/",
+          "nome": "Rick e Morty 5 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-7/",
+          "nome": "Rick e Morty 5 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:55.020Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-7/",
+      "numero": 7,
+      "temporada": 5,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 01, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/yehrEI2y5y1smocmeMNWeWigboA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 7 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-6/",
+          "nome": "Rick e Morty 5 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-8/",
+          "nome": "Rick e Morty 5 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:50.900Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-8/",
+      "numero": 8,
+      "temporada": 5,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 08, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oKf0YQVIQFYVIO2bgsDtxXLYLLJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 8 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-7/",
+          "nome": "Rick e Morty 5 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-9/",
+          "nome": "Rick e Morty 5 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:46.801Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-9/",
+      "numero": 9,
+      "temporada": 5,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 05, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4ZU8vX420Tm2yilkmXejf7NKjL6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 9 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-8/",
+          "nome": "Rick e Morty 5 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-10/",
+          "nome": "Rick e Morty 5 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:42.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-5-episodio-10/",
+      "numero": 10,
+      "temporada": 5,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 05, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/6yPSy0ipNQfFUAX3tHSEf75rCdu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 5 Episodio 10 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-5-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-5-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-5-episodio-9/",
+          "nome": "Rick e Morty 5 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/5/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:38.558Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/5/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/5/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-1/",
+      "numero": 1,
+      "temporada": 6,
+      "nome": "Episódio 1",
+      "descricao": "Sep. 04, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5tiOEjp03nvaGiKT73knretU8e8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 1 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-2/",
+          "nome": "Rick e Morty 6 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:34.246Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-2/",
+      "numero": 2,
+      "temporada": 6,
+      "nome": "Episódio 2",
+      "descricao": "Sep. 11, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ezzPXWo8zAKl8eW2FivYRfng0jq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 2 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-1",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-1/",
+          "nome": "Rick e Morty 6 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-3/",
+          "nome": "Rick e Morty 6 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:30.121Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-3/",
+      "numero": 3,
+      "temporada": 6,
+      "nome": "Episódio 3",
+      "descricao": "Sep. 18, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8ZCNAxkDo67GtcBJBDIERdywnar.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 3 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-2/",
+          "nome": "Rick e Morty 6 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-4/",
+          "nome": "Rick e Morty 6 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:25.979Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-4/",
+      "numero": 4,
+      "temporada": 6,
+      "nome": "Episódio 4",
+      "descricao": "Sep. 25, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/d3FSuQC3SKLnVcb4zbyeqYUSM6X.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 4 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-3/",
+          "nome": "Rick e Morty 6 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-5/",
+          "nome": "Rick e Morty 6 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:21.821Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-5/",
+      "numero": 5,
+      "temporada": 6,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 02, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ziMNDO6UMjDAbUV2zbV5TxgH537.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 5 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-4/",
+          "nome": "Rick e Morty 6 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-6/",
+          "nome": "Rick e Morty 6 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:17.692Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-6/",
+      "numero": 6,
+      "temporada": 6,
+      "nome": "Episódio 6",
+      "descricao": "Oct. 09, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bj56DAGeH3vAMnBDXCObto8KCsK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 6 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-5/",
+          "nome": "Rick e Morty 6 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-7/",
+          "nome": "Rick e Morty 6 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:13.589Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-7/",
+      "numero": 7,
+      "temporada": 6,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 20, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/lG890UhNqGtdsq9nJWxI31IQU2t.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 7 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-6/",
+          "nome": "Rick e Morty 6 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-8/",
+          "nome": "Rick e Morty 6 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:09.384Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-8/",
+      "numero": 8,
+      "temporada": 6,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 27, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/iEz4PBtbs2TU0r4fq3gkZ01Mxl2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 8 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-7/",
+          "nome": "Rick e Morty 6 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-9/",
+          "nome": "Rick e Morty 6 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:05.263Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-9/",
+      "numero": 9,
+      "temporada": 6,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 04, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xiPSthi7ZF5xosfEqvAp6bl0sFu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 9 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-8/",
+          "nome": "Rick e Morty 6 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-10/",
+          "nome": "Rick e Morty 6 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:02:01.005Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-6-episodio-10/",
+      "numero": 10,
+      "temporada": 6,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 11, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/zoCeFhTwzeO15h5BdhzlprFJzF1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 6 Episodio 10 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-6-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-6-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-6-episodio-9/",
+          "nome": "Rick e Morty 6 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/6/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:56.881Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/6/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/6/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-1/",
+      "numero": 1,
+      "temporada": 7,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 15, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/rLrNq2fd4khvwYspPXL5e41QVcK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 1 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-2/",
+          "nome": "Rick e Morty 7 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:52.746Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-2/",
+      "numero": 2,
+      "temporada": 7,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 22, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/nPcoJ8K1TPhFwCDTZRIKBPv8IyH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 2 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-1",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-1/",
+          "nome": "Rick e Morty 7 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-3/",
+          "nome": "Rick e Morty 7 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:48.619Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-3/",
+      "numero": 3,
+      "temporada": 7,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 29, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/lPTEES0yrLn5RnQRN1k3jFsx0GB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 3 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-2/",
+          "nome": "Rick e Morty 7 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-4/",
+          "nome": "Rick e Morty 7 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:44.411Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-4/",
+      "numero": 4,
+      "temporada": 7,
+      "nome": "Episódio 4",
+      "descricao": "Nov. 05, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/b5KOiBYZxYnfl4wL2IlvpqtU3tC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 4 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-3/",
+          "nome": "Rick e Morty 7 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-5/",
+          "nome": "Rick e Morty 7 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:40.334Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-5/",
+      "numero": 5,
+      "temporada": 7,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/86ARgAvOKFHOvq9Y0wkmiMSJj4o.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 5 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-4/",
+          "nome": "Rick e Morty 7 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-6/",
+          "nome": "Rick e Morty 7 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:36.214Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-6/",
+      "numero": 6,
+      "temporada": 7,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 19, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xdsjTPUF6eBf6YJhVbzARkeaXP3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 6 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-5/",
+          "nome": "Rick e Morty 7 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-7/",
+          "nome": "Rick e Morty 7 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:32.088Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-7/",
+      "numero": 7,
+      "temporada": 7,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wgfl1QwjxPtng5m02ix26yjCjLM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 7 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-6/",
+          "nome": "Rick e Morty 7 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-8/",
+          "nome": "Rick e Morty 7 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:27.983Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-8/",
+      "numero": 8,
+      "temporada": 7,
+      "nome": "Episódio 8",
+      "descricao": "Dec. 03, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8xmc22qIVtn1MSZM5C8pAb94QO8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 8 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-7/",
+          "nome": "Rick e Morty 7 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-9/",
+          "nome": "Rick e Morty 7 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:23.848Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-9/",
+      "numero": 9,
+      "temporada": 7,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 10, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fICBDuGjmSZc5OH8yOwTAKdQgYA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 9 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-8/",
+          "nome": "Rick e Morty 7 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-10/",
+          "nome": "Rick e Morty 7 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:19.690Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-7-episodio-10/",
+      "numero": 10,
+      "temporada": 7,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 17, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4kKiVFbRxAPxcPDi7rPrUJjyMf6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 7 Episodio 10 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-7-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-7-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-7-episodio-9/",
+          "nome": "Rick e Morty 7 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/7/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:15.345Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/7/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/7/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-1/",
+      "numero": 1,
+      "temporada": 8,
+      "nome": "Episódio 1",
+      "descricao": "May. 25, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/t7arWMclhZ8Kub48ymLvbDUN5Qg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 1 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-2/",
+          "nome": "Rick e Morty S08 Episódio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:11.167Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-2/",
+      "numero": 2,
+      "temporada": 8,
+      "nome": "Episódio 2",
+      "descricao": "Jun. 01, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wJNBw6mTV38fdMSpqbb4j4DnlMy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 2 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-1",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-1/",
+          "nome": "Rick e Morty S08 Episódio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-3/",
+          "nome": "Rick e Morty S08 Episódio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:07.002Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-3/",
+      "numero": 3,
+      "temporada": 8,
+      "nome": "Episódio 3",
+      "descricao": "Jun. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mtpn6I1uAObVNhqxIW0Tt4BmSFL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 3 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-2/",
+          "nome": "Rick e Morty S08 Episódio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-4/",
+          "nome": "Rick e Morty S08 Episódio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:01:02.855Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-4/",
+      "numero": 4,
+      "temporada": 8,
+      "nome": "Episódio 4",
+      "descricao": "Jun. 15, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/y3IRpRiRM0c4AFKhwlIZTpA0BlC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 4 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-3/",
+          "nome": "Rick e Morty S08 Episódio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-5/",
+          "nome": "Rick e Morty S08 Episódio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:58.618Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-5/",
+      "numero": 5,
+      "temporada": 8,
+      "nome": "Episódio 5",
+      "descricao": "Jun. 22, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bvaJhvaBHHuiMZb80ErCCSuRRDz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 5 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-4/",
+          "nome": "Rick e Morty S08 Episódio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-6/",
+          "nome": "Rick e Morty S08 Episódio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:54.544Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-6/",
+      "numero": 6,
+      "temporada": 8,
+      "nome": "Episódio 6",
+      "descricao": "Jun. 29, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/eHkk2VxIKofHESBH1JcahnyAJT1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 6 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-5/",
+          "nome": "Rick e Morty S08 Episódio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-7/",
+          "nome": "Rick e Morty S08 Episódio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:50.451Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-7/",
+      "numero": 7,
+      "temporada": 8,
+      "nome": "Episódio 7",
+      "descricao": "Jul. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/kND7qxyw6aHcIRVnfPGMBSYpheI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 7 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-6/",
+          "nome": "Rick e Morty S08 Episódio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-8/",
+          "nome": "Rick e Morty S08 Episódio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:46.268Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-8/",
+      "numero": 8,
+      "temporada": 8,
+      "nome": "Episódio 8",
+      "descricao": "Jul. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/8hVPCPuYVRTkG5DV3buLVTRhePU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 8 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-7/",
+          "nome": "Rick e Morty S08 Episódio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-9/",
+          "nome": "Rick e Morty S08 Episódio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:42.092Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-9/",
+      "numero": 9,
+      "temporada": 8,
+      "nome": "Episódio 9",
+      "descricao": "Jul. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/eZEJkJS2vyaIXTeloGvADUsIJs5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 9 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-8/",
+          "nome": "Rick e Morty S08 Episódio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-10/",
+          "nome": "Rick e Morty S08 Episódio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:37.838Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-10/",
+      "numero": 10,
+      "temporada": 8,
+      "nome": "Episódio 10",
+      "descricao": "Jul. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/qwfGBFu2QrPm1BrkvSb9TNRXwXm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 8 Episodio 10 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-s08-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-s08-episodio-9/",
+          "nome": "Rick e Morty S08 Episódio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/8/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:33.741Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/8/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/8/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-1/",
+      "numero": 1,
+      "temporada": 9,
+      "nome": "Episódio 1",
+      "descricao": "May. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/yVJFdwfQIDRtHdxXotfT5DFREuE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 1 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-2/",
+          "nome": "Rick e Morty Dublado S09 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:29.623Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-2/",
+      "numero": 2,
+      "temporada": 9,
+      "nome": "Episódio 2",
+      "descricao": "May. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/nYIyH5KrAxivpFPDTf87Zlgzpf9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 2 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-1",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-1/",
+          "nome": "Rick e Morty Dublado S09 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-3/",
+          "nome": "Rick e Morty Dublado S09 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:25.425Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-3/",
+      "numero": 3,
+      "temporada": 9,
+      "nome": "Episódio 3",
+      "descricao": "Jun. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/pxDUN7AevFa6PXbazCwkykDpQAo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 3 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-2",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-2/",
+          "nome": "Rick e Morty Dublado S09 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-4/",
+          "nome": "Rick e Morty Dublado S09 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:21.281Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-4/",
+      "numero": 4,
+      "temporada": 9,
+      "nome": "Episódio 4",
+      "descricao": "Jun. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/wlnkMKVi98y5QPAVKd7gtQioc85.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 4 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-3",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-3/",
+          "nome": "Rick e Morty Dublado S09 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-5/",
+          "nome": "Rick e Morty Dublado S09 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:17.042Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-5/",
+      "numero": 5,
+      "temporada": 9,
+      "nome": "Episódio 5",
+      "descricao": "Jun. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/9CTI6rwoGl7ttMuHs5qu3ssXTvO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 5 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-4",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-4/",
+          "nome": "Rick e Morty Dublado S09 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-6/",
+          "nome": "Rick e Morty Dublado S09 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:12.927Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-6/",
+      "numero": 6,
+      "temporada": 9,
+      "nome": "Episódio 6",
+      "descricao": "Jun. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 6 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-5",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-5/",
+          "nome": "Rick e Morty Dublado S09 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-7/",
+          "nome": "Rick e Morty Dublado S09 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:08.739Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-7/",
+      "numero": 7,
+      "temporada": 9,
+      "nome": "Episódio 7",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/r3Z6LUo1VEBxX8j4oSqFRZ2IozX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 7 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-6",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-6/",
+          "nome": "Rick e Morty Dublado S09 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-8/",
+          "nome": "Rick e Morty Dublado S09 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:04.576Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-8/",
+      "numero": 8,
+      "temporada": 9,
+      "nome": "Episódio 8",
+      "descricao": "Jul. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/6UIHqNk9f8BlNsAZb30Jb3N4YBr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 8 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-7",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-7/",
+          "nome": "Rick e Morty Dublado S09 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-9/",
+          "nome": "Rick e Morty Dublado S09 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:00:00.232Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-9/",
+      "numero": 9,
+      "temporada": 9,
+      "nome": "Episódio 9",
+      "descricao": "Jul. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/sGtWCfxmJZ3uy35CUKzn0nuHRrS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 9 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-8",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-8/",
+          "nome": "Rick e Morty Dublado S09 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-10",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-10/",
+          "nome": "Rick e Morty Dublado S09 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:59:55.983Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-10/",
+      "numero": 10,
+      "temporada": 9,
+      "nome": "Episódio 10",
+      "descricao": "Jul. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fOaRHSP4uHujzFlgYFA8ufZ9kJN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Rick e Morty: 9 Episodio 10 Online",
+        "animeSlug": "a/rick-e-morty",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rick-e-morty-dublado-s09-episodio-9",
+          "link": "https://meusanimes.blog/e/rick-e-morty-dublado-s09-episodio-9/",
+          "nome": "Rick e Morty Dublado S09 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60625/9/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:59:51.814Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60625/9/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60625/9/10/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      8
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 91,
+    "totalEpisodios": 91,
+    "detalhesColetadosEm": "2026-10-22T00:59:46.143Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 91
+  },
+  "titulo": "Rick e Morty",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+  "score": "8.686",
+  "audio": "Dublado",
+  "ano": "2013",
+  "publicadoEm": "Dec. 02, 2013",
+  "url": "https://meusanimes.blog/a/rick-e-morty/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
+  "temporadas": 9,
+  "descricao": "Online, Assistir Rick e Morty Completo em HD e Full HD, Assistir Rick and Morty Online. Rick é um velho mentalmente desequilibrado, mas cientificamente talentoso que se reconectou recentemente com sua família. Ele passa a maior parte do tempo envolvendo o jovem neto Morty em aventuras perigosas e estranhas no espaço e em universos alternativos. Compostos à vida familiar já instável de Morty, esses eventos causam muito sofrimento a Morty em casa e na escola."
+}

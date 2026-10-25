@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "maken-ki",
+  "capturadoEm": "2026-10-22T09:52:26.580Z",
+  "atualizadoEm": "2026-10-22T09:52:26.580Z",
+  "catalogo": {
+    "slug": "a/maken-ki",
+    "titulo": "Maken-ki!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/nE2yBB4S6TWibY2dr53ylDjziQD.jpg",
+    "info": "Legendado • Oct. 05, 2011",
+    "audio": "Legendado",
+    "score": "6.465",
+    "ano": "2011",
+    "publicadoEm": "Oct. 05, 2011",
+    "url": "https://meusanimes.blog/a/maken-ki/",
+    "postId": "55072"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      33
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Maken-ki!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/nE2yBB4S6TWibY2dr53ylDjziQD.jpg",
+  "score": "6.465",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Oct. 05, 2011",
+  "url": "https://meusanimes.blog/a/maken-ki/"
+}

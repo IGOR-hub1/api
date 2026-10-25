@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "dies-irae",
+  "capturadoEm": "2026-10-22T09:53:27.996Z",
+  "atualizadoEm": "2026-10-22T09:53:27.996Z",
+  "catalogo": {
+    "slug": "a/dies-irae",
+    "titulo": "Dies Irae",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/VV9z6sb2dM4IFiezBd7O3v7Mfg.jpg",
+    "info": "Legendado • Oct. 14, 2017",
+    "audio": "Legendado",
+    "score": "6.1",
+    "ano": "2017",
+    "publicadoEm": "Oct. 14, 2017",
+    "url": "https://meusanimes.blog/a/dies-irae/",
+    "postId": "50383"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      38
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Dies Irae",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/VV9z6sb2dM4IFiezBd7O3v7Mfg.jpg",
+  "score": "6.1",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Oct. 14, 2017",
+  "url": "https://meusanimes.blog/a/dies-irae/"
+}

@@ -1,0 +1,886 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shinryaku-ika-musume",
+  "capturadoEm": "2026-10-22T09:47:23.031Z",
+  "atualizadoEm": "2026-10-22T20:52:50.194Z",
+  "catalogo": {
+    "slug": "a/shinryaku-ika-musume",
+    "titulo": "Shinryaku! Ika Musume",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/d0zYc5qtD1IpUlD4UI6B4ncNFZV.jpg",
+    "info": "Legendado • Oct. 05, 2010",
+    "audio": "Legendado",
+    "score": "6.6",
+    "ano": "2010",
+    "publicadoEm": "Oct. 05, 2010",
+    "url": "https://meusanimes.blog/a/shinryaku-ika-musume/",
+    "postId": "83840"
+  },
+  "detalhes": {
+    "slug": "a/shinryaku-ika-musume",
+    "titulo": "Shinryaku! Ika Musume",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/d0zYc5qtD1IpUlD4UI6B4ncNFZV.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/d0zYc5qtD1IpUlD4UI6B4ncNFZV.jpg",
+    "sinopse": "uma emissária do mar, que veio até a superfície para punir os humanos que não param de poluí-lo. Mas, enquanto planejava sua invasão terrestre, Ikamusume destrói a parede de um restaurante na praia e terá que trabalhar no estabelecimento até pagar o conserto.",
+    "generos": [
+      "Comédia",
+      "Fantasia",
+      "Slice Of Life"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2010",
+    "publicadoEm": "Oct. 05, 2010",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/shinryaku-ika-musume/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 05, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/103sY52K5qag6u5re7p2Tspprjb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 1 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-2",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-2/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:50.194Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 12, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nCSsqyP0jbRxVKlGdWywCJbx4de.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 2 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-1",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-1/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-3",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-3/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:46.104Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 19, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/rW159iQpB565yYb8aipjOKTYrge.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 3 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-2",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-2/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-4",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-4/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:42.091Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 26, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/w9tAFMAVB3a8WGwtz77lb5IaCFE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 4 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-3",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-3/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-5",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-5/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:38.065Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 02, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wJ16MgWPN8H1rVQHrXEe3YFwVfa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 5 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-4",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-4/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-6",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-6/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:34.056Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 08, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7V2phBzw770oH7St6J56n4nqOor.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 6 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-5",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-5/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-7",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-7/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:29.816Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 15, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/5K5s5nsVBSshbfMO29dekHVXfiq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 7 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-6",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-6/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-8",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-8/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:25.720Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 22, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jU3qgS8FBOKUDmWOH2PvwXeGnwS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 8 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-7",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-7/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-9",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-9/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:21.652Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 29, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bXHGfsjsZzeB9TSfSNGlmiWCpTJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 9 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-8",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-8/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-10",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-10/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:17.567Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 06, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jyjAY0U67iK5adKGZxnjVBrEGqd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 10 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-9",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-9/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-11",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-11/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:13.380Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 14, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/koK9XDCzQ2Vq1l2FLaOepWs9gyv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 11 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-10",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-10/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-12",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-12/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:09.271Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jan. 21, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/vSUuZNXywMsIsKn2bz4T4djmUJy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 1 Episodio 12 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-1-episodio-11",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-1-episodio-11/",
+          "nome": "Shinryaku! Ika Musume 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:05.198Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Sep. 27, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3ErV5LFRKSu18pwbBjIlCFI7fhj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 1 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-2",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-2/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:52:01.209Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 03, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qjMbY0PcOsexoqrn6XhzpsBgalk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 2 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-1",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-1/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-3",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-3/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:57.109Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 11, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bYfT4dpFQ3Wac0OWGyYcSLzjhD7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 3 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-2",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-2/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-4",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-4/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:53.109Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 18, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/oWNYEfJgphUuNSZwaaWGeENd5mC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 4 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-3",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-3/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-5",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-5/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:49.101Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 31, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jIZxVxyiPI5BAk39yXlnO7IDQVR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 5 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-4",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-4/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-6",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-6/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:45.089Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 14, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8DO3vQTOSu3t5SrT0BScBK0C6W0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 6 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-5",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-5/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-7",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-7/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:41.082Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 21, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/cY8SWlDISsNSNlt6uZK47SkopUI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 7 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-6",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-6/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-8",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-8/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:37.058Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 28, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/yQ5NeZEABkoanzBG63ahdzNqfK7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 8 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-7",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-7/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-9",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-9/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:33.005Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 05, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xjJcGXYyMbiu2lUbHPW29hjEp0o.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 9 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-8",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-8/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-10",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-10/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:28.958Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 12, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/lj9j0YvT3HHwnw1hcBoIVp1Usw0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 10 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-9",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-9/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-11",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-11/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:24.879Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 19, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ohMxeEdH1DH9CgERgdvSAI6lHXD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 11 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-10",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-10/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-12",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-12/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:20.890Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 26, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/sdGpKnSZ7fGzF4aerp2ZPQqASTA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 12 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-11",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-11/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-13",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-13/",
+          "nome": "Shinryaku!! Ika Musume 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:16.799Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 26, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/lj9j0YvT3HHwnw1hcBoIVp1Usw0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 13 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-12",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-12/",
+          "nome": "Shinryaku!? Ika Musume 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-14",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-14/",
+          "nome": "Shinryaku!! Ika Musume 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:12.746Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Dec. 26, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xjJcGXYyMbiu2lUbHPW29hjEp0o.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 14 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-13",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-13/",
+          "nome": "Shinryaku!! Ika Musume 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-15",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-15/",
+          "nome": "Shinryaku!! Ika Musume 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:08.703Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Dec. 26, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ohMxeEdH1DH9CgERgdvSAI6lHXD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinryaku! Ika Musume: 2 Episodio 15 Online",
+        "animeSlug": "a/shinryaku-ika-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/shinryaku-ika-musume-2-episodio-14",
+          "link": "https://meusanimes.blog/e/shinryaku-ika-musume-2-episodio-14/",
+          "nome": "Shinryaku!! Ika Musume 2 Episodio 14"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/35447/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:51:04.596Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/35447/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/35447/2/15/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      11
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 27,
+    "totalEpisodios": 27,
+    "midiasColetadas": 0,
+    "iframesColetados": 27,
+    "detalhesColetadosEm": "2026-10-22T20:50:59.311Z"
+  },
+  "titulo": "Shinryaku! Ika Musume",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/d0zYc5qtD1IpUlD4UI6B4ncNFZV.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2010",
+  "publicadoEm": "Oct. 05, 2010",
+  "url": "https://meusanimes.blog/a/shinryaku-ika-musume/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/d0zYc5qtD1IpUlD4UI6B4ncNFZV.jpg",
+  "temporadas": 2,
+  "descricao": "uma emissária do mar, que veio até a superfície para punir os humanos que não param de poluí-lo. Mas, enquanto planejava sua invasão terrestre, Ikamusume destrói a parede de um restaurante na praia e terá que trabalhar no estabelecimento até pagar o conserto."
+}

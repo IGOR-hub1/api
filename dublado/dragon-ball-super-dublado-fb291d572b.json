@@ -1,0 +1,4121 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "dragon-ball-super-dublado",
+  "capturadoEm": "2026-10-22T08:45:19.232Z",
+  "atualizadoEm": "2026-10-22T09:43:44.481Z",
+  "catalogo": {
+    "slug": "a/dragon-ball-super-dublado",
+    "titulo": "Dragon Ball Super Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/8xc6QcxN8ZOCW4lo4IpVNm3VqKt.jpg",
+    "info": "Dublado • Jul. 05, 2015",
+    "audio": "Dublado",
+    "score": "8.2",
+    "ano": "2015",
+    "publicadoEm": "Jul. 05, 2015",
+    "url": "https://meusanimes.blog/a/dragon-ball-super-dublado/",
+    "postId": "41279"
+  },
+  "detalhes": {
+    "slug": "a/dragon-ball-super-dublado",
+    "titulo": "Dragon Ball Super Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/8xc6QcxN8ZOCW4lo4IpVNm3VqKt.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/09/8xc6QcxN8ZOCW4lo4IpVNm3VqKt.jpg",
+    "sinopse": "Seis meses após a derrota de Majin Buu, Goku arranja um novo emprego como… fazendeiro de nabos? Agora que a Terra está em paz, nosso heróis levam vidas mundanas, mas não por muito tempo. Longe dali, Bills, o poderoso Deus da Destruição, recebe uma profecia de que encontrará seu fim nas mãos de um ser ainda mais poderoso, e sua busca pelo Deus dos Saiyajins o traz para a Terra. Será que Goku e seus amigos conseguirão derrotar seu mais poderoso inimigo até então?",
+    "generos": [
+      "Ação",
+      "Artes Marciais",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Shounen"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2015",
+    "publicadoEm": "Jul. 05, 2015",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/dragon-ball-super-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 05, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/mQwqbaoxaEJdi5xNMnWpt02Y6Bd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-2",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-2/",
+          "nome": "Dragon Ball Super 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:54:15.823Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 12, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/6D19DLwM0PG1ECTnWvItyYu1DVV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-1",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-1/",
+          "nome": "Dragon Ball Super 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-3",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-3/",
+          "nome": "Dragon Ball Super 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:54:11.740Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 19, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/i2XklGnEBERZ3JPV3219vCPhjRT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-2",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-2/",
+          "nome": "Dragon Ball Super 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-4",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-4/",
+          "nome": "Dragon Ball Super 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:54:07.652Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 02, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/4wdZEIzYmQKMkN9zjU3VLPMaBmY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-3",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-3/",
+          "nome": "Dragon Ball Super 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-5",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-5/",
+          "nome": "Dragon Ball Super 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:54:03.593Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 09, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/x7zkqoFkEs4llfNW6iturv2b7kv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-4",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-4/",
+          "nome": "Dragon Ball Super 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-6",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-6/",
+          "nome": "Dragon Ball Super 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:59.497Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 16, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/nVyscQsYV5mfTfiFhzkZeT5ewmz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-5",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-5/",
+          "nome": "Dragon Ball Super 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-7",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-7/",
+          "nome": "Dragon Ball Super 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:55.156Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 23, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/6BFIhumOY0SGhyHLFOiiowSKrAZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-6",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-6/",
+          "nome": "Dragon Ball Super 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-8",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-8/",
+          "nome": "Dragon Ball Super 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:51.114Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 30, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/yjNrQ5SuNrrlIBQZ1ZG0qsOrFX5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-7",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-7/",
+          "nome": "Dragon Ball Super 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-9",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-9/",
+          "nome": "Dragon Ball Super 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:47.015Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 06, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/dtPbhwpbZcjLOahkKj2QXkeaUyd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-8",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-8/",
+          "nome": "Dragon Ball Super 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-10",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-10/",
+          "nome": "Dragon Ball Super 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:42.914Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 13, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/cyAEMV5X4N6cp5PTlqvAI8CBBrW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-9",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-9/",
+          "nome": "Dragon Ball Super 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-11",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-11/",
+          "nome": "Dragon Ball Super 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:38.811Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 20, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/icjxZcyrPmDBcdO7jZWzLluxvzE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-10",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-10/",
+          "nome": "Dragon Ball Super 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-12",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-12/",
+          "nome": "Dragon Ball Super 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:34.545Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 27, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/9lpPjLqQFIzPyH0s1YFFOdCCRhZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-11",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-11/",
+          "nome": "Dragon Ball Super 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-13",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-13/",
+          "nome": "Dragon Ball Super 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:30.478Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 04, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/elOCxfoseAS2oK5WUo7JWBBn5dy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-12",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-12/",
+          "nome": "Dragon Ball Super 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-14",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-14/",
+          "nome": "Dragon Ball Super 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:26.410Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 11, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/hKZdJJqgW7Ori1JxllbbiWn06Iz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-13",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-13/",
+          "nome": "Dragon Ball Super 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-15",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-15/",
+          "nome": "Dragon Ball Super 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:22.360Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 18, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/aKvmBzCMpwei00NpsgzznpC12H5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-14",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-14/",
+          "nome": "Dragon Ball Super 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-16",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-16/",
+          "nome": "Dragon Ball Super 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:18.330Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 25, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/tyI3h1rpfWMuouAkTeSTTXDEfzj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-15",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-15/",
+          "nome": "Dragon Ball Super 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-17",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-17/",
+          "nome": "Dragon Ball Super 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:14.279Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Nov. 01, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/cNKxcaYc3u0JSeAxBLL7yfe9yHC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-16",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-16/",
+          "nome": "Dragon Ball Super 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-18",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-18/",
+          "nome": "Dragon Ball Super 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:10.171Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Nov. 08, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/luevT7XUlVy77XZtEvkNqTizO7h.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-17",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-17/",
+          "nome": "Dragon Ball Super 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-19",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-19/",
+          "nome": "Dragon Ball Super 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:06.038Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 15, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/9PsRRv0o9GvG5iVal6nCEPliLKU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-18",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-18/",
+          "nome": "Dragon Ball Super 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-20",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-20/",
+          "nome": "Dragon Ball Super 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:53:02.012Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Nov. 22, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/hXYN9PF8kH52GLmYiXTOeO0lPmT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-19",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-19/",
+          "nome": "Dragon Ball Super 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-21",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-21/",
+          "nome": "Dragon Ball Super 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:57.963Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Nov. 29, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/wmZnPHze73TQmjccVXwkrf56B3B.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-20",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-20/",
+          "nome": "Dragon Ball Super 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-22",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-22/",
+          "nome": "Dragon Ball Super 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:53.872Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Dec. 06, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/HVxCcF8R1foZpCBX0NZp8Lit7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-21",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-21/",
+          "nome": "Dragon Ball Super 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-23",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-23/",
+          "nome": "Dragon Ball Super 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:49.767Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Dec. 13, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/kBfBPoeyI1TtS6DdmhdBkiMTCU5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-22",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-22/",
+          "nome": "Dragon Ball Super 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-24",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-24/",
+          "nome": "Dragon Ball Super 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:45.719Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 20, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/jXHEpanuPhhbROwpDBJ1XTggLGi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-23",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-23/",
+          "nome": "Dragon Ball Super 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-25",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-25/",
+          "nome": "Dragon Ball Super 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:41.638Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Dec. 27, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/fsQQCwnR9uvrvX7btNfgkD49UeZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 25 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-24",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-24/",
+          "nome": "Dragon Ball Super 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-26",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-26/",
+          "nome": "Dragon Ball Super 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:37.566Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Jan. 10, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/tagNMQQ8OcxthDA19Y7TsxARVrx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 26 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/26/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-25",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-25/",
+          "nome": "Dragon Ball Super 1 Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-27",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-27/",
+          "nome": "Dragon Ball Super 1 Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:33.517Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Jan. 17, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/oDP92xVoaiUJwP2KSzZgcrT6mAD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 27 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/27/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-26",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-26/",
+          "nome": "Dragon Ball Super 1 Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-28",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-28/",
+          "nome": "Dragon Ball Super 1 Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:29.450Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-28/",
+      "numero": 28,
+      "temporada": 1,
+      "nome": "Episódio 28",
+      "descricao": "Jan. 24, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/zMGzZJUnDK2ePJxKzSc7e1D2Qbg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 28 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/28/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-27",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-27/",
+          "nome": "Dragon Ball Super 1 Episodio 27"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-29",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-29/",
+          "nome": "Dragon Ball Super 1 Episodio 29"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:25.374Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/28/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-29/",
+      "numero": 29,
+      "temporada": 1,
+      "nome": "Episódio 29",
+      "descricao": "Jan. 31, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/jhuz1PyGYM8BVwbOoUT8sG6NSfF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 29 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/29/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-29/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-28",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-28/",
+          "nome": "Dragon Ball Super 1 Episodio 28"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-30",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-30/",
+          "nome": "Dragon Ball Super 1 Episodio 30"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/29/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:21.238Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/29/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/29/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-30/",
+      "numero": 30,
+      "temporada": 1,
+      "nome": "Episódio 30",
+      "descricao": "Feb. 07, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/53lkGLr33Qr4P3pOQc6bVg7rr1j.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 30 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/30/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-30/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-29",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-29/",
+          "nome": "Dragon Ball Super 1 Episodio 29"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-31",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-31/",
+          "nome": "Dragon Ball Super 1 Episodio 31"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/30/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:17.163Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/30/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/30/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-31/",
+      "numero": 31,
+      "temporada": 1,
+      "nome": "Episódio 31",
+      "descricao": "Feb. 14, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3OnQ1cZ7kh5P9WT51GfCAEUYoyB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 31 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/31/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-31/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-30",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-30/",
+          "nome": "Dragon Ball Super 1 Episodio 30"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-32",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-32/",
+          "nome": "Dragon Ball Super 1 Episodio 32"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/31/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:13.116Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/31/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/31/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-32/",
+      "numero": 32,
+      "temporada": 1,
+      "nome": "Episódio 32",
+      "descricao": "Feb. 21, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/lSPgr3pQZNGgSo8MhLep3Mz03vA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 32 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/32/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-32/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-31",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-31/",
+          "nome": "Dragon Ball Super 1 Episodio 31"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-33",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-33/",
+          "nome": "Dragon Ball Super 1 Episodio 33"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/32/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:09.022Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/32/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/32/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-33/",
+      "numero": 33,
+      "temporada": 1,
+      "nome": "Episódio 33",
+      "descricao": "Feb. 28, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/vpBgN1M2bbnJAOQzfvydU3UNtg1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 33 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/33/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-33/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-32",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-32/",
+          "nome": "Dragon Ball Super 1 Episodio 32"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-34",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-34/",
+          "nome": "Dragon Ball Super 1 Episodio 34"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/33/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:04.971Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/33/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/33/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-34/",
+      "numero": 34,
+      "temporada": 1,
+      "nome": "Episódio 34",
+      "descricao": "Mar. 06, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/uIT8zCnnDCnXETgFa1LeDaHAaJb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 34 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/34/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-34/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-33",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-33/",
+          "nome": "Dragon Ball Super 1 Episodio 33"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-35",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-35/",
+          "nome": "Dragon Ball Super 1 Episodio 35"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/34/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:52:00.899Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/34/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/34/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-35/",
+      "numero": 35,
+      "temporada": 1,
+      "nome": "Episódio 35",
+      "descricao": "Mar. 20, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/rtGwQgwcWQswclO4VMRTp8Bojye.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 35 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/35/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-35/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-34",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-34/",
+          "nome": "Dragon Ball Super 1 Episodio 34"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-36",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-36/",
+          "nome": "Dragon Ball Super 1 Episodio 36"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/35/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:56.815Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/35/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/35/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-36/",
+      "numero": 36,
+      "temporada": 1,
+      "nome": "Episódio 36",
+      "descricao": "Mar. 27, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/ivdbd7RaT7sYuwDvToQiTVajCen.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 36 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/36/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-36/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-35",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-35/",
+          "nome": "Dragon Ball Super 1 Episodio 35"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-37",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-37/",
+          "nome": "Dragon Ball Super 1 Episodio 37"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/36/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:52.715Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/36/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/36/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-37/",
+      "numero": 37,
+      "temporada": 1,
+      "nome": "Episódio 37",
+      "descricao": "Apr. 03, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/rRi2euYlrFdOcgroS1mBxaZQ8yW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 37 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/37/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-37/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-36",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-36/",
+          "nome": "Dragon Ball Super 1 Episodio 36"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-38",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-38/",
+          "nome": "Dragon Ball Super 1 Episodio 38"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/37/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:48.608Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/37/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/37/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-38/",
+      "numero": 38,
+      "temporada": 1,
+      "nome": "Episódio 38",
+      "descricao": "Apr. 10, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/2Vxn8cySk6bfQUKc6w6iO0em6mc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 38 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/38/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-38/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-37",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-37/",
+          "nome": "Dragon Ball Super 1 Episodio 37"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-39",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-39/",
+          "nome": "Dragon Ball Super 1 Episodio 39"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/38/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:44.530Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/38/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/38/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-39/",
+      "numero": 39,
+      "temporada": 1,
+      "nome": "Episódio 39",
+      "descricao": "Apr. 17, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/jYKm51Fy6XMEIL3x6JhZX0qYysf.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 39 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/39/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-39/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-38",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-38/",
+          "nome": "Dragon Ball Super 1 Episodio 38"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-40",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-40/",
+          "nome": "Dragon Ball Super 1 Episodio 40"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/39/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:40.457Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/39/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/39/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-40/",
+      "numero": 40,
+      "temporada": 1,
+      "nome": "Episódio 40",
+      "descricao": "Apr. 24, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/euuQ78mxzJPg1GrldmgdHvJUmWt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 40 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/40/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-40/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-39",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-39/",
+          "nome": "Dragon Ball Super 1 Episodio 39"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-41",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-41/",
+          "nome": "Dragon Ball Super 1 Episodio 41"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/40/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:35.887Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/40/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/40/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-41/",
+      "numero": 41,
+      "temporada": 1,
+      "nome": "Episódio 41",
+      "descricao": "May. 01, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/yRNQWj9r9onDDmvGCSawMqVRA4Q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 41 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/41/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-41/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-40",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-40/",
+          "nome": "Dragon Ball Super 1 Episodio 40"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-42",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-42/",
+          "nome": "Dragon Ball Super 1 Episodio 42"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/41/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:31.709Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/41/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/41/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-42/",
+      "numero": 42,
+      "temporada": 1,
+      "nome": "Episódio 42",
+      "descricao": "May. 08, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/vHOEgVjfxHUpL507FXnAuItKZ3e.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 42 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/42/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-42/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-41",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-41/",
+          "nome": "Dragon Ball Super 1 Episodio 41"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-43",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-43/",
+          "nome": "Dragon Ball Super 1 Episodio 43"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/42/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:27.628Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/42/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/42/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-43/",
+      "numero": 43,
+      "temporada": 1,
+      "nome": "Episódio 43",
+      "descricao": "May. 15, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/AolzwKsxt9QEWszPXOab8BRYJyh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 43 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/43/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-43/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-42",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-42/",
+          "nome": "Dragon Ball Super 1 Episodio 42"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-44",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-44/",
+          "nome": "Dragon Ball Super 1 Episodio 44"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/43/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:23.501Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/43/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/43/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-44/",
+      "numero": 44,
+      "temporada": 1,
+      "nome": "Episódio 44",
+      "descricao": "May. 22, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/qUojyq7KQ8eLNTRcu7JEvSFwyAA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 44 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/44/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-44/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-43",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-43/",
+          "nome": "Dragon Ball Super 1 Episodio 43"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-45",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-45/",
+          "nome": "Dragon Ball Super 1 Episodio 45"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/44/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:19.507Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/44/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/44/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-45/",
+      "numero": 45,
+      "temporada": 1,
+      "nome": "Episódio 45",
+      "descricao": "May. 29, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/64bwNZQ2bGy0FUPam80YJmto9yV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 45 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/45/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-45/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-44",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-44/",
+          "nome": "Dragon Ball Super 1 Episodio 44"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-46",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-46/",
+          "nome": "Dragon Ball Super 1 Episodio 46"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/45/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:15.497Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/45/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/45/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-46/",
+      "numero": 46,
+      "temporada": 1,
+      "nome": "Episódio 46",
+      "descricao": "Jun. 05, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/1BJsw5HLiuFDB2DIVvSEAYalne3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 46 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/46/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-46/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-45",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-45/",
+          "nome": "Dragon Ball Super 1 Episodio 45"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-47",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-47/",
+          "nome": "Dragon Ball Super 1 Episodio 47"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/46/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:11.493Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/46/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/46/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-47/",
+      "numero": 47,
+      "temporada": 1,
+      "nome": "Episódio 47",
+      "descricao": "Jun. 12, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/tqqiWjgabh44xeBXP5CkMzLinEU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 47 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/47/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-47/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-46",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-46/",
+          "nome": "Dragon Ball Super 1 Episodio 46"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-48",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-48/",
+          "nome": "Dragon Ball Super 1 Episodio 48"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/47/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:07.503Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/47/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/47/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-48/",
+      "numero": 48,
+      "temporada": 1,
+      "nome": "Episódio 48",
+      "descricao": "Jun. 19, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/4Bql4sIf6cPjHm7hDHiIHJmsgpq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 48 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/48/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-48/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-47",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-47/",
+          "nome": "Dragon Ball Super 1 Episodio 47"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-49",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-49/",
+          "nome": "Dragon Ball Super 1 Episodio 49"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/48/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:51:03.491Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/48/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/48/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-49/",
+      "numero": 49,
+      "temporada": 1,
+      "nome": "Episódio 49",
+      "descricao": "Jun. 26, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/a3MOckWRrbjVVPbGBgcBjUtTG5R.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 49 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/49/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-49/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-48",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-48/",
+          "nome": "Dragon Ball Super 1 Episodio 48"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-50",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-50/",
+          "nome": "Dragon Ball Super 1 Episodio 50"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/49/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:59.465Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/49/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/49/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-50/",
+      "numero": 50,
+      "temporada": 1,
+      "nome": "Episódio 50",
+      "descricao": "Jul. 03, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/quMxZwTIfT1JG0OJ3FONJjFoHgx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 50 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/50/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-50/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-49",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-49/",
+          "nome": "Dragon Ball Super 1 Episodio 49"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-51",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-51/",
+          "nome": "Dragon Ball Super 1 Episodio 51"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/50/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:55.426Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/50/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/50/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-51/",
+      "numero": 51,
+      "temporada": 1,
+      "nome": "Episódio 51",
+      "descricao": "Jul. 10, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/rLYvVzEvuRkW2hTVW8CxC0QpyLd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 51 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/51/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-51/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-50",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-50/",
+          "nome": "Dragon Ball Super 1 Episodio 50"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-52",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-52/",
+          "nome": "Dragon Ball Super 1 Episodio 52"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/51/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:51.423Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/51/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/51/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-52/",
+      "numero": 52,
+      "temporada": 1,
+      "nome": "Episódio 52",
+      "descricao": "Jul. 17, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/mH9DKGGZCfgHiEZ9sxPqc5NsO1L.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 52 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/52/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-52/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-51",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-51/",
+          "nome": "Dragon Ball Super 1 Episodio 51"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-53",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-53/",
+          "nome": "Dragon Ball Super 1 Episodio 53"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/52/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:47.436Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/52/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/52/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-53/",
+      "numero": 53,
+      "temporada": 1,
+      "nome": "Episódio 53",
+      "descricao": "Jul. 31, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/pgQW1zSIKciE71YFLXnMGtqYmul.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 53 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/53/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-53/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-52",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-52/",
+          "nome": "Dragon Ball Super 1 Episodio 52"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-54",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-54/",
+          "nome": "Dragon Ball Super 1 Episodio 54"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/53/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:43.378Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/53/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/53/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-54/",
+      "numero": 54,
+      "temporada": 1,
+      "nome": "Episódio 54",
+      "descricao": "Aug. 07, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/9CCFOybog7z2HwxTLBrXj51YBLW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 54 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/54/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-54/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-53",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-53/",
+          "nome": "Dragon Ball Super 1 Episodio 53"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-55",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-55/",
+          "nome": "Dragon Ball Super 1 Episodio 55"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/54/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:39.377Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/54/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/54/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-55/",
+      "numero": 55,
+      "temporada": 1,
+      "nome": "Episódio 55",
+      "descricao": "Aug. 21, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/eeSBWMqPIud5z2eed4zZEaWRgQs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 55 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/55/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-55/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-54",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-54/",
+          "nome": "Dragon Ball Super 1 Episodio 54"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-56",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-56/",
+          "nome": "Dragon Ball Super 1 Episodio 56"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/55/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:35.370Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/55/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/55/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-56/",
+      "numero": 56,
+      "temporada": 1,
+      "nome": "Episódio 56",
+      "descricao": "Aug. 28, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/emcQ2oX4sjYCkVuztSZykym79vH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 56 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/56/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-56/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-55",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-55/",
+          "nome": "Dragon Ball Super 1 Episodio 55"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-57",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-57/",
+          "nome": "Dragon Ball Super 1 Episodio 57"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/56/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:31.403Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/56/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/56/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-57/",
+      "numero": 57,
+      "temporada": 1,
+      "nome": "Episódio 57",
+      "descricao": "Sep. 04, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/axMneVWzdKg7VxAHaJsB7V36RHw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 57 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/57/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-57/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-56",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-56/",
+          "nome": "Dragon Ball Super 1 Episodio 56"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-58",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-58/",
+          "nome": "Dragon Ball Super 1 Episodio 58"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/57/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:27.379Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/57/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/57/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-58/",
+      "numero": 58,
+      "temporada": 1,
+      "nome": "Episódio 58",
+      "descricao": "Sep. 11, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/tu3MOamiU5v6QGrp6uB52SK51nn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 58 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/58/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-58/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-57",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-57/",
+          "nome": "Dragon Ball Super 1 Episodio 57"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-59",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-59/",
+          "nome": "Dragon Ball Super 1 Episodio 59"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/58/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:23.387Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/58/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/58/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-59/",
+      "numero": 59,
+      "temporada": 1,
+      "nome": "Episódio 59",
+      "descricao": "Sep. 25, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/Av5BdUkgp6SWxv8fuy72YqxALA3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 59 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/59/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-59/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-58",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-58/",
+          "nome": "Dragon Ball Super 1 Episodio 58"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-60",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-60/",
+          "nome": "Dragon Ball Super 1 Episodio 60"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/59/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:19.382Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/59/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/59/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-60/",
+      "numero": 60,
+      "temporada": 1,
+      "nome": "Episódio 60",
+      "descricao": "Oct. 02, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/5mVxEPOPzHDJpcgNt2PiLV58ybD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 60 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/60/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-60/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-59",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-59/",
+          "nome": "Dragon Ball Super 1 Episodio 59"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-61",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-61/",
+          "nome": "Dragon Ball Super 1 Episodio 61"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/60/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:15.384Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/60/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/60/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-61/",
+      "numero": 61,
+      "temporada": 1,
+      "nome": "Episódio 61",
+      "descricao": "Oct. 09, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/xWzmlvcuS9ThMjjnPzmLf1TjDhv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 61 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/61/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-61/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-60",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-60/",
+          "nome": "Dragon Ball Super 1 Episodio 60"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-62",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-62/",
+          "nome": "Dragon Ball Super 1 Episodio 62"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/61/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:10.906Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/61/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/61/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-62/",
+      "numero": 62,
+      "temporada": 1,
+      "nome": "Episódio 62",
+      "descricao": "Oct. 16, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/72we90g6fQZJTCvnZ7vNRgc6Kjt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 62 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/62/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-62/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-61",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-61/",
+          "nome": "Dragon Ball Super 1 Episodio 61"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-63",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-63/",
+          "nome": "Dragon Ball Super 1 Episodio 63"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/62/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:06.600Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/62/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/62/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-63/",
+      "numero": 63,
+      "temporada": 1,
+      "nome": "Episódio 63",
+      "descricao": "Oct. 23, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/nXlGtmGGFlvbuTW65d6H8ea8a57.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 63 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/63/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-63/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-62",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-62/",
+          "nome": "Dragon Ball Super 1 Episodio 62"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-64",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-64/",
+          "nome": "Dragon Ball Super 1 Episodio 64"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/63/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:50:02.602Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/63/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/63/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-64/",
+      "numero": 64,
+      "temporada": 1,
+      "nome": "Episódio 64",
+      "descricao": "Oct. 30, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/xjHN21nQ8Ryu4Y3Bc2TrVa95iAr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 64 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/64/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-64/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-63",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-63/",
+          "nome": "Dragon Ball Super 1 Episodio 63"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-65",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-65/",
+          "nome": "Dragon Ball Super 1 Episodio 65"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/64/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:58.619Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/64/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/64/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-65/",
+      "numero": 65,
+      "temporada": 1,
+      "nome": "Episódio 65",
+      "descricao": "Nov. 06, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/eASKXzLkUArLS36FMkxWozIBHBu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 65 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/65/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-65/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-64",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-64/",
+          "nome": "Dragon Ball Super 1 Episodio 64"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-66",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-66/",
+          "nome": "Dragon Ball Super 1 Episodio 66"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/65/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:54.557Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/65/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/65/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-66/",
+      "numero": 66,
+      "temporada": 1,
+      "nome": "Episódio 66",
+      "descricao": "Nov. 13, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/oShiyZ5wPFgxKlxq2ASqsbBPmjH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 66 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/66/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-66/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-65",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-65/",
+          "nome": "Dragon Ball Super 1 Episodio 65"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-67",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-67/",
+          "nome": "Dragon Ball Super 1 Episodio 67"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/66/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:50.581Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/66/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/66/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-67/",
+      "numero": 67,
+      "temporada": 1,
+      "nome": "Episódio 67",
+      "descricao": "Nov. 20, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/qM8oxQBpd5vbd5SewDLY7PHSY2p.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 67 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/67/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-67/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-66",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-66/",
+          "nome": "Dragon Ball Super 1 Episodio 66"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-68",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-68/",
+          "nome": "Dragon Ball Super 1 Episodio 68"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/67/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:46.589Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/67/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/67/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-68/",
+      "numero": 68,
+      "temporada": 1,
+      "nome": "Episódio 68",
+      "descricao": "Nov. 27, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/xt90JqLL1r3bx7aiOXQttfbkHsU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 68 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/68/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-68/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-67",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-67/",
+          "nome": "Dragon Ball Super 1 Episodio 67"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-69",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-69/",
+          "nome": "Dragon Ball Super 1 Episodio 69"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/68/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:42.629Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/68/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/68/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-69/",
+      "numero": 69,
+      "temporada": 1,
+      "nome": "Episódio 69",
+      "descricao": "Dec. 04, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/bnGgyBiC0Sbgq3Gh1JlvtSNzC68.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 69 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/69/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-69/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-68",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-68/",
+          "nome": "Dragon Ball Super 1 Episodio 68"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-70",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-70/",
+          "nome": "Dragon Ball Super 1 Episodio 70"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/69/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:38.551Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/69/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/69/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-70/",
+      "numero": 70,
+      "temporada": 1,
+      "nome": "Episódio 70",
+      "descricao": "Dec. 11, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/cNaqeypPrXqx3z08Qht3P3jgML9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 70 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/70/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-70/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-69",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-69/",
+          "nome": "Dragon Ball Super 1 Episodio 69"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-71",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-71/",
+          "nome": "Dragon Ball Super 1 Episodio 71"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/70/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:34.550Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/70/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/70/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-71/",
+      "numero": 71,
+      "temporada": 1,
+      "nome": "Episódio 71",
+      "descricao": "Dec. 17, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/7OPpa9widO9AfI0sIFrszrFlx8P.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 71 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/71/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-71/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-70",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-70/",
+          "nome": "Dragon Ball Super 1 Episodio 70"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-72",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-72/",
+          "nome": "Dragon Ball Super 1 Episodio 72"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/71/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:30.483Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/71/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/71/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-72/",
+      "numero": 72,
+      "temporada": 1,
+      "nome": "Episódio 72",
+      "descricao": "Dec. 24, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/iDikUuFkBFNNPiqkGsiTHxRlORz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 72 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/72/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-72/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-71",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-71/",
+          "nome": "Dragon Ball Super 1 Episodio 71"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-73",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-73/",
+          "nome": "Dragon Ball Super 1 Episodio 73"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/72/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:26.483Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/72/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/72/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-73/",
+      "numero": 73,
+      "temporada": 1,
+      "nome": "Episódio 73",
+      "descricao": "Jan. 08, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3bXI7KMhg2GM0HBVnKiZDpplgXO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 73 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/73/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-73/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-72",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-72/",
+          "nome": "Dragon Ball Super 1 Episodio 72"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-74",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-74/",
+          "nome": "Dragon Ball Super 1 Episodio 74"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/73/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:22.464Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/73/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/73/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-74/",
+      "numero": 74,
+      "temporada": 1,
+      "nome": "Episódio 74",
+      "descricao": "Jan. 15, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/md4r1B7BrxOomUXWOptDk5KCeV9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 74 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/74/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-74/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-73",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-73/",
+          "nome": "Dragon Ball Super 1 Episodio 73"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-75",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-75/",
+          "nome": "Dragon Ball Super 1 Episodio 75"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/74/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:18.509Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/74/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/74/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-75/",
+      "numero": 75,
+      "temporada": 1,
+      "nome": "Episódio 75",
+      "descricao": "Jan. 22, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/i5L5bR8l6CsCwImtiyZqVyDI4EL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 75 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/75/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-75/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-74",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-74/",
+          "nome": "Dragon Ball Super 1 Episodio 74"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-76",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-76/",
+          "nome": "Dragon Ball Super 1 Episodio 76"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/75/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:14.529Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/75/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/75/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-76/",
+      "numero": 76,
+      "temporada": 1,
+      "nome": "Episódio 76",
+      "descricao": "Jan. 29, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/5GuTqpG7tBbHbPXV8l1lnrvzegd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 76 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/76/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-76/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-75",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-75/",
+          "nome": "Dragon Ball Super 1 Episodio 75"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-77",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-77/",
+          "nome": "Dragon Ball Super 1 Episodio 77"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/76/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:10.405Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/76/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/76/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-77/",
+      "numero": 77,
+      "temporada": 1,
+      "nome": "Episódio 77",
+      "descricao": "Feb. 05, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/w1qJLaGGOIdTKKjeAoXgvvWJXCb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 77 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/77/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-77/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-76",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-76/",
+          "nome": "Dragon Ball Super 1 Episodio 76"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-78",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-78/",
+          "nome": "Dragon Ball Super 1 Episodio 78"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/77/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:05.848Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/77/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/77/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-78/",
+      "numero": 78,
+      "temporada": 1,
+      "nome": "Episódio 78",
+      "descricao": "Feb. 12, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/9BCjHqvlujJAUOeq64P9dwgxfuW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 78 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/78/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-78/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-77",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-77/",
+          "nome": "Dragon Ball Super 1 Episodio 77"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-79",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-79/",
+          "nome": "Dragon Ball Super 1 Episodio 79"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/78/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:49:01.867Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/78/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/78/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-79/",
+      "numero": 79,
+      "temporada": 1,
+      "nome": "Episódio 79",
+      "descricao": "Feb. 19, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/iL8YKGhVXcJLiblflz0bYnNsRgl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 79 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/79/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-79/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-78",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-78/",
+          "nome": "Dragon Ball Super 1 Episodio 78"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-80",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-80/",
+          "nome": "Dragon Ball Super 1 Episodio 80"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/79/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:57.901Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/79/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/79/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-80/",
+      "numero": 80,
+      "temporada": 1,
+      "nome": "Episódio 80",
+      "descricao": "Feb. 26, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/xJAdLqsS6EGeyNUJf6htx4EULCa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 80 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/80/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-80/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-79",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-79/",
+          "nome": "Dragon Ball Super 1 Episodio 79"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-81",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-81/",
+          "nome": "Dragon Ball Super 1 Episodio 81"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/80/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:53.825Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/80/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/80/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-81/",
+      "numero": 81,
+      "temporada": 1,
+      "nome": "Episódio 81",
+      "descricao": "Mar. 05, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3kc8vONRAjna47TDqWKiGQ2L5hv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 81 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/81/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-81/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-80",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-80/",
+          "nome": "Dragon Ball Super 1 Episodio 80"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-82",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-82/",
+          "nome": "Dragon Ball Super 1 Episodio 82"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/81/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:49.573Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/81/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/81/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-82/",
+      "numero": 82,
+      "temporada": 1,
+      "nome": "Episódio 82",
+      "descricao": "Mar. 19, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/uzq7KJmFi1YdenK5RLsxhRVo9fb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 82 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/82/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-82/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-81",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-81/",
+          "nome": "Dragon Ball Super 1 Episodio 81"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-83",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-83/",
+          "nome": "Dragon Ball Super 1 Episodio 83"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/82/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:45.642Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/82/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/82/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-83/",
+      "numero": 83,
+      "temporada": 1,
+      "nome": "Episódio 83",
+      "descricao": "Mar. 26, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/kA0TLxx39HIsspG1JBcuQGyXLz1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 83 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/83/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-83/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-82",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-82/",
+          "nome": "Dragon Ball Super 1 Episodio 82"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-84",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-84/",
+          "nome": "Dragon Ball Super 1 Episodio 84"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/83/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:41.666Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/83/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/83/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-84/",
+      "numero": 84,
+      "temporada": 1,
+      "nome": "Episódio 84",
+      "descricao": "Apr. 02, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/fwhZ2hFWTtSQG3YyywukqiAFOS1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 84 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/84/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-84/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-83",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-83/",
+          "nome": "Dragon Ball Super 1 Episodio 83"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-85",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-85/",
+          "nome": "Dragon Ball Super 1 Episodio 85"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/84/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:37.686Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/84/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/84/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-85/",
+      "numero": 85,
+      "temporada": 1,
+      "nome": "Episódio 85",
+      "descricao": "Apr. 09, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/uLcSDEpMXqyPaOzvtgX8dvMvvVJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 85 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/85/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-85/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-84",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-84/",
+          "nome": "Dragon Ball Super 1 Episodio 84"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-86",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-86/",
+          "nome": "Dragon Ball Super 1 Episodio 86"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/85/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:33.699Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/85/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/85/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-86/",
+      "numero": 86,
+      "temporada": 1,
+      "nome": "Episódio 86",
+      "descricao": "Apr. 16, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/hJWz4LD3BpHlt4prFSPTL7gCBWZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 86 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/86/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-86/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-85",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-85/",
+          "nome": "Dragon Ball Super 1 Episodio 85"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-87",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-87/",
+          "nome": "Dragon Ball Super 1 Episodio 87"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/86/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:29.736Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/86/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/86/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-87/",
+      "numero": 87,
+      "temporada": 1,
+      "nome": "Episódio 87",
+      "descricao": "Apr. 23, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/qq1ubz2mgSXZPOLbXGLPl8XL9k8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 87 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/87/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-87/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-86",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-86/",
+          "nome": "Dragon Ball Super 1 Episodio 86"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-88",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-88/",
+          "nome": "Dragon Ball Super 1 Episodio 88"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/87/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:25.761Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/87/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/87/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-88/",
+      "numero": 88,
+      "temporada": 1,
+      "nome": "Episódio 88",
+      "descricao": "Apr. 30, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/rmGzR6On6CtlMKlkiZCLxASLmmT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 88 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/88/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-88/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-87",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-87/",
+          "nome": "Dragon Ball Super 1 Episodio 87"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-89",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-89/",
+          "nome": "Dragon Ball Super 1 Episodio 89"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/88/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:21.809Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/88/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/88/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-89/",
+      "numero": 89,
+      "temporada": 1,
+      "nome": "Episódio 89",
+      "descricao": "May. 07, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3Rome8Nbv1YoaYCUUp9KzF1M6K8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 89 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/89/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-89/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-88",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-88/",
+          "nome": "Dragon Ball Super 1 Episodio 88"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-90",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-90/",
+          "nome": "Dragon Ball Super 1 Episodio 90"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/89/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:17.830Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/89/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/89/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-90/",
+      "numero": 90,
+      "temporada": 1,
+      "nome": "Episódio 90",
+      "descricao": "May. 14, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/iVFlLs1H32Tkbnn0yrE9v5sroOq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 90 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/90/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-90/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-89",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-89/",
+          "nome": "Dragon Ball Super 1 Episodio 89"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-91",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-91/",
+          "nome": "Dragon Ball Super 1 Episodio 91"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/90/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:13.860Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/90/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/90/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-91/",
+      "numero": 91,
+      "temporada": 1,
+      "nome": "Episódio 91",
+      "descricao": "May. 21, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/8ya0FGIsjoDXdxQMPID8Q5FUBOw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 91 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/91/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-91/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-90",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-90/",
+          "nome": "Dragon Ball Super 1 Episodio 90"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-92",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-92/",
+          "nome": "Dragon Ball Super 1 Episodio 92"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/91/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:09.916Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/91/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/91/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-92/",
+      "numero": 92,
+      "temporada": 1,
+      "nome": "Episódio 92",
+      "descricao": "May. 28, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/pIX6S5TMwV9gndf1Yct84B8Gdl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 92 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/92/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-92/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-91",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-91/",
+          "nome": "Dragon Ball Super 1 Episodio 91"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-93",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-93/",
+          "nome": "Dragon Ball Super 1 Episodio 93"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/92/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:05.981Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/92/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/92/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-93/",
+      "numero": 93,
+      "temporada": 1,
+      "nome": "Episódio 93",
+      "descricao": "Jun. 03, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/s3WWHHygNxyyvWu0IUjlkfeJiSi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 93 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/93/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-93/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-92",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-92/",
+          "nome": "Dragon Ball Super 1 Episodio 92"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-94",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-94/",
+          "nome": "Dragon Ball Super 1 Episodio 94"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/93/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:48:01.867Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/93/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/93/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-94/",
+      "numero": 94,
+      "temporada": 1,
+      "nome": "Episódio 94",
+      "descricao": "Jun. 10, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/oyYMG6NIwtVOS5oDWXWqHU5DCFC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 94 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/94/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-94/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-93",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-93/",
+          "nome": "Dragon Ball Super 1 Episodio 93"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-95",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-95/",
+          "nome": "Dragon Ball Super 1 Episodio 95"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/94/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:57.902Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/94/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/94/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-95/",
+      "numero": 95,
+      "temporada": 1,
+      "nome": "Episódio 95",
+      "descricao": "Jun. 17, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/2hRvwNWwkFHqInIZAvgtMQ8n3XE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 95 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/95/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-95/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-94",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-94/",
+          "nome": "Dragon Ball Super 1 Episodio 94"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-96",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-96/",
+          "nome": "Dragon Ball Super 1 Episodio 96"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/95/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:53.925Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/95/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/95/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-96/",
+      "numero": 96,
+      "temporada": 1,
+      "nome": "Episódio 96",
+      "descricao": "Jun. 25, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/ebY34YteL3ziMxqKyRaLRYnX6Gz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 96 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/96/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-96/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-95",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-95/",
+          "nome": "Dragon Ball Super 1 Episodio 95"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-97",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-97/",
+          "nome": "Dragon Ball Super 1 Episodio 97"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/96/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:49.993Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/96/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/96/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-97/",
+      "numero": 97,
+      "temporada": 1,
+      "nome": "Episódio 97",
+      "descricao": "Jul. 02, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/jIQsAM5nkbNmI5OnvGlB3lY4r3w.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 97 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/97/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-97/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-96",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-96/",
+          "nome": "Dragon Ball Super 1 Episodio 96"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-98",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-98/",
+          "nome": "Dragon Ball Super 1 Episodio 98"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/97/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:45.976Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/97/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/97/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-98/",
+      "numero": 98,
+      "temporada": 1,
+      "nome": "Episódio 98",
+      "descricao": "Jul. 09, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/6lep2tZlqKsF7Yt7hOU7uTAnvWK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 98 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/98/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-98/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-97",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-97/",
+          "nome": "Dragon Ball Super 1 Episodio 97"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-99",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-99/",
+          "nome": "Dragon Ball Super 1 Episodio 99"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/98/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:42.023Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/98/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/98/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-99/",
+      "numero": 99,
+      "temporada": 1,
+      "nome": "Episódio 99",
+      "descricao": "Jul. 16, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/xPFWOxv43Mj5WfVRT1UHPAm28jz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 99 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/99/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-99/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-98",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-98/",
+          "nome": "Dragon Ball Super 1 Episodio 98"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-100",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-100/",
+          "nome": "Dragon Ball Super 1 Episodio 100"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/99/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:38.065Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/99/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/99/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-100/",
+      "numero": 100,
+      "temporada": 1,
+      "nome": "Episódio 100",
+      "descricao": "Jul. 23, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/5WOXfmR6JjtTnLsrQH98MBoqYgQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 100 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/100/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-100/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-99",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-99/",
+          "nome": "Dragon Ball Super 1 Episodio 99"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-101",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-101/",
+          "nome": "Dragon Ball Super 1 Episodio 101"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/100/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:34.124Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/100/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/100/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-101/",
+      "numero": 101,
+      "temporada": 1,
+      "nome": "Episódio 101",
+      "descricao": "Jul. 30, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/ry76L4RkyeOtMAveIVNRtON91Ve.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 101 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/101/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-101/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-100",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-100/",
+          "nome": "Dragon Ball Super 1 Episodio 100"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-102",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-102/",
+          "nome": "Dragon Ball Super 1 Episodio 102"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/101/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:30.149Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/101/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/101/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-102/",
+      "numero": 102,
+      "temporada": 1,
+      "nome": "Episódio 102",
+      "descricao": "Aug. 06, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/ptp2bxOhupl2rzbkpYEVqP985PQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 102 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/102/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-102/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-101",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-101/",
+          "nome": "Dragon Ball Super 1 Episodio 101"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-103",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-103/",
+          "nome": "Dragon Ball Super 1 Episodio 103"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/102/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:25.935Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/102/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/102/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-103/",
+      "numero": 103,
+      "temporada": 1,
+      "nome": "Episódio 103",
+      "descricao": "Aug. 13, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/kQapkPUZhxWA8qC2vHPg3jzGx0R.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 103 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/103/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-103/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-102",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-102/",
+          "nome": "Dragon Ball Super 1 Episodio 102"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-104",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-104/",
+          "nome": "Dragon Ball Super 1 Episodio 104"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/103/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:21.958Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/103/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/103/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-104/",
+      "numero": 104,
+      "temporada": 1,
+      "nome": "Episódio 104",
+      "descricao": "Aug. 20, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/eX0Cn224hyJZtMzBQJKvFupQYUg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 104 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/104/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-104/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-103",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-103/",
+          "nome": "Dragon Ball Super 1 Episodio 103"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-105",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-105/",
+          "nome": "Dragon Ball Super 1 Episodio 105"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/104/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:17.971Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/104/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/104/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-105/",
+      "numero": 105,
+      "temporada": 1,
+      "nome": "Episódio 105",
+      "descricao": "Aug. 27, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3KnuMATqxrgoSbQaQ1S8Ov3vS7h.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 105 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/105/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-105/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-104",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-104/",
+          "nome": "Dragon Ball Super 1 Episodio 104"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-106",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-106/",
+          "nome": "Dragon Ball Super 1 Episodio 106"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/105/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:14.005Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/105/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/105/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-106/",
+      "numero": 106,
+      "temporada": 1,
+      "nome": "Episódio 106",
+      "descricao": "Sep. 03, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/tDsJwd6FhyS5I7ylinALeYIceCZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 106 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/106/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-106/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-105",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-105/",
+          "nome": "Dragon Ball Super 1 Episodio 105"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-107",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-107/",
+          "nome": "Dragon Ball Super 1 Episodio 107"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/106/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:10.073Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/106/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/106/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-107/",
+      "numero": 107,
+      "temporada": 1,
+      "nome": "Episódio 107",
+      "descricao": "Sep. 10, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/5Gc7Ood1kqq0eyGy4tPLziTTOAp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 107 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/107/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-107/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-106",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-106/",
+          "nome": "Dragon Ball Super 1 Episodio 106"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-108",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-108/",
+          "nome": "Dragon Ball Super 1 Episodio 108"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/107/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:06.116Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/107/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/107/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-108/",
+      "numero": 108,
+      "temporada": 1,
+      "nome": "Episódio 108",
+      "descricao": "Sep. 24, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/4REl0pg5fGBsoCEna70dWPxh6Ob.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 108 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/108/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-108/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-107",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-107/",
+          "nome": "Dragon Ball Super 1 Episodio 107"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-109",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-109/",
+          "nome": "Dragon Ball Super 1 Episodio 109"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/108/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:47:02.161Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/108/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/108/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-109/",
+      "numero": 109,
+      "temporada": 1,
+      "nome": "Episódio 109",
+      "descricao": "Oct. 08, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/jAxuDsiQ2ORT0a10XseqP5zcLIb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 109 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/109/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-109/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-108",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-108/",
+          "nome": "Dragon Ball Super 1 Episodio 108"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-110",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-110/",
+          "nome": "Dragon Ball Super 1 Episodio 110"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/109/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:58.113Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/109/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/109/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-110/",
+      "numero": 110,
+      "temporada": 1,
+      "nome": "Episódio 110",
+      "descricao": "Oct. 08, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3Ztdp4838lSsJcpeY09SLH0IOnE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 110 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/110/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-110/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-109",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-109/",
+          "nome": "Dragon Ball Super 1 Episodio 109"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-111",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-111/",
+          "nome": "Dragon Ball Super 1 Episodio 111"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/110/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:53.948Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/110/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/110/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-111/",
+      "numero": 111,
+      "temporada": 1,
+      "nome": "Episódio 111",
+      "descricao": "Oct. 15, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/dNHs7L1tjpchqzg5k9scd45BDM4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 111 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/111/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-111/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-110",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-110/",
+          "nome": "Dragon Ball Super 1 Episodio 110"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-112",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-112/",
+          "nome": "Dragon Ball Super 1 Episodio 112"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/111/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:49.980Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/111/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/111/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-112/",
+      "numero": 112,
+      "temporada": 1,
+      "nome": "Episódio 112",
+      "descricao": "Oct. 22, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/4Zt1BcEqZyVuy9ygBCHJYR2Z72i.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 112 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/112/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-112/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-111",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-111/",
+          "nome": "Dragon Ball Super 1 Episodio 111"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-113",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-113/",
+          "nome": "Dragon Ball Super 1 Episodio 113"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/112/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:46.010Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/112/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/112/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-113/",
+      "numero": 113,
+      "temporada": 1,
+      "nome": "Episódio 113",
+      "descricao": "Oct. 29, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/yRTDYvcwsyspRLE9IVLOXpn2MHL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 113 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/113/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-113/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-112",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-112/",
+          "nome": "Dragon Ball Super 1 Episodio 112"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-114",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-114/",
+          "nome": "Dragon Ball Super 1 Episodio 114"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/113/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:41.999Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/113/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/113/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-114/",
+      "numero": 114,
+      "temporada": 1,
+      "nome": "Episódio 114",
+      "descricao": "Nov. 05, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/dRapGRLPhmYbRngHVwjFKe9h6Bj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 114 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/114/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-114/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-113",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-113/",
+          "nome": "Dragon Ball Super 1 Episodio 113"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-115",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-115/",
+          "nome": "Dragon Ball Super 1 Episodio 115"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/114/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:38.051Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/114/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/114/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-115/",
+      "numero": 115,
+      "temporada": 1,
+      "nome": "Episódio 115",
+      "descricao": "Nov. 12, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3vIF3koAMyJ6kr8mCvQzw4KpgDw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 115 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/115/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-115/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-114",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-114/",
+          "nome": "Dragon Ball Super 1 Episodio 114"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-116",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-116/",
+          "nome": "Dragon Ball Super 1 Episodio 116"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/115/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:34.064Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/115/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/115/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-116/",
+      "numero": 116,
+      "temporada": 1,
+      "nome": "Episódio 116",
+      "descricao": "Nov. 19, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/jpafjoFXrtrxnhQcWBfN0pzSnTe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 116 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/116/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-116/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-115",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-115/",
+          "nome": "Dragon Ball Super 1 Episodio 115"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-117",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-117/",
+          "nome": "Dragon Ball Super 1 Episodio 117"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/116/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:30.087Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/116/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/116/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-117/",
+      "numero": 117,
+      "temporada": 1,
+      "nome": "Episódio 117",
+      "descricao": "Nov. 26, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/zj13OO0upX8M8kQh34Ssq5hVEBz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 117 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/117/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-117/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-116",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-116/",
+          "nome": "Dragon Ball Super 1 Episodio 116"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-118",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-118/",
+          "nome": "Dragon Ball Super 1 Episodio 118"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/117/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:26.078Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/117/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/117/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-118/",
+      "numero": 118,
+      "temporada": 1,
+      "nome": "Episódio 118",
+      "descricao": "Dec. 03, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/tM1K3G1zgv7aR1oW0dax68uxqUs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 118 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/118/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-118/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-117",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-117/",
+          "nome": "Dragon Ball Super 1 Episodio 117"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-119",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-119/",
+          "nome": "Dragon Ball Super 1 Episodio 119"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/118/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:22.120Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/118/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/118/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-119/",
+      "numero": 119,
+      "temporada": 1,
+      "nome": "Episódio 119",
+      "descricao": "Dec. 10, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/cOdVxSI7spAKfROo89w7sru9Twq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 119 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/119/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-119/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-118",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-118/",
+          "nome": "Dragon Ball Super 1 Episodio 118"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-120",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-120/",
+          "nome": "Dragon Ball Super 1 Episodio 120"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/119/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:18.160Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/119/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/119/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-120/",
+      "numero": 120,
+      "temporada": 1,
+      "nome": "Episódio 120",
+      "descricao": "Dec. 17, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/ucQOHxMVheMrfbL5eYYZNU52kam.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 120 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/120/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-120/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-119",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-119/",
+          "nome": "Dragon Ball Super 1 Episodio 119"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-121",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-121/",
+          "nome": "Dragon Ball Super 1 Episodio 121"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/120/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:14.075Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/120/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/120/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-121/",
+      "numero": 121,
+      "temporada": 1,
+      "nome": "Episódio 121",
+      "descricao": "Dec. 24, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/wyc3iF3arzhBYPWzIG1riEunMGS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 121 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/121/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-121/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-120",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-120/",
+          "nome": "Dragon Ball Super 1 Episodio 120"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-122",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-122/",
+          "nome": "Dragon Ball Super 1 Episodio 122"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/121/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:10.087Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/121/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/121/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-122/",
+      "numero": 122,
+      "temporada": 1,
+      "nome": "Episódio 122",
+      "descricao": "Jan. 07, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/6Wu0kMb5iv05wq7TBiUTnclYQ2t.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 122 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/122/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-122/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-121",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-121/",
+          "nome": "Dragon Ball Super 1 Episodio 121"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-123",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-123/",
+          "nome": "Dragon Ball Super 1 Episodio 123"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/122/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:06.158Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/122/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/122/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-123/",
+      "numero": 123,
+      "temporada": 1,
+      "nome": "Episódio 123",
+      "descricao": "Jan. 14, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/iFavGtDQfvEAcqAabZvcI45EJga.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 123 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/123/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-123/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-122",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-122/",
+          "nome": "Dragon Ball Super 1 Episodio 122"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-124",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-124/",
+          "nome": "Dragon Ball Super 1 Episodio 124"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/123/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:46:02.197Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/123/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/123/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-124/",
+      "numero": 124,
+      "temporada": 1,
+      "nome": "Episódio 124",
+      "descricao": "Jan. 21, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/m3ia1tXZVa0pWBzphdHI0bBljeq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 124 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/124/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-124/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-123",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-123/",
+          "nome": "Dragon Ball Super 1 Episodio 123"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-125",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-125/",
+          "nome": "Dragon Ball Super 1 Episodio 125"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/124/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:45:58.197Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/124/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/124/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-125/",
+      "numero": 125,
+      "temporada": 1,
+      "nome": "Episódio 125",
+      "descricao": "Jan. 28, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/oDozprtR37alSI7iSgoNKBgPXSq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 125 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/125/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-125/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-124",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-124/",
+          "nome": "Dragon Ball Super 1 Episodio 124"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-126",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-126/",
+          "nome": "Dragon Ball Super 1 Episodio 126"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/125/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:45:54.208Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/125/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/125/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-126/",
+      "numero": 126,
+      "temporada": 1,
+      "nome": "Episódio 126",
+      "descricao": "Feb. 04, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/lpvlKU3R63NOu4n3qf5RkdoA2N5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 126 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/126/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-126/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-125",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-125/",
+          "nome": "Dragon Ball Super 1 Episodio 125"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-127",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-127/",
+          "nome": "Dragon Ball Super 1 Episodio 127"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/126/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:45:50.252Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/126/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/126/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-127/",
+      "numero": 127,
+      "temporada": 1,
+      "nome": "Episódio 127",
+      "descricao": "Feb. 11, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/1KdBdOoWc2vPRpSiklgHktFtJMp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 127 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/127/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-127/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-126",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-126/",
+          "nome": "Dragon Ball Super 1 Episodio 126"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-128",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-128/",
+          "nome": "Dragon Ball Super 1 Episodio 128"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/127/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:45:46.048Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/127/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/127/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-128/",
+      "numero": 128,
+      "temporada": 1,
+      "nome": "Episódio 128",
+      "descricao": "Feb. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/h31kX3q0gguusHacmLgdEZESbsu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 128 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/128/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-128/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-127",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-127/",
+          "nome": "Dragon Ball Super 1 Episodio 127"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-129",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-129/",
+          "nome": "Dragon Ball Super 1 Episodio 129"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/128/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:45:42.078Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/128/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/128/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-129/",
+      "numero": 129,
+      "temporada": 1,
+      "nome": "Episódio 129",
+      "descricao": "Mar. 04, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3pKowZkQBolsVnWJ8qSGrIuwZ11.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 129 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/129/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-129/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-128",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-128/",
+          "nome": "Dragon Ball Super 1 Episodio 128"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-130",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-130/",
+          "nome": "Dragon Ball Super 1 Episodio 130"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/129/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:45:38.106Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/129/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/129/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-130/",
+      "numero": 130,
+      "temporada": 1,
+      "nome": "Episódio 130",
+      "descricao": "Mar. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/uqq5mYfTFhnpHgWYYKj9dc9n9fp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 130 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/130/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-130/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-129",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-129/",
+          "nome": "Dragon Ball Super 1 Episodio 129"
+        },
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-131",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-131/",
+          "nome": "Dragon Ball Super 1 Episodio 131"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/130/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:45:34.104Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/130/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/130/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-131/",
+      "numero": 131,
+      "temporada": 1,
+      "nome": "Episódio 131",
+      "descricao": "Mar. 25, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/mtyMLDoFwnCURfGLZ3WMDk9Seur.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dragon Ball Super Dublado: 1 Episodio 131 Online",
+        "animeSlug": "a/dragon-ball-super-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/131/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-131/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-1-episodio-130",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-1-episodio-130/",
+          "nome": "Dragon Ball Super 1 Episodio 130"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/62715/1/131/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:45:30.138Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/62715/1/131/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/62715/1/131/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 131,
+    "totalEpisodios": 131,
+    "detalhesColetadosEm": "2026-10-22T08:45:19.232Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 131
+  },
+  "titulo": "Dragon Ball Super Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/8xc6QcxN8ZOCW4lo4IpVNm3VqKt.jpg",
+  "score": "8.2",
+  "audio": "Dublado",
+  "ano": "2015",
+  "publicadoEm": "Jul. 05, 2015",
+  "url": "https://meusanimes.blog/a/dragon-ball-super-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/09/8xc6QcxN8ZOCW4lo4IpVNm3VqKt.jpg",
+  "temporadas": 1,
+  "descricao": "Seis meses após a derrota de Majin Buu, Goku arranja um novo emprego como… fazendeiro de nabos? Agora que a Terra está em paz, nosso heróis levam vidas mundanas, mas não por muito tempo. Longe dali, Bills, o poderoso Deus da Destruição, recebe uma profecia de que encontrará seu fim nas mãos de um ser ainda mais poderoso, e sua busca pelo Deus dos Saiyajins o traz para a Terra. Será que Goku e seus amigos conseguirão derrotar seu mais poderoso inimigo até então?"
+}

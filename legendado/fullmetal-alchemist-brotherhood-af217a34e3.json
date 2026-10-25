@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "fullmetal-alchemist-brotherhood",
+  "capturadoEm": "2026-10-22T09:50:36.230Z",
+  "atualizadoEm": "2026-10-22T09:50:36.230Z",
+  "catalogo": {
+    "slug": "a/fullmetal-alchemist-brotherhood",
+    "titulo": "Fullmetal Alchemist: Brotherhood",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/fn2Q1RmSGC7DDEN7YexqvAtuVjN.jpg",
+    "info": "Legendado • Apr. 05, 2009",
+    "audio": "Legendado",
+    "score": "8.704",
+    "ano": "2009",
+    "publicadoEm": "Apr. 05, 2009",
+    "url": "https://meusanimes.blog/a/fullmetal-alchemist-brotherhood/",
+    "postId": "63708"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      25
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Fullmetal Alchemist: Brotherhood",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/fn2Q1RmSGC7DDEN7YexqvAtuVjN.jpg",
+  "score": "8.704",
+  "audio": "Legendado",
+  "ano": "2009",
+  "publicadoEm": "Apr. 05, 2009",
+  "url": "https://meusanimes.blog/a/fullmetal-alchemist-brotherhood/"
+}

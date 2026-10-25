@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "uchouten-kazoku",
+  "capturadoEm": "2026-10-22T09:49:32.099Z",
+  "atualizadoEm": "2026-10-22T09:49:32.099Z",
+  "catalogo": {
+    "slug": "a/uchouten-kazoku",
+    "titulo": "Uchouten Kazoku",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/hmjaJb2Xa7XyEAUjZRHblHrUCZL.jpg",
+    "info": "Legendado • Jul. 07, 2013",
+    "audio": "Legendado",
+    "score": "6.4",
+    "ano": "2013",
+    "publicadoEm": "Jul. 07, 2013",
+    "url": "https://meusanimes.blog/a/uchouten-kazoku/",
+    "postId": "68934"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Uchouten Kazoku",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/hmjaJb2Xa7XyEAUjZRHblHrUCZL.jpg",
+  "score": "6.4",
+  "audio": "Legendado",
+  "ano": "2013",
+  "publicadoEm": "Jul. 07, 2013",
+  "url": "https://meusanimes.blog/a/uchouten-kazoku/"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kaguya-a-princesa-espacial",
+  "capturadoEm": "2026-10-22T09:49:15.872Z",
+  "atualizadoEm": "2026-10-22T09:49:15.872Z",
+  "catalogo": {
+    "slug": "a/kaguya-a-princesa-espacial",
+    "titulo": "Kaguya: A Princesa Espacial",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/9lHbzF8h1do99LlIis8iemMOZSj.jpg",
+    "info": "Legendado • Jan. 22, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jan. 22, 2026",
+    "url": "https://meusanimes.blog/a/kaguya-a-princesa-espacial/",
+    "postId": "70942"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kaguya: A Princesa Espacial",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/9lHbzF8h1do99LlIis8iemMOZSj.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jan. 22, 2026",
+  "url": "https://meusanimes.blog/a/kaguya-a-princesa-espacial/"
+}

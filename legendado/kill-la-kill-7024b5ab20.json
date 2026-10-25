@@ -1,0 +1,835 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kill-la-kill",
+  "capturadoEm": "2026-10-22T09:47:28.488Z",
+  "atualizadoEm": "2026-10-22T21:05:21.202Z",
+  "catalogo": {
+    "slug": "a/kill-la-kill",
+    "titulo": "Kill la Kill",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg",
+    "info": "Legendado • Oct. 04, 2013",
+    "audio": "Legendado",
+    "score": "8.2",
+    "ano": "2013",
+    "publicadoEm": "Oct. 04, 2013",
+    "url": "https://meusanimes.blog/a/kill-la-kill/",
+    "postId": "83490"
+  },
+  "detalhes": {
+    "slug": "a/kill-la-kill",
+    "titulo": "Kill la Kill",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg",
+    "sinopse": "Na Academia Honnouji há um grupo de estudantes com poderes sobrenaturais obtidos através de um uniforme conhecido como “Uniforme Goku”. Com o poder do uniforme, o representante dos estudantes, Satsuki Kiryuin, dita as regras com autoridade e temor. Ryuko confronta Satsuki para obter informação do segredo a respeito das lâminas-tesoura, mas… O encontro deles foi por acaso ou estavam destinados a isso? O confronto de ambos envolverá toda a academia!",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Ecchi",
+      "Fantasia",
+      "Ficção científica",
+      "Shoujo"
+    ],
+    "score": "8",
+    "audio": "Legendado",
+    "ano": "2013",
+    "publicadoEm": "Oct. 04, 2013",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/kill-la-kill/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 04, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/v9VacJaRuXb2ZJgZE3uLfVKnvXC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 1 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-2/",
+          "nome": "Kill la Kill 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:05:21.202Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 11, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/w2YwLy77QjtlvcXe1SiDgHq6SPF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 2 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-1",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-1/",
+          "nome": "Kill la Kill 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-3/",
+          "nome": "Kill la Kill 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:05:17.153Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 18, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/kDjjNJKzbQjDEYsEViJWaF4TkVI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 3 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-2/",
+          "nome": "Kill la Kill 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-4/",
+          "nome": "Kill la Kill 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:05:13.076Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 25, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/vNlfRJXGeAwXX4zUKou6r8PSAtp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 4 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-3/",
+          "nome": "Kill la Kill 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-5/",
+          "nome": "Kill la Kill 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:05:08.968Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 01, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7fulxQ32wQcGXyywaODx6ysbWmz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 5 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-4/",
+          "nome": "Kill la Kill 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-6/",
+          "nome": "Kill la Kill 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:05:04.724Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 08, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3KFhi1E2KVWFJfwFzgoeQVwGAIO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 6 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-5/",
+          "nome": "Kill la Kill 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-7/",
+          "nome": "Kill la Kill 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:05:00.577Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 15, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/hXmBcu6LO0N2X3OsJReX4cCrmEf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 7 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-6/",
+          "nome": "Kill la Kill 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-8/",
+          "nome": "Kill la Kill 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:56.344Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 22, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pPtNsbCoj5hV3Kcjnrsdq0Ffdyr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 8 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-7/",
+          "nome": "Kill la Kill 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-9/",
+          "nome": "Kill la Kill 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:52.209Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 29, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/4ZPN3hKT6zLvqtvprrjHtFtBZDM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 9 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-8/",
+          "nome": "Kill la Kill 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-10/",
+          "nome": "Kill la Kill 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:48.124Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 06, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/d3yboYZYcwBCfflVX1amVwevvau.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 10 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-9/",
+          "nome": "Kill la Kill 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-11/",
+          "nome": "Kill la Kill 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:44.042Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 13, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qzoBUciaAK6DYYdc0R0p73bA54g.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 11 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-10/",
+          "nome": "Kill la Kill 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-12/",
+          "nome": "Kill la Kill 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:39.951Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 20, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8SSd4Dis69FqO5eZfWyFha9iWri.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 12 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-11/",
+          "nome": "Kill la Kill 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-13",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-13/",
+          "nome": "Kill la Kill 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:35.845Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 10, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7eoOWDSdbMs2hqchcuqjYr8rMth.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 13 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-12/",
+          "nome": "Kill la Kill 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-14",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-14/",
+          "nome": "Kill la Kill 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:31.742Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 17, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/2t3YxoPWAeEn4hhVLArGVXzFiss.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 14 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-13",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-13/",
+          "nome": "Kill la Kill 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-15",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-15/",
+          "nome": "Kill la Kill 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:27.641Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 24, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fEN1vr3bt4KRMMIEcqJ9oJktKKF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 15 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-14",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-14/",
+          "nome": "Kill la Kill 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-16",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-16/",
+          "nome": "Kill la Kill 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:23.291Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 31, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nHWZNYdVm3d8u7uGx6nSpscgqZa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 16 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-15",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-15/",
+          "nome": "Kill la Kill 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-17",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-17/",
+          "nome": "Kill la Kill 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:19.236Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 07, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/oAH12VKHk32yVAJ7oWlwRg0brZb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 17 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-16",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-16/",
+          "nome": "Kill la Kill 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-18",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-18/",
+          "nome": "Kill la Kill 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:14.838Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 14, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/aEeXIXHYyRlnqK4djtVqd8GADvD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 18 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-17",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-17/",
+          "nome": "Kill la Kill 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-19",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-19/",
+          "nome": "Kill la Kill 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:10.724Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 21, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8seAxoeZPetcxH9HbFW21kGkLUM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 19 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-18",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-18/",
+          "nome": "Kill la Kill 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-20",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-20/",
+          "nome": "Kill la Kill 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:05.989Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 28, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/l2blY1Zh2zQF0UYaJaJ5N5w1eH0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 20 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-19",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-19/",
+          "nome": "Kill la Kill 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-21",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-21/",
+          "nome": "Kill la Kill 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:04:01.819Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 07, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/q8M9fVNjK237SmMiitjSo8Kiyhu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 21 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-20",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-20/",
+          "nome": "Kill la Kill 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-22",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-22/",
+          "nome": "Kill la Kill 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:57.725Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 14, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xsVgwIR5kfSZk8ncUtiJLbMLPJZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 22 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-21",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-21/",
+          "nome": "Kill la Kill 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-23",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-23/",
+          "nome": "Kill la Kill 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:53.668Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 21, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ohrnLJsWsYTtFe7vW1MD8NZYbAp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 23 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-22",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-22/",
+          "nome": "Kill la Kill 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-24",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-24/",
+          "nome": "Kill la Kill 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:49.581Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 28, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/dSIkxbsuHYfWMEaImOj3J4ufeaR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 24 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-23",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-23/",
+          "nome": "Kill la Kill 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-25",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-25/",
+          "nome": "Kill la Kill 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:45.554Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kill-la-kill-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Apr. 05, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/joE8ELIikJXoSZ44cxRUIOvskuR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kill la Kill: 1 Episodio 25 Online",
+        "animeSlug": "a/kill-la-kill",
+        "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kill-la-kill-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/kill-la-kill-1-episodio-24",
+          "link": "https://meusanimes.blog/e/kill-la-kill-1-episodio-24/",
+          "nome": "Kill la Kill 1 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/60728/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:41.410Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/60728/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/60728/1/25/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      11
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 25,
+    "totalEpisodios": 25,
+    "midiasColetadas": 0,
+    "iframesColetados": 25,
+    "detalhesColetadosEm": "2026-10-22T21:03:36.136Z"
+  },
+  "titulo": "Kill la Kill",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2013",
+  "publicadoEm": "Oct. 04, 2013",
+  "url": "https://meusanimes.blog/a/kill-la-kill/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg",
+  "temporadas": 1,
+  "descricao": "Na Academia Honnouji há um grupo de estudantes com poderes sobrenaturais obtidos através de um uniforme conhecido como “Uniforme Goku”. Com o poder do uniforme, o representante dos estudantes, Satsuki Kiryuin, dita as regras com autoridade e temor. Ryuko confronta Satsuki para obter informação do segredo a respeito das lâminas-tesoura, mas… O encontro deles foi por acaso ou estavam destinados a isso? O confronto de ambos envolverá toda a academia!"
+}

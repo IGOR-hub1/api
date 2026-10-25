@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "baby-steps",
+  "capturadoEm": "2026-10-22T09:50:40.928Z",
+  "atualizadoEm": "2026-10-22T09:50:40.928Z",
+  "catalogo": {
+    "slug": "a/baby-steps",
+    "titulo": "Baby Steps",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/dVXgyHizeUbL1RdyKd58WjVGrNv.jpg",
+    "info": "Legendado • Apr. 06, 2014",
+    "audio": "Legendado",
+    "score": "7.6",
+    "ano": "2014",
+    "publicadoEm": "Apr. 06, 2014",
+    "url": "https://meusanimes.blog/a/baby-steps/",
+    "postId": "63350"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      26
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Baby Steps",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/dVXgyHizeUbL1RdyKd58WjVGrNv.jpg",
+  "score": "7.6",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Apr. 06, 2014",
+  "url": "https://meusanimes.blog/a/baby-steps/"
+}

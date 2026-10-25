@@ -1,0 +1,795 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kore-wa-zombie-desu-ka",
+  "capturadoEm": "2026-10-22T09:47:33.142Z",
+  "atualizadoEm": "2026-10-22T21:12:16.038Z",
+  "catalogo": {
+    "slug": "a/kore-wa-zombie-desu-ka",
+    "titulo": "Kore wa Zombie Desu ka?",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tFQup9lIERddWWINoQ0CmXaojvX.jpg",
+    "info": "Legendado • Jan. 11, 2011",
+    "audio": "Legendado",
+    "score": "6.435",
+    "ano": "2011",
+    "publicadoEm": "Jan. 11, 2011",
+    "url": "https://meusanimes.blog/a/kore-wa-zombie-desu-ka/",
+    "postId": "83275"
+  },
+  "detalhes": {
+    "slug": "a/kore-wa-zombie-desu-ka",
+    "titulo": "Kore wa Zombie Desu ka?",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tFQup9lIERddWWINoQ0CmXaojvX.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/tFQup9lIERddWWINoQ0CmXaojvX.jpg",
+    "sinopse": "A história centraliza-se em um estudante chamado Ayumu Aikawa que foi assassinado por um serial killer. Pouco antes dele morrer ele conhece uma garota chamada Eucliwood Hellscythe. Como Yuu, é uma necromancer, ela consegue revivê-lo como um zumbi. Ele então continua “vivendo” para procurar seu assassino e conseguir se vingar. Mas após um mês, ele encontra uma Masou Shoujo chamada Haruna e, sem querer, leva seus poderes mágicos, sendo forçado a se tornar um Mahou Shoujo e lutar contra monstros chamados “Megalo”. Com o tempo uma ninja vampira chamada Seraphim aparece em sua casa, para pedir a ajuda da Yuu em assuntos relacionados a sua vila ninja. Mas ela recusa-se, e após um série de acontecimentos, Seraphim acaba ficando na casa dele. Agora Ayumu que é um Zumbi, tem a companhia de uma Masou Shoujo, de uma Necromancer e de uma Vampira Ninja.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Ecchi",
+      "Harém",
+      "Sobrenatural"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2011",
+    "publicadoEm": "Jan. 11, 2011",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/kore-wa-zombie-desu-ka/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 11, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/k7dsfHekN1kpWw9hKReC3pFwb9v.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 1 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-2/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:12:16.038Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 18, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wdgeCu9j6qd87icXoJCfsr3IbNG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 2 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-1",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-1/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-3/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:12:12.026Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 25, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xlGzUfwX7GR1OqAfpI5DWiBnPUY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 3 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-2/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-4/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:12:07.974Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 01, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/sUJ6URbdm7gR7GgrA0ifqrQJjnk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 4 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-3/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-5/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:12:03.840Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 08, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/55bEDaWzFxi1sJPQQZc4lUySB9S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 5 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-4/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-6/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:59.684Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 14, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wUvKaRo6diHnof4tFIGM1XFZBjP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 6 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-5/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-7/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:55.612Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 21, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9KCgYHco9nczbsKdqWEm7QtAac4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 7 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-6/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-8/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:51.538Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 28, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ucKoel69Y4PeyXA7RGEy5UOTOuB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 8 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-7/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-9/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:47.457Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 07, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/y7eIEhttct8gIbly9o5t86GeM5S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 9 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-8/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-10/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:43.339Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 21, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/b1o9tgisKD2ESvhfJKH8F2NcnHN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 10 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-9/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-11/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:39.315Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 28, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3UFb9QJLecnJeTVpYwodAKXROg7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 11 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-10/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-12/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:35.206Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 29, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/lkm4StSCx2XHRJvKoHjGpBFNGb5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 1 Episodio 12 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-1-episodio-11/",
+          "nome": "Kore wa Zombie Desu ka? 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:31.207Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 05, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/6Huio3p4bTE8Qj60abTSQ7q9UBH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 1 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-2/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:27.096Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 12, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xzB7ot82m2WoZ7EubZEoL9EJFEZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 2 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-1",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-1/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-3",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-3/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:22.819Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 19, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/QnsXOSbtxwXtDdV6vvXRVUuQva.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 3 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-2/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-4",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-4/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:18.745Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 26, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ng02rdCbbwr4PSxF2U6UD5uQHjJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 4 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-3",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-3/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-5",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-5/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:14.664Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 03, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/6AoocFraicNTsduzfTmMWoZeRme.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 5 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-4",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-4/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-6",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-6/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:10.557Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 10, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/cvlMc04A6RPSQTcDRp1tVwnzBn7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 6 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-5",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-5/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-7",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-7/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:06.485Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 17, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ms3trwp9paRyHY1LJgHITH75gWt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 7 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-6",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-6/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-8",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-8/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:11:02.094Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 24, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/vjWYCPcLmMpriKFADe10nJXt2hp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 8 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-7",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-7/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-9",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-9/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:10:57.981Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "May. 31, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pF98pgAIwTVGgBJop2YO4aib86I.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 9 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-8",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-8/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-10",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-10/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:10:53.838Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 07, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r1lyZBkgrc9QiAIEn9ShFZB3yvp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 10 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-9",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-9/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-11",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-11/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:10:49.739Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 14, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gaCtC9q8LbSdmbRINQrJx27t4cd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 11 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-10",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-10/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-12",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-12/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:10:45.713Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 21, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/vJzLXv4tCDXII7f6AL67IWKZG6G.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kore wa Zombie Desu ka?: 2 Episodio 12 Online",
+        "animeSlug": "a/kore-wa-zombie-desu-ka",
+        "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kore-wa-zombie-desu-ka-2-episodio-11",
+          "link": "https://meusanimes.blog/e/kore-wa-zombie-desu-ka-2-episodio-11/",
+          "nome": "Kore wa Zombie Desu ka? 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/38420/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:10:41.654Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/38420/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/38420/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      12
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "midiasColetadas": 0,
+    "iframesColetados": 24,
+    "detalhesColetadosEm": "2026-10-22T21:10:36.343Z"
+  },
+  "titulo": "Kore wa Zombie Desu ka?",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tFQup9lIERddWWINoQ0CmXaojvX.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Jan. 11, 2011",
+  "url": "https://meusanimes.blog/a/kore-wa-zombie-desu-ka/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/tFQup9lIERddWWINoQ0CmXaojvX.jpg",
+  "temporadas": 2,
+  "descricao": "A história centraliza-se em um estudante chamado Ayumu Aikawa que foi assassinado por um serial killer. Pouco antes dele morrer ele conhece uma garota chamada Eucliwood Hellscythe. Como Yuu, é uma necromancer, ela consegue revivê-lo como um zumbi. Ele então continua “vivendo” para procurar seu assassino e conseguir se vingar. Mas após um mês, ele encontra uma Masou Shoujo chamada Haruna e, sem querer, leva seus poderes mágicos, sendo forçado a se tornar um Mahou Shoujo e lutar contra monstros chamados “Megalo”. Com o tempo uma ninja vampira chamada Seraphim aparece em sua casa, para pedir a ajuda da Yuu em assuntos relacionados a sua vila ninja. Mas ela recusa-se, e após um série de acontecimentos, Seraphim acaba ficando na casa dele. Agora Ayumu que é um Zumbi, tem a companhia de uma Masou Shoujo, de uma Necromancer e de uma Vampira Ninja."
+}

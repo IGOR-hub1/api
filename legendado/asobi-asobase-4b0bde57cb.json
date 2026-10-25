@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "asobi-asobase",
+  "capturadoEm": "2026-10-22T09:55:06.518Z",
+  "atualizadoEm": "2026-10-22T09:55:06.518Z",
+  "catalogo": {
+    "slug": "a/asobi-asobase",
+    "titulo": "Asobi Asobase",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/de9UhF8J7HoTMGx1KahTZrcnZ88.jpg",
+    "info": "Legendado • Jul. 08, 2018",
+    "audio": "Legendado",
+    "score": "8.534",
+    "ano": "2018",
+    "publicadoEm": "Jul. 08, 2018",
+    "url": "https://meusanimes.blog/a/asobi-asobase/",
+    "postId": "39746"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      45
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Asobi Asobase",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/de9UhF8J7HoTMGx1KahTZrcnZ88.jpg",
+  "score": "8.534",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jul. 08, 2018",
+  "url": "https://meusanimes.blog/a/asobi-asobase/"
+}

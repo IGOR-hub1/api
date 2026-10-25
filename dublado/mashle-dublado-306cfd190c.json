@@ -1,0 +1,795 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "mashle-dublado",
+  "capturadoEm": "2026-10-22T06:48:16.484Z",
+  "atualizadoEm": "2026-10-22T09:43:13.548Z",
+  "catalogo": {
+    "slug": "a/mashle-dublado",
+    "titulo": "Mashle Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9rvbqwoEis7SZjbfiIYjzE2uWz3.jpg",
+    "info": "Dublado • Apr. 08, 2023",
+    "audio": "Dublado",
+    "score": "8.4",
+    "ano": "2023",
+    "publicadoEm": "Apr. 08, 2023",
+    "url": "https://meusanimes.blog/a/mashle-dublado/",
+    "postId": "69644"
+  },
+  "detalhes": {
+    "slug": "a/mashle-dublado",
+    "titulo": "Mashle Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9rvbqwoEis7SZjbfiIYjzE2uWz3.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/9rvbqwoEis7SZjbfiIYjzE2uWz3.jpg",
+    "sinopse": "Em um mundo onde todos são capazes de usar magia, há uma floresta densa e escura, onde um jovem treina sem parar. Seu nome é Mash Burnedead, e ele guarda um segredo: ele não sabe usar magia. Tudo o que ele queria era levar uma vida tranquila com seu avô, mas a sociedade mágica não tolera não-usuários – e para escapar do perigo, ele acaba se matriculando na Escola de Magia. Seu objetivo? Tornar-se um Visionário Divino de elite, acima de tudo e todos. Será que seus músculos trincados vão conseguir encarar os maiores talentos do mundo mágico?",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Escolar",
+      "Fantasia",
+      "Shounen"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2023",
+    "publicadoEm": "Apr. 08, 2023",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/mashle-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 08, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/sNuDaeRpJeAN68nkicHXhUspgyn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-2/",
+          "nome": "Mashle Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:00.333Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 15, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wRhVcJOzPORex4f5MleMiBE0a8N.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-1/",
+          "nome": "Mashle Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-3/",
+          "nome": "Mashle Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:56.111Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 22, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/nUWfraG7hbtVIZ2VaZv2QNqMgsZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-2/",
+          "nome": "Mashle Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-4/",
+          "nome": "Mashle Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:51.911Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 29, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/yCkSMesQxSlUSl0bAwEA2QbShpk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-3/",
+          "nome": "Mashle Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-5/",
+          "nome": "Mashle Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:47.687Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 06, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/kGWzULYc0GgdQaKFIMFNmM7COFq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-4/",
+          "nome": "Mashle Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-6/",
+          "nome": "Mashle Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:43.432Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 13, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/AiSJOokpu1cBDUlMtth7SLj10iu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-5/",
+          "nome": "Mashle Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-7/",
+          "nome": "Mashle Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:39.261Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 27, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/sFu8YYzAFayt6rkv73fOeRUEwAR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-6/",
+          "nome": "Mashle Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-8/",
+          "nome": "Mashle Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:35.070Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Jun. 03, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/94Jx029j907EIqxZXbslIDcW07X.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-7/",
+          "nome": "Mashle Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-9/",
+          "nome": "Mashle Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:30.853Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 10, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/cWu9sSqfrd3YoSOzOHuk6F5qYbl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-8/",
+          "nome": "Mashle Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-10/",
+          "nome": "Mashle Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:26.596Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 17, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8kxD7JcC2Re1u4TNQ67s9IjGHLg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-9/",
+          "nome": "Mashle Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-11/",
+          "nome": "Mashle Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:22.395Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 24, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/6bL1AUjhnUJjLhAoWkJ4SksPW3L.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-10/",
+          "nome": "Mashle Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-12/",
+          "nome": "Mashle Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:18.188Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jul. 01, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/71iETgbXw6FragBF5GoNyRqQWkN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/mashle-dublado-1-episodio-11/",
+          "nome": "Mashle Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:13.929Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 06, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/scJxHVqyZV2m50RPo0LEunKREHV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-2/",
+          "nome": "Mashle Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:09.770Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 13, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7pBC1KCjYtQu3wt1X356E0S6auO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-1/",
+          "nome": "Mashle Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-3/",
+          "nome": "Mashle Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:05.610Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 20, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4IWOWSFvC8ZIK3z0NacA5PEn5n4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-2/",
+          "nome": "Mashle Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-4/",
+          "nome": "Mashle Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:49:01.441Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 27, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fLAY6UE1oFGIMh5LCGvAVuw575u.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-3/",
+          "nome": "Mashle Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-5/",
+          "nome": "Mashle Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:48:57.265Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 03, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/qVhoRTvvxl7X3NVjS10YgIge9N0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-4/",
+          "nome": "Mashle Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-6/",
+          "nome": "Mashle Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:48:53.076Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 17, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3O14q9ftdHtaVH8KhS5FnUgbnrc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-5/",
+          "nome": "Mashle Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-7/",
+          "nome": "Mashle Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:48:48.922Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 24, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/q6OOwTU0ub6Xm2A8t2b82UMiPaY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-6/",
+          "nome": "Mashle Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-8/",
+          "nome": "Mashle Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:48:44.715Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 02, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vxglOgtO7ufDpOQJHPn12SOZavx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-7/",
+          "nome": "Mashle Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-9/",
+          "nome": "Mashle Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:48:40.550Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 09, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/dwEgEOtOw764pXyWVsU3urc9PmY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-8/",
+          "nome": "Mashle Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-10/",
+          "nome": "Mashle Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:48:36.332Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 16, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/uGPTvfoPZB24QMXyboCvZWPVHKQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-9/",
+          "nome": "Mashle Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-11/",
+          "nome": "Mashle Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:48:32.154Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 23, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/aXGmBDj5YV6cR31ds8U3aGRPS1m.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-10/",
+          "nome": "Mashle Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-12/",
+          "nome": "Mashle Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:48:27.945Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mashle-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 30, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bUcGR1dCDalNV5fyvdXlpics8Fn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mashle Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/mashle-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mashle-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mashle-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/mashle-dublado-2-episodio-11/",
+          "nome": "Mashle Dublado 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2048321/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:48:23.698Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2048321/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2048321/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T06:48:16.484Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Mashle Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9rvbqwoEis7SZjbfiIYjzE2uWz3.jpg",
+  "score": "8.4",
+  "audio": "Dublado",
+  "ano": "2023",
+  "publicadoEm": "Apr. 08, 2023",
+  "url": "https://meusanimes.blog/a/mashle-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/9rvbqwoEis7SZjbfiIYjzE2uWz3.jpg",
+  "temporadas": 2,
+  "descricao": "Em um mundo onde todos são capazes de usar magia, há uma floresta densa e escura, onde um jovem treina sem parar. Seu nome é Mash Burnedead, e ele guarda um segredo: ele não sabe usar magia. Tudo o que ele queria era levar uma vida tranquila com seu avô, mas a sociedade mágica não tolera não-usuários – e para escapar do perigo, ele acaba se matriculando na Escola de Magia. Seu objetivo? Tornar-se um Visionário Divino de elite, acima de tudo e todos. Será que seus músculos trincados vão conseguir encarar os maiores talentos do mundo mágico?"
+}

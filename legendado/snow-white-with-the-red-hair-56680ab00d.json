@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "snow-white-with-the-red-hair",
+  "capturadoEm": "2026-10-22T09:51:40.652Z",
+  "atualizadoEm": "2026-10-22T09:51:40.652Z",
+  "catalogo": {
+    "slug": "a/snow-white-with-the-red-hair",
+    "titulo": "Snow White with the Red Hair",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/YCjLfg2uSjMTSANFM80e3E92eO.jpg",
+    "info": "Legendado • Jul. 07, 2015",
+    "audio": "Legendado",
+    "score": "7.65",
+    "ano": "2015",
+    "publicadoEm": "Jul. 07, 2015",
+    "url": "https://meusanimes.blog/a/snow-white-with-the-red-hair/",
+    "postId": "58440"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      30
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Snow White with the Red Hair",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/YCjLfg2uSjMTSANFM80e3E92eO.jpg",
+  "score": "7.65",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jul. 07, 2015",
+  "url": "https://meusanimes.blog/a/snow-white-with-the-red-hair/"
+}

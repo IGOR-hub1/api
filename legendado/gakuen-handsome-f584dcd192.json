@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "gakuen-handsome",
+  "capturadoEm": "2026-10-22T09:52:59.210Z",
+  "atualizadoEm": "2026-10-22T09:52:59.210Z",
+  "catalogo": {
+    "slug": "a/gakuen-handsome",
+    "titulo": "Gakuen Handsome",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/jm5DfcGYqZBcipamOzbfT0GIO3a.jpg",
+    "info": "Legendado • Oct. 03, 2016",
+    "audio": "Legendado",
+    "score": "6.3",
+    "ano": "2016",
+    "publicadoEm": "Oct. 03, 2016",
+    "url": "https://meusanimes.blog/a/gakuen-handsome/",
+    "postId": "52745"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      36
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Gakuen Handsome",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/jm5DfcGYqZBcipamOzbfT0GIO3a.jpg",
+  "score": "6.3",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 03, 2016",
+  "url": "https://meusanimes.blog/a/gakuen-handsome/"
+}

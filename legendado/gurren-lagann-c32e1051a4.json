@@ -1,0 +1,926 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "gurren-lagann",
+  "capturadoEm": "2026-10-22T09:47:54.660Z",
+  "atualizadoEm": "2026-10-22T22:01:35.183Z",
+  "catalogo": {
+    "slug": "a/gurren-lagann",
+    "titulo": "Gurren Lagann",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gRQwTvfd9r9Yso1HH5hAGcbpTnJ.jpg",
+    "info": "Legendado • Apr. 01, 2007",
+    "audio": "Legendado",
+    "score": "8.149",
+    "ano": "2007",
+    "publicadoEm": "Apr. 01, 2007",
+    "url": "https://meusanimes.blog/a/gurren-lagann/",
+    "postId": "82244"
+  },
+  "detalhes": {
+    "slug": "a/gurren-lagann",
+    "titulo": "Gurren Lagann",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gRQwTvfd9r9Yso1HH5hAGcbpTnJ.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/gRQwTvfd9r9Yso1HH5hAGcbpTnJ.jpg",
+    "sinopse": "Simon é um cavador de túneis que vive em um povoado subterrâneo. Os antigos líderes do povoado contam histórias de ”coisas terríveis“ que existem na superfície e punem severamente aqueles que são contrários a essa filosofia. Um dos principais ”rebeldes“ dessa história é justamente Kamina, que vive tentando das formas mais inusitadas chegar até a superfície a fim de conhecê-la, especialmente depois que seus pais morreram em um dos terremotos que acontecem a todo o momento. Durante uma escavação, Simon encontra uma estranha mini-broca que brilha sozinha, e ele nem imagina para quê ela serve.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Ficção científica"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2007",
+    "publicadoEm": "Apr. 01, 2007",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/gurren-lagann/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 01, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/aQz2qUxJEQFefudIsKJzVGuAoiW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 1 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-2",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-2/",
+          "nome": "Gurren Lagann 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:35.183Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 08, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/icrkm0MlbssmCARV9z3ZXbHNpp2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 2 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-1",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-1/",
+          "nome": "Gurren Lagann 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-3",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-3/",
+          "nome": "Gurren Lagann 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:31.080Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 15, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/a77K3Rdbhd3s4wp6NqSShlO0reN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 3 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-2",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-2/",
+          "nome": "Gurren Lagann 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-4",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-4/",
+          "nome": "Gurren Lagann 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:26.870Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 22, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nUguE9PpvcqJemK5BzmFenwu825.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 4 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-3",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-3/",
+          "nome": "Gurren Lagann 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-5",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-5/",
+          "nome": "Gurren Lagann 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:21.309Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Apr. 29, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jg7vUXDJLCaUBRPYMN3pBq1lSFJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 5 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-4",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-4/",
+          "nome": "Gurren Lagann 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-6",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-6/",
+          "nome": "Gurren Lagann 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:16.845Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 06, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/kHmsW5W9Fo602J4b4ObS7FJPZLi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 6 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-5",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-5/",
+          "nome": "Gurren Lagann 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-7",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-7/",
+          "nome": "Gurren Lagann 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:12.812Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 13, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/mMyjp9IZJEeH9SEoSGUnLFrq5It.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 7 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-6",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-6/",
+          "nome": "Gurren Lagann 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-8",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-8/",
+          "nome": "Gurren Lagann 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:08.696Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 20, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/w4kK1QPG1awWItGVXEKchV5Ovmy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 8 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-7",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-7/",
+          "nome": "Gurren Lagann 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-9",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-9/",
+          "nome": "Gurren Lagann 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:04.641Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 27, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qu9LPtdSMkoMg37mYTPVY1cxxlB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 9 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-8",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-8/",
+          "nome": "Gurren Lagann 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-10",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-10/",
+          "nome": "Gurren Lagann 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:00.338Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 03, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/goIkDd80psjvGKJ61WIDGKIknjy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 10 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-9",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-9/",
+          "nome": "Gurren Lagann 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-11",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-11/",
+          "nome": "Gurren Lagann 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:56.216Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 10, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/2WIKfNCcoecREzByqbkkIqsv4a2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 11 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-10",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-10/",
+          "nome": "Gurren Lagann 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-12",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-12/",
+          "nome": "Gurren Lagann 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:51.987Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 17, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/mC4iGjEXN27mW8bUxpUHTS85nuW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 12 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-11",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-11/",
+          "nome": "Gurren Lagann 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-13",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-13/",
+          "nome": "Gurren Lagann 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:47.926Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 24, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/cPLvv0AJOHvZq3Dy7HPKBQFV8uo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 13 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-12",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-12/",
+          "nome": "Gurren Lagann 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-14",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-14/",
+          "nome": "Gurren Lagann 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:43.881Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 01, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/aJNfrD409ymc96AG9K48WZI6PG4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 14 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-13",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-13/",
+          "nome": "Gurren Lagann 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-15",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-15/",
+          "nome": "Gurren Lagann 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:39.834Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 08, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/iKwpA8W7Lg0iBGtXWKsNphjz7c8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 15 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-14",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-14/",
+          "nome": "Gurren Lagann 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-16",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-16/",
+          "nome": "Gurren Lagann 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:35.697Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 15, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/a6Q6Ry3swpvph6upHeUYOmh5KqM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 16 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-15",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-15/",
+          "nome": "Gurren Lagann 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-17",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-17/",
+          "nome": "Gurren Lagann 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:31.545Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 22, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/saPw7msIn28QLxYDHpLbRZDpd6c.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 17 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-16",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-16/",
+          "nome": "Gurren Lagann 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-18",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-18/",
+          "nome": "Gurren Lagann 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:27.063Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Jul. 29, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/m8XCcLHy46qk63owJD1h5plzWEk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 18 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-17",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-17/",
+          "nome": "Gurren Lagann 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-19",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-19/",
+          "nome": "Gurren Lagann 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:22.535Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 05, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qzyrIl7UgY5ZjaqY17tQ7lmKW0x.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 19 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-18",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-18/",
+          "nome": "Gurren Lagann 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-20",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-20/",
+          "nome": "Gurren Lagann 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:18.446Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 12, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/at8LZIip1iMjFEUpGMIIKJBUZtS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 20 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-19",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-19/",
+          "nome": "Gurren Lagann 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-21",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-21/",
+          "nome": "Gurren Lagann 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:13.960Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 19, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tsdrWgcS6MXsszPGL4hoNVPZvdO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 21 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-20",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-20/",
+          "nome": "Gurren Lagann 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-22",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-22/",
+          "nome": "Gurren Lagann 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:09.804Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 26, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3db38C2KsIjHORlHXYrBImAeGl9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 22 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-21",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-21/",
+          "nome": "Gurren Lagann 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-23",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-23/",
+          "nome": "Gurren Lagann 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:05.618Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 02, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/cJSe6fzfIMJO7pUHp7G8MnzKYB4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 23 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-22",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-22/",
+          "nome": "Gurren Lagann 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-24",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-24/",
+          "nome": "Gurren Lagann 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:00:01.501Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 09, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ij9G9pUky1qkWiSjvLHLoS3YVGU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 24 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-23",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-23/",
+          "nome": "Gurren Lagann 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-25",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-25/",
+          "nome": "Gurren Lagann 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:59:57.374Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 16, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/niMU6q0diO8c3DREgT6aPgsNKju.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 25 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-24",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-24/",
+          "nome": "Gurren Lagann 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-26",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-26/",
+          "nome": "Gurren Lagann 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:59:53.265Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 23, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fpJm12hb8kvrEgon98k174wTR52.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 26 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-25",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-25/",
+          "nome": "Gurren Lagann 1 Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-27",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-27/",
+          "nome": "Gurren Lagann 1 Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:59:49.176Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Sep. 30, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tKmgj9WntEhGTWyX0Ni7XZsExeA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 27 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/27/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-26",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-26/",
+          "nome": "Gurren Lagann 1 Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-28",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-28/",
+          "nome": "Gurren Lagann 1 Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:59:44.918Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gurren-lagann-1-episodio-28/",
+      "numero": 28,
+      "temporada": 1,
+      "nome": "Episódio 28",
+      "descricao": "Oct. 06, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/4vxY5JDdsWybpka9ZDjddV46ms5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gurren Lagann: 1 Episodio 28 Online",
+        "animeSlug": "a/gurren-lagann",
+        "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/28/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gurren-lagann-1-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/gurren-lagann-1-episodio-27",
+          "link": "https://meusanimes.blog/e/gurren-lagann-1-episodio-27/",
+          "nome": "Gurren Lagann 1 Episodio 27"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/21729/1/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:59:40.101Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/21729/1/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/21729/1/28/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      13
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 28,
+    "totalEpisodios": 28,
+    "midiasColetadas": 0,
+    "iframesColetados": 28,
+    "detalhesColetadosEm": "2026-10-22T21:59:34.634Z"
+  },
+  "titulo": "Gurren Lagann",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gRQwTvfd9r9Yso1HH5hAGcbpTnJ.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2007",
+  "publicadoEm": "Apr. 01, 2007",
+  "url": "https://meusanimes.blog/a/gurren-lagann/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/gRQwTvfd9r9Yso1HH5hAGcbpTnJ.jpg",
+  "temporadas": 1,
+  "descricao": "Simon é um cavador de túneis que vive em um povoado subterrâneo. Os antigos líderes do povoado contam histórias de ”coisas terríveis“ que existem na superfície e punem severamente aqueles que são contrários a essa filosofia. Um dos principais ”rebeldes“ dessa história é justamente Kamina, que vive tentando das formas mais inusitadas chegar até a superfície a fim de conhecê-la, especialmente depois que seus pais morreram em um dos terremotos que acontecem a todo o momento. Durante uma escavação, Simon encontra uma estranha mini-broca que brilha sozinha, e ele nem imagina para quê ela serve."
+}

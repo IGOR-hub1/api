@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "dark-machine-the-animation",
+  "capturadoEm": "2026-10-22T09:43:56.756Z",
+  "atualizadoEm": "2026-10-22T11:57:05.606Z",
+  "catalogo": {
+    "slug": "a/dark-machine-the-animation",
+    "titulo": "Dark Machine: The Animation",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+    "info": "Legendado • Em lançamento • Oct. 14, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Oct. 14, 2026",
+    "url": "https://meusanimes.blog/a/dark-machine-the-animation/",
+    "postId": "100575"
+  },
+  "detalhes": {
+    "slug": "a/dark-machine-the-animation",
+    "titulo": "Dark Machine: The Animation",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+    "sinopse": "Ajima é o sétimo “Senki”, título concedido ao melhor jogador do jogo, e controla efetivamente a região por meio do DARK MACHINE. O protagonista Kairi chega ao Vale Dourado com as últimas palavras de seu falecido avô em mente: “Encontre Senki”. Ele então encontra uma jovem chamada Rudora, que está sendo perseguida por um subordinado de Ajima. Kairi se torna um jogador de DARK MACHINE após se conectar com Rudora, e seu talento floresce a cada batalha feroz. Será que Kairi conseguirá se manter firme contra Senki e trilhar seu próprio destino?",
+    "generos": [
+      "Ação",
+      "Esporte",
+      "Ficção científica"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 14, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/dark-machine-the-animation/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dark-machine-the-animation-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xu9OKZXfk0Zu6KHzuXHxLisynhS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dark Machine: The Animation: 1 Episodio 1 Online",
+        "animeSlug": "a/dark-machine-the-animation",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306565/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dark-machine-the-animation-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dark-machine-the-animation-episodio-2",
+          "link": "https://meusanimes.blog/e/dark-machine-the-animation-episodio-2/",
+          "nome": "Dark Machine: The Animation Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306565/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T11:57:05.606Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306565/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306565/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dark-machine-the-animation-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/g2z6mH3SJoiCiVBqIeA2YnNgwnZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dark Machine: The Animation: 1 Episodio 2 Online",
+        "animeSlug": "a/dark-machine-the-animation",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306565/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dark-machine-the-animation-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dark-machine-the-animation-episodio-1",
+          "link": "https://meusanimes.blog/e/dark-machine-the-animation-episodio-1/",
+          "nome": "Dark Machine: The Animation Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306565/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T11:57:01.048Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306565/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306565/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T11:56:56.574Z"
+  },
+  "titulo": "Dark Machine: The Animation",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 14, 2026",
+  "url": "https://meusanimes.blog/a/dark-machine-the-animation/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/hNNba8tLjCgRGcTSKcB1E0kpBhG.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Ajima é o sétimo “Senki”, título concedido ao melhor jogador do jogo, e controla efetivamente a região por meio do DARK MACHINE. O protagonista Kairi chega ao Vale Dourado com as últimas palavras de seu falecido avô em mente: “Encontre Senki”. Ele então encontra uma jovem chamada Rudora, que está sendo perseguida por um subordinado de Ajima. Kairi se torna um jogador de DARK MACHINE após se conectar com Rudora, e seu talento floresce a cada batalha feroz. Será que Kairi conseguirá se manter firme contra Senki e trilhar seu próprio destino?"
+}

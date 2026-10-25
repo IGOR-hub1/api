@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "konbini-kareshi",
+  "capturadoEm": "2026-10-22T09:54:23.047Z",
+  "atualizadoEm": "2026-10-22T09:54:23.047Z",
+  "catalogo": {
+    "slug": "a/konbini-kareshi",
+    "titulo": "Konbini Kareshi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/lbZS7fyGP9LO8BqP8K6Z1UACmpl.jpg",
+    "info": "Legendado • Jul. 07, 2017",
+    "audio": "Legendado",
+    "score": "7.3",
+    "ano": "2017",
+    "publicadoEm": "Jul. 07, 2017",
+    "url": "https://meusanimes.blog/a/konbini-kareshi/",
+    "postId": "43606"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      42
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Konbini Kareshi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/lbZS7fyGP9LO8BqP8K6Z1UACmpl.jpg",
+  "score": "7.3",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jul. 07, 2017",
+  "url": "https://meusanimes.blog/a/konbini-kareshi/"
+}

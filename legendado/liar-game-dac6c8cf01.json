@@ -1,0 +1,861 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "liar-game",
+  "capturadoEm": "2026-10-22T09:47:57.412Z",
+  "atualizadoEm": "2026-10-22T22:11:27.146Z",
+  "catalogo": {
+    "slug": "a/liar-game",
+    "titulo": "Liar Game",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9zn8VS6FF74t1vbBrysCVMiccuU.jpg",
+    "info": "Legendado • Apr. 07, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 07, 2026",
+    "url": "https://meusanimes.blog/a/liar-game/",
+    "postId": "81991"
+  },
+  "detalhes": {
+    "slug": "a/liar-game",
+    "titulo": "Liar Game",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9zn8VS6FF74t1vbBrysCVMiccuU.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/9zn8VS6FF74t1vbBrysCVMiccuU.jpg",
+    "sinopse": "Certo dia, uma encomenda inesperada é entregue. Dentro do pacote, estão 100 milhões de ienes e uma carta, que diz: “Parabéns! Você foi selecionado entre 100 mil pessoas para participar do Jogo do Mentiroso”. Esse foi o começo do Jogo do Mentiroso. O objetivo é, passados 30 dias, devolver o dinheiro recebido no início. Essa é a única regra. Quem conseguir pegar o dinheiro do oponente sai no lucro, porém o perdedor entra em uma dívida de 100 milhões de ienes… Em quem acreditar? Em quem não acreditar?",
+    "generos": [
+      "Drama",
+      "Suspense"
+    ],
+    "score": "6",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 07, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/liar-game/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bFdlV6TUb2O6e7lsc7RoKZfi14n.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 1 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-2",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-2/",
+          "nome": "Liar Game Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:11:27.146Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/4fNSixje6fHYwFFb8VVOkHxOeBo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 2 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-1",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-1/",
+          "nome": "Liar Game Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-3",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-3/",
+          "nome": "Liar Game Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:11:23.021Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/rPLaMptngmdoLOPIwunO2xysUVp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 3 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-2",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-2/",
+          "nome": "Liar Game Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-4",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-4/",
+          "nome": "Liar Game Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:11:18.912Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tevAHIaNSN0q8HHsimuWddYWSun.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 4 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-3",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-3/",
+          "nome": "Liar Game Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-5",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-5/",
+          "nome": "Liar Game Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:11:14.794Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/84pImtzO8ZgrXGldekShvdeqYc2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 5 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-4",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-4/",
+          "nome": "Liar Game Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-6",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-6/",
+          "nome": "Liar Game Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:11:10.656Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/rPLaMptngmdoLOPIwunO2xysUVp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 6 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-5",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-5/",
+          "nome": "Liar Game Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-7",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-7/",
+          "nome": "Liar Game Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:11:06.522Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/8REUrMQb9evtasmVNTahmqFAOrr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 7 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-6",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-6/",
+          "nome": "Liar Game Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-8",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-8/",
+          "nome": "Liar Game Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:11:02.484Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4H0uGhi3qMWabu8j2DtZUnGZEo9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 8 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-7",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-7/",
+          "nome": "Liar Game Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-9",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-9/",
+          "nome": "Liar Game Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:58.454Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/8FmaHYlPV3m44Vn1Eupx8f3o0HI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 9 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-8",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-8/",
+          "nome": "Liar Game Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-10",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-10/",
+          "nome": "Liar Game Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:54.365Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/e8ON9u1YL1tzERH2A9PXCnxU6qJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 10 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-9",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-9/",
+          "nome": "Liar Game Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-11",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-11/",
+          "nome": "Liar Game Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:50.252Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/hXCSXhr4MH9GeNsONjItX3kjCzX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 11 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-10",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-10/",
+          "nome": "Liar Game Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-12",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-12/",
+          "nome": "Liar Game Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:46.182Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/puDzWeYWBZk19n4ufWbxECTMCXo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 12 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-11",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-11/",
+          "nome": "Liar Game Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-13",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-13/",
+          "nome": "Liar Game Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:42.156Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/5Tv66yIFiTOUBtBR37d7nuGUSzj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 13 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-12",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-12/",
+          "nome": "Liar Game Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-14",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-14/",
+          "nome": "Liar Game Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:38.130Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/h1bp7ALZKPlX3SoRId68uLi0Dq0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 14 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-13",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-13/",
+          "nome": "Liar Game Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-15",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-15/",
+          "nome": "Liar Game Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:34.009Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/p1MQBOrA7gBfYu02BYvIwPQJU9Q.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 15 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-14",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-14/",
+          "nome": "Liar Game Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-16",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-16/",
+          "nome": "Liar Game Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:29.944Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/iTGmvDmRxtq75emdss7unsxAxRw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 16 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-15",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-15/",
+          "nome": "Liar Game Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-17",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-17/",
+          "nome": "Liar Game Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:25.883Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/bXTWELyIBNcyTBVUDPUc0mujqwP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 17 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-16",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-16/",
+          "nome": "Liar Game Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-18",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-18/",
+          "nome": "Liar Game Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:21.779Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/eJrqP9j6NwmQswUkabecSNX4wvV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 18 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-17",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-17/",
+          "nome": "Liar Game Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-19",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-19/",
+          "nome": "Liar Game Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:17.682Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/9UIu5k9x8ZO1rxYQN7ZGQRRoc9Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 19 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-18",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-18/",
+          "nome": "Liar Game Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-20",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-20/",
+          "nome": "Liar Game Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:13.582Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/9W5E1RT5qr8Qcfm7FyGox8OJuB2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 20 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-19",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-19/",
+          "nome": "Liar Game Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-21",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-21/",
+          "nome": "Liar Game Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:09.527Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/tzRD27FhklyF8KO0ZoWeRS057qk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 21 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-20",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-20/",
+          "nome": "Liar Game Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-22",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-22/",
+          "nome": "Liar Game Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:05.438Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/lwGc2dJ03KURG2lvc2uD8oZZfxd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 22 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-21",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-21/",
+          "nome": "Liar Game Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-23",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-23/",
+          "nome": "Liar Game Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:10:01.354Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/r6btvr8emtdEHfyocoF4UVuoq52.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 23 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-22",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-22/",
+          "nome": "Liar Game Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-24",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-24/",
+          "nome": "Liar Game Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:09:57.250Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/jSmTxUAb2iqjj2NECaPK4UF3WZn.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 24 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-23",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-23/",
+          "nome": "Liar Game Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-25",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-25/",
+          "nome": "Liar Game Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:09:53.183Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/A4ImB7VdoiyAH4elZG4TUh1bc9V.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 25 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-24",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-24/",
+          "nome": "Liar Game Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/liar-game-episodio-26",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-26/",
+          "nome": "Liar Game Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:09:49.116Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/liar-game-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/oopbmzSB526ebre5qF1kYcllcsh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Liar Game: 1 Episodio 26 Online",
+        "animeSlug": "a/liar-game",
+        "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/liar-game-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/liar-game-episodio-25",
+          "link": "https://meusanimes.blog/e/liar-game-episodio-25/",
+          "nome": "Liar Game Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/300126/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:09:45.081Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/300126/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/300126/1/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      13
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 26,
+    "totalEpisodios": 26,
+    "midiasColetadas": 0,
+    "iframesColetados": 26,
+    "detalhesColetadosEm": "2026-10-22T22:09:39.691Z"
+  },
+  "titulo": "Liar Game",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9zn8VS6FF74t1vbBrysCVMiccuU.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 07, 2026",
+  "url": "https://meusanimes.blog/a/liar-game/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/9zn8VS6FF74t1vbBrysCVMiccuU.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Certo dia, uma encomenda inesperada é entregue. Dentro do pacote, estão 100 milhões de ienes e uma carta, que diz: “Parabéns! Você foi selecionado entre 100 mil pessoas para participar do Jogo do Mentiroso”. Esse foi o começo do Jogo do Mentiroso. O objetivo é, passados 30 dias, devolver o dinheiro recebido no início. Essa é a única regra. Quem conseguir pegar o dinheiro do oponente sai no lucro, porém o perdedor entra em uma dívida de 100 milhões de ienes… Em quem acreditar? Em quem não acreditar?"
+}

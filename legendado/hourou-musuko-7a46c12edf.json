@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hourou-musuko",
+  "capturadoEm": "2026-10-22T09:48:55.547Z",
+  "atualizadoEm": "2026-10-22T09:48:55.547Z",
+  "catalogo": {
+    "slug": "a/hourou-musuko",
+    "titulo": "Hourou Musuko",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/es51W4ANry8mjEVkuZ3E0lGQuA6.jpg",
+    "info": "Legendado • Jan. 14, 2011",
+    "audio": "Legendado",
+    "score": "6.682",
+    "ano": "2011",
+    "publicadoEm": "Jan. 14, 2011",
+    "url": "https://meusanimes.blog/a/hourou-musuko/",
+    "postId": "73110"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Hourou Musuko",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/es51W4ANry8mjEVkuZ3E0lGQuA6.jpg",
+  "score": "6.682",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Jan. 14, 2011",
+  "url": "https://meusanimes.blog/a/hourou-musuko/"
+}

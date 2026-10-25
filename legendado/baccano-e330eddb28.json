@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "baccano",
+  "capturadoEm": "2026-10-22T09:50:02.549Z",
+  "atualizadoEm": "2026-10-22T09:50:02.549Z",
+  "catalogo": {
+    "slug": "a/baccano",
+    "titulo": "Baccano!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/qOxUTQAOTrMKTHuC9HQZiVsTK0F.jpg",
+    "info": "Legendado • Jul. 27, 2007",
+    "audio": "Legendado",
+    "score": "7.716",
+    "ano": "2007",
+    "publicadoEm": "Jul. 27, 2007",
+    "url": "https://meusanimes.blog/a/baccano/",
+    "postId": "66667"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      23
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Baccano!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/qOxUTQAOTrMKTHuC9HQZiVsTK0F.jpg",
+  "score": "7.716",
+  "audio": "Legendado",
+  "ano": "2007",
+  "publicadoEm": "Jul. 27, 2007",
+  "url": "https://meusanimes.blog/a/baccano/"
+}

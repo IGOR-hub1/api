@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shuiro-no-kamen",
+  "capturadoEm": "2026-10-22T09:44:16.074Z",
+  "atualizadoEm": "2026-10-22T12:39:04.473Z",
+  "catalogo": {
+    "slug": "a/shuiro-no-kamen",
+    "titulo": "Shuiro no Kamen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/jIQ8cnTs7sCMzEfBviyyD4eXMiY.jpg",
+    "info": "Legendado • Oct. 10, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 10, 2026",
+    "url": "https://meusanimes.blog/a/shuiro-no-kamen/",
+    "postId": "100435"
+  },
+  "detalhes": {
+    "slug": "a/shuiro-no-kamen",
+    "titulo": "Shuiro no Kamen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/jIQ8cnTs7sCMzEfBviyyD4eXMiY.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/jIQ8cnTs7sCMzEfBviyyD4eXMiY.jpg",
+    "sinopse": "A “Máscara” confere poder a quem a usa. Às vezes, isso significa possibilidades infinitas; outras, uma tragédia inimaginável… Peru, discípulo do lendário fabricante de máscaras Gaston Roux, passa a ser controlado pela “Máscara do Deus Guerreiro” e, sem querer, mata seus amigos e até mesmo seu próprio mestre. Para impedir que esse tipo de tragédia se repita, Peru jura destruir todas as máscaras de Gaston espalhadas pelo mundo. Enfrentando os pecados que cometeu, ele embarca em sua jornada. Conhecendo novos amigos e enfrentando inimigos poderosos, o menino segue em frente. Até o dia em que puder se redimir pelos pecados cometidos contra seu mestre.",
+    "generos": [
+      "Ação",
+      "Fantasia",
+      "Sobrenatural"
+    ],
+    "score": "8",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 10, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/shuiro-no-kamen/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shuiro-no-kamen-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/AmVJMbo8dXxHu3kCpxwD5ehHnMW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shuiro no Kamen: 1 Episodio 1 Online",
+        "animeSlug": "a/shuiro-no-kamen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295420/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shuiro-no-kamen-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/shuiro-no-kamen-episodio-2",
+          "link": "https://meusanimes.blog/e/shuiro-no-kamen-episodio-2/",
+          "nome": "Shuiro no Kamen Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295420/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:39:04.473Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295420/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295420/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shuiro-no-kamen-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/2BxMEDURktftKxxpoCpHZrzg67P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shuiro no Kamen: 1 Episodio 2 Online",
+        "animeSlug": "a/shuiro-no-kamen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295420/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shuiro-no-kamen-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/shuiro-no-kamen-episodio-1",
+          "link": "https://meusanimes.blog/e/shuiro-no-kamen-episodio-1/",
+          "nome": "Shuiro no Kamen Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295420/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:39:00.758Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295420/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295420/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T12:38:56.784Z"
+  },
+  "titulo": "Shuiro no Kamen",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/jIQ8cnTs7sCMzEfBviyyD4eXMiY.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 10, 2026",
+  "url": "https://meusanimes.blog/a/shuiro-no-kamen/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/jIQ8cnTs7sCMzEfBviyyD4eXMiY.jpg",
+  "score": "8",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "A “Máscara” confere poder a quem a usa. Às vezes, isso significa possibilidades infinitas; outras, uma tragédia inimaginável… Peru, discípulo do lendário fabricante de máscaras Gaston Roux, passa a ser controlado pela “Máscara do Deus Guerreiro” e, sem querer, mata seus amigos e até mesmo seu próprio mestre. Para impedir que esse tipo de tragédia se repita, Peru jura destruir todas as máscaras de Gaston espalhadas pelo mundo. Enfrentando os pecados que cometeu, ele embarca em sua jornada. Conhecendo novos amigos e enfrentando inimigos poderosos, o menino segue em frente. Até o dia em que puder se redimir pelos pecados cometidos contra seu mestre."
+}

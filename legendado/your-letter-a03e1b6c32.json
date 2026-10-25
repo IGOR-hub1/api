@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "your-letter",
+  "capturadoEm": "2026-10-22T09:44:08.709Z",
+  "atualizadoEm": "2026-10-22T12:21:20.390Z",
+  "catalogo": {
+    "slug": "a/your-letter",
+    "titulo": "Your Letter",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/bMb5pvh794oKFZzEXjyZbB6sJnr.jpg",
+    "info": "Legendado • Oct. 01, 2025",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 01, 2025",
+    "url": "https://meusanimes.blog/a/your-letter/",
+    "postId": "100947"
+  },
+  "detalhes": {
+    "slug": "a/your-letter",
+    "titulo": "Your Letter",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/bMb5pvh794oKFZzEXjyZbB6sJnr.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/bMb5pvh794oKFZzEXjyZbB6sJnr.jpg",
+    "sinopse": "Yeonui Pyeonji, Sori é uma garota singular: gentil, atenciosa e dotada de princípios muito além da sua idade. Infelizmente, essas qualidades também a tornam um alvo preferencial para o bullying. Ela muda de escola e, justamente quando parece que a história está prestes a se repetir, depara-se com uma trilha misteriosa de cartas que a conduz a uma caça ao tesouro mágica, por um mundo oculto que existe logo abaixo da superfície de sua nova escola… Uma jornada que a levará a redescobrir a amizade, as maravilhas da natureza e a bondade que ainda reside na humanidade.",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Romance",
+      "Slice Of Life"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 01, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/your-letter/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/your-letter/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 01, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/thsAU92Ei2Nbm38ZdkvHI8xLaSc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Your Letter: 1 Episodio 1 Online",
+        "animeSlug": "a/your-letter",
+        "iframe": "https://serv01.meusdoramas.club/#/video/717787/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/your-letter/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/717787/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:20.390Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/717787/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/717787/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "midiasColetadas": 0,
+    "iframesColetados": 1,
+    "detalhesColetadosEm": "2026-10-22T12:21:16.165Z"
+  },
+  "titulo": "Your Letter",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/bMb5pvh794oKFZzEXjyZbB6sJnr.jpg",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 01, 2025",
+  "url": "https://meusanimes.blog/a/your-letter/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/bMb5pvh794oKFZzEXjyZbB6sJnr.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "Yeonui Pyeonji, Sori é uma garota singular: gentil, atenciosa e dotada de princípios muito além da sua idade. Infelizmente, essas qualidades também a tornam um alvo preferencial para o bullying. Ela muda de escola e, justamente quando parece que a história está prestes a se repetir, depara-se com uma trilha misteriosa de cartas que a conduz a uma caça ao tesouro mágica, por um mundo oculto que existe logo abaixo da superfície de sua nova escola… Uma jornada que a levará a redescobrir a amizade, as maravilhas da natureza e a bondade que ainda reside na humanidade."
+}

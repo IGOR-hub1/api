@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "houseki-no-kuni",
+  "capturadoEm": "2026-10-22T09:54:48.555Z",
+  "atualizadoEm": "2026-10-22T09:54:48.555Z",
+  "catalogo": {
+    "slug": "a/houseki-no-kuni",
+    "titulo": "Houseki no Kuni",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/viEgkNkUhGeBhsV15mON4YRIftk.jpg",
+    "info": "Legendado • Oct. 07, 2017",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2017",
+    "publicadoEm": "Oct. 07, 2017",
+    "url": "https://meusanimes.blog/a/houseki-no-kuni/",
+    "postId": "40950"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      44
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Houseki no Kuni",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/viEgkNkUhGeBhsV15mON4YRIftk.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Oct. 07, 2017",
+  "url": "https://meusanimes.blog/a/houseki-no-kuni/"
+}

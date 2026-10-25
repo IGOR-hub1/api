@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sengoku-night-blood",
+  "capturadoEm": "2026-10-22T09:53:18.365Z",
+  "atualizadoEm": "2026-10-22T09:53:18.365Z",
+  "catalogo": {
+    "slug": "a/sengoku-night-blood",
+    "titulo": "Sengoku Night Blood",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/A9C5XrvuNxWI8qh48ytOCGGsXAO.jpg",
+    "info": "Legendado • Oct. 03, 2017",
+    "audio": "Legendado",
+    "score": "7.4",
+    "ano": "2017",
+    "publicadoEm": "Oct. 03, 2017",
+    "url": "https://meusanimes.blog/a/sengoku-night-blood/",
+    "postId": "51062"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      37
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sengoku Night Blood",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/A9C5XrvuNxWI8qh48ytOCGGsXAO.jpg",
+  "score": "7.4",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Oct. 03, 2017",
+  "url": "https://meusanimes.blog/a/sengoku-night-blood/"
+}

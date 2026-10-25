@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "alice-zoroku",
+  "capturadoEm": "2026-10-22T09:53:42.494Z",
+  "atualizadoEm": "2026-10-22T09:53:42.494Z",
+  "catalogo": {
+    "slug": "a/alice-zoroku",
+    "titulo": "Alice & Zoroku",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/kCBp674A408yrYJmeovb1PvUNFs.jpg",
+    "info": "Legendado • Apr. 02, 2017",
+    "audio": "Legendado",
+    "score": "7.1",
+    "ano": "2017",
+    "publicadoEm": "Apr. 02, 2017",
+    "url": "https://meusanimes.blog/a/alice-zoroku/",
+    "postId": "45557"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      39
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Alice & Zoroku",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/kCBp674A408yrYJmeovb1PvUNFs.jpg",
+  "score": "7.1",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Apr. 02, 2017",
+  "url": "https://meusanimes.blog/a/alice-zoroku/"
+}

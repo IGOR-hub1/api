@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "one-piece-heroines-dublado",
+  "capturadoEm": "2026-10-22T09:39:55.931Z",
+  "atualizadoEm": "2026-10-22T10:05:56.058Z",
+  "catalogo": {
+    "slug": "a/one-piece-heroines-dublado",
+    "titulo": "One Piece: Heroines Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "info": "Dublado • Jul. 05, 2026",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "url": "https://meusanimes.blog/a/one-piece-heroines-dublado/",
+    "postId": "100583"
+  },
+  "detalhes": {
+    "slug": "a/one-piece-heroines-dublado",
+    "titulo": "One Piece: Heroines Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "sinopse": "A novel apresenta várias histórias curtas focadas nas garotas de One Piece, mostrando elas em situações inusitadas ou apenas vivendo o seu dia a dia.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Slice Of Life"
+    ],
+    "score": "7",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/one-piece-heroines-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/one-piece-heroines-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/dQCBqCkoXz2PCqApTNXZ007QwNb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "One Piece: Heroines Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/one-piece-heroines-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/16593891/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/one-piece-heroines-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/16593891/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:05:56.058Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/16593891/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/16593891/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "midiasColetadas": 0,
+    "iframesColetados": 1,
+    "detalhesColetadosEm": "2026-10-22T10:05:51.954Z"
+  },
+  "titulo": "One Piece: Heroines Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 05, 2026",
+  "url": "https://meusanimes.blog/a/one-piece-heroines-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "A novel apresenta várias histórias curtas focadas nas garotas de One Piece, mostrando elas em situações inusitadas ou apenas vivendo o seu dia a dia."
+}

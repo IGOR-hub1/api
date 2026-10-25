@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "noragami",
+  "capturadoEm": "2026-10-22T09:50:51.704Z",
+  "atualizadoEm": "2026-10-22T09:50:51.704Z",
+  "catalogo": {
+    "slug": "a/noragami",
+    "titulo": "Noragami",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/3DmaXur5cxXXZmpuIl4O0oeGolp.jpg",
+    "info": "Legendado • Jan. 05, 2014",
+    "audio": "Legendado",
+    "score": "8.2",
+    "ano": "2014",
+    "publicadoEm": "Jan. 05, 2014",
+    "url": "https://meusanimes.blog/a/noragami/",
+    "postId": "62462"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      26
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Noragami",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/3DmaXur5cxXXZmpuIl4O0oeGolp.jpg",
+  "score": "8.2",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jan. 05, 2014",
+  "url": "https://meusanimes.blog/a/noragami/"
+}

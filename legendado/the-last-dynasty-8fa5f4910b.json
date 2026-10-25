@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "the-last-dynasty",
+  "capturadoEm": "2026-10-22T09:48:52.233Z",
+  "atualizadoEm": "2026-10-22T09:48:52.233Z",
+  "catalogo": {
+    "slug": "a/the-last-dynasty",
+    "titulo": "The Last Dynasty",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/t05KFFkjQErl8lANZiP6IiPD4u2.jpg",
+    "info": "Legendado • Sep. 30, 2025",
+    "audio": "Legendado",
+    "score": "8.5",
+    "ano": "2025",
+    "publicadoEm": "Sep. 30, 2025",
+    "url": "https://meusanimes.blog/a/the-last-dynasty/",
+    "postId": "73483"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "The Last Dynasty",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/t05KFFkjQErl8lANZiP6IiPD4u2.jpg",
+  "score": "8.5",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Sep. 30, 2025",
+  "url": "https://meusanimes.blog/a/the-last-dynasty/"
+}

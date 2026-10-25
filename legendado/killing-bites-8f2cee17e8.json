@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "killing-bites",
+  "capturadoEm": "2026-10-22T09:55:35.651Z",
+  "atualizadoEm": "2026-10-22T09:55:35.651Z",
+  "catalogo": {
+    "slug": "a/killing-bites",
+    "titulo": "Killing Bites",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/s3F5f0OxHBWR0hvnPn2JKWOZfFU.jpg",
+    "info": "Legendado • Jan. 13, 2018",
+    "audio": "Legendado",
+    "score": "7.7",
+    "ano": "2018",
+    "publicadoEm": "Jan. 13, 2018",
+    "url": "https://meusanimes.blog/a/killing-bites/",
+    "postId": "37125"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      47
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Killing Bites",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/s3F5f0OxHBWR0hvnPn2JKWOZfFU.jpg",
+  "score": "7.7",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jan. 13, 2018",
+  "url": "https://meusanimes.blog/a/killing-bites/"
+}

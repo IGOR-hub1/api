@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "aoki-denshou-welsh-shedar",
+  "capturadoEm": "2026-10-22T09:44:03.380Z",
+  "atualizadoEm": "2026-10-22T12:17:26.987Z",
+  "catalogo": {
+    "slug": "a/aoki-denshou-welsh-shedar",
+    "titulo": "Aoki Denshou Welsh & Shedar",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+    "info": "Legendado • Em lançamento • Oct. 02, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Oct. 02, 2026",
+    "url": "https://meusanimes.blog/a/aoki-denshou-welsh-shedar/",
+    "postId": "100416"
+  },
+  "detalhes": {
+    "slug": "a/aoki-denshou-welsh-shedar",
+    "titulo": "Aoki Denshou Welsh & Shedar",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+    "sinopse": "Zabelle Sheran Sharm, rainha de Bonta e guardiã do Dofus de Ébano, sonha em unir as nações do Mundo dos Doze. No entanto, seu reinado tirânico e sua sede de poder mergulharam as terras na miséria. Uma profecia, proclamada por seu filho Shedar, anuncia sua queda e prevê que um menino de olhos azul-celeste porá fim ao seu poder.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 02, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/aoki-denshou-welsh-shedar/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoki-denshou-welsh-shedar-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xJkAtBYt2tTCJszQyMq1tbAAxQv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Aoki Denshou Welsh & Shedar: 1 Episodio 1 Online",
+        "animeSlug": "a/aoki-denshou-welsh-shedar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/335788/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/aoki-denshou-welsh-shedar-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/aoki-denshou-welsh-shedar-episodio-2",
+          "link": "https://meusanimes.blog/e/aoki-denshou-welsh-shedar-episodio-2/",
+          "nome": "Aoki Denshou Welsh & Shedar Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/335788/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:17:26.987Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/335788/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/335788/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoki-denshou-welsh-shedar-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/oxqSdem3xJS1TkPRPmKNGbPvjCY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Aoki Denshou Welsh & Shedar: 1 Episodio 2 Online",
+        "animeSlug": "a/aoki-denshou-welsh-shedar",
+        "iframe": "https://serv01.meusdoramas.club/#/video/335788/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/aoki-denshou-welsh-shedar-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/aoki-denshou-welsh-shedar-episodio-1",
+          "link": "https://meusanimes.blog/e/aoki-denshou-welsh-shedar-episodio-1/",
+          "nome": "Aoki Denshou Welsh & Shedar Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/335788/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:17:22.947Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/335788/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/335788/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T12:17:18.762Z"
+  },
+  "titulo": "Aoki Denshou Welsh & Shedar",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 02, 2026",
+  "url": "https://meusanimes.blog/a/aoki-denshou-welsh-shedar/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/dmOW3kfhfm4BOqINfsifY6QL64o.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Zabelle Sheran Sharm, rainha de Bonta e guardiã do Dofus de Ébano, sonha em unir as nações do Mundo dos Doze. No entanto, seu reinado tirânico e sua sede de poder mergulharam as terras na miséria. Uma profecia, proclamada por seu filho Shedar, anuncia sua queda e prevê que um menino de olhos azul-celeste porá fim ao seu poder."
+}

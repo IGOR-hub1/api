@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "detroit-metal-city",
+  "capturadoEm": "2026-10-22T09:49:36.825Z",
+  "atualizadoEm": "2026-10-22T09:49:36.825Z",
+  "catalogo": {
+    "slug": "a/detroit-metal-city",
+    "titulo": "Detroit Metal City",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/kWPhuRsUdJWskvNUd1aCndjFZIl.jpg",
+    "info": "Legendado • Aug. 08, 2008",
+    "audio": "Legendado",
+    "score": "7.6",
+    "ano": "2008",
+    "publicadoEm": "Aug. 08, 2008",
+    "url": "https://meusanimes.blog/a/detroit-metal-city/",
+    "postId": "68704"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Detroit Metal City",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/kWPhuRsUdJWskvNUd1aCndjFZIl.jpg",
+  "score": "7.6",
+  "audio": "Legendado",
+  "ano": "2008",
+  "publicadoEm": "Aug. 08, 2008",
+  "url": "https://meusanimes.blog/a/detroit-metal-city/"
+}

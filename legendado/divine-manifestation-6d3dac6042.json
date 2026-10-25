@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "divine-manifestation",
+  "capturadoEm": "2026-10-22T09:48:53.552Z",
+  "atualizadoEm": "2026-10-22T09:48:53.552Z",
+  "catalogo": {
+    "slug": "a/divine-manifestation",
+    "titulo": "Divine Manifestation",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/4X2VuzlyZmMCk1Y9Wov7IULUPJ6.jpg",
+    "info": "Legendado • Oct. 15, 2025",
+    "audio": "Legendado",
+    "score": "7",
+    "ano": "2025",
+    "publicadoEm": "Oct. 15, 2025",
+    "url": "https://meusanimes.blog/a/divine-manifestation/",
+    "postId": "73329"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Divine Manifestation",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/4X2VuzlyZmMCk1Y9Wov7IULUPJ6.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 15, 2025",
+  "url": "https://meusanimes.blog/a/divine-manifestation/"
+}

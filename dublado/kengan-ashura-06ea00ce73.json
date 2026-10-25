@@ -1,0 +1,1661 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "kengan-ashura",
+  "capturadoEm": "2026-10-22T09:09:14.943Z",
+  "atualizadoEm": "2026-10-22T09:43:49.388Z",
+  "catalogo": {
+    "slug": "a/kengan-ashura",
+    "titulo": "Kengan Ashura",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/q1Nm4it71GroM8cQ41nIJmH8M1D.jpg",
+    "info": "Dublado • Jul. 31, 2019",
+    "audio": "Dublado",
+    "score": "8.359",
+    "ano": "2019",
+    "publicadoEm": "Jul. 31, 2019",
+    "url": "https://meusanimes.blog/a/kengan-ashura/",
+    "postId": "29965"
+  },
+  "detalhes": {
+    "slug": "a/kengan-ashura",
+    "titulo": "Kengan Ashura",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/q1Nm4it71GroM8cQ41nIJmH8M1D.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/q1Nm4it71GroM8cQ41nIJmH8M1D.jpg",
+    "sinopse": "Ohma Tokita ingressa em um mundo secreto onde as disputas de negócios são resolvidas em combates entre gladiadores. Esqueça o dinheiro; ele só quer lutar e vencer.",
+    "generos": [
+      "Ação",
+      "Artes Marciais",
+      "Aventura"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2019",
+    "publicadoEm": "Jul. 31, 2019",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/kengan-ashura/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/sv9r4DxljoGvvMFPnsjKuUOavtV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 1 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-2/",
+          "nome": "Kengan Ashura 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:56.806Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/8GIeAvmUnSEAb0XD2YbilPYEWOL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 2 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-1",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-1/",
+          "nome": "Kengan Ashura 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-3/",
+          "nome": "Kengan Ashura 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:52.691Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bisgbPavdbnckd04hErAc7rwwoF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 3 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-2/",
+          "nome": "Kengan Ashura 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-4/",
+          "nome": "Kengan Ashura 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:48.619Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/v1qeKwTi8aKvHESjSgAYi19sxXf.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 4 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-3/",
+          "nome": "Kengan Ashura 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-5/",
+          "nome": "Kengan Ashura 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:44.542Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5tI95ZP9ddEYHBnvfh3VjbIkgCa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 5 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-4/",
+          "nome": "Kengan Ashura 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-6/",
+          "nome": "Kengan Ashura 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:40.455Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ejjc88RetY9MMWMeB7CsNPSEEv3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 6 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-5/",
+          "nome": "Kengan Ashura 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-7/",
+          "nome": "Kengan Ashura 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:36.374Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5lND5x5CBHAFxi5qxz40GRAHX2o.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 7 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-6/",
+          "nome": "Kengan Ashura 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-8/",
+          "nome": "Kengan Ashura 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:32.261Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/sPZ5OvIy8wo6IR3PePNanze1mu6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 8 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-7/",
+          "nome": "Kengan Ashura 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-9/",
+          "nome": "Kengan Ashura 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:28.197Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ophObhUojn7Y00Ltkv2bqfxa466.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 9 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-8/",
+          "nome": "Kengan Ashura 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-10/",
+          "nome": "Kengan Ashura 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:24.076Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/v3cyeBTQCezHgNxbvcxawp2MrOe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 10 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-9/",
+          "nome": "Kengan Ashura 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-11/",
+          "nome": "Kengan Ashura 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:19.962Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/j2P3RqMJ55EFq6paGeUrBtUK4VB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 11 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-10/",
+          "nome": "Kengan Ashura 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-12/",
+          "nome": "Kengan Ashura 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:15.821Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jul. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/mNaoUhhKfkOZTaJWOfGXzetspSH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 12 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-11/",
+          "nome": "Kengan Ashura 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-13",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-13/",
+          "nome": "Kengan Ashura 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:11.694Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/8eGSHBqJwdDZYfnE0pUOaUe8Ggz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 13 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-12/",
+          "nome": "Kengan Ashura 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-14",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-14/",
+          "nome": "Kengan Ashura 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:07.586Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bGuYwftM5lp7ch3nJvfp6TOangk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 14 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-13",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-13/",
+          "nome": "Kengan Ashura 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-15",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-15/",
+          "nome": "Kengan Ashura 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:12:03.039Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/s5az4gqNK7gHlIjCPiCUjFWSvjh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 15 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-14",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-14/",
+          "nome": "Kengan Ashura 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-16",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-16/",
+          "nome": "Kengan Ashura 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:58.896Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wODwUGbU2VEQ3Y7uczC3whHAdOZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 16 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-15",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-15/",
+          "nome": "Kengan Ashura 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-17",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-17/",
+          "nome": "Kengan Ashura 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:54.762Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/sKyxqVR2UVis0mpmF09yPU7jcuI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 17 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-16",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-16/",
+          "nome": "Kengan Ashura 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-18",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-18/",
+          "nome": "Kengan Ashura 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:49.901Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bN49nDXhwILNuJyyWHi1ZyF7jT0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 18 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-17",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-17/",
+          "nome": "Kengan Ashura 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-19",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-19/",
+          "nome": "Kengan Ashura 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:45.833Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/mrmWsstoxohJm3fEnUB3iuJS6DN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 19 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-18",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-18/",
+          "nome": "Kengan Ashura 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-20",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-20/",
+          "nome": "Kengan Ashura 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:41.691Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ltidECvVl2VJRDEtpgbTu9h0VpU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 20 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-19",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-19/",
+          "nome": "Kengan Ashura 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-21",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-21/",
+          "nome": "Kengan Ashura 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:37.480Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cnR6RcxF4GE3ZmDHwEEghgdOz4a.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 21 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-20",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-20/",
+          "nome": "Kengan Ashura 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-22",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-22/",
+          "nome": "Kengan Ashura 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:33.380Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/qNGab174Cb5TX2f6xpWls4WSjoG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 22 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-21",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-21/",
+          "nome": "Kengan Ashura 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-23",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-23/",
+          "nome": "Kengan Ashura 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:29.302Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/r46ZZCcKumbhKXPUeQn2zS0tVV8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 23 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-22",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-22/",
+          "nome": "Kengan Ashura 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-24",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-24/",
+          "nome": "Kengan Ashura 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:25.156Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nxIEEzjSJCyNvIhlEFzbIYxny63.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 1 Episodio 24 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-1-episodio-23",
+          "link": "https://meusanimes.blog/e/kengan-ashura-1-episodio-23/",
+          "nome": "Kengan Ashura 1 Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:21.089Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/4ySRuLVN46nzlLho4JPd7VP7DHS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 1 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-2/",
+          "nome": "Kengan Ashura 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:16.501Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/XK1cj8ea6w0UrF4vxMOEkvKlxD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 2 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-1",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-1/",
+          "nome": "Kengan Ashura 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-3",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-3/",
+          "nome": "Kengan Ashura 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:12.434Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/38A3yCuFWXEOsz0oFAoWRkivNTE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 3 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-2/",
+          "nome": "Kengan Ashura 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-4",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-4/",
+          "nome": "Kengan Ashura 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:08.265Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/lxadimirdoDDUWtVnd5FhVmfPKr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 4 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-3",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-3/",
+          "nome": "Kengan Ashura 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-5",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-5/",
+          "nome": "Kengan Ashura 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:04.117Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/jN9bgPWkWM6O1rkLaEZTcIuSO1O.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 5 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-4",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-4/",
+          "nome": "Kengan Ashura 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-6",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-6/",
+          "nome": "Kengan Ashura 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:11:00.001Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5dF21M6s6tylVbygnLlxjE0VxWa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 6 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-5",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-5/",
+          "nome": "Kengan Ashura 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-7",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-7/",
+          "nome": "Kengan Ashura 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:55.860Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/qeNfXkXLb6LlHklpZAS5Rk1O36K.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 7 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-6",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-6/",
+          "nome": "Kengan Ashura 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-8",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-8/",
+          "nome": "Kengan Ashura 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:51.702Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/b5DzMsieV17wLLoa1dS2DpWrG0s.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 8 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-7",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-7/",
+          "nome": "Kengan Ashura 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-9",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-9/",
+          "nome": "Kengan Ashura 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:47.618Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/kE8JjvWhZM1i5LfVvKlQsQbo6NS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 9 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-8",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-8/",
+          "nome": "Kengan Ashura 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-10",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-10/",
+          "nome": "Kengan Ashura 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:43.473Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/8Pnt20MmG9xuu0sL16QCNVIyChp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 10 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-9",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-9/",
+          "nome": "Kengan Ashura 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-11",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-11/",
+          "nome": "Kengan Ashura 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:39.398Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pIH7QqcqjVZ4U5sCM4cCmACtWV6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 11 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-10",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-10/",
+          "nome": "Kengan Ashura 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-12",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-12/",
+          "nome": "Kengan Ashura 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:35.250Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/swUIwWoHsmUJ5GFf34E2TKFKgeP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 12 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-11",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-11/",
+          "nome": "Kengan Ashura 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-13",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-13/",
+          "nome": "Kengan Ashura 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:31.137Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/dqDIiM99Fb9lSXxyuizFUnd5QLo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 13 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-12",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-12/",
+          "nome": "Kengan Ashura 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-14",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-14/",
+          "nome": "Kengan Ashura 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:27.052Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/y8dSn25dm2dPTMkHQfdlupDS4iZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 14 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-13",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-13/",
+          "nome": "Kengan Ashura 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-15",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-15/",
+          "nome": "Kengan Ashura 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:22.932Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/g0ZLA7RKglaABIlEaxS5TVFt55i.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 15 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-14",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-14/",
+          "nome": "Kengan Ashura 2 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-16",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-16/",
+          "nome": "Kengan Ashura 2 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:18.338Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pQmvkkggI5mOUZVwyCSFnLgDJRf.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 16 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-15",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-15/",
+          "nome": "Kengan Ashura 2 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-17",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-17/",
+          "nome": "Kengan Ashura 2 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:14.251Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ln5BRamYKGUAvJH9X6ScQqsHfXF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 17 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-16",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-16/",
+          "nome": "Kengan Ashura 2 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-18",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-18/",
+          "nome": "Kengan Ashura 2 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:10.164Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-18/",
+      "numero": 18,
+      "temporada": 2,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3yThPstqwfFpZCa3Wl5NxWC7HnC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 18 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-17",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-17/",
+          "nome": "Kengan Ashura 2 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-19",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-19/",
+          "nome": "Kengan Ashura 2 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:06.067Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-19/",
+      "numero": 19,
+      "temporada": 2,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/zAM4skQJV4Cerw4Rll7Z258CyW1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 19 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-18",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-18/",
+          "nome": "Kengan Ashura 2 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-20",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-20/",
+          "nome": "Kengan Ashura 2 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:10:01.928Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-20/",
+      "numero": 20,
+      "temporada": 2,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/mW25QZshc3fcuU2uM3zj3lctRgM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 20 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-19",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-19/",
+          "nome": "Kengan Ashura 2 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-21",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-21/",
+          "nome": "Kengan Ashura 2 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:09:57.810Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-21/",
+      "numero": 21,
+      "temporada": 2,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/xrAID8PvJISmwnYOctyeVNh6ypx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 21 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-20",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-20/",
+          "nome": "Kengan Ashura 2 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-22",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-22/",
+          "nome": "Kengan Ashura 2 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:09:53.745Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-22/",
+      "numero": 22,
+      "temporada": 2,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/a2AAzLPUO6VWcxOR1yDhpoQgdlw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 22 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-21",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-21/",
+          "nome": "Kengan Ashura 2 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-23",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-23/",
+          "nome": "Kengan Ashura 2 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:09:49.661Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-23/",
+      "numero": 23,
+      "temporada": 2,
+      "nome": "Episódio 23",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/w6jZckc3KtJDhFgLiuxRTqoVSNg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 23 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-22",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-22/",
+          "nome": "Kengan Ashura 2 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-24",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-24/",
+          "nome": "Kengan Ashura 2 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:09:45.534Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-24/",
+      "numero": 24,
+      "temporada": 2,
+      "nome": "Episódio 24",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pYiLbDarh9IN2qY27iq0NQp6i6Q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 24 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-23",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-23/",
+          "nome": "Kengan Ashura 2 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-25",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-25/",
+          "nome": "Kengan Ashura 2 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:09:41.453Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-25/",
+      "numero": 25,
+      "temporada": 2,
+      "nome": "Episódio 25",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/q53suHyvIY42x9J60MPabxGAXXH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 25 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-24",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-24/",
+          "nome": "Kengan Ashura 2 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-26",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-26/",
+          "nome": "Kengan Ashura 2 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:09:37.385Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-26/",
+      "numero": 26,
+      "temporada": 2,
+      "nome": "Episódio 26",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/qX4tp6Y72glu60HocZjTdYkaurD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 26 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/26/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-25",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-25/",
+          "nome": "Kengan Ashura 2 Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-27",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-27/",
+          "nome": "Kengan Ashura 2 Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:09:33.302Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-27/",
+      "numero": 27,
+      "temporada": 2,
+      "nome": "Episódio 27",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2r1HrUTZhkJXeQvBNnLtvhZgczq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 27 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/27/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-26",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-26/",
+          "nome": "Kengan Ashura 2 Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-28",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-28/",
+          "nome": "Kengan Ashura 2 Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:09:29.220Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kengan-ashura-2-episodio-28/",
+      "numero": 28,
+      "temporada": 2,
+      "nome": "Episódio 28",
+      "descricao": "Aug. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pSyEs1CYAnVNa1OKHDcbTPiP5er.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kengan Ashura: 2 Episodio 28 Online",
+        "animeSlug": "a/kengan-ashura",
+        "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/28/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kengan-ashura-2-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/kengan-ashura-2-episodio-27",
+          "link": "https://meusanimes.blog/e/kengan-ashura-2-episodio-27/",
+          "nome": "Kengan Ashura 2 Episodio 27"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/90660/2/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:09:25.109Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/90660/2/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/90660/2/28/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 52,
+    "totalEpisodios": 52,
+    "detalhesColetadosEm": "2026-10-22T09:09:14.943Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 52
+  },
+  "titulo": "Kengan Ashura",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/q1Nm4it71GroM8cQ41nIJmH8M1D.jpg",
+  "score": "8.359",
+  "audio": "Dublado",
+  "ano": "2019",
+  "publicadoEm": "Jul. 31, 2019",
+  "url": "https://meusanimes.blog/a/kengan-ashura/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/q1Nm4it71GroM8cQ41nIJmH8M1D.jpg",
+  "temporadas": 2,
+  "descricao": "Ohma Tokita ingressa em um mundo secreto onde as disputas de negócios são resolvidas em combates entre gladiadores. Esqueça o dinheiro; ele só quer lutar e vencer."
+}

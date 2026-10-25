@@ -1,0 +1,606 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "orange-dublado",
+  "capturadoEm": "2026-10-25T02:08:19.823Z",
+  "atualizadoEm": "2026-10-25T02:08:37.234Z",
+  "catalogo": {
+    "slug": "a/orange-dublado",
+    "titulo": "Orange Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ug9mgwl34lpQWLNDaiiEf3lYOsj.jpg",
+    "info": "Dublado • Jul. 04, 2016",
+    "audio": "Dublado",
+    "score": "8.016",
+    "ano": "2016",
+    "publicadoEm": "Jul. 04, 2016",
+    "url": "https://meusanimes.blog/a/orange-dublado/",
+    "postId": "100974"
+  },
+  "detalhes": {
+    "slug": "a/orange-dublado",
+    "titulo": "Orange Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ug9mgwl34lpQWLNDaiiEf3lYOsj.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/11/ug9mgwl34lpQWLNDaiiEf3lYOsj.jpg",
+    "sinopse": "Certo dia, Takamiya Naho recebe uma carta escrita por ela mesma dez anos no futuro. A carta narra exatamente os eventos daquele dia, incluindo a transferência de um novo aluno para a turma dela chamado Naruse Kakeru. A Naho do futuro diz repetidamente que ela tem vários arrependimentos e quer consertar eles garantindo que Naho do passado tome as decisões certas, especialmente sobre Kakeru. O mais chocante é que ela descobre que daqui dez anos Kakeru não estará mais entre eles. A Naho do futuro pede que ela cuide dele com atenção.",
+    "generos": [
+      "Drama",
+      "Escolar",
+      "Ficção científica",
+      "Romance"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2016",
+    "publicadoEm": "Jul. 04, 2016",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/orange-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 04, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/15w34xI3zONjRiZonXCQp7zFEEc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dxo3WoC1lebewjO5xbNIDH1PTmGxs-GIoPPm7NCw2K3MbjMbgGfDG-7P4-N7WJxZ8Q-CH4UUTTYIcqguPsHIQv1mw_t3pYf7lwtrwI9TLjKt_FSwNEj6fptkxbj9tPWY8M3k57_",
+        "sources": [
+          {
+            "url": "https://rr10---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dxo3WoC1lebewjO5xbNIDH1PTmGxs-GIoPPm7NCw2K3MbjMbgGfDG-7P4-N7WJxZ8Q-CH4UUTTYIcqguPsHIQv1mw_t3pYf7lwtrwI9TLjKt_FSwNEj6fptkxbj9tPWY8M3k57_",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-2/",
+          "nome": "Orange Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/1/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dxo3WoC1lebewjO5xbNIDH1PTmGxs-GIoPPm7NCw2K3MbjMbgGfDG-7P4-N7WJxZ8Q-CH4UUTTYIcqguPsHIQv1mw_t3pYf7lwtrwI9TLjKt_FSwNEj6fptkxbj9tPWY8M3k57_"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:21.149Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dxo3WoC1lebewjO5xbNIDH1PTmGxs-GIoPPm7NCw2K3MbjMbgGfDG-7P4-N7WJxZ8Q-CH4UUTTYIcqguPsHIQv1mw_t3pYf7lwtrwI9TLjKt_FSwNEj6fptkxbj9tPWY8M3k57_",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dxo3WoC1lebewjO5xbNIDH1PTmGxs-GIoPPm7NCw2K3MbjMbgGfDG-7P4-N7WJxZ8Q-CH4UUTTYIcqguPsHIQv1mw_t3pYf7lwtrwI9TLjKt_FSwNEj6fptkxbj9tPWY8M3k57_",
+      "link": "https://rr10---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr10---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jun. 11, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/4pZFRcXia3GtnwqRso0drY0Ri7X.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dwOPHSw8kj5iJzN0lP9LR2na0jA9gpm-7hZeb5Il-HD3TqhRbsbUO0KwSW6xNvx4rv_dE68IYfUxjEjVpWIAPDdS-j-ro2txo99YT7nlC4bIB-jsMlkhpFtfkKBVTB1OvMQlOg",
+        "sources": [
+          {
+            "url": "https://rr3---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dwOPHSw8kj5iJzN0lP9LR2na0jA9gpm-7hZeb5Il-HD3TqhRbsbUO0KwSW6xNvx4rv_dE68IYfUxjEjVpWIAPDdS-j-ro2txo99YT7nlC4bIB-jsMlkhpFtfkKBVTB1OvMQlOg",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-1/",
+          "nome": "Orange Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-3/",
+          "nome": "Orange Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/2/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dwOPHSw8kj5iJzN0lP9LR2na0jA9gpm-7hZeb5Il-HD3TqhRbsbUO0KwSW6xNvx4rv_dE68IYfUxjEjVpWIAPDdS-j-ro2txo99YT7nlC4bIB-jsMlkhpFtfkKBVTB1OvMQlOg"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:22.444Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dwOPHSw8kj5iJzN0lP9LR2na0jA9gpm-7hZeb5Il-HD3TqhRbsbUO0KwSW6xNvx4rv_dE68IYfUxjEjVpWIAPDdS-j-ro2txo99YT7nlC4bIB-jsMlkhpFtfkKBVTB1OvMQlOg",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dwOPHSw8kj5iJzN0lP9LR2na0jA9gpm-7hZeb5Il-HD3TqhRbsbUO0KwSW6xNvx4rv_dE68IYfUxjEjVpWIAPDdS-j-ro2txo99YT7nlC4bIB-jsMlkhpFtfkKBVTB1OvMQlOg",
+      "link": "https://rr3---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr3---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 18, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/1XGyXfsq2hPQhXnX4uFGjA1F3An.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dzbV-Q-aiy3Oo8B0ficiZ6D6rW-YKopb0RfmtSvQC4BMact4KUnam_hrmAS9_SJQiygqlSuXk1EWSlAcFlX6e49ZzHU0Wrv1SkVki_VgalR0LM8TJ2k9GIdyUMlQSe56LV4NNI",
+        "sources": [
+          {
+            "url": "https://rr6---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dzbV-Q-aiy3Oo8B0ficiZ6D6rW-YKopb0RfmtSvQC4BMact4KUnam_hrmAS9_SJQiygqlSuXk1EWSlAcFlX6e49ZzHU0Wrv1SkVki_VgalR0LM8TJ2k9GIdyUMlQSe56LV4NNI",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-2/",
+          "nome": "Orange Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-4/",
+          "nome": "Orange Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/3/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dzbV-Q-aiy3Oo8B0ficiZ6D6rW-YKopb0RfmtSvQC4BMact4KUnam_hrmAS9_SJQiygqlSuXk1EWSlAcFlX6e49ZzHU0Wrv1SkVki_VgalR0LM8TJ2k9GIdyUMlQSe56LV4NNI"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:23.729Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dzbV-Q-aiy3Oo8B0ficiZ6D6rW-YKopb0RfmtSvQC4BMact4KUnam_hrmAS9_SJQiygqlSuXk1EWSlAcFlX6e49ZzHU0Wrv1SkVki_VgalR0LM8TJ2k9GIdyUMlQSe56LV4NNI",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dzbV-Q-aiy3Oo8B0ficiZ6D6rW-YKopb0RfmtSvQC4BMact4KUnam_hrmAS9_SJQiygqlSuXk1EWSlAcFlX6e49ZzHU0Wrv1SkVki_VgalR0LM8TJ2k9GIdyUMlQSe56LV4NNI",
+      "link": "https://rr6---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr6---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 25, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/6Q7jZ6HbfbjKnm57JcbsZAQYiwg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dxLkqWE2aZAZ3xXPiwXiCfy-zLMNKn49r9BjFrvk4gac_JUUggyvvFsL8Sw8hHzfig1Ln96aiT87bpJKakEnlt-ydNY5-ZePIy6n6hTgxP7tGnAiIPnyAej0D4VTuLB1a8GQjqG",
+        "sources": [
+          {
+            "url": "https://rr3---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dxLkqWE2aZAZ3xXPiwXiCfy-zLMNKn49r9BjFrvk4gac_JUUggyvvFsL8Sw8hHzfig1Ln96aiT87bpJKakEnlt-ydNY5-ZePIy6n6hTgxP7tGnAiIPnyAej0D4VTuLB1a8GQjqG",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-3/",
+          "nome": "Orange Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-5/",
+          "nome": "Orange Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/4/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dxLkqWE2aZAZ3xXPiwXiCfy-zLMNKn49r9BjFrvk4gac_JUUggyvvFsL8Sw8hHzfig1Ln96aiT87bpJKakEnlt-ydNY5-ZePIy6n6hTgxP7tGnAiIPnyAej0D4VTuLB1a8GQjqG"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:25.039Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dxLkqWE2aZAZ3xXPiwXiCfy-zLMNKn49r9BjFrvk4gac_JUUggyvvFsL8Sw8hHzfig1Ln96aiT87bpJKakEnlt-ydNY5-ZePIy6n6hTgxP7tGnAiIPnyAej0D4VTuLB1a8GQjqG",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dxLkqWE2aZAZ3xXPiwXiCfy-zLMNKn49r9BjFrvk4gac_JUUggyvvFsL8Sw8hHzfig1Ln96aiT87bpJKakEnlt-ydNY5-ZePIy6n6hTgxP7tGnAiIPnyAej0D4VTuLB1a8GQjqG",
+      "link": "https://rr3---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr3---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 01, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/oAxDILvawLFiJE8braGDXsSd4Po.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dyZcPNmH6ZMmODnC3ASrg9TfhI_YiooqsoBEQgYJo-lRB2AQKlOAgBUY5eFat0iuPpRMSB6er1kOn0253WpBCo2akLikxJwVKHseKoccdTupB9g-MHy_-wNRNtsat44Sb9X5wR9",
+        "sources": [
+          {
+            "url": "https://rr9---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dyZcPNmH6ZMmODnC3ASrg9TfhI_YiooqsoBEQgYJo-lRB2AQKlOAgBUY5eFat0iuPpRMSB6er1kOn0253WpBCo2akLikxJwVKHseKoccdTupB9g-MHy_-wNRNtsat44Sb9X5wR9",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-4/",
+          "nome": "Orange Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-6/",
+          "nome": "Orange Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/5/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dyZcPNmH6ZMmODnC3ASrg9TfhI_YiooqsoBEQgYJo-lRB2AQKlOAgBUY5eFat0iuPpRMSB6er1kOn0253WpBCo2akLikxJwVKHseKoccdTupB9g-MHy_-wNRNtsat44Sb9X5wR9"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:26.494Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dyZcPNmH6ZMmODnC3ASrg9TfhI_YiooqsoBEQgYJo-lRB2AQKlOAgBUY5eFat0iuPpRMSB6er1kOn0253WpBCo2akLikxJwVKHseKoccdTupB9g-MHy_-wNRNtsat44Sb9X5wR9",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dyZcPNmH6ZMmODnC3ASrg9TfhI_YiooqsoBEQgYJo-lRB2AQKlOAgBUY5eFat0iuPpRMSB6er1kOn0253WpBCo2akLikxJwVKHseKoccdTupB9g-MHy_-wNRNtsat44Sb9X5wR9",
+      "link": "https://rr9---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr9---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 08, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/nhE9Yyjj62YNWJiJMJVrdmQb8qh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dxg0AkPQsqDCpDjuZPLasXo9HR3TI_wctK0ON8S_TI6BOJ3oIQ8ZIxobJ_4MerNYW1qELLGzGYU00D_w3vQR1aPqexYGCtvF_6ES9D7CprzqZ2-w9TIikVH-BTusHTqxBcazQE",
+        "sources": [
+          {
+            "url": "https://rr1---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dxg0AkPQsqDCpDjuZPLasXo9HR3TI_wctK0ON8S_TI6BOJ3oIQ8ZIxobJ_4MerNYW1qELLGzGYU00D_w3vQR1aPqexYGCtvF_6ES9D7CprzqZ2-w9TIikVH-BTusHTqxBcazQE",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-5/",
+          "nome": "Orange Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-7/",
+          "nome": "Orange Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/6/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dxg0AkPQsqDCpDjuZPLasXo9HR3TI_wctK0ON8S_TI6BOJ3oIQ8ZIxobJ_4MerNYW1qELLGzGYU00D_w3vQR1aPqexYGCtvF_6ES9D7CprzqZ2-w9TIikVH-BTusHTqxBcazQE"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:27.771Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dxg0AkPQsqDCpDjuZPLasXo9HR3TI_wctK0ON8S_TI6BOJ3oIQ8ZIxobJ_4MerNYW1qELLGzGYU00D_w3vQR1aPqexYGCtvF_6ES9D7CprzqZ2-w9TIikVH-BTusHTqxBcazQE",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dxg0AkPQsqDCpDjuZPLasXo9HR3TI_wctK0ON8S_TI6BOJ3oIQ8ZIxobJ_4MerNYW1qELLGzGYU00D_w3vQR1aPqexYGCtvF_6ES9D7CprzqZ2-w9TIikVH-BTusHTqxBcazQE",
+      "link": "https://rr1---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr1---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 15, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/nH15yeyko9pRiYw6QzUUwbiaImk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dwf3_Q-h3CLcW7TqB9RkUP_TK9sCtch7-nLGImsv7R4RCeoOOZUmMxINMrDu0hMiYjAYuGSdqmHXun7by4JY9kSMDCkY6Vv_sAShMAiYP698MtwzhOu_GTjXtkq1jbWeNv6_YLn",
+        "sources": [
+          {
+            "url": "https://rr9---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dwf3_Q-h3CLcW7TqB9RkUP_TK9sCtch7-nLGImsv7R4RCeoOOZUmMxINMrDu0hMiYjAYuGSdqmHXun7by4JY9kSMDCkY6Vv_sAShMAiYP698MtwzhOu_GTjXtkq1jbWeNv6_YLn",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-6/",
+          "nome": "Orange Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-8/",
+          "nome": "Orange Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/7/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dwf3_Q-h3CLcW7TqB9RkUP_TK9sCtch7-nLGImsv7R4RCeoOOZUmMxINMrDu0hMiYjAYuGSdqmHXun7by4JY9kSMDCkY6Vv_sAShMAiYP698MtwzhOu_GTjXtkq1jbWeNv6_YLn"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:29.206Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dwf3_Q-h3CLcW7TqB9RkUP_TK9sCtch7-nLGImsv7R4RCeoOOZUmMxINMrDu0hMiYjAYuGSdqmHXun7by4JY9kSMDCkY6Vv_sAShMAiYP698MtwzhOu_GTjXtkq1jbWeNv6_YLn",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dwf3_Q-h3CLcW7TqB9RkUP_TK9sCtch7-nLGImsv7R4RCeoOOZUmMxINMrDu0hMiYjAYuGSdqmHXun7by4JY9kSMDCkY6Vv_sAShMAiYP698MtwzhOu_GTjXtkq1jbWeNv6_YLn",
+      "link": "https://rr9---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr9---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 22, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/hn9OcOZ9xxgTNSQXj23mHhFGhfh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dyVghYCSgXuI6HzIb7TN2d58OLJRNB_814JBnm6QnHlMUHZhPNtKPrt1RimEe2_WVmvECUt4Q4UUiCrp3i-9Dxm6bQiwzJ5rARhpv7-Ox4ixGYrb-tahpUznk47bXKQ0-WAsH4",
+        "sources": [
+          {
+            "url": "https://rr5---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dyVghYCSgXuI6HzIb7TN2d58OLJRNB_814JBnm6QnHlMUHZhPNtKPrt1RimEe2_WVmvECUt4Q4UUiCrp3i-9Dxm6bQiwzJ5rARhpv7-Ox4ixGYrb-tahpUznk47bXKQ0-WAsH4",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-7/",
+          "nome": "Orange Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-9/",
+          "nome": "Orange Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/8/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dyVghYCSgXuI6HzIb7TN2d58OLJRNB_814JBnm6QnHlMUHZhPNtKPrt1RimEe2_WVmvECUt4Q4UUiCrp3i-9Dxm6bQiwzJ5rARhpv7-Ox4ixGYrb-tahpUznk47bXKQ0-WAsH4"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:30.525Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dyVghYCSgXuI6HzIb7TN2d58OLJRNB_814JBnm6QnHlMUHZhPNtKPrt1RimEe2_WVmvECUt4Q4UUiCrp3i-9Dxm6bQiwzJ5rARhpv7-Ox4ixGYrb-tahpUznk47bXKQ0-WAsH4",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dyVghYCSgXuI6HzIb7TN2d58OLJRNB_814JBnm6QnHlMUHZhPNtKPrt1RimEe2_WVmvECUt4Q4UUiCrp3i-9Dxm6bQiwzJ5rARhpv7-Ox4ixGYrb-tahpUznk47bXKQ0-WAsH4",
+      "link": "https://rr5---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr5---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 29, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/npu39TeIucXoQSI1bxDcslqQzli.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dytwfIEN4PG-2fYRP5RZ8TtPgne-xdFjGQ2et_pM59B6RFCjkAQaMG_dc_HOfTXROVjFoPt2FOp0WkkH8iVyDS4YelzpBAKeCd7o4fef84RHcgc3M-k_VhA-YvyPe04jwh49Hja",
+        "sources": [
+          {
+            "url": "https://rr6---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dytwfIEN4PG-2fYRP5RZ8TtPgne-xdFjGQ2et_pM59B6RFCjkAQaMG_dc_HOfTXROVjFoPt2FOp0WkkH8iVyDS4YelzpBAKeCd7o4fef84RHcgc3M-k_VhA-YvyPe04jwh49Hja",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-8/",
+          "nome": "Orange Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-10/",
+          "nome": "Orange Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/9/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dytwfIEN4PG-2fYRP5RZ8TtPgne-xdFjGQ2et_pM59B6RFCjkAQaMG_dc_HOfTXROVjFoPt2FOp0WkkH8iVyDS4YelzpBAKeCd7o4fef84RHcgc3M-k_VhA-YvyPe04jwh49Hja"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:31.843Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dytwfIEN4PG-2fYRP5RZ8TtPgne-xdFjGQ2et_pM59B6RFCjkAQaMG_dc_HOfTXROVjFoPt2FOp0WkkH8iVyDS4YelzpBAKeCd7o4fef84RHcgc3M-k_VhA-YvyPe04jwh49Hja",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dytwfIEN4PG-2fYRP5RZ8TtPgne-xdFjGQ2et_pM59B6RFCjkAQaMG_dc_HOfTXROVjFoPt2FOp0WkkH8iVyDS4YelzpBAKeCd7o4fef84RHcgc3M-k_VhA-YvyPe04jwh49Hja",
+      "link": "https://rr6---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr6---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 05, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/jAs8o42ey2jk8S4JRr7WeZSRPKn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dwAtgVY1TT5OpJDUJWURJTVtki_dIQ82bVc0n72gGGRCglmx7ssmcGCRttY0pm3Inqtj6qvcXt5PlkhWCSp8foWffuKX-7oCfzjYWd950j_0lNtdoNJlmbHnEi67ijpYk6QATyo",
+        "sources": [
+          {
+            "url": "https://rr13---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dwAtgVY1TT5OpJDUJWURJTVtki_dIQ82bVc0n72gGGRCglmx7ssmcGCRttY0pm3Inqtj6qvcXt5PlkhWCSp8foWffuKX-7oCfzjYWd950j_0lNtdoNJlmbHnEi67ijpYk6QATyo",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-9/",
+          "nome": "Orange Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-11/",
+          "nome": "Orange Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/10/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dwAtgVY1TT5OpJDUJWURJTVtki_dIQ82bVc0n72gGGRCglmx7ssmcGCRttY0pm3Inqtj6qvcXt5PlkhWCSp8foWffuKX-7oCfzjYWd950j_0lNtdoNJlmbHnEi67ijpYk6QATyo"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:33.328Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dwAtgVY1TT5OpJDUJWURJTVtki_dIQ82bVc0n72gGGRCglmx7ssmcGCRttY0pm3Inqtj6qvcXt5PlkhWCSp8foWffuKX-7oCfzjYWd950j_0lNtdoNJlmbHnEi67ijpYk6QATyo",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dwAtgVY1TT5OpJDUJWURJTVtki_dIQ82bVc0n72gGGRCglmx7ssmcGCRttY0pm3Inqtj6qvcXt5PlkhWCSp8foWffuKX-7oCfzjYWd950j_0lNtdoNJlmbHnEi67ijpYk6QATyo",
+      "link": "https://rr13---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr13---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 12, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/qgulPjUoU8fxd7Dbnbargn459fH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dyOCMp98QNVd36jw6coAoKk6KW6A-QCP7mzJT5jYuCPHOVgBjknA_1oZMbXcany0N1mPTKJxzEtx-47NFH8jmjHqaRCU3w7Fa4WmIBCWWbWzMyrIxofBMO--RGF9p2899DJ-Yc",
+        "sources": [
+          {
+            "url": "https://rr12---sn-pmcg-4vgs.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dyOCMp98QNVd36jw6coAoKk6KW6A-QCP7mzJT5jYuCPHOVgBjknA_1oZMbXcany0N1mPTKJxzEtx-47NFH8jmjHqaRCU3w7Fa4WmIBCWWbWzMyrIxofBMO--RGF9p2899DJ-Yc",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-10/",
+          "nome": "Orange Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-12/",
+          "nome": "Orange Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/11/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dyOCMp98QNVd36jw6coAoKk6KW6A-QCP7mzJT5jYuCPHOVgBjknA_1oZMbXcany0N1mPTKJxzEtx-47NFH8jmjHqaRCU3w7Fa4WmIBCWWbWzMyrIxofBMO--RGF9p2899DJ-Yc"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:34.657Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dyOCMp98QNVd36jw6coAoKk6KW6A-QCP7mzJT5jYuCPHOVgBjknA_1oZMbXcany0N1mPTKJxzEtx-47NFH8jmjHqaRCU3w7Fa4WmIBCWWbWzMyrIxofBMO--RGF9p2899DJ-Yc",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dyOCMp98QNVd36jw6coAoKk6KW6A-QCP7mzJT5jYuCPHOVgBjknA_1oZMbXcany0N1mPTKJxzEtx-47NFH8jmjHqaRCU3w7Fa4WmIBCWWbWzMyrIxofBMO--RGF9p2899DJ-Yc",
+      "link": "https://rr12---sn-pmcg-4vgs.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr12---sn-pmcg-4vgs.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 19, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/dyVHx21JvgyzMu7x9ZXQ8WKZPsr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dy5kYQ8j6Bnm-noFPcfEGlLmLM3qVuRLp9wi8t2IgWjEyI10XEQPz4k-QASKGbqU493yY5cY94ha_IH5M2p7nuUnp1zHcNR5IZTj42qpy8hr7JRcqMcfFWtxuxsvCXQKNF-EKY",
+        "sources": [
+          {
+            "url": "https://rr8---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dy5kYQ8j6Bnm-noFPcfEGlLmLM3qVuRLp9wi8t2IgWjEyI10XEQPz4k-QASKGbqU493yY5cY94ha_IH5M2p7nuUnp1zHcNR5IZTj42qpy8hr7JRcqMcfFWtxuxsvCXQKNF-EKY",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-11/",
+          "nome": "Orange Dublado Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/orange-dublado-episodio-13",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-13/",
+          "nome": "Orange Dublado Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/12/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dy5kYQ8j6Bnm-noFPcfEGlLmLM3qVuRLp9wi8t2IgWjEyI10XEQPz4k-QASKGbqU493yY5cY94ha_IH5M2p7nuUnp1zHcNR5IZTj42qpy8hr7JRcqMcfFWtxuxsvCXQKNF-EKY"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:35.930Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dy5kYQ8j6Bnm-noFPcfEGlLmLM3qVuRLp9wi8t2IgWjEyI10XEQPz4k-QASKGbqU493yY5cY94ha_IH5M2p7nuUnp1zHcNR5IZTj42qpy8hr7JRcqMcfFWtxuxsvCXQKNF-EKY",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dy5kYQ8j6Bnm-noFPcfEGlLmLM3qVuRLp9wi8t2IgWjEyI10XEQPz4k-QASKGbqU493yY5cY94ha_IH5M2p7nuUnp1zHcNR5IZTj42qpy8hr7JRcqMcfFWtxuxsvCXQKNF-EKY",
+      "link": "https://rr8---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr8---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/orange-dublado-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 26, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/nmFuz6mCETh0D3gmQYJFXNZATy1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Orange Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/orange-dublado",
+        "iframe": "https://www.blogger.com/video.g?token=AD6v5dy8FRVYbikixZDZgWOPURhlWt4EBmFMsfT2UjU0n40COL9KdNFF4VvM4KOk0AORzIPn7BD752eRbvj4oTNZhq4qhIxYvYZJYudIZ7arQys8wa3R5_xvsnPZOT_BrN4xfzeI8D0",
+        "sources": [
+          {
+            "url": "https://rr7---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+            "label": "Auto",
+            "type": "video/mp4",
+            "height": 0,
+            "itag": ""
+          }
+        ],
+        "audio": "Dublado",
+        "referer": "https://www.blogger.com/video.g?token=AD6v5dy8FRVYbikixZDZgWOPURhlWt4EBmFMsfT2UjU0n40COL9KdNFF4VvM4KOk0AORzIPn7BD752eRbvj4oTNZhq4qhIxYvYZJYudIZ7arQys8wa3R5_xvsnPZOT_BrN4xfzeI8D0",
+        "previousEpisode": {
+          "slug": "e/orange-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/orange-dublado-episodio-12/",
+          "nome": "Orange Dublado Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/669581/1/13/",
+        "provider": "https://www.blogger.com/video.g?token=AD6v5dy8FRVYbikixZDZgWOPURhlWt4EBmFMsfT2UjU0n40COL9KdNFF4VvM4KOk0AORzIPn7BD752eRbvj4oTNZhq4qhIxYvYZJYudIZ7arQys8wa3R5_xvsnPZOT_BrN4xfzeI8D0"
+      },
+      "playerCapturadoEm": "2026-10-25T02:08:37.234Z",
+      "iframe": "https://www.blogger.com/video.g?token=AD6v5dy8FRVYbikixZDZgWOPURhlWt4EBmFMsfT2UjU0n40COL9KdNFF4VvM4KOk0AORzIPn7BD752eRbvj4oTNZhq4qhIxYvYZJYudIZ7arQys8wa3R5_xvsnPZOT_BrN4xfzeI8D0",
+      "urlPlayer": "https://www.blogger.com/video.g?token=AD6v5dy8FRVYbikixZDZgWOPURhlWt4EBmFMsfT2UjU0n40COL9KdNFF4VvM4KOk0AORzIPn7BD752eRbvj4oTNZhq4qhIxYvYZJYudIZ7arQys8wa3R5_xvsnPZOT_BrN4xfzeI8D0",
+      "link": "https://rr7---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire",
+      "urlMidia": "https://rr7---sn-pmcg-4vgd.googlevideo.com/videoplayback?expire"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 13,
+    "totalEpisodios": 13,
+    "detalhesColetadosEm": "2026-10-25T02:08:19.823Z",
+    "midiasColetadas": 13,
+    "iframesColetados": 13,
+    "concluidaEm": "2026-10-25T02:08:37.239Z",
+    "errosDePlayer": 0
+  },
+  "titulo": "Orange Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ug9mgwl34lpQWLNDaiiEf3lYOsj.jpg",
+  "score": "9",
+  "audio": "Dublado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 04, 2016",
+  "url": "https://meusanimes.blog/a/orange-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/11/ug9mgwl34lpQWLNDaiiEf3lYOsj.jpg",
+  "temporadas": 1,
+  "descricao": "Certo dia, Takamiya Naho recebe uma carta escrita por ela mesma dez anos no futuro. A carta narra exatamente os eventos daquele dia, incluindo a transferência de um novo aluno para a turma dela chamado Naruse Kakeru. A Naho do futuro diz repetidamente que ela tem vários arrependimentos e quer consertar eles garantindo que Naho do passado tome as decisões certas, especialmente sobre Kakeru. O mais chocante é que ela descobre que daqui dez anos Kakeru não estará mais entre eles. A Naho do futuro pede que ela cuide dele com atenção."
+}

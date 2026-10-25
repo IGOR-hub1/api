@@ -1,0 +1,865 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mirai-nikki",
+  "capturadoEm": "2026-10-22T09:45:34.691Z",
+  "atualizadoEm": "2026-10-22T15:14:51.396Z",
+  "catalogo": {
+    "slug": "a/mirai-nikki",
+    "titulo": "Mirai Nikki",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/uX8HwI7cruWh64UERnqQFxOYv6M.jpg",
+    "info": "Legendado • Oct. 09, 2011",
+    "audio": "Legendado",
+    "score": "7.591",
+    "ano": "2011",
+    "publicadoEm": "Oct. 09, 2011",
+    "url": "https://meusanimes.blog/a/mirai-nikki/",
+    "postId": "98604"
+  },
+  "detalhes": {
+    "slug": "a/mirai-nikki",
+    "titulo": "Mirai Nikki",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/uX8HwI7cruWh64UERnqQFxOYv6M.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/09/uX8HwI7cruWh64UERnqQFxOYv6M.jpg",
+    "sinopse": "A realidade rapidamente se desfaz quando o antissocial Yukiteru é chamado para uma luta mortal contra 11 outros indivíduos mentalmente traumatizados.",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Mistério",
+      "Suspense",
+      "Terror"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2011",
+    "publicadoEm": "Oct. 09, 2011",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/mirai-nikki/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 09, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/kFZCj2XYtWHkoJWPyvO6UvbBGvh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 1 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-2",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-2/",
+          "nome": "Mirai Nikki Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:51.396Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 16, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/PlpTsZ2swB8WP3a3docFQZqY7B.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 2 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-1",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-1/",
+          "nome": "Mirai Nikki Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-3",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-3/",
+          "nome": "Mirai Nikki Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:47.283Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 23, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/i7T7vMsStPPlNtDTYdIdT1c9ZHn.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 3 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-2",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-2/",
+          "nome": "Mirai Nikki Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-4",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-4/",
+          "nome": "Mirai Nikki Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:43.212Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 30, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/hZsoAfeweyEOlB4hb4GJSe88aSY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 4 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-3",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-3/",
+          "nome": "Mirai Nikki Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-5",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-5/",
+          "nome": "Mirai Nikki Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:39.136Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 06, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/iIXLMORaUu3nE2vseeRGRxmLtc5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 5 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-4",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-4/",
+          "nome": "Mirai Nikki Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-6",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-6/",
+          "nome": "Mirai Nikki Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:34.904Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 13, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/xLISvB3pe1v8XldsY4qkEgfxmy1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 6 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-5",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-5/",
+          "nome": "Mirai Nikki Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-7",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-7/",
+          "nome": "Mirai Nikki Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:30.748Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 20, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/f6CieeYQ8hH9BAvs80190B60irF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 7 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-6",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-6/",
+          "nome": "Mirai Nikki Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-8",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-8/",
+          "nome": "Mirai Nikki Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:26.455Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 27, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/2EPJBpJ3NJqctLoeep0lnu0rIWB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 8 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-7",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-7/",
+          "nome": "Mirai Nikki Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-9",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-9/",
+          "nome": "Mirai Nikki Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:22.363Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 04, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/ynv5CU8Bzn3ZSNoqQniQpQmSMCG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 9 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-8",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-8/",
+          "nome": "Mirai Nikki Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-10",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-10/",
+          "nome": "Mirai Nikki Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:18.250Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 11, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9SDz088jNPqMcIOTiTBOdbd8Gva.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 10 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-9",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-9/",
+          "nome": "Mirai Nikki Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-11",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-11/",
+          "nome": "Mirai Nikki Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:14.161Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 18, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/nO9Wf6yDYxM2adnsqnbVMJ7FSpw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 11 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-10",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-10/",
+          "nome": "Mirai Nikki Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-12",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-12/",
+          "nome": "Mirai Nikki Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:09.516Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 25, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/zoO3UQ2vVreU1M7kNCZSlug9jM1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 12 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-11",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-11/",
+          "nome": "Mirai Nikki Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-13",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-13/",
+          "nome": "Mirai Nikki Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:05.458Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 08, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/v4iLiCx3QHblzyU11t1iQGYw1Y1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 13 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-12",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-12/",
+          "nome": "Mirai Nikki Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-14",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-14/",
+          "nome": "Mirai Nikki Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:14:01.249Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 15, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/e2MZcSGdmFu4GZNJRU8rTUeJfIN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 14 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-13",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-13/",
+          "nome": "Mirai Nikki Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-15",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-15/",
+          "nome": "Mirai Nikki Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:57.079Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 22, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/3LZu2uXErEGMPaG7Mnjaf52ZFel.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 15 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-14",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-14/",
+          "nome": "Mirai Nikki Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-16",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-16/",
+          "nome": "Mirai Nikki Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:52.985Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 29, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/805lIjs2xnjZiDmIl0EPbpkn3Zy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 16 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-15",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-15/",
+          "nome": "Mirai Nikki Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-17",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-17/",
+          "nome": "Mirai Nikki Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:48.661Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 05, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/iauVUe4KwlQ0GPcUIUukQvgrPqg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 17 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-16",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-16/",
+          "nome": "Mirai Nikki Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-18",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-18/",
+          "nome": "Mirai Nikki Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:44.026Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 12, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/fZdXSSjoSSUXSdGqiZ4jihp8LL4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 18 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-17",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-17/",
+          "nome": "Mirai Nikki Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-19",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-19/",
+          "nome": "Mirai Nikki Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:39.937Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 19, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/zlcwxiprciPnBHo6CWyvOyjQdP4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 19 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-18",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-18/",
+          "nome": "Mirai Nikki Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-20",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-20/",
+          "nome": "Mirai Nikki Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:35.866Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 26, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/Om8QYUhpP0UZKlidDVDZozahe4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 20 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-19",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-19/",
+          "nome": "Mirai Nikki Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-21",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-21/",
+          "nome": "Mirai Nikki Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:31.774Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 11, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/hRx5UTqutaAdULnUJvDk8MfrdRX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 21 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-20",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-20/",
+          "nome": "Mirai Nikki Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-22",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-22/",
+          "nome": "Mirai Nikki Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:27.680Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 18, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/sDtdzneA3BmtdIHzQBoeiA57f5Z.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 22 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-21",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-21/",
+          "nome": "Mirai Nikki Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-23",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-23/",
+          "nome": "Mirai Nikki Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:23.567Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 25, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9NSBehjxgaetucTPUJjrIGETjR7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 23 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-22",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-22/",
+          "nome": "Mirai Nikki Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-24",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-24/",
+          "nome": "Mirai Nikki Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:19.499Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Apr. 01, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/pgsY3LrXMuvGYImSO0SkyL88IPU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 24 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-23",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-23/",
+          "nome": "Mirai Nikki Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-25",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-25/",
+          "nome": "Mirai Nikki Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:15.406Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Apr. 08, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/cUqDJ5ek65pyOdQ8wzWfRhiKkZU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 25 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-24",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-24/",
+          "nome": "Mirai Nikki Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/mirai-nikki-episodio-26",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-26/",
+          "nome": "Mirai Nikki Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:11.277Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mirai-nikki-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Apr. 15, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/iK2cCGXdZfq0IoovZEfPdRczXTE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mirai Nikki: 1 Episodio 26 Online",
+        "animeSlug": "a/mirai-nikki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mirai-nikki-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/mirai-nikki-episodio-25",
+          "link": "https://meusanimes.blog/e/mirai-nikki-episodio-25/",
+          "nome": "Mirai Nikki Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46671/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:13:07.211Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46671/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46671/1/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 26,
+    "totalEpisodios": 26,
+    "midiasColetadas": 0,
+    "iframesColetados": 26,
+    "detalhesColetadosEm": "2026-10-22T15:13:01.032Z"
+  },
+  "titulo": "Mirai Nikki",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/uX8HwI7cruWh64UERnqQFxOYv6M.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Oct. 09, 2011",
+  "url": "https://meusanimes.blog/a/mirai-nikki/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/09/uX8HwI7cruWh64UERnqQFxOYv6M.jpg",
+  "temporadas": 1,
+  "descricao": "A realidade rapidamente se desfaz quando o antissocial Yukiteru é chamado para uma luta mortal contra 11 outros indivíduos mentalmente traumatizados."
+}

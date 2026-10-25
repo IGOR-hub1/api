@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "princess-principal",
+  "capturadoEm": "2026-10-22T09:54:56.130Z",
+  "atualizadoEm": "2026-10-22T09:54:56.130Z",
+  "catalogo": {
+    "slug": "a/princess-principal",
+    "titulo": "Princess Principal",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/nWDOct6kB9LvCtO6LZ3TT3WlZtH.jpg",
+    "info": "Legendado • Jul. 09, 2017",
+    "audio": "Legendado",
+    "score": "7.69",
+    "ano": "2017",
+    "publicadoEm": "Jul. 09, 2017",
+    "url": "https://meusanimes.blog/a/princess-principal/",
+    "postId": "40258"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      44
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Princess Principal",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/nWDOct6kB9LvCtO6LZ3TT3WlZtH.jpg",
+  "score": "7.69",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jul. 09, 2017",
+  "url": "https://meusanimes.blog/a/princess-principal/"
+}

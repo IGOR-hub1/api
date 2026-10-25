@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "prism-rondo",
+  "capturadoEm": "2026-10-22T09:49:27.982Z",
+  "atualizadoEm": "2026-10-22T09:49:27.982Z",
+  "catalogo": {
+    "slug": "a/prism-rondo",
+    "titulo": "Prism Rondo (Pelo Prisma do Amor)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/l9OUhMpiNF7mD6DjmwLbJkZ4ji3.jpg",
+    "info": "Legendado • Jan. 15, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jan. 15, 2026",
+    "url": "https://meusanimes.blog/a/prism-rondo/",
+    "postId": "63840"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Prism Rondo (Pelo Prisma do Amor)",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/l9OUhMpiNF7mD6DjmwLbJkZ4ji3.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jan. 15, 2026",
+  "url": "https://meusanimes.blog/a/prism-rondo/"
+}

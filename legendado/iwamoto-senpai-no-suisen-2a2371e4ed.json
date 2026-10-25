@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "iwamoto-senpai-no-suisen",
+  "capturadoEm": "2026-10-22T09:46:33.401Z",
+  "atualizadoEm": "2026-10-22T18:59:38.752Z",
+  "catalogo": {
+    "slug": "a/iwamoto-senpai-no-suisen",
+    "titulo": "Iwamoto-senpai no Suisen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/wzRTybcDxG8sVJFFg6KfsKwScVN.jpg",
+    "info": "Legendado • Jul. 04, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 04, 2026",
+    "url": "https://meusanimes.blog/a/iwamoto-senpai-no-suisen/",
+    "postId": "92329"
+  },
+  "detalhes": {
+    "slug": "a/iwamoto-senpai-no-suisen",
+    "titulo": "Iwamoto-senpai no Suisen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/wzRTybcDxG8sVJFFg6KfsKwScVN.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/wzRTybcDxG8sVJFFg6KfsKwScVN.jpg",
+    "sinopse": "Década de 1910… Uma escola fundada pelo Exército Imperial Japonês, a Escola Ginasial Militar Seihou. Era uma instituição especial que reunia e pesquisava fenômenos sobrenaturais com o objetivo de obter poderes utilizáveis em operações militares. Kodou Iwamoto, estudante do terceiro ano da Escola Ginasial Seihou, é enviado para investigações por todo o país sob ordens militares. No entanto, onde quer que vá, ele sempre acaba encontrando pessoas com poderes especiais, os “usuários de habilidades”…?! Diversos acontecimentos estranhos e “usuários de habilidades” aguardam Iwamoto. Qual é a verdadeira intenção de Iwamoto ao oferecer a eles “cartas de recomendação” para a academia…? Acontecimentos estranhos, fenômenos sobrenaturais e a existência dos “usuários de habilidades”, uma narrativa romântica desvenda essa era!",
+    "generos": [
+      "Ação",
+      "Histórico",
+      "Mistério",
+      "Seinen",
+      "Sobrenatural"
+    ],
+    "score": "8",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 04, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/iwamoto-senpai-no-suisen/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/wqRNyl1Qrj6ckeJMdCbVyZqdqSl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 1 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-2",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-2/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:38.752Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/k9VVnHgYjAflQENBa57kD3mknT5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 2 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-1",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-1/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-3",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-3/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:34.649Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/tTmbkWA6vX3zt8PJp7wo71kV6PQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 3 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-2",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-2/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-4",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-4/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:30.558Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/sdq9Ymw9OzmHZb0HNBq8gLXQfTB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 4 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-3",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-3/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-5",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-5/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:25.952Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/9CCGgmMHq9KemQ7XQvqyy34WQ7e.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 5 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-4",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-4/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-6",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-6/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:21.874Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/6uanF9RkeRP9vQGa6dj0bjdbeap.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 6 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-5",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-5/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-7",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-7/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:17.465Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/bokdc9EkhUHibhUGs8DGz5ZY4QR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 7 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-6",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-6/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-8",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-8/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:13.359Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/hxp7kPinryFGiMTbhhXyVPMGAv3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 8 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-7",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-7/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-9",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-9/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:09.189Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/sxpUgRydw4ak2sSmyfNNRP7Asfu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 9 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-8",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-8/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-10",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-10/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:04.597Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/62mRGS9kDrlBWNQ0z3Pu8JBfMMd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 10 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-9",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-9/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-11",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-11/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:00.484Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/g5vBb3c9AfH5kmxS0Xnh0jTNju2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 11 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-10",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-10/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-12",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-12/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:56.353Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/5hMpuQnkvwQbdoobRB17GQy8svG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Iwamoto-senpai no Suisen: 1 Episodio 12 Online",
+        "animeSlug": "a/iwamoto-senpai-no-suisen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/iwamoto-senpai-no-suisen-episodio-11",
+          "link": "https://meusanimes.blog/e/iwamoto-senpai-no-suisen-episodio-11/",
+          "nome": "Iwamoto-senpai no Suisen Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324335/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:58:52.117Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324335/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324335/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T18:58:47.364Z"
+  },
+  "titulo": "Iwamoto-senpai no Suisen",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/wzRTybcDxG8sVJFFg6KfsKwScVN.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 04, 2026",
+  "url": "https://meusanimes.blog/a/iwamoto-senpai-no-suisen/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/wzRTybcDxG8sVJFFg6KfsKwScVN.jpg",
+  "score": "8",
+  "temporadas": 1,
+  "descricao": "Década de 1910… Uma escola fundada pelo Exército Imperial Japonês, a Escola Ginasial Militar Seihou. Era uma instituição especial que reunia e pesquisava fenômenos sobrenaturais com o objetivo de obter poderes utilizáveis em operações militares. Kodou Iwamoto, estudante do terceiro ano da Escola Ginasial Seihou, é enviado para investigações por todo o país sob ordens militares. No entanto, onde quer que vá, ele sempre acaba encontrando pessoas com poderes especiais, os “usuários de habilidades”…?! Diversos acontecimentos estranhos e “usuários de habilidades” aguardam Iwamoto. Qual é a verdadeira intenção de Iwamoto ao oferecer a eles “cartas de recomendação” para a academia…? Acontecimentos estranhos, fenômenos sobrenaturais e a existência dos “usuários de habilidades”, uma narrativa romântica desvenda essa era!"
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
+  "capturadoEm": "2026-10-22T09:44:29.329Z",
+  "atualizadoEm": "2026-10-22T12:47:38.112Z",
+  "catalogo": {
+    "slug": "a/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
+    "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+    "info": "Legendado • Em lançamento • Oct. 05, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "score": "6",
+    "ano": "2026",
+    "publicadoEm": "Oct. 05, 2026",
+    "url": "https://meusanimes.blog/a/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/",
+    "postId": "100077"
+  },
+  "detalhes": {
+    "slug": "a/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
+    "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+    "sinopse": "“Eu quero que você faça uma poção do amor”. É assim que, depois de alimentar um amor por quatro anos, a Bruxa Bondosa do Lago acaba com seu coração partido. Para aumentar o pouco tempo que resta para seu crush partir pra outra, Rose envia Harij, o apaixonante cavaleiro real, em uma jornada em busca dos ingredientes da poção. Isso faz com que ela ganhe ainda mais atenção do que imaginava, já que ele a visita todos os dias para… alimentá-la?",
+    "generos": [
+      "Comédia",
+      "Fantasia",
+      "Romance"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.: 1 Episodio 1 Online",
+        "animeSlug": "a/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313068/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-2",
+          "link": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-2/",
+          "nome": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313068/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:47:38.112Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313068/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313068/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/iVMn0wKWjLWzCYz5mlt6Oxy54HW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.: 1 Episodio 2 Online",
+        "animeSlug": "a/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313068/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-1",
+          "link": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-1/",
+          "nome": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-3",
+          "link": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-3/",
+          "nome": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313068/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:47:34.095Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313068/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313068/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/87FIm0cbVhirCzV3Uc77pDKNQEA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.: 1 Episodio 3 Online",
+        "animeSlug": "a/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313068/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-2",
+          "link": "https://meusanimes.blog/e/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu-episodio-2/",
+          "nome": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu. Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313068/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:47:30.055Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313068/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313068/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T12:47:25.830Z"
+  },
+  "titulo": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+  "score": "6",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 05, 2026",
+  "url": "https://meusanimes.blog/a/doumo-suki-na-hito-ni-horegusuri-wo-irai-sareta-majo-desu/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+  "temporadas": 1,
+  "descricao": "“Eu quero que você faça uma poção do amor”. É assim que, depois de alimentar um amor por quatro anos, a Bruxa Bondosa do Lago acaba com seu coração partido. Para aumentar o pouco tempo que resta para seu crush partir pra outra, Rose envia Harij, o apaixonante cavaleiro real, em uma jornada em busca dos ingredientes da poção. Isso faz com que ela ganhe ainda mais atenção do que imaginava, já que ele a visita todos os dias para… alimentá-la?"
+}

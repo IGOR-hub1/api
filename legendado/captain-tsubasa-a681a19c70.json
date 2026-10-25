@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "captain-tsubasa",
+  "capturadoEm": "2026-10-22T09:55:52.957Z",
+  "atualizadoEm": "2026-10-22T09:55:52.957Z",
+  "catalogo": {
+    "slug": "a/captain-tsubasa",
+    "titulo": "Captain Tsubasa",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5ebcN4fDDk9QdGTvVrD7TIa18za.jpg",
+    "info": "Legendado • Apr. 03, 2018",
+    "audio": "Legendado",
+    "score": "8.174",
+    "ano": "2018",
+    "publicadoEm": "Apr. 03, 2018",
+    "url": "https://meusanimes.blog/a/captain-tsubasa/",
+    "postId": "35902"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      48
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Captain Tsubasa",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5ebcN4fDDk9QdGTvVrD7TIa18za.jpg",
+  "score": "8.174",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Apr. 03, 2018",
+  "url": "https://meusanimes.blog/a/captain-tsubasa/"
+}

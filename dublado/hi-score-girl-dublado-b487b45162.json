@@ -1,0 +1,794 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "hi-score-girl-dublado",
+  "capturadoEm": "2026-10-22T00:06:13.097Z",
+  "atualizadoEm": "2026-10-22T09:41:09.781Z",
+  "catalogo": {
+    "slug": "a/hi-score-girl-dublado",
+    "titulo": "Hi Score Girl Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pTznFrSM4katqhkdOGNwUqVvvl8.jpg",
+    "info": "Dublado • Jul. 14, 2018",
+    "audio": "Dublado",
+    "score": "8.098",
+    "ano": "2018",
+    "publicadoEm": "Jul. 14, 2018",
+    "url": "https://meusanimes.blog/a/hi-score-girl-dublado/",
+    "postId": "91310"
+  },
+  "detalhes": {
+    "slug": "a/hi-score-girl-dublado",
+    "titulo": "Hi Score Girl Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pTznFrSM4katqhkdOGNwUqVvvl8.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/pTznFrSM4katqhkdOGNwUqVvvl8.jpg",
+    "sinopse": "A história segue Haruo Yaguchi, um garoto da sexta série no ano de 1991 que ama videogames. Na escola ele não é popular e não se dá bem com os professores. Os únicos com quem ele se dá bem são os videogames. Um dia ele encontra Akira Oono no fliperama, uma garota de sua sala que é inteligente, popular e adorada pelos professores. Ambos se enfrentam em uma partida de Street Fighter II, e continuam por um bom tempo, até que Haruo desiste após perder 30 partidas. Oono se mostra invencível em qualquer jogo. Oono começa a seguir Haruo em todas as suas partidas para derrotá-lo, sendo este um começo de uma estranha amizade.",
+    "generos": [
+      "Comédia",
+      "Escolar",
+      "Romance",
+      "Seinen"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2018",
+    "publicadoEm": "Jul. 14, 2018",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/hi-score-girl-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Aug. 14, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/nq1yvmxRWfyGfHTXBswpmC01m7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-2/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:53.773Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 21, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/p7FMhTdL7zMasVxzEJF3Hy6PX4O.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-1/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-3/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:49.668Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 28, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/fYQepfPVAcws0rV6OZZhPccrILR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-2/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-4/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:45.536Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 04, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/dhBxuvFJaiWzzKRihGOJHbHru7V.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-3/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-5/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:41.430Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 11, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pyhCV5cCA1MM6hUXjYu5wuBVwuu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-4/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-6/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:36.822Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/uuiFtTrJhfNEKWgqLWB8K9AQ8gk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-5/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-7/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:32.583Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 25, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/zZP6JojeIyOhBa2iFhiVpoBoUmS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-6/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-8/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:28.550Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 01, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ctFzMiCRJBykbSyd45wM9wSsVt3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-7/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-9/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:24.339Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 08, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/gvkMUmaFvQV22UJuP3vPuQnCh30.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-8/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-10/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:20.244Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 15, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/fdw4L8CHfg7Ghv6GO7v2OgQDX8p.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-9/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-11/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:16.203Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Aug. 22, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/zB3ipxW79PkNS8ziOEeVFx77UIe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-10/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-12/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:12.106Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 29, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/sjq41xOktFNoiGA1saZWOUbnUZ7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-11/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-13/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:07.301Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 05, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/X62SFCjNtYyVtlKhG1O1gUm7Zb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-12/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-14/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:07:03.183Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 12, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/dAeho8OKwGyr5tcqtNqbBuC5XfK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-13/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-15/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:59.016Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 19, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/5n4xInTt6vu0svgn73O6zM1mSlT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-1-episodio-14/",
+          "nome": "Hi Score Girl Dublado 1 Episodio 14"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:54.878Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 25, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/myfiYZqF6ih8y2Ue5DGliknqbfA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-2/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:50.792Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Dec. 01, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/7MicDxmEvdtcueTOMWc1bxBInLt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-1/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-3/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:46.694Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Nov. 08, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/7dwEsKrZpOiSoFLqres1lJrecXE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-2/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-4/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:42.624Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Nov. 15, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/A1kQpS0PftCpVDdB20VfHf6mjkN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-3/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-5/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:38.489Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 22, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/z3oQfIDI25RBoNMGmkWE5f7HLVV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-4/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-6/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:34.428Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 29, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/p5XrGhVXf1L32fSfjmOz5r1sUbQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-5/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-7/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:30.323Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Dec. 06, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pt1ETKX2zohBVQ5Nh5gEtYapW2q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-6/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-8/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:26.198Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Dec. 13, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/1zzmcZVdieJ9GmeinQbEj3fwVZs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-7/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-9/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:21.995Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 20, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/qzB4yhk2tq4Z5nyxW8MPmI6OaOC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Hi Score Girl Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/hi-score-girl-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/hi-score-girl-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/hi-score-girl-dublado-2-episodio-8/",
+          "nome": "Hi Score Girl Dublado 2 Episodio 8"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/806651/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:06:17.807Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/806651/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/806651/2/9/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      6
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T00:06:13.097Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Hi Score Girl Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pTznFrSM4katqhkdOGNwUqVvvl8.jpg",
+  "score": "8.098",
+  "audio": "Dublado",
+  "ano": "2018",
+  "publicadoEm": "Jul. 14, 2018",
+  "url": "https://meusanimes.blog/a/hi-score-girl-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/pTznFrSM4katqhkdOGNwUqVvvl8.jpg",
+  "temporadas": 2,
+  "descricao": "A história segue Haruo Yaguchi, um garoto da sexta série no ano de 1991 que ama videogames. Na escola ele não é popular e não se dá bem com os professores. Os únicos com quem ele se dá bem são os videogames. Um dia ele encontra Akira Oono no fliperama, uma garota de sua sala que é inteligente, popular e adorada pelos professores. Ambos se enfrentam em uma partida de Street Fighter II, e continuam por um bom tempo, até que Haruo desiste após perder 30 partidas. Oono se mostra invencível em qualquer jogo. Oono começa a seguir Haruo em todas as suas partidas para derrotá-lo, sendo este um começo de uma estranha amizade."
+}

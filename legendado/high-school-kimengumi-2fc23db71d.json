@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "high-school-kimengumi",
+  "capturadoEm": "2026-10-22T09:49:57.054Z",
+  "atualizadoEm": "2026-10-22T09:49:57.054Z",
+  "catalogo": {
+    "slug": "a/high-school-kimengumi",
+    "titulo": "High School! Kimengumi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/8ota15pVJEQYzEM0lVb9iVtUvPQ.jpg",
+    "info": "Legendado • Jan. 09, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jan. 09, 2026",
+    "url": "https://meusanimes.blog/a/high-school-kimengumi/",
+    "postId": "66944"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      22
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "High School! Kimengumi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/8ota15pVJEQYzEM0lVb9iVtUvPQ.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jan. 09, 2026",
+  "url": "https://meusanimes.blog/a/high-school-kimengumi/"
+}

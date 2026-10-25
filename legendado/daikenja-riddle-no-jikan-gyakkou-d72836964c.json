@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "daikenja-riddle-no-jikan-gyakkou",
+  "capturadoEm": "2026-10-22T09:47:52.597Z",
+  "atualizadoEm": "2026-10-22T21:56:57.892Z",
+  "catalogo": {
+    "slug": "a/daikenja-riddle-no-jikan-gyakkou",
+    "titulo": "Daikenja Riddle no Jikan Gyakkou",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nI42iJ6GAWN6U4MkJgLq75vGNmx.jpg",
+    "info": "Legendado • Apr. 01, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 01, 2026",
+    "url": "https://meusanimes.blog/a/daikenja-riddle-no-jikan-gyakkou/",
+    "postId": "82319"
+  },
+  "detalhes": {
+    "slug": "a/daikenja-riddle-no-jikan-gyakkou",
+    "titulo": "Daikenja Riddle no Jikan Gyakkou",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nI42iJ6GAWN6U4MkJgLq75vGNmx.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/nI42iJ6GAWN6U4MkJgLq75vGNmx.jpg",
+    "sinopse": "Recupere tudo o que você perdeu em sua segunda jornada pelo mundo. O misterioso grupo “Caixa da Malícia” tirou tudo do jovem Ryddel seus companheiros, seu mundo, seu futuro. À beira do desespero, ele vislumbra uma última ideia: E se eu pudesse voltar ao tempo antes de tudo ser destruído? Tendo sobrevivido por mil anos e se transformado em um ser inumano, Ryddel finalmente consegue reverter o tempo. “Desta vez… eu vou impedir tudo!” Carregando um milênio de conhecimento e experiência de volta ao seu corpo jovem, o grande sábio Ryddel inicia sua jornada de reversão temporal!",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Magia"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 01, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/daikenja-riddle-no-jikan-gyakkou/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xwKZE3KyZNgef8MUQbZHMh9S1Z5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 1 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-2",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-2/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:57.892Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/84xkrmnEvNHsy1PM5pCpNgIiSeF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 2 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-1",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-1/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-3",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-3/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:53.838Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/jmwqShc7FlEbelA4dwJtHFSD84J.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 3 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-2",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-2/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-4",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-4/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:49.847Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7r33UYpKqbrjcz0RJsMIlj8SakE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 4 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-3",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-3/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-5",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-5/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:45.743Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Apr. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/3EtHH7D7X5Fj2kDoh7cLDNAUYhE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 5 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-4",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-4/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-6",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-6/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:41.713Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/Aaaq9rBUhTbo7GVRBg5ufIIqm6O.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 6 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-5",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-5/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-7",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-7/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:37.612Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/uXJ6xqWjjDohlo0glc8oOrOxovj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 7 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-6",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-6/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-8",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-8/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:33.514Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/fm3UzpvHmUgSzTEXlpnNAZgyHM0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 8 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-7",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-7/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-9",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-9/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:29.420Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/yI1HuRLshJGXFGXGEcAUIWVUD9g.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 9 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-8",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-8/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-10",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-10/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:25.386Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/qow1zYJh7u20bqpxhwHVKXMWa3P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 10 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-9",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-9/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-11",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-11/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:21.356Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/xAWRSF5tXO5iKy7FpAwwKlH47e2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 11 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-10",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-10/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-12",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-12/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:17.326Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/A3xCZnnuZMjLiJCeH7Z7sP7k85J.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Daikenja Riddle no Jikan Gyakkou: 1 Episodio 12 Online",
+        "animeSlug": "a/daikenja-riddle-no-jikan-gyakkou",
+        "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/daikenja-riddle-no-jikan-gyakkou-episodio-11",
+          "link": "https://meusanimes.blog/e/daikenja-riddle-no-jikan-gyakkou-episodio-11/",
+          "nome": "Daikenja Riddle no Jikan Gyakkou Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/313395/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:56:13.208Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/313395/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/313395/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      13
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T21:56:08.405Z"
+  },
+  "titulo": "Daikenja Riddle no Jikan Gyakkou",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nI42iJ6GAWN6U4MkJgLq75vGNmx.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 01, 2026",
+  "url": "https://meusanimes.blog/a/daikenja-riddle-no-jikan-gyakkou/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/nI42iJ6GAWN6U4MkJgLq75vGNmx.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Recupere tudo o que você perdeu em sua segunda jornada pelo mundo. O misterioso grupo “Caixa da Malícia” tirou tudo do jovem Ryddel seus companheiros, seu mundo, seu futuro. À beira do desespero, ele vislumbra uma última ideia: E se eu pudesse voltar ao tempo antes de tudo ser destruído? Tendo sobrevivido por mil anos e se transformado em um ser inumano, Ryddel finalmente consegue reverter o tempo. “Desta vez… eu vou impedir tudo!” Carregando um milênio de conhecimento e experiência de volta ao seu corpo jovem, o grande sábio Ryddel inicia sua jornada de reversão temporal!"
+}

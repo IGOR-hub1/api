@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hyakuemu",
+  "capturadoEm": "2026-10-22T09:49:39.517Z",
+  "atualizadoEm": "2026-10-22T09:49:39.517Z",
+  "catalogo": {
+    "slug": "a/hyakuemu",
+    "titulo": "Hyakuemu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/rPX3PtfRNOxU5t1XAfb5KVx5wU9.jpg",
+    "info": "Legendado • Dec. 31, 2025",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Dec. 31, 2025",
+    "url": "https://meusanimes.blog/a/hyakuemu/",
+    "postId": "68178"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Hyakuemu",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/rPX3PtfRNOxU5t1XAfb5KVx5wU9.jpg",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Dec. 31, 2025",
+  "url": "https://meusanimes.blog/a/hyakuemu/"
+}

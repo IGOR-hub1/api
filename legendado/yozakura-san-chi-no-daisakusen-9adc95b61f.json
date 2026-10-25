@@ -1,0 +1,1322 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "yozakura-san-chi-no-daisakusen",
+  "capturadoEm": "2026-10-22T09:44:12.063Z",
+  "atualizadoEm": "2026-10-22T12:26:00.761Z",
+  "catalogo": {
+    "slug": "a/yozakura-san-chi-no-daisakusen",
+    "titulo": "Yozakura-san Chi no Daisakusen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/xSQa7R6egOcTo7nCU1fFf295OFJ.jpg",
+    "info": "Legendado • Apr. 07, 2024",
+    "audio": "Legendado",
+    "score": "7.522",
+    "ano": "2024",
+    "publicadoEm": "Apr. 07, 2024",
+    "url": "https://meusanimes.blog/a/yozakura-san-chi-no-daisakusen/",
+    "postId": "6269"
+  },
+  "detalhes": {
+    "slug": "a/yozakura-san-chi-no-daisakusen",
+    "titulo": "Yozakura-san Chi no Daisakusen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/xSQa7R6egOcTo7nCU1fFf295OFJ.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/xSQa7R6egOcTo7nCU1fFf295OFJ.jpg",
+    "sinopse": "Yozakura-san Chi no Daisakusen – Legendado: Uma família fora do comum! O aluno do ensino médio, Asano Taiyo, perdeu sua família num acidente trágico. A única pessoa com quem consegue falar é Mutsumi Yozakura, sua amiga de infância. Mas Mutsumi guarda um grande segredo: ela vem de uma família de espiões. Seu irmão, Kyoichiro, um espião extremamente habilidoso, fará de tudo para eliminar Taiyo. Para salvar Mutsumi e a si mesmo, Taiyo concorda casar com Mutsumi e se tornar parte da família Yozakura, embarcando numa aventura surpreendente!",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Shounen"
+    ],
+    "score": "8",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2024",
+    "publicadoEm": "Apr. 07, 2024",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/yozakura-san-chi-no-daisakusen/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 07, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/krBdos6x6ehbVq4IdazJYNJaygc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 1 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-2",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-2/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:26:00.761Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 14, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/7LUdqpAJz35Q27yHVr1n8nxAbTr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 2 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-1",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-1/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-3",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-3/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:57.039Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 21, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/yvfqtY0z41DQWg93rgziXa1nhJW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 3 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-2",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-2/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-4",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-4/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:53.279Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 28, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/8oUt2xRO4KpzYec4eNmUkubUVIT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 4 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-3",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-3/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-5",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-5/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:49.593Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 05, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/oACXLoTh3Cku0gYy0qOKtbrUeOb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 5 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-4",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-4/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-6",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-6/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:45.912Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 12, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/sLM5WF1ou0ckdDHHuBfk68dfMdw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 6 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-5",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-5/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-7",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-7/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:42.215Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 19, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/vBdb0vVmRysU0phEBXQz3bMvZZe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 7 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-6",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-6/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-8",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-8/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:38.377Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 26, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/l148WplFrOaSaV1fTUI6uAlQHmZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 8 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-7",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-7/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-9",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-9/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:34.675Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 02, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/zHRDrHWGUpL5E0ORAelCnWXSSV4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 9 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-8",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-8/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-10",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-10/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:30.962Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 09, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/ehztkOIx1DD4YNIOVtVXEjwgOxu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 10 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-9",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-9/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-11",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-11/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:27.252Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 16, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/jR1cIJN5J6SZKeI4VY6GFcBhtaf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 11 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-10",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-10/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-12",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-12/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:23.485Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 23, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/gHvFICocxqrKVrygyvN3WVmapsP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 12 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-11",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-11/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-13",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-13/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:19.756Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 30, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/ertE4FOhEjNfQ6TThXyQphb3mQ1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 13 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-12",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-12/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-14",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-14/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:16.060Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 07, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/jAKrh0kuwsKyTkoGCqKPRRI6Dh7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 14 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-13",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-13/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-15",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-15/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:12.328Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 14, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/ArZfIYkW4YuIklSwJbP2Mc9KA0X.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 15 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-14",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-14/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-16",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-16/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:08.540Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 21, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/hgYrJqf8Yba9xK8JllgPQ5yHMZ2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 16 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-15",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-15/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-17",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-17/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:04.813Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 28, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/sgwJxHBEpOdOw4x4zQQkgxeKkjD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 17 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-16",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-16/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-18",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-18/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:25:01.096Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 04, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/9SW5QoCSwu20OBNxvEftWhgVepe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 18 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-17",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-17/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-19",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-19/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:57.367Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 11, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/mUeHjhBXAO79Mfe9JldZyIY89rP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 19 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-18",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-18/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-20",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-20/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:53.596Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 18, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/vF2EXdpKgSXR5UZRsChjEISww8o.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 20 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-19",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-19/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-21",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-21/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:49.841Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 25, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/7rpMM80JLMYqf8dWA7dWfYUECUi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 21 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-20",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-20/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-22",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-22/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:45.653Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 01, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/A1uBnDwQURPEAjtH2D6tA1gOlws.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 22 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-21",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-21/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-23",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-23/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:41.938Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 08, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/a3D0Z5dGdoGZmpxhGgGzcl5Pfso.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 23 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-22",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-22/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-24",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-24/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:38.190Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/yyeNsyOBJ8Y3DYVFrcl4OhzQMqp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 24 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-23",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-23/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-25",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-25/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:34.474Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 22, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/1wo76L29K0TdvjWXuLpyxsb5xni.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 25 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-24",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-24/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-26",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-26/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:30.775Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 29, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/ugg5rX5Te4u569R4BMfB5gi0GD9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 26 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-25",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-25/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-27",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-27/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:27.057Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Oct. 06, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/tF869ATSKaGlLHojIHt3DySLCQa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 1 Episodio 27 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/27/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-1-episodio-26",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-1-episodio-26/",
+          "nome": "Yozakura-san Chi no Daisakusen 1 Episodio 26"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:23.284Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/z1tj7GRqVfVKutTaKQ3TAN5x3eu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 1 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-2",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-2/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:19.533Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/biwggSzTzr59UhLlP3vPEiqq0fX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 2 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-1",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-1/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-3",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-3/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:15.839Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/6gEYgUQ2Z2xpBXitDMHMbTBLhSj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 3 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-2",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-2/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-4",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-4/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:12.150Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "May. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/buG9BVk50Opr9BotYd4lzEJVctr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 4 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-3",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-3/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-5",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-5/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:08.390Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/8jnV4ngatLRo3H42MJt1YrVhtIU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 5 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-4",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-4/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-6",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-6/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:04.744Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/iyOWb73UWl4i17yLT94h9bvBg9R.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 6 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-5",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-5/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-7",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-7/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:24:01.090Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/Aa6vX2DJtcPpWC86lnIS6p3mD8q.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 7 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-6",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-6/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-8",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-8/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:23:57.433Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cZuoTOv8X1EYMD63dnj4mxbH4IP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 8 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-7",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-7/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-9",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-9/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:23:53.690Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/hD93Y4uoYR21HXt727Zoo1lubyM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 9 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-8",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-8/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-10",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-10/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:23:50.029Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/fojvcwZqMw7N4wYWBQbrvyqmvDM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 10 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-9",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-9/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-11",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-11/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:23:46.338Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/7wLpWP0KlYExsqytyKhpG79ggWT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 11 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-10",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-10/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-12",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-12/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:23:42.688Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/qUk7iBZcByAmdjHWaYsRSIVP9mj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 12 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-11",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-11/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-13",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-13/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:23:38.978Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/8P7d1fW6dhomV19zMWbOrMLR2hC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 13 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-12",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-12/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-14",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-14/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:23:35.317Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/mFh8QfVC7lvMstNoNN6kBlwHyPh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yozakura-san Chi no Daisakusen: 2 Episodio 14 Online",
+        "animeSlug": "a/yozakura-san-chi-no-daisakusen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/yozakura-san-chi-no-daisakusen-2-episodio-13",
+          "link": "https://meusanimes.blog/e/yozakura-san-chi-no-daisakusen-2-episodio-13/",
+          "nome": "Yozakura-san Chi no Daisakusen 2 Episodio 13"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/216467/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:23:31.677Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/216467/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/216467/2/14/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 41,
+    "totalEpisodios": 41,
+    "midiasColetadas": 0,
+    "iframesColetados": 41,
+    "detalhesColetadosEm": "2026-10-22T12:23:25.405Z"
+  },
+  "titulo": "Yozakura-san Chi no Daisakusen",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/xSQa7R6egOcTo7nCU1fFf295OFJ.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2024",
+  "publicadoEm": "Apr. 07, 2024",
+  "url": "https://meusanimes.blog/a/yozakura-san-chi-no-daisakusen/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/xSQa7R6egOcTo7nCU1fFf295OFJ.jpg",
+  "status": "Em lançamento",
+  "temporadas": 2,
+  "descricao": "Yozakura-san Chi no Daisakusen – Legendado: Uma família fora do comum! O aluno do ensino médio, Asano Taiyo, perdeu sua família num acidente trágico. A única pessoa com quem consegue falar é Mutsumi Yozakura, sua amiga de infância. Mas Mutsumi guarda um grande segredo: ela vem de uma família de espiões. Seu irmão, Kyoichiro, um espião extremamente habilidoso, fará de tudo para eliminar Taiyo. Para salvar Mutsumi e a si mesmo, Taiyo concorda casar com Mutsumi e se tornar parte da família Yozakura, embarcando numa aventura surpreendente!"
+}

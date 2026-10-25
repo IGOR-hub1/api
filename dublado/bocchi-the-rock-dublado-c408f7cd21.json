@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "bocchi-the-rock-dublado",
+  "capturadoEm": "2026-10-22T01:06:59.841Z",
+  "atualizadoEm": "2026-10-22T09:41:33.644Z",
+  "catalogo": {
+    "slug": "a/bocchi-the-rock-dublado",
+    "titulo": "Bocchi the Rock! Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hwwmH8NINlcC1nq6obL3atz2HDY.jpg",
+    "info": "Dublado • Oct. 09, 2022",
+    "audio": "Dublado",
+    "score": "8.477",
+    "ano": "2022",
+    "publicadoEm": "Oct. 09, 2022",
+    "url": "https://meusanimes.blog/a/bocchi-the-rock-dublado/",
+    "postId": "88496"
+  },
+  "detalhes": {
+    "slug": "a/bocchi-the-rock-dublado",
+    "titulo": "Bocchi the Rock! Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hwwmH8NINlcC1nq6obL3atz2HDY.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/hwwmH8NINlcC1nq6obL3atz2HDY.jpg",
+    "sinopse": "A história gira em torno de Hitori Goto, apelidada de “Bocchi”, uma menina solitária do colégio que adora tocar violão e passa os dias tocando sozinha em casa. Por acaso, ela se junta à “Kessoku Band” liderada por sua baterista Nijika Ijichi. Ela não está acostumada a tocar na frente das pessoas, mas será que será capaz de se tornar uma grande membro da banda?",
+    "generos": [
+      "Comédia",
+      "Musical",
+      "Slice Of Life"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2022",
+    "publicadoEm": "Oct. 09, 2022",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/bocchi-the-rock-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 09, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/svwWmmG7pzDKm3DUdgUEvk3h0ZM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-2/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:49.718Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 16, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/cI5fIuAqxZuzSEvwIPuZC4UiYqA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-1/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-3/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:45.622Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 23, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/rrPaFc6urB9cBNJfCrgNyTocnRj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-2/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-4/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:41.514Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 30, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/j2wgQD6aKKJJPCQq7Q2hrVyHYcv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-3/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-5/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:37.420Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 06, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/zPGwda7qVnEjkKJ542tXaWHtg1h.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-4/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-6/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:33.219Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 13, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/1iCTbCd7aPNuhxK6MImUP0lcGRK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-5/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-7/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:29.101Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 20, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/d4HtnohyUi16bDNYc9KSfYS6Nie.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-6/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-8/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:24.998Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 27, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oDaDrtdD5x8Y436JqZDLaPEdd9b.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-7/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-9/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:20.849Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 04, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/baaLPQ8H0fmn8manNreFNJk909w.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-8/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-10/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:16.599Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 11, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/sjq5mF0VltXYsWVuFDv7Ua43jBS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-9/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-11/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:12.508Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 18, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4IhuRiskwbCSUd7oncZpMVUmwTW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-10/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-12/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:08.375Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 25, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/lNROIsWepnKfgLhNrQXyaqi29dO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bocchi the Rock! Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/bocchi-the-rock-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/bocchi-the-rock-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/bocchi-the-rock-dublado-1-episodio-11/",
+          "nome": "Bocchi the Rock! Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1191001/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:07:04.248Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1191001/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1191001/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      8
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T01:06:59.841Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Bocchi the Rock! Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hwwmH8NINlcC1nq6obL3atz2HDY.jpg",
+  "score": "8.477",
+  "audio": "Dublado",
+  "ano": "2022",
+  "publicadoEm": "Oct. 09, 2022",
+  "url": "https://meusanimes.blog/a/bocchi-the-rock-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/hwwmH8NINlcC1nq6obL3atz2HDY.jpg",
+  "temporadas": 1,
+  "descricao": "A história gira em torno de Hitori Goto, apelidada de “Bocchi”, uma menina solitária do colégio que adora tocar violão e passa os dias tocando sozinha em casa. Por acaso, ela se junta à “Kessoku Band” liderada por sua baterista Nijika Ijichi. Ela não está acostumada a tocar na frente das pessoas, mas será que será capaz de se tornar uma grande membro da banda?"
+}

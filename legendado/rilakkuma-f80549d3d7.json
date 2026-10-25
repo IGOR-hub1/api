@@ -1,0 +1,925 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "rilakkuma",
+  "capturadoEm": "2026-10-22T09:46:50.741Z",
+  "atualizadoEm": "2026-10-22T19:32:03.915Z",
+  "catalogo": {
+    "slug": "a/rilakkuma",
+    "titulo": "Rilakkuma",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
+    "info": "Legendado • Apr. 04, 2026",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2026",
+    "publicadoEm": "Apr. 04, 2026",
+    "url": "https://meusanimes.blog/a/rilakkuma/",
+    "postId": "90523"
+  },
+  "detalhes": {
+    "slug": "a/rilakkuma",
+    "titulo": "Rilakkuma",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/06/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
+    "sinopse": "Conheça o mundo descontraído do Rilakkuma, o ursinho relaxado que faz com que a preguiça pareça algo natural.",
+    "generos": [
+      "Kids"
+    ],
+    "score": "9",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 04, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/rilakkuma/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/77W4iLcYYNxH8iZSLC1vuHINNRL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 1 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-2",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-2/",
+          "nome": "Rilakkuma Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:32:03.915Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/mLhbwv6An9Q4ckei7eYFKE71Nou.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 2 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-1",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-1/",
+          "nome": "Rilakkuma Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-3",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-3/",
+          "nome": "Rilakkuma Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:59.793Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/vjC2ELrDrBhqekPqjIX5RjtudoX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 3 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-2",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-2/",
+          "nome": "Rilakkuma Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-4",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-4/",
+          "nome": "Rilakkuma Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:55.644Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/AliDgW5PPMO6w8BWuofI5Adkr8L.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 4 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-3",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-3/",
+          "nome": "Rilakkuma Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-5",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-5/",
+          "nome": "Rilakkuma Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:51.494Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ui1PhUhfeNL1AdOXFZPi8ktfn4n.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 5 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-4",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-4/",
+          "nome": "Rilakkuma Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-6",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-6/",
+          "nome": "Rilakkuma Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:47.407Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/k8y3bWf7QONSC4EatqD71zwLbNy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 6 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-5",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-5/",
+          "nome": "Rilakkuma Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-7",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-7/",
+          "nome": "Rilakkuma Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:43.305Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/r81QZ1N0kL0J00PT9gncb1c8az2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 7 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-6",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-6/",
+          "nome": "Rilakkuma Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-8",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-8/",
+          "nome": "Rilakkuma Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:39.175Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/csInO7J8cJ0J3291jvV4mSe9Ihu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 8 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-7",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-7/",
+          "nome": "Rilakkuma Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-9",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-9/",
+          "nome": "Rilakkuma Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:35.043Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/jGXTNY8KTUgw22QHlBeZ6EIeVc2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 9 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-8",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-8/",
+          "nome": "Rilakkuma Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-10",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-10/",
+          "nome": "Rilakkuma Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:30.937Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/gsYlQQZ7w9Ko2rRPIwf0FxSTve7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 10 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-9",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-9/",
+          "nome": "Rilakkuma Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-11",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-11/",
+          "nome": "Rilakkuma Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:26.834Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/2a2WCfJeXhBekkvnoWrKNZXX6dE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 11 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-10",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-10/",
+          "nome": "Rilakkuma Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-12",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-12/",
+          "nome": "Rilakkuma Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:22.669Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/4RvYvhCfFmdnK3NqW2UqNh4uo74.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 12 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-11",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-11/",
+          "nome": "Rilakkuma Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-13",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-13/",
+          "nome": "Rilakkuma Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:18.571Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/lYEbE89smJBvM5hR9XXori2Kzjw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 13 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-12",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-12/",
+          "nome": "Rilakkuma Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-14",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-14/",
+          "nome": "Rilakkuma Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:14.441Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/1JOkDxKWXYKfYdqztlS1P1FGrqV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 14 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-13",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-13/",
+          "nome": "Rilakkuma Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-15",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-15/",
+          "nome": "Rilakkuma Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:10.344Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/uRpfXbjRw9opP8IyiS3ZcJW8CHl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 15 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-14",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-14/",
+          "nome": "Rilakkuma Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-16",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-16/",
+          "nome": "Rilakkuma Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:05.561Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/jCw8sFYCw4jbgZbjQH6nDsdbQqL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 16 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-15",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-15/",
+          "nome": "Rilakkuma Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-17",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-17/",
+          "nome": "Rilakkuma Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:31:01.448Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/csInO7J8cJ0J3291jvV4mSe9Ihu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 17 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-16",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-16/",
+          "nome": "Rilakkuma Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-18",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-18/",
+          "nome": "Rilakkuma Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:57.369Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/xCfxP8GTUItqQ7Ug7nsgy6j3cR8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 18 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-17",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-17/",
+          "nome": "Rilakkuma Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-19",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-19/",
+          "nome": "Rilakkuma Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:53.273Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/572H8w9QhkspFJukEH8jjtQddUW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 19 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-18",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-18/",
+          "nome": "Rilakkuma Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-20",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-20/",
+          "nome": "Rilakkuma Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:49.114Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/egrWLsIGc2FGI3yxlFyVGZy5iCZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 20 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-19",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-19/",
+          "nome": "Rilakkuma Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-21",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-21/",
+          "nome": "Rilakkuma Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:45.014Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/8ZRjv7xJfl8gHVB5xCdmcOn9qGD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 21 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-20",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-20/",
+          "nome": "Rilakkuma Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-22",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-22/",
+          "nome": "Rilakkuma Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:40.916Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/7Mufba0WdRyvSUHe1ag8wpVylEj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 22 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-21",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-21/",
+          "nome": "Rilakkuma Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-23",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-23/",
+          "nome": "Rilakkuma Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:36.231Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/ntLozo8NYsI0GPzin7RFI6p2Q86.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 23 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-22",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-22/",
+          "nome": "Rilakkuma Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-24",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-24/",
+          "nome": "Rilakkuma Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:32.027Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/ojp40BK4SEppt30lJ44ENEWZ6Wz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 24 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-23",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-23/",
+          "nome": "Rilakkuma Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-25",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-25/",
+          "nome": "Rilakkuma Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:27.916Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/5LauLPHMzpQsVxztnEWzECAD1fB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 25 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-24",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-24/",
+          "nome": "Rilakkuma Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-26",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-26/",
+          "nome": "Rilakkuma Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:23.813Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Oct. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/fxjoEckNl3glBheJ5Jbtxjkd9Mq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 26 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-25",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-25/",
+          "nome": "Rilakkuma Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-27",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-27/",
+          "nome": "Rilakkuma Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:19.471Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Oct. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/qGQaQaEtwD1zKLpTwGamEl46FXK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 27 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/27/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-26",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-26/",
+          "nome": "Rilakkuma Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/rilakkuma-episodio-28",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-28/",
+          "nome": "Rilakkuma Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:15.362Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rilakkuma-episodio-28/",
+      "numero": 28,
+      "temporada": 1,
+      "nome": "Episódio 28",
+      "descricao": "Oct. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/zW5p7lly3fyDLrRemBcO6XFA7Ih.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Rilakkuma: 1 Episodio 28 Online",
+        "animeSlug": "a/rilakkuma",
+        "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/28/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rilakkuma-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/rilakkuma-episodio-27",
+          "link": "https://meusanimes.blog/e/rilakkuma-episodio-27/",
+          "nome": "Rilakkuma Episodio 27"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/299144/1/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:30:11.259Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/299144/1/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/299144/1/28/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      8
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 28,
+    "totalEpisodios": 28,
+    "midiasColetadas": 0,
+    "iframesColetados": 28,
+    "detalhesColetadosEm": "2026-10-22T19:30:05.647Z"
+  },
+  "titulo": "Rilakkuma",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 04, 2026",
+  "url": "https://meusanimes.blog/a/rilakkuma/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/06/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Conheça o mundo descontraído do Rilakkuma, o ursinho relaxado que faz com que a preguiça pareça algo natural."
+}

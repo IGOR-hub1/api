@@ -1,0 +1,2035 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "captain-tsubasa",
+  "capturadoEm": "2026-10-22T09:02:14.658Z",
+  "atualizadoEm": "2026-10-22T09:43:48.159Z",
+  "catalogo": {
+    "slug": "a/captain-tsubasa",
+    "titulo": "Captain Tsubasa",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5ebcN4fDDk9QdGTvVrD7TIa18za.jpg",
+    "info": "Dublado • Apr. 03, 2018",
+    "audio": "Dublado",
+    "score": "8.174",
+    "ano": "2018",
+    "publicadoEm": "Apr. 03, 2018",
+    "url": "https://meusanimes.blog/a/captain-tsubasa/",
+    "postId": "35902"
+  },
+  "detalhes": {
+    "slug": "a/captain-tsubasa",
+    "titulo": "Captain Tsubasa",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5ebcN4fDDk9QdGTvVrD7TIa18za.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/5ebcN4fDDk9QdGTvVrD7TIa18za.jpg",
+    "sinopse": "A história do capitão de futebol Tsubasa Oozora e seu relacionamento com seus companheiros de equipe, rivalidade com seus oponentes, treinamento, competição e a ação e o resultado de cada partida de futebol.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Drama",
+      "Esporte",
+      "Shounen"
+    ],
+    "score": "7",
+    "audio": "Dublado",
+    "ano": "2018",
+    "publicadoEm": "Apr. 03, 2018",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/captain-tsubasa/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 03, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/zrEDY1JXBPGG17XK054jzHXLFpr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 1 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-2",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-2/",
+          "nome": "Captain Tsubasa 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:40.709Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 10, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rr8wTcSEE82HCmj8ZbFvXb5bs8x.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 2 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-1",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-1/",
+          "nome": "Captain Tsubasa 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-3",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-3/",
+          "nome": "Captain Tsubasa 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:36.696Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 17, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/vkbFyHUaXP1qRIfIbn6kqtIFOUZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 3 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-2",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-2/",
+          "nome": "Captain Tsubasa 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-4",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-4/",
+          "nome": "Captain Tsubasa 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:32.646Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 24, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/wmCjuBlDPiJq7ljyjCuvzoX7Bno.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 4 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-3",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-3/",
+          "nome": "Captain Tsubasa 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-5",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-5/",
+          "nome": "Captain Tsubasa 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:28.623Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 01, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/XCH5svpMfsk3hn3KnMqhgO8ggo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 5 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-4",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-4/",
+          "nome": "Captain Tsubasa 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-6",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-6/",
+          "nome": "Captain Tsubasa 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:24.569Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 08, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5H2CX319NaoUmiQfs2qWhMoJBSK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 6 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-5",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-5/",
+          "nome": "Captain Tsubasa 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-7",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-7/",
+          "nome": "Captain Tsubasa 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:20.540Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 15, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5dogAzfq77M3CICm376uX7CJUze.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 7 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-6",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-6/",
+          "nome": "Captain Tsubasa 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-8",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-8/",
+          "nome": "Captain Tsubasa 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:16.500Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 22, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xoaEFtPbmWMxkb4OihC8DYZGszq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 8 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-7",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-7/",
+          "nome": "Captain Tsubasa 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-9",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-9/",
+          "nome": "Captain Tsubasa 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:12.423Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 29, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xiwZVQ1egfQmdVxp9QKTlAZfsmP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 9 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-8",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-8/",
+          "nome": "Captain Tsubasa 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-10",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-10/",
+          "nome": "Captain Tsubasa 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:08.372Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 04, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3xkBfZpYVY92QZ98v4qDeJQum63.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 10 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-9",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-9/",
+          "nome": "Captain Tsubasa 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-11",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-11/",
+          "nome": "Captain Tsubasa 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:04.337Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 12, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/hR5jLwALZbZaMgpUWASPmuEJLs9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 11 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-10",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-10/",
+          "nome": "Captain Tsubasa 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-12",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-12/",
+          "nome": "Captain Tsubasa 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:06:00.304Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 19, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/gEmdXJCuMIu4llPtHdMzHvKnmJC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 12 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-11",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-11/",
+          "nome": "Captain Tsubasa 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-13",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-13/",
+          "nome": "Captain Tsubasa 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:56.231Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 26, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/37Ek26F7HcazDXgNwHsQ1rw5rwv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 13 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-12",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-12/",
+          "nome": "Captain Tsubasa 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-14",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-14/",
+          "nome": "Captain Tsubasa 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:52.081Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 03, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/kMC6mATguhqqP5DG6DdFHgPjryw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 14 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-13",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-13/",
+          "nome": "Captain Tsubasa 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-15",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-15/",
+          "nome": "Captain Tsubasa 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:48.028Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 10, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ySIVrgrED6FVTLcdK7dQAeoQhtd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 15 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-14",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-14/",
+          "nome": "Captain Tsubasa 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-16",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-16/",
+          "nome": "Captain Tsubasa 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:43.972Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 17, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/GgEOQBR3lEp8R3enL9KwBnXzGY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 16 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-15",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-15/",
+          "nome": "Captain Tsubasa 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-17",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-17/",
+          "nome": "Captain Tsubasa 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:39.911Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 24, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/9rlDhjs9wMhbpe0LYszPk3CABiu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 17 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-16",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-16/",
+          "nome": "Captain Tsubasa 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-18",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-18/",
+          "nome": "Captain Tsubasa 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:35.853Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Jul. 31, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/9zLQi7nipzAtolG7qlO24tfsq2V.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 18 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-17",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-17/",
+          "nome": "Captain Tsubasa 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-19",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-19/",
+          "nome": "Captain Tsubasa 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:31.809Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 07, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/4d6j1zLJuAm28MBDLTO2fdJ821s.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 19 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-18",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-18/",
+          "nome": "Captain Tsubasa 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-20",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-20/",
+          "nome": "Captain Tsubasa 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:27.242Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 14, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/l3oOOWtQJKHAVDXi7XQysvMAfEZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 20 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-19",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-19/",
+          "nome": "Captain Tsubasa 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-21",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-21/",
+          "nome": "Captain Tsubasa 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:23.179Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 21, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/2DlyZt7ZOWf0y1SBSvQUkcblfrs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 21 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-20",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-20/",
+          "nome": "Captain Tsubasa 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-22",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-22/",
+          "nome": "Captain Tsubasa 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:19.026Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 28, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ae4bBg0yNBD2N3jjnZng1TC2dgl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 22 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-21",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-21/",
+          "nome": "Captain Tsubasa 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-23",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-23/",
+          "nome": "Captain Tsubasa 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:14.976Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 04, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/fc4u18rr4m1j7bmOC9qArS0akL2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 23 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-22",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-22/",
+          "nome": "Captain Tsubasa 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-24",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-24/",
+          "nome": "Captain Tsubasa 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:10.925Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 11, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/lbnPyD06kp9s5AiIriI7XQRYuSy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 24 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-23",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-23/",
+          "nome": "Captain Tsubasa 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-25",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-25/",
+          "nome": "Captain Tsubasa 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:06.891Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/AgQSvDye1UW8JpW7sxfsuzSfdtX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 25 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-24",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-24/",
+          "nome": "Captain Tsubasa 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-26",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-26/",
+          "nome": "Captain Tsubasa 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:05:02.803Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 24, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/dPSJl3zP9iFeBwMqYxyiEprOXZ0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 26 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-25",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-25/",
+          "nome": "Captain Tsubasa 1 Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-27",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-27/",
+          "nome": "Captain Tsubasa 1 Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:58.795Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Oct. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/klQsNT24GZ5hdZRImrvTLvpRCSD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 27 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/27/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-26",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-26/",
+          "nome": "Captain Tsubasa 1 Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-28",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-28/",
+          "nome": "Captain Tsubasa 1 Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:54.746Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-28/",
+      "numero": 28,
+      "temporada": 1,
+      "nome": "Episódio 28",
+      "descricao": "Oct. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/v9JZxdMlTRqtbPh93q86Na4anWL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 28 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/28/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-27",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-27/",
+          "nome": "Captain Tsubasa 1 Episodio 27"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-29",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-29/",
+          "nome": "Captain Tsubasa 1 Episodio 29"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:50.659Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/28/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-29/",
+      "numero": 29,
+      "temporada": 1,
+      "nome": "Episódio 29",
+      "descricao": "Oct. 16, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/1bChBoOngi0HkERjCwNqlNzuok6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 29 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/29/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-29/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-28",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-28/",
+          "nome": "Captain Tsubasa 1 Episodio 28"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-30",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-30/",
+          "nome": "Captain Tsubasa 1 Episodio 30"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/29/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:46.586Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/29/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/29/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-30/",
+      "numero": 30,
+      "temporada": 1,
+      "nome": "Episódio 30",
+      "descricao": "Oct. 23, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/f0i29q3VyRLqnGuKv6kxk8Qu4qZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 30 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/30/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-30/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-29",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-29/",
+          "nome": "Captain Tsubasa 1 Episodio 29"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-31",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-31/",
+          "nome": "Captain Tsubasa 1 Episodio 31"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/30/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:42.494Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/30/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/30/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-31/",
+      "numero": 31,
+      "temporada": 1,
+      "nome": "Episódio 31",
+      "descricao": "Oct. 30, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/b2S4SEajpFtdg5LzR8NoEhZFBBD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 31 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/31/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-31/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-30",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-30/",
+          "nome": "Captain Tsubasa 1 Episodio 30"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-32",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-32/",
+          "nome": "Captain Tsubasa 1 Episodio 32"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/31/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:38.420Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/31/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/31/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-32/",
+      "numero": 32,
+      "temporada": 1,
+      "nome": "Episódio 32",
+      "descricao": "Nov. 06, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/askjDIdCgD6453idQ3hvRJ0wtXt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 32 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/32/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-32/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-31",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-31/",
+          "nome": "Captain Tsubasa 1 Episodio 31"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-33",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-33/",
+          "nome": "Captain Tsubasa 1 Episodio 33"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/32/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:34.350Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/32/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/32/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-33/",
+      "numero": 33,
+      "temporada": 1,
+      "nome": "Episódio 33",
+      "descricao": "Nov. 13, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/fTickUvT37xFfG9rMGi4nifrKKx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 33 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/33/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-33/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-32",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-32/",
+          "nome": "Captain Tsubasa 1 Episodio 32"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-34",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-34/",
+          "nome": "Captain Tsubasa 1 Episodio 34"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/33/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:30.237Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/33/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/33/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-34/",
+      "numero": 34,
+      "temporada": 1,
+      "nome": "Episódio 34",
+      "descricao": "Nov. 20, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/j0puDYScv1DxEFkXACGKR56Vt1S.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 34 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/34/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-34/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-33",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-33/",
+          "nome": "Captain Tsubasa 1 Episodio 33"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-35",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-35/",
+          "nome": "Captain Tsubasa 1 Episodio 35"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/34/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:26.169Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/34/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/34/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-35/",
+      "numero": 35,
+      "temporada": 1,
+      "nome": "Episódio 35",
+      "descricao": "Nov. 27, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/u9QCKc5BTrJhOFfjJ0diBgRWmTM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 35 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/35/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-35/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-34",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-34/",
+          "nome": "Captain Tsubasa 1 Episodio 34"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-36",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-36/",
+          "nome": "Captain Tsubasa 1 Episodio 36"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/35/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:22.119Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/35/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/35/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-36/",
+      "numero": 36,
+      "temporada": 1,
+      "nome": "Episódio 36",
+      "descricao": "Dec. 04, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/nnvdh3BjC5fcwDUPqVopG5zclfj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 36 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/36/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-36/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-35",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-35/",
+          "nome": "Captain Tsubasa 1 Episodio 35"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-37",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-37/",
+          "nome": "Captain Tsubasa 1 Episodio 37"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/36/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:18.100Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/36/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/36/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-37/",
+      "numero": 37,
+      "temporada": 1,
+      "nome": "Episódio 37",
+      "descricao": "Dec. 11, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/1qELxoynATCXjG0CqzOrUxdV5YZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 37 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/37/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-37/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-36",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-36/",
+          "nome": "Captain Tsubasa 1 Episodio 36"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-38",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-38/",
+          "nome": "Captain Tsubasa 1 Episodio 38"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/37/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:13.969Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/37/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/37/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-38/",
+      "numero": 38,
+      "temporada": 1,
+      "nome": "Episódio 38",
+      "descricao": "Dec. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/4DUjVhns48UZNoG7723MwuvDjUI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 38 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/38/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-38/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-37",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-37/",
+          "nome": "Captain Tsubasa 1 Episodio 37"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-39",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-39/",
+          "nome": "Captain Tsubasa 1 Episodio 39"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/38/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:09.911Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/38/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/38/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-39/",
+      "numero": 39,
+      "temporada": 1,
+      "nome": "Episódio 39",
+      "descricao": "Dec. 25, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/8VJQR76p0e8brrp7cJobTG4dHAZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 39 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/39/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-39/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-38",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-38/",
+          "nome": "Captain Tsubasa 1 Episodio 38"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-40",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-40/",
+          "nome": "Captain Tsubasa 1 Episodio 40"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/39/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:05.879Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/39/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/39/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-40/",
+      "numero": 40,
+      "temporada": 1,
+      "nome": "Episódio 40",
+      "descricao": "Jan. 01, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/oE0mATZzZSeNUoEpiOlvbsnJCZv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 40 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/40/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-40/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-39",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-39/",
+          "nome": "Captain Tsubasa 1 Episodio 39"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-41",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-41/",
+          "nome": "Captain Tsubasa 1 Episodio 41"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/40/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:04:01.855Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/40/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/40/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-41/",
+      "numero": 41,
+      "temporada": 1,
+      "nome": "Episódio 41",
+      "descricao": "Jan. 08, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/j4NDEtinkL36Xr0yuCnN4HGz9uz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 41 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/41/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-41/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-40",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-40/",
+          "nome": "Captain Tsubasa 1 Episodio 40"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-42",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-42/",
+          "nome": "Captain Tsubasa 1 Episodio 42"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/41/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:57.731Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/41/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/41/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-42/",
+      "numero": 42,
+      "temporada": 1,
+      "nome": "Episódio 42",
+      "descricao": "Jan. 22, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rVQUfuTQus8Bq2WbbSMGqVbJH2S.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 42 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/42/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-42/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-41",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-41/",
+          "nome": "Captain Tsubasa 1 Episodio 41"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-43",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-43/",
+          "nome": "Captain Tsubasa 1 Episodio 43"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/42/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:53.683Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/42/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/42/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-43/",
+      "numero": 43,
+      "temporada": 1,
+      "nome": "Episódio 43",
+      "descricao": "Jan. 29, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rkHu38H1uc4QwZvCwyGdwL8bINj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 43 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/43/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-43/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-42",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-42/",
+          "nome": "Captain Tsubasa 1 Episodio 42"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-44",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-44/",
+          "nome": "Captain Tsubasa 1 Episodio 44"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/43/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:49.594Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/43/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/43/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-44/",
+      "numero": 44,
+      "temporada": 1,
+      "nome": "Episódio 44",
+      "descricao": "Feb. 05, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/8NAmHrZsLFNzUkcO5DqtYo0zDNk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 44 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/44/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-44/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-43",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-43/",
+          "nome": "Captain Tsubasa 1 Episodio 43"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-45",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-45/",
+          "nome": "Captain Tsubasa 1 Episodio 45"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/44/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:45.506Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/44/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/44/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-45/",
+      "numero": 45,
+      "temporada": 1,
+      "nome": "Episódio 45",
+      "descricao": "Feb. 12, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/aLzg21HXyXTXbD3XAMAhwQ1cdS2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 45 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/45/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-45/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-44",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-44/",
+          "nome": "Captain Tsubasa 1 Episodio 44"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-46",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-46/",
+          "nome": "Captain Tsubasa 1 Episodio 46"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/45/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:40.924Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/45/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/45/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-46/",
+      "numero": 46,
+      "temporada": 1,
+      "nome": "Episódio 46",
+      "descricao": "Feb. 19, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/bbwObEd69OJV39i0FEHuaNERg6N.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 46 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/46/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-46/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-45",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-45/",
+          "nome": "Captain Tsubasa 1 Episodio 45"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-47",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-47/",
+          "nome": "Captain Tsubasa 1 Episodio 47"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/46/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:36.918Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/46/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/46/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-47/",
+      "numero": 47,
+      "temporada": 1,
+      "nome": "Episódio 47",
+      "descricao": "Feb. 26, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5XNXIh0acMmyzekvYnpCNuOdNU7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 47 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/47/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-47/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-46",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-46/",
+          "nome": "Captain Tsubasa 1 Episodio 46"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-48",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-48/",
+          "nome": "Captain Tsubasa 1 Episodio 48"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/47/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:32.877Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/47/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/47/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-48/",
+      "numero": 48,
+      "temporada": 1,
+      "nome": "Episódio 48",
+      "descricao": "Mar. 05, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/4v9wQZhGZ2seB1sHkcUojTFAnoQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 48 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/48/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-48/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-47",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-47/",
+          "nome": "Captain Tsubasa 1 Episodio 47"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-49",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-49/",
+          "nome": "Captain Tsubasa 1 Episodio 49"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/48/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:28.795Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/48/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/48/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-49/",
+      "numero": 49,
+      "temporada": 1,
+      "nome": "Episódio 49",
+      "descricao": "Mar. 12, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/yTEJBEV16LxSSYhtWD9tatsRWZ3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 49 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/49/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-49/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-48",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-48/",
+          "nome": "Captain Tsubasa 1 Episodio 48"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-50",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-50/",
+          "nome": "Captain Tsubasa 1 Episodio 50"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/49/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:24.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/49/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/49/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-50/",
+      "numero": 50,
+      "temporada": 1,
+      "nome": "Episódio 50",
+      "descricao": "Mar. 19, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/qvcR8cJYmKR4v7atzFdYdUU7I2Y.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 50 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/50/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-50/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-49",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-49/",
+          "nome": "Captain Tsubasa 1 Episodio 49"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-51",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-51/",
+          "nome": "Captain Tsubasa 1 Episodio 51"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/50/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:20.681Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/50/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/50/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-51/",
+      "numero": 51,
+      "temporada": 1,
+      "nome": "Episódio 51",
+      "descricao": "Mar. 26, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pAn7VOVd10eWJLryomNsrgcVz13.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 51 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/51/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-51/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-50",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-50/",
+          "nome": "Captain Tsubasa 1 Episodio 50"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-52",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-52/",
+          "nome": "Captain Tsubasa 1 Episodio 52"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/51/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:16.621Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/51/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/51/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-52/",
+      "numero": 52,
+      "temporada": 1,
+      "nome": "Episódio 52",
+      "descricao": "Apr. 02, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pdOKMx9sXzcYnLQkCL98yXgtweE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 1 Episodio 52 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/52/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-52/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-1-episodio-51",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-1-episodio-51/",
+          "nome": "Captain Tsubasa 1 Episodio 51"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/1/52/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:12.591Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/1/52/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/1/52/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 01, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5Ph2qe795aQPNk7f52dWmIkdKf5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 1 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-2",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-2/",
+          "nome": "Captain Tsubasa 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:08.587Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 08, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/qEQpPlbDLNdYigx0TNKBy31ECkd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 2 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-1",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-1/",
+          "nome": "Captain Tsubasa 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-3",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-3/",
+          "nome": "Captain Tsubasa 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:04.618Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 15, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/frndO48p796K9c7SCO2t0d0VUaC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 3 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-2",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-2/",
+          "nome": "Captain Tsubasa 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-4",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-4/",
+          "nome": "Captain Tsubasa 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:03:00.656Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 22, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/crJ754Y7zUQlgPjVwFBz7WoErzv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 4 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-3",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-3/",
+          "nome": "Captain Tsubasa 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-5",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-5/",
+          "nome": "Captain Tsubasa 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:56.684Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 29, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6lnzOkTCY5msBgaVRCA72lqPVGZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 5 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-4",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-4/",
+          "nome": "Captain Tsubasa 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-6",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-6/",
+          "nome": "Captain Tsubasa 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:52.687Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 05, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/e9OgMSwuV9lLNDlwsCcUOpMsTor.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 6 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-5",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-5/",
+          "nome": "Captain Tsubasa 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-7",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-7/",
+          "nome": "Captain Tsubasa 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:48.692Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pCwOnWWIUKg1TM1YisaZvvQ1Eir.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 7 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-6",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-6/",
+          "nome": "Captain Tsubasa 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-8",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-8/",
+          "nome": "Captain Tsubasa 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:44.706Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 19, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ecOywjBFGph9m9dKGDZ7kmSHlUx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 8 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-7",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-7/",
+          "nome": "Captain Tsubasa 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-9",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-9/",
+          "nome": "Captain Tsubasa 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:40.737Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5fenZ2oflbvkjD3KKWmgpdHGA2j.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 9 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-8",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-8/",
+          "nome": "Captain Tsubasa 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-10",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-10/",
+          "nome": "Captain Tsubasa 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:36.750Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 03, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/zLPh6aRD4p0gNcTc4khJPB33oq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 10 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-9",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-9/",
+          "nome": "Captain Tsubasa 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-11",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-11/",
+          "nome": "Captain Tsubasa 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:32.805Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 10, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9hyRWuEFGEAlCEhXZ0H7vmuhytk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 11 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-10",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-10/",
+          "nome": "Captain Tsubasa 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-12",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-12/",
+          "nome": "Captain Tsubasa 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:28.825Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 17, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qikyRg1aDYT4TEyZJYqKsaeCAad.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Captain Tsubasa: 2 Episodio 12 Online",
+        "animeSlug": "a/captain-tsubasa",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/captain-tsubasa-2-episodio-11",
+          "link": "https://meusanimes.blog/e/captain-tsubasa-2-episodio-11/",
+          "nome": "Captain Tsubasa 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77240/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:24.835Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77240/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77240/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 64,
+    "totalEpisodios": 64,
+    "detalhesColetadosEm": "2026-10-22T09:02:14.658Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 64
+  },
+  "titulo": "Captain Tsubasa",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5ebcN4fDDk9QdGTvVrD7TIa18za.jpg",
+  "score": "8.174",
+  "audio": "Dublado",
+  "ano": "2018",
+  "publicadoEm": "Apr. 03, 2018",
+  "url": "https://meusanimes.blog/a/captain-tsubasa/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/5ebcN4fDDk9QdGTvVrD7TIa18za.jpg",
+  "temporadas": 2,
+  "descricao": "A história do capitão de futebol Tsubasa Oozora e seu relacionamento com seus companheiros de equipe, rivalidade com seus oponentes, treinamento, competição e a ação e o resultado de cada partida de futebol."
+}

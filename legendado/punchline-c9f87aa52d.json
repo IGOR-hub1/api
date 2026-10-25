@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "punchline",
+  "capturadoEm": "2026-10-22T09:52:01.770Z",
+  "atualizadoEm": "2026-10-22T09:52:01.770Z",
+  "catalogo": {
+    "slug": "a/punchline",
+    "titulo": "Punchline",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/f3YZlksJX1ggTJDdlcnybSDMdEg.jpg",
+    "info": "Legendado • Apr. 10, 2015",
+    "audio": "Legendado",
+    "score": "5.793",
+    "ano": "2015",
+    "publicadoEm": "Apr. 10, 2015",
+    "url": "https://meusanimes.blog/a/punchline/",
+    "postId": "56568"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Punchline",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/f3YZlksJX1ggTJDdlcnybSDMdEg.jpg",
+  "score": "5.793",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 10, 2015",
+  "url": "https://meusanimes.blog/a/punchline/"
+}

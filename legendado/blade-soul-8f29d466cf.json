@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "blade-soul",
+  "capturadoEm": "2026-10-22T09:50:39.567Z",
+  "atualizadoEm": "2026-10-22T09:50:39.567Z",
+  "catalogo": {
+    "slug": "a/blade-soul",
+    "titulo": "Blade & Soul",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/Aheo8qBUXTFSppHdgkZfc7fIovB.jpg",
+    "info": "Legendado • Apr. 04, 2014",
+    "audio": "Legendado",
+    "score": "6.2",
+    "ano": "2014",
+    "publicadoEm": "Apr. 04, 2014",
+    "url": "https://meusanimes.blog/a/blade-soul/",
+    "postId": "63560"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      25
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Blade & Soul",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/Aheo8qBUXTFSppHdgkZfc7fIovB.jpg",
+  "score": "6.2",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Apr. 04, 2014",
+  "url": "https://meusanimes.blog/a/blade-soul/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "big-order",
+  "capturadoEm": "2026-10-22T09:52:45.013Z",
+  "atualizadoEm": "2026-10-22T09:52:45.013Z",
+  "catalogo": {
+    "slug": "a/big-order",
+    "titulo": "Big Order",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/q5EkN2qWh5WBY44gmDYu2PV0aVt.jpg",
+    "info": "Legendado • Apr. 16, 2016",
+    "audio": "Legendado",
+    "score": "6.182",
+    "ano": "2016",
+    "publicadoEm": "Apr. 16, 2016",
+    "url": "https://meusanimes.blog/a/big-order/",
+    "postId": "53869"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Big Order",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/q5EkN2qWh5WBY44gmDYu2PV0aVt.jpg",
+  "score": "6.182",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 16, 2016",
+  "url": "https://meusanimes.blog/a/big-order/"
+}

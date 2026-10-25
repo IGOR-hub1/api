@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "flying-witch",
+  "capturadoEm": "2026-10-22T09:52:33.360Z",
+  "atualizadoEm": "2026-10-22T09:52:33.360Z",
+  "catalogo": {
+    "slug": "a/flying-witch",
+    "titulo": "Flying Witch",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/1fU9uaXlyZfQSQKhk35cFiRQf2P.jpg",
+    "info": "Legendado • Apr. 10, 2016",
+    "audio": "Legendado",
+    "score": "7.087",
+    "ano": "2016",
+    "publicadoEm": "Apr. 10, 2016",
+    "url": "https://meusanimes.blog/a/flying-witch/",
+    "postId": "54554"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      34
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Flying Witch",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/1fU9uaXlyZfQSQKhk35cFiRQf2P.jpg",
+  "score": "7.087",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 10, 2016",
+  "url": "https://meusanimes.blog/a/flying-witch/"
+}

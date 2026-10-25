@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+  "capturadoEm": "2026-10-21T23:52:24.229Z",
+  "atualizadoEm": "2026-10-22T09:41:01.614Z",
+  "catalogo": {
+    "slug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+    "titulo": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/zMhS9CH6tQ8Foz7z8aELKwBr0yI.jpg",
+    "info": "Dublado • Jul. 05, 2026",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "url": "https://meusanimes.blog/a/nijusseiki-denki-mokuroku-eureka-evrika-dublado/",
+    "postId": "92465"
+  },
+  "detalhes": {
+    "slug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+    "titulo": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/zMhS9CH6tQ8Foz7z8aELKwBr0yI.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/zMhS9CH6tQ8Foz7z8aELKwBr0yI.jpg",
+    "sinopse": "Em um passado alternativo, uma dupla improvável se une para procurar um catálogo perdido capaz de levar eletricidade às ruas esfumaçadas de Kyoto.",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Histórico",
+      "Romance"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/nijusseiki-denki-mokuroku-eureka-evrika-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/ayf2wRte1LbYnnpRGSEKsPDiQMt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-2/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:53:18.907Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/npoELyxTAcP9qKjRjnmi6OVa1tp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-1/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-3/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:53:14.792Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oUaQ5bCO3RWRYu9uoNjfpwMoiEi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-2/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-4/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:53:10.612Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/jOPP1KT8azBzsEFh79mGh0RD4eb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-3/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-5/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:53:06.546Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/lkXLBaKAO2EgNLzWBSX7LB9aipJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-4/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-6/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:53:02.222Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/851Wb2Ihn16SwJm0Df9LXDISlPW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-5/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-7/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:52:58.114Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/oMxHUC8SJl5f3RmjmDH0K64F0U4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-6/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-8/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:52:53.649Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/3xQRRmYBop34ho5jpJzmFlzqRWt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-7/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-9/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:52:49.576Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/r6RC0IP6OWMqKKUs9u4UpBe65IX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-8/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-10/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:52:45.511Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/n8512j5Qq29CLG4zbXzGObcYyDr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-9/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-11/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:52:41.226Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/gsv8bViwjm41uvz9rlpoIH6WHUK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-10/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-12/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:52:37.118Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/wJ8jfKOmUxY5fOXuXhIwDfdZTCq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-11/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-13",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-13/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:52:33.071Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/cYA5KHIYZLN7gzT6qRaw7Kovjv7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/nijusseiki-denki-mokuroku-eureka-evrika-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/nijusseiki-denki-mokuroku-eureka-evrika-dublado-episodio-12/",
+          "nome": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1532171/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:52:28.671Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1532171/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1532171/1/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      6
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 13,
+    "totalEpisodios": 13,
+    "detalhesColetadosEm": "2026-10-21T23:52:24.229Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 13
+  },
+  "titulo": "Nijusseiki Denki Mokuroku: Eureka Evrika Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/zMhS9CH6tQ8Foz7z8aELKwBr0yI.jpg",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 05, 2026",
+  "url": "https://meusanimes.blog/a/nijusseiki-denki-mokuroku-eureka-evrika-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/zMhS9CH6tQ8Foz7z8aELKwBr0yI.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Em um passado alternativo, uma dupla improvável se une para procurar um catálogo perdido capaz de levar eletricidade às ruas esfumaçadas de Kyoto."
+}

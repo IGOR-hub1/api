@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "minami-ke",
+  "capturadoEm": "2026-10-22T09:48:43.513Z",
+  "atualizadoEm": "2026-10-22T09:48:43.513Z",
+  "catalogo": {
+    "slug": "a/minami-ke",
+    "titulo": "Minami-ke",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wMMSQnp9bydNP1nd1nsHSiMadek.jpg",
+    "info": "Legendado • Oct. 08, 2007",
+    "audio": "Legendado",
+    "score": "7.2",
+    "ano": "2007",
+    "publicadoEm": "Oct. 08, 2007",
+    "url": "https://meusanimes.blog/a/minami-ke/",
+    "postId": "76042"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Minami-ke",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wMMSQnp9bydNP1nd1nsHSiMadek.jpg",
+  "score": "7.2",
+  "audio": "Legendado",
+  "ano": "2007",
+  "publicadoEm": "Oct. 08, 2007",
+  "url": "https://meusanimes.blog/a/minami-ke/"
+}

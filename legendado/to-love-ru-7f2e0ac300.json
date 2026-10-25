@@ -1,0 +1,2329 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "to-love-ru",
+  "capturadoEm": "2026-10-22T09:47:13.593Z",
+  "atualizadoEm": "2026-10-22T20:33:32.859Z",
+  "catalogo": {
+    "slug": "a/to-love-ru",
+    "titulo": "To LOVE-Ru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/e2BuQR9o4QFomz43WXkpKgzcqzR.jpg",
+    "info": "Legendado • Apr. 04, 2008",
+    "audio": "Legendado",
+    "score": "8.198",
+    "ano": "2008",
+    "publicadoEm": "Apr. 04, 2008",
+    "url": "https://meusanimes.blog/a/to-love-ru/",
+    "postId": "85119"
+  },
+  "detalhes": {
+    "slug": "a/to-love-ru",
+    "titulo": "To LOVE-Ru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/e2BuQR9o4QFomz43WXkpKgzcqzR.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/e2BuQR9o4QFomz43WXkpKgzcqzR.jpg",
+    "sinopse": "To LOVE-Ru Todos Episodios, A história de To LOVE-Ru gira em torno de Rito Yuuki, um estudante do colégio que não pode (ou não consegue) se confessar para a garota de seus sonhos, Haruna Sairenji. Um dia, quando volta a casa e vai até a banheira, uma misteriosa garota nua aparece do nada. O nome dela é Lala Satalin e ela vem do planeta Deviluke, onde é a herdeira do trono. Seu pai quer que ela volte para sua casa, para que possa casar com um de seus candidatos a marido. Mas ela acaba por decidir que quer se casar com Rito e ficar na Terra.",
+    "generos": [
+      "Comédia",
+      "Ecchi",
+      "Ficção científica",
+      "Harém",
+      "Romance"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2008",
+    "publicadoEm": "Apr. 04, 2008",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/to-love-ru/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/rqF5iwQYiaFkpwMCUAm6l2H74pT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 1 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-2/",
+          "nome": "To LOVE-Ru 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:33:32.859Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/2NpgYfOWphV33abqIDSk6LJrqyp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 2 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-1",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-1/",
+          "nome": "To LOVE-Ru 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-3/",
+          "nome": "To LOVE-Ru 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:33:28.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 18, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ga6GrOhGJO2eX1mvB6UWikSHQzm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 3 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-2/",
+          "nome": "To LOVE-Ru 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-4/",
+          "nome": "To LOVE-Ru 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:33:24.588Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 25, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/e9CgIvrXWqVuSwSV4WgKllO5vh1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 4 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-3/",
+          "nome": "To LOVE-Ru 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-5/",
+          "nome": "To LOVE-Ru 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:33:20.461Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 02, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/2SDFLMykCz90vmgyO9OetSEyrDg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 5 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-4/",
+          "nome": "To LOVE-Ru 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-6/",
+          "nome": "To LOVE-Ru 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:33:16.229Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 09, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/y7lqCltntrcuD6BSoFweDZeGVSG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 6 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-5/",
+          "nome": "To LOVE-Ru 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-7/",
+          "nome": "To LOVE-Ru 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:33:12.014Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 16, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/h5pnu6YZX1yFqJ7wjR5cRQ40wgN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 7 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-6/",
+          "nome": "To LOVE-Ru 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-8/",
+          "nome": "To LOVE-Ru 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:33:07.930Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 23, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/te5pV339ayv5bhAuMfbv0nSx19H.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 8 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-7/",
+          "nome": "To LOVE-Ru 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-9/",
+          "nome": "To LOVE-Ru 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:33:03.709Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 30, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ar6vR83RK4mgx3uNQWdCqHPMLQp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 9 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-8/",
+          "nome": "To LOVE-Ru 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-10/",
+          "nome": "To LOVE-Ru 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:59.569Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 06, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jGeMxS5L1MJRLMMhgHhj9SKxVeN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 10 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-9/",
+          "nome": "To LOVE-Ru 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-11/",
+          "nome": "To LOVE-Ru 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:55.386Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 13, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/mMtCvQ7M6vyGFfV1sbnwd7VGDsT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 11 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-10/",
+          "nome": "To LOVE-Ru 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-12",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-12/",
+          "nome": "To LOVE-Ru 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:51.083Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 20, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tUOtl8tDCExTt108bXgjkvDcwkR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 12 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-11/",
+          "nome": "To LOVE-Ru 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-13",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-13/",
+          "nome": "To LOVE-Ru 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:46.943Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 27, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/aZH7HFjJRH3ZsC33yXcRrkJFr4P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 13 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-12",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-12/",
+          "nome": "To LOVE-Ru 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-14",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-14/",
+          "nome": "To LOVE-Ru 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:42.878Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 04, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jLw3u79alOdWvyHdswtU9NgHI4t.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 14 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-13",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-13/",
+          "nome": "To LOVE-Ru 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-15",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-15/",
+          "nome": "To LOVE-Ru 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:38.719Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 11, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gRzbi4lvqo4I1x7NlJqOLFSJCQQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 15 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-14",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-14/",
+          "nome": "To LOVE-Ru 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-16",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-16/",
+          "nome": "To LOVE-Ru 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:34.126Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 18, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/GLCZF5Y0HOvsD6YSBQLhJ5MQV9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 16 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-15",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-15/",
+          "nome": "To LOVE-Ru 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-17",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-17/",
+          "nome": "To LOVE-Ru 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:29.986Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 25, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nHyIrRGZh155mHiyeJ0UDSfJARy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 17 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-16",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-16/",
+          "nome": "To LOVE-Ru 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-18",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-18/",
+          "nome": "To LOVE-Ru 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:25.946Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 01, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zqPq2SOKLBoOxcHRWVClv1lTsN0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 18 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-17",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-17/",
+          "nome": "To LOVE-Ru 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-19",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-19/",
+          "nome": "To LOVE-Ru 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:21.894Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 08, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jEo80KZpXTbcKFTpTTEPW6Otcxo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 19 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-18",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-18/",
+          "nome": "To LOVE-Ru 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-20",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-20/",
+          "nome": "To LOVE-Ru 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:17.730Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 15, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qdUFglkajWMmiaA3AdcXrIZD0F2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 20 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-19",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-19/",
+          "nome": "To LOVE-Ru 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-21",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-21/",
+          "nome": "To LOVE-Ru 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:13.485Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 22, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/dX5117USijGvBE3WH5yeUAYcVpo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 21 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-20",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-20/",
+          "nome": "To LOVE-Ru 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-22",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-22/",
+          "nome": "To LOVE-Ru 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:09.343Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 29, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qrduKaXoQHGs5l7aPiWew6mNq5V.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 22 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-21",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-21/",
+          "nome": "To LOVE-Ru 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-23",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-23/",
+          "nome": "To LOVE-Ru 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:05.191Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 05, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9BOalB9lrYUih4G55KMTsg3nm1v.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 23 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-22",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-22/",
+          "nome": "To LOVE-Ru 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-24",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-24/",
+          "nome": "To LOVE-Ru 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:32:01.031Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 12, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ikjhP3PvRNEdfZGgSNLRCLM0snQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 24 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-23",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-23/",
+          "nome": "To LOVE-Ru 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-25",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-25/",
+          "nome": "To LOVE-Ru 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:56.919Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 19, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/cem57fWR6m5pY9Pda1017vVPtc6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 25 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-24",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-24/",
+          "nome": "To LOVE-Ru 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-26",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-26/",
+          "nome": "To LOVE-Ru 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:52.880Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 26, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8G78D6lEiM03fkpBSImYey3WlmX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 26 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-25",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-25/",
+          "nome": "To LOVE-Ru 1 Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-27",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-27/",
+          "nome": "To LOVE-Ru 1 Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:48.816Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Oct. 02, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wf0WrHqNycL8DvXiTuD2TePx2gP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 27 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/27/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-26",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-26/",
+          "nome": "To LOVE-Ru 1 Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-28",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-28/",
+          "nome": "To LOVE-Ru 1 Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:44.724Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-28/",
+      "numero": 28,
+      "temporada": 1,
+      "nome": "Episódio 28",
+      "descricao": "Oct. 09, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pNNOoZ4kFcRylNCFBd4f75RBSrt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 28 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/28/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-27",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-27/",
+          "nome": "To LOVE-Ru 1 Episodio 27"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-29",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-29/",
+          "nome": "To LOVE-Ru 1 Episodio 29"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:40.606Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/28/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-29/",
+      "numero": 29,
+      "temporada": 1,
+      "nome": "Episódio 29",
+      "descricao": "Oct. 16, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nWoo8rDq2wswxI3YOqp41HbdzlW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 29 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/29/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-29/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-28",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-28/",
+          "nome": "To LOVE-Ru 1 Episodio 28"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-30",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-30/",
+          "nome": "To LOVE-Ru 1 Episodio 30"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/29/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:36.495Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/29/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/29/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-30/",
+      "numero": 30,
+      "temporada": 1,
+      "nome": "Episódio 30",
+      "descricao": "Oct. 23, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fuMH6j76NKyFlCadgi6UMyCotaf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 30 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/30/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-30/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-29",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-29/",
+          "nome": "To LOVE-Ru 1 Episodio 29"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-31",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-31/",
+          "nome": "To LOVE-Ru 1 Episodio 31"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/30/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:32.397Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/30/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/30/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-31/",
+      "numero": 31,
+      "temporada": 1,
+      "nome": "Episódio 31",
+      "descricao": "Oct. 30, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9Q6sOAVJpnbhFBxsagQZScNWnrO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 31 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/31/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-31/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-30",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-30/",
+          "nome": "To LOVE-Ru 1 Episodio 30"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-1-episodio-32",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-32/",
+          "nome": "To LOVE-Ru 1 Episodio 32"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/31/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:28.319Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/31/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/31/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-1-episodio-32/",
+      "numero": 32,
+      "temporada": 1,
+      "nome": "Episódio 32",
+      "descricao": "Nov. 06, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/f5yPVJ8OSy1Uk3UWu9UF1bypYUe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 1 Episodio 32 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/32/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-1-episodio-32/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-1-episodio-31",
+          "link": "https://meusanimes.blog/e/to-love-ru-1-episodio-31/",
+          "nome": "To LOVE-Ru 1 Episodio 31"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/1/32/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:24.122Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/1/32/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/1/32/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 06, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zBJG49MxL9gM7YIA4f4vRWpZ1Km.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 1 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-2",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-2/",
+          "nome": "To LOVE-Ru 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:20.041Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 13, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/sVmIG078yWLpvZ3RRpIdR0QUSak.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 2 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-1",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-1/",
+          "nome": "To LOVE-Ru 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-3",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-3/",
+          "nome": "To LOVE-Ru 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:15.903Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 20, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8z1iEvFi9h27thbEFOn1GLQhugp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 3 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-2",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-2/",
+          "nome": "To LOVE-Ru 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-4",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-4/",
+          "nome": "To LOVE-Ru 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:11.794Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 27, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/rQ2npOyjpeCBqPLDCcHMZuKm9iJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 4 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-3",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-3/",
+          "nome": "To LOVE-Ru 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-5",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-5/",
+          "nome": "To LOVE-Ru 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:07.604Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 03, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/h3s16NgiOmBBebhjYyikzmIlNUN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 5 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-4",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-4/",
+          "nome": "To LOVE-Ru 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-6",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-6/",
+          "nome": "To LOVE-Ru 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:31:03.374Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 10, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/6VakdxfJYgCyVAD5mpqGfbfOxRq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 6 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-5",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-5/",
+          "nome": "To LOVE-Ru 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-7",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-7/",
+          "nome": "To LOVE-Ru 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:59.131Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 17, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/d9LZRJqt4M5odX43QhwzsaTIKN8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 7 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-6",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-6/",
+          "nome": "To LOVE-Ru 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-8",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-8/",
+          "nome": "To LOVE-Ru 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:52.964Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 24, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zaBpSBElFPtasMNAXw73ybr1r2N.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 8 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-7",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-7/",
+          "nome": "To LOVE-Ru 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-9",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-9/",
+          "nome": "To LOVE-Ru 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:48.818Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 01, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wfqRBFaNKFL5bpa4vFNWMqx5sXQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 9 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-8",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-8/",
+          "nome": "To LOVE-Ru 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-10",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-10/",
+          "nome": "To LOVE-Ru 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:44.781Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 08, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tzyryIuiNggDQ4PBu6ZK5Vgwh4d.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 10 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-9",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-9/",
+          "nome": "To LOVE-Ru 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-11",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-11/",
+          "nome": "To LOVE-Ru 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:40.752Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 15, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fFN7FTJh4B2xaBZ9fJ9CnzUL4zf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 11 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-10",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-10/",
+          "nome": "To LOVE-Ru 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-2-episodio-12",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-12/",
+          "nome": "To LOVE-Ru 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:36.672Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 22, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gXL8lgxibSzSxGMsObgvGqBMXjC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 2 Episodio 12 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-2-episodio-11",
+          "link": "https://meusanimes.blog/e/to-love-ru-2-episodio-11/",
+          "nome": "To LOVE-Ru 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:32.515Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 06, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/kInnlFgeg0RLapjd0NmVbs1Qpi1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 1 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-2",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-2/",
+          "nome": "To LOVE-Ru 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:28.480Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 13, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bgqHfDiOoIE8Olq0U1aVdAsbOng.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 2 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-1",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-1/",
+          "nome": "To LOVE-Ru 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-3",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-3/",
+          "nome": "To LOVE-Ru 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:24.401Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 20, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tdsuu2cFkW4usEt3L2ipSKTnY4l.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 3 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-2",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-2/",
+          "nome": "To LOVE-Ru 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-4",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-4/",
+          "nome": "To LOVE-Ru 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:20.348Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 27, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/6L88yh5f78bUZ8gb6qygFqhQ0oT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 4 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-3",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-3/",
+          "nome": "To LOVE-Ru 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-5",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-5/",
+          "nome": "To LOVE-Ru 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:16.266Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 03, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/rUNwq5HZDb7BT5EiId5JO1VzDqi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 5 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-4",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-4/",
+          "nome": "To LOVE-Ru 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-6",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-6/",
+          "nome": "To LOVE-Ru 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:12.079Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 10, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/oh5die7RdS5coRGCRAcqAaWI0iD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 6 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-5",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-5/",
+          "nome": "To LOVE-Ru 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-7",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-7/",
+          "nome": "To LOVE-Ru 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:07.977Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 17, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8eiliSwoKYHTuLratufQvCUo6U.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 7 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-6",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-6/",
+          "nome": "To LOVE-Ru 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-8",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-8/",
+          "nome": "To LOVE-Ru 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:30:03.790Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Dec. 01, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/5hlXxTuQu1qZpXT4SXVRWQVBNWg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 8 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-7",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-7/",
+          "nome": "To LOVE-Ru 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-9",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-9/",
+          "nome": "To LOVE-Ru 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:59.652Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 08, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qbfUnpWplgGJNPItz3OFqhTQD2H.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 9 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-8",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-8/",
+          "nome": "To LOVE-Ru 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-10",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-10/",
+          "nome": "To LOVE-Ru 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:55.500Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 15, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/g31Sc2iPAFNGhlHjQLce07nWsiE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 10 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-9",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-9/",
+          "nome": "To LOVE-Ru 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-11",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-11/",
+          "nome": "To LOVE-Ru 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:51.418Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 22, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/5xunYFcx1r22HIFBxIAvDpDm3J2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 11 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-10",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-10/",
+          "nome": "To LOVE-Ru 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-3-episodio-12",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-12/",
+          "nome": "To LOVE-Ru 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:46.764Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 29, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gT2UsARmFipNb70JB7cXsjwgQPW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 3 Episodio 12 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-3-episodio-11",
+          "link": "https://meusanimes.blog/e/to-love-ru-3-episodio-11/",
+          "nome": "To LOVE-Ru 3 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:42.613Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 07, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/y6HKJJatq8GvShjBopmWNIMtZ7Q.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 1 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-2",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-2/",
+          "nome": "To LOVE-Ru 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:38.526Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 14, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/RhcqJQlSC1V4dOZ3ARKnRYR1p8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 2 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-1",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-1/",
+          "nome": "To LOVE-Ru 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-3",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-3/",
+          "nome": "To LOVE-Ru 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:34.299Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 21, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fZpgGRknIZsg341LCqdWt6X5YjS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 3 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-2",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-2/",
+          "nome": "To LOVE-Ru 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-4",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-4/",
+          "nome": "To LOVE-Ru 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:30.140Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 28, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/4JC5MdXEf239yxo0SC0rv2uOl91.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 4 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-3",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-3/",
+          "nome": "To LOVE-Ru 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-5",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-5/",
+          "nome": "To LOVE-Ru 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:26.010Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 04, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/lOielve32IU1K6pG1fvbJ7KXmk6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 5 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-4",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-4/",
+          "nome": "To LOVE-Ru 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-6",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-6/",
+          "nome": "To LOVE-Ru 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:21.902Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 11, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3v1nuU0D89Vuot8hag2vKTToSYA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 6 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-5",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-5/",
+          "nome": "To LOVE-Ru 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-7",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-7/",
+          "nome": "To LOVE-Ru 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:17.787Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 25, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/yX5my4wXkcOi4o6zeag9Gg3opQp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 7 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-6",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-6/",
+          "nome": "To LOVE-Ru 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-8",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-8/",
+          "nome": "To LOVE-Ru 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:13.657Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 01, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qG1IdzZQUFssUJOBVJ1LDFqyZLH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 8 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-7",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-7/",
+          "nome": "To LOVE-Ru 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-9",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-9/",
+          "nome": "To LOVE-Ru 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:09.474Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 08, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3LFhqlWq8JMZmLWSJNnGig2uDb5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 9 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-8",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-8/",
+          "nome": "To LOVE-Ru 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-10",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-10/",
+          "nome": "To LOVE-Ru 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:05.387Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 15, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/cwqjmpZkL5saJXTdQalXnLGPXuK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 10 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-9",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-9/",
+          "nome": "To LOVE-Ru 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-11",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-11/",
+          "nome": "To LOVE-Ru 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:29:01.250Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 22, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ymatPNfnJSKsqt02JiCcuslBtkN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 11 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-10",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-10/",
+          "nome": "To LOVE-Ru 4 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-12",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-12/",
+          "nome": "To LOVE-Ru 4 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:57.140Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 29, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/2bsvZaNUHVqFkRbwAnKofoQo3kw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 12 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-11",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-11/",
+          "nome": "To LOVE-Ru 4 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-13",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-13/",
+          "nome": "To LOVE-Ru 4 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:53.003Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-13/",
+      "numero": 13,
+      "temporada": 4,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 29, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/iIf9ejsWOKTYn3YixU6JqCbGzLc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 13 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-12",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-12/",
+          "nome": "To LOVE-Ru 4 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-14",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-14/",
+          "nome": "To LOVE-Ru 4 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:48.915Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-14/",
+      "numero": 14,
+      "temporada": 4,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 29, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7LX1V2ZiA2Zah2MiCHLqDr22PFI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 14 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-13",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-13/",
+          "nome": "To LOVE-Ru 4 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-15",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-15/",
+          "nome": "To LOVE-Ru 4 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:44.801Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-15/",
+      "numero": 15,
+      "temporada": 4,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 05, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/b5Fnx0zI1s9BPnEXYiu9hUmCHpC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 15 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-14",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-14/",
+          "nome": "To LOVE-Ru 4 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-16",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-16/",
+          "nome": "To LOVE-Ru 4 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:40.673Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-16/",
+      "numero": 16,
+      "temporada": 4,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 12, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/a4YSfgsm7IoX8pURJgPx81ew7oe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 16 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-15",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-15/",
+          "nome": "To LOVE-Ru 4 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-17",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-17/",
+          "nome": "To LOVE-Ru 4 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:36.550Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-17/",
+      "numero": 17,
+      "temporada": 4,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 19, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qTw4BL90gjfR1POTiMMdRDx9HUD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 17 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-16",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-16/",
+          "nome": "To LOVE-Ru 4 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/to-love-ru-4-episodio-18",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-18/",
+          "nome": "To LOVE-Ru 4 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:32.245Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/to-love-ru-4-episodio-18/",
+      "numero": 18,
+      "temporada": 4,
+      "nome": "Episódio 18",
+      "descricao": "Oct. 26, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/b56ejfbLmJKGahwi2bdLgpbJoiA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "To LOVE-Ru: 4 Episodio 18 Online",
+        "animeSlug": "a/to-love-ru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/to-love-ru-4-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/to-love-ru-4-episodio-17",
+          "link": "https://meusanimes.blog/e/to-love-ru-4-episodio-17/",
+          "nome": "To LOVE-Ru 4 Episodio 17"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34742/4/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:28.126Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34742/4/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34742/4/18/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      10
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 74,
+    "totalEpisodios": 74,
+    "midiasColetadas": 0,
+    "iframesColetados": 74,
+    "detalhesColetadosEm": "2026-10-22T20:28:19.858Z"
+  },
+  "titulo": "To LOVE-Ru",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/e2BuQR9o4QFomz43WXkpKgzcqzR.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2008",
+  "publicadoEm": "Apr. 04, 2008",
+  "url": "https://meusanimes.blog/a/to-love-ru/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/e2BuQR9o4QFomz43WXkpKgzcqzR.jpg",
+  "temporadas": 4,
+  "descricao": "To LOVE-Ru Todos Episodios, A história de To LOVE-Ru gira em torno de Rito Yuuki, um estudante do colégio que não pode (ou não consegue) se confessar para a garota de seus sonhos, Haruna Sairenji. Um dia, quando volta a casa e vai até a banheira, uma misteriosa garota nua aparece do nada. O nome dela é Lala Satalin e ela vem do planeta Deviluke, onde é a herdeira do trono. Seu pai quer que ela volte para sua casa, para que possa casar com um de seus candidatos a marido. Mas ela acaba por decidir que quer se casar com Rito e ficar na Terra."
+}

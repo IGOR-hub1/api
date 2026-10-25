@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tsubasa-chronicle",
+  "capturadoEm": "2026-10-22T09:50:26.752Z",
+  "atualizadoEm": "2026-10-22T09:50:26.752Z",
+  "catalogo": {
+    "slug": "a/tsubasa-chronicle",
+    "titulo": "Tsubasa Chronicle",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/zVyrHP3xgNqvMXfxZhPepCjog7c.jpg",
+    "info": "Legendado • Apr. 09, 2005",
+    "audio": "Legendado",
+    "score": "6.802",
+    "ano": "2005",
+    "publicadoEm": "Apr. 09, 2005",
+    "url": "https://meusanimes.blog/a/tsubasa-chronicle/",
+    "postId": "65240"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      24
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Tsubasa Chronicle",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/zVyrHP3xgNqvMXfxZhPepCjog7c.jpg",
+  "score": "6.802",
+  "audio": "Legendado",
+  "ano": "2005",
+  "publicadoEm": "Apr. 09, 2005",
+  "url": "https://meusanimes.blog/a/tsubasa-chronicle/"
+}

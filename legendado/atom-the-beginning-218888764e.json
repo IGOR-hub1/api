@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "atom-the-beginning",
+  "capturadoEm": "2026-10-22T09:53:43.861Z",
+  "atualizadoEm": "2026-10-22T09:53:43.861Z",
+  "catalogo": {
+    "slug": "a/atom-the-beginning",
+    "titulo": "Atom: The Beginning",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/AiAFZiPnqvDpMq38eU69Gi3AOUe.jpg",
+    "info": "Legendado • Apr. 15, 2017",
+    "audio": "Legendado",
+    "score": "5.1",
+    "ano": "2017",
+    "publicadoEm": "Apr. 15, 2017",
+    "url": "https://meusanimes.blog/a/atom-the-beginning/",
+    "postId": "45466"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      39
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Atom: The Beginning",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/AiAFZiPnqvDpMq38eU69Gi3AOUe.jpg",
+  "score": "5.1",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Apr. 15, 2017",
+  "url": "https://meusanimes.blog/a/atom-the-beginning/"
+}

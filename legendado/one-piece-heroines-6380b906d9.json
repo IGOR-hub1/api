@@ -1,0 +1,87 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "one-piece-heroines",
+  "capturadoEm": "2026-10-22T09:46:22.762Z",
+  "atualizadoEm": "2026-10-22T18:41:26.899Z",
+  "catalogo": {
+    "slug": "a/one-piece-heroines",
+    "titulo": "One Piece: Heroines",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "info": "Legendado • Jul. 05, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "url": "https://meusanimes.blog/a/one-piece-heroines/",
+    "postId": "92507"
+  },
+  "detalhes": {
+    "slug": "a/one-piece-heroines",
+    "titulo": "One Piece: Heroines",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+    "sinopse": "A novel apresenta várias histórias curtas focadas nas garotas de One Piece, mostrando elas em situações inusitadas ou apenas vivendo o seu dia a dia.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Slice Of Life"
+    ],
+    "score": "6",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/one-piece-heroines/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/one-piece-heroines-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/dQCBqCkoXz2PCqApTNXZ007QwNb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "One Piece: Heroines: 1 Episodio 1 Online",
+        "animeSlug": "a/one-piece-heroines",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1659389/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/one-piece-heroines-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1659389/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:41:26.899Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1659389/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1659389/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      6
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "midiasColetadas": 0,
+    "iframesColetados": 1,
+    "detalhesColetadosEm": "2026-10-22T18:41:22.796Z"
+  },
+  "titulo": "One Piece: Heroines",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 05, 2026",
+  "url": "https://meusanimes.blog/a/one-piece-heroines/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/mrONQ5gkWIVSf3hp5n6w7qoK2oN.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "A novel apresenta várias histórias curtas focadas nas garotas de One Piece, mostrando elas em situações inusitadas ou apenas vivendo o seu dia a dia."
+}

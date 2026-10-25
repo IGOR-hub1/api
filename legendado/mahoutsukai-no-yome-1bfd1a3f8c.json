@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mahoutsukai-no-yome",
+  "capturadoEm": "2026-10-22T09:54:31.304Z",
+  "atualizadoEm": "2026-10-22T09:54:31.304Z",
+  "catalogo": {
+    "slug": "a/mahoutsukai-no-yome",
+    "titulo": "Mahoutsukai No Yome",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/7qFQf6FmS2J3kp1gBOxCdKFOpLG.jpg",
+    "info": "Legendado • Oct. 08, 2017",
+    "audio": "Legendado",
+    "score": "8.421",
+    "ano": "2017",
+    "publicadoEm": "Oct. 08, 2017",
+    "url": "https://meusanimes.blog/a/mahoutsukai-no-yome/",
+    "postId": "42971"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      42
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Mahoutsukai No Yome",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/7qFQf6FmS2J3kp1gBOxCdKFOpLG.jpg",
+  "score": "8.421",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Oct. 08, 2017",
+  "url": "https://meusanimes.blog/a/mahoutsukai-no-yome/"
+}

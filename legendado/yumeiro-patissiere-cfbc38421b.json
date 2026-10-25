@@ -1,0 +1,2003 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "yumeiro-patissiere",
+  "capturadoEm": "2026-10-22T09:48:26.464Z",
+  "atualizadoEm": "2026-10-22T23:32:55.655Z",
+  "catalogo": {
+    "slug": "a/yumeiro-patissiere",
+    "titulo": "Yume-iro Patissiere",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wYO3e3MK2OcENzq1Yq55x49iQ1v.jpg",
+    "info": "Legendado • Oct. 04, 2009",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2009",
+    "publicadoEm": "Oct. 04, 2009",
+    "url": "https://meusanimes.blog/a/yumeiro-patissiere/",
+    "postId": "80412"
+  },
+  "detalhes": {
+    "slug": "a/yumeiro-patissiere",
+    "titulo": "Yume-iro Patissiere",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wYO3e3MK2OcENzq1Yq55x49iQ1v.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/wYO3e3MK2OcENzq1Yq55x49iQ1v.jpg",
+    "sinopse": "Ichigo Amano é uma garota de 14 anos que não tem nenhuma qualidade especial. Um dia, em um festival de doces, conhece Henri Lucas. Esse rapaz a recomenda entrar na Academia St. Marie, ao perceber que Ichigo têm um paladar muito aguçado para os doces. A Academia St. Marie é uma escola especializada em formar pâtissiers e pátissieres. Nesta escola, Ichigo conhece uma Espírito dos Doces chamada Vanilla, que se torna sua parceira e lhe dá lições de culinária. Ichigo também fará novos amigos patissiers e conhecerá novos Espíritos dos Doces. Assim começa as aventuras de Ichigo.",
+    "generos": [
+      "Comédia",
+      "Fantasia",
+      "Romance",
+      "Slice Of Life"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2009",
+    "publicadoEm": "Oct. 04, 2009",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/yumeiro-patissiere/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 04, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2UHyU8uGMi30EvYYt1D8IcFdxUL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 1 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-2",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-2/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:55.655Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 11, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xXpNxGEySNkURlCFk2RsD9AZ2ku.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 2 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-1",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-1/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-3",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-3/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:51.424Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 18, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2WgkAG1m9ylcLPdYmvdLyxLEC1w.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 3 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-2",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-2/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-4",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-4/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:47.165Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 25, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/lUpLZm4bfPPqWWAKHIzPTFvQ5i5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 4 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-3",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-3/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-5",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-5/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:42.985Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 01, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tq9c4jqlfu37VEbvAx5n6tA4ASZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 5 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-4",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-4/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-6",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-6/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:38.127Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 08, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ugwOzCI68GKRg1dlqtzgfbPBuSw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 6 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-5",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-5/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-7",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-7/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:34.007Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 15, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dq73DDCmCZPqKMpHLrPFN8cRKza.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 7 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-6",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-6/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-8",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-8/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:29.612Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 22, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cmyYoyyKpI52U3xgSPIvbHLnpu1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 8 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-7",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-7/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-9",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-9/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:25.478Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 29, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gfVkPratWNHt587M0Nha9WcIA1c.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 9 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-8",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-8/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-10",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-10/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:21.329Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 06, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qYT51XgcKVk504sT7FglWcliJFi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 10 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-9",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-9/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-11",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-11/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:17.178Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 13, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/x7iCXAnN0dzuq7DcNSeOdc5tjw7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 11 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-10",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-10/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-12",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-12/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:12.911Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 20, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6dAvHmCzoYEF7xaMfbvSBgLfLWB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 12 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-11",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-11/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-13",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-13/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:08.728Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 27, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tcV4cUSVCnZWdqbIioFkzBsYgAO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 13 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-12",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-12/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-14",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-14/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:04.600Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 10, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/71rn1fYPzs51I2Quk5RdHH8cbHi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 14 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-13",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-13/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-15",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-15/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:32:00.289Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 17, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/v014hm5YhqJVKktbX9S3eyb0r2U.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 15 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-14",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-14/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-16",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-16/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:55.681Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 24, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/brd3Lqnuy8QlGKftfcc0kZfEouE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 16 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-15",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-15/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-17",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-17/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:51.593Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jan. 31, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/s5TpI0R5r6gUqFEw3FmX1UQ9KCF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 17 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-16",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-16/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-18",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-18/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:47.292Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 07, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uYtN3xtdGdD5k9myTDfKAjD4BMb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 18 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-17",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-17/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-19",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-19/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:42.991Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 14, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ajLnnuAnzfY3O9YqVJrGNxtBxC1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 19 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-18",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-18/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-20",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-20/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:38.646Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 21, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bZdxJg33dTC3h0uBZ8hcATzJTqh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 20 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-19",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-19/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-21",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-21/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:34.267Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Feb. 28, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gHWZ3RqGTh0jiWBRByTGQE0D6r5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 21 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-20",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-20/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-22",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-22/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:29.976Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 07, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/g5CypIJXRVLqp9S202JlkAhWqBI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 22 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-21",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-21/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-23",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-23/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:25.819Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 14, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pcTlLexEWf9pO5Wey1gkvDNz31s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 23 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-22",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-22/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-24",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-24/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:21.531Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 21, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/84mbocykFSNzRUGzuWhJTEGO650.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 24 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-23",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-23/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-25",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-25/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:17.387Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Mar. 28, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dAa2y2VQpgzva38G1r3zoPbUeEX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 25 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-24",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-24/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-26",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-26/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:13.308Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Apr. 04, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1HZUiuSkJlbjy6lDaRIfLvYo5QM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 26 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-25",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-25/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-27",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-27/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:09.003Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Apr. 11, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/e6DWysjvv2iZWbiIVLqHxSSRwwz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 27 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/27/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-26",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-26/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-28",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-28/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:04.796Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-28/",
+      "numero": 28,
+      "temporada": 1,
+      "nome": "Episódio 28",
+      "descricao": "Apr. 18, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pKyyAiJDVmfZU6qUAag8bk87uN5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 28 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/28/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-27",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-27/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 27"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-29",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-29/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 29"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:31:00.169Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/28/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-29/",
+      "numero": 29,
+      "temporada": 1,
+      "nome": "Episódio 29",
+      "descricao": "Apr. 25, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xc2tWXMkxsfmb2tCIzL6APJhUWm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 29 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/29/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-29/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-28",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-28/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 28"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-30",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-30/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 30"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/29/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:56.009Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/29/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/29/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-30/",
+      "numero": 30,
+      "temporada": 1,
+      "nome": "Episódio 30",
+      "descricao": "May. 02, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yeUETpVtF0AYwLiLRfhN81mWSsw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 30 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/30/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-30/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-29",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-29/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 29"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-31",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-31/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 31"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/30/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:51.884Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/30/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/30/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-31/",
+      "numero": 31,
+      "temporada": 1,
+      "nome": "Episódio 31",
+      "descricao": "May. 09, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1wfTagWoLop8sFoTRs8iWgPdHlX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 31 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/31/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-31/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-30",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-30/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 30"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-32",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-32/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 32"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/31/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:47.677Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/31/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/31/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-32/",
+      "numero": 32,
+      "temporada": 1,
+      "nome": "Episódio 32",
+      "descricao": "May. 16, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7dEPV3XmsZD9JmdXcajwoIAz28i.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 32 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/32/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-32/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-31",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-31/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 31"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-33",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-33/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 33"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/32/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:43.542Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/32/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/32/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-33/",
+      "numero": 33,
+      "temporada": 1,
+      "nome": "Episódio 33",
+      "descricao": "May. 23, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/82hcebm9dmE6A6u5iFX2SwSnfRH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 33 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/33/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-33/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-32",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-32/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 32"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-34",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-34/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 34"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/33/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:39.281Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/33/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/33/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-34/",
+      "numero": 34,
+      "temporada": 1,
+      "nome": "Episódio 34",
+      "descricao": "May. 30, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uHdqMrCu73Z2uN53tLEjK0TTtsL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 34 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/34/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-34/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-33",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-33/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 33"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-35",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-35/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 35"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/34/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:35.167Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/34/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/34/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-35/",
+      "numero": 35,
+      "temporada": 1,
+      "nome": "Episódio 35",
+      "descricao": "Jun. 06, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/imkGb6HkyzIdQj6zAm06y3AIaHe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 35 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/35/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-35/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-34",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-34/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 34"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-36",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-36/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 36"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/35/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:30.900Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/35/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/35/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-36/",
+      "numero": 36,
+      "temporada": 1,
+      "nome": "Episódio 36",
+      "descricao": "Jun. 13, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/k1orMR4SXhUOp5z2MoQteC8JSPi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 36 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/36/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-36/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-35",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-35/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 35"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-37",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-37/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 37"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/36/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:25.711Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/36/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/36/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-37/",
+      "numero": 37,
+      "temporada": 1,
+      "nome": "Episódio 37",
+      "descricao": "Jun. 20, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7QsyPssM0s51ryQQ0hdmmwF22zk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 37 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/37/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-37/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-36",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-36/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 36"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-38",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-38/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 38"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/37/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:21.481Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/37/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/37/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-38/",
+      "numero": 38,
+      "temporada": 1,
+      "nome": "Episódio 38",
+      "descricao": "Jun. 27, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/fX4vrnhsqe1c1fPMj6uVSpgacqm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 38 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/38/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-38/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-37",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-37/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 37"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-39",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-39/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 39"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/38/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:17.307Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/38/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/38/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-39/",
+      "numero": 39,
+      "temporada": 1,
+      "nome": "Episódio 39",
+      "descricao": "Jul. 04, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1irOCSINtI3sY17idOgzEp2TVPO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 39 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/39/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-39/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-38",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-38/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 38"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-40",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-40/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 40"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/39/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:13.055Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/39/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/39/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-40/",
+      "numero": 40,
+      "temporada": 1,
+      "nome": "Episódio 40",
+      "descricao": "Jul. 11, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xwE1RGlnUQ13EVivUX7fFRBC9Pj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 40 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/40/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-40/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-39",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-39/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 39"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-41",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-41/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 41"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/40/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:08.856Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/40/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/40/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-41/",
+      "numero": 41,
+      "temporada": 1,
+      "nome": "Episódio 41",
+      "descricao": "Jul. 18, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ffNMI9cKlnbvoedeufemVwNR2gf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 41 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/41/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-41/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-40",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-40/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 40"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-42",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-42/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 42"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/41/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:04.674Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/41/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/41/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-42/",
+      "numero": 42,
+      "temporada": 1,
+      "nome": "Episódio 42",
+      "descricao": "Jul. 25, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gPNG6fRgd3qwqI7wYg2PimAldxq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 42 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/42/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-42/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-41",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-41/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 41"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-43",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-43/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 43"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/42/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:30:00.414Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/42/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/42/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-43/",
+      "numero": 43,
+      "temporada": 1,
+      "nome": "Episódio 43",
+      "descricao": "Aug. 01, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/we1GhHYDPWO8bZdFFyj3zPJL171.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 43 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/43/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-43/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-42",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-42/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 42"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-44",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-44/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 44"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/43/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:56.261Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/43/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/43/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-44/",
+      "numero": 44,
+      "temporada": 1,
+      "nome": "Episódio 44",
+      "descricao": "Aug. 08, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xzR5hC4DuCE2wpNRvDTW6fRyhN3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 44 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/44/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-44/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-43",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-43/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 43"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-45",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-45/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 45"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/44/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:52.020Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/44/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/44/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-45/",
+      "numero": 45,
+      "temporada": 1,
+      "nome": "Episódio 45",
+      "descricao": "Aug. 15, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pMn2t0fxpTAOONEd2QZYLrZee6u.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 45 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/45/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-45/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-44",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-44/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 44"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-46",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-46/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 46"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/45/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:47.991Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/45/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/45/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-46/",
+      "numero": 46,
+      "temporada": 1,
+      "nome": "Episódio 46",
+      "descricao": "Aug. 22, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kfPnwW9VjDC8EmyZGGHyGJIEQ1v.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 46 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/46/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-46/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-45",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-45/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 45"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-47",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-47/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 47"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/46/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:43.675Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/46/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/46/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-47/",
+      "numero": 47,
+      "temporada": 1,
+      "nome": "Episódio 47",
+      "descricao": "Aug. 29, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uxfqy1b0D97ODt0BFJ4pUbTMprH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 47 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/47/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-47/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-46",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-46/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 46"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-48",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-48/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 48"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/47/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:39.374Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/47/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/47/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-48/",
+      "numero": 48,
+      "temporada": 1,
+      "nome": "Episódio 48",
+      "descricao": "Sep. 05, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/idLQyXYFZRpiuCiImjpTkEN4Hbh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 48 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/48/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-48/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-47",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-47/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 47"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-49",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-49/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 49"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/48/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:35.041Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/48/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/48/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-49/",
+      "numero": 49,
+      "temporada": 1,
+      "nome": "Episódio 49",
+      "descricao": "Sep. 12, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kxe8zsYpNc9g4SjAtyLzvxUbxIq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 49 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/49/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-49/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-48",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-48/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 48"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-50",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-50/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 50"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/49/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:30.820Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/49/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/49/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-50/",
+      "numero": 50,
+      "temporada": 1,
+      "nome": "Episódio 50",
+      "descricao": "Sep. 19, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pdOBnHd8Hif41Mo3EsiPappUouk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 1 Episodio 50 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/50/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-50/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-1-episodio-49",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-1-episodio-49/",
+          "nome": "Yumeiro Pâtissière 1 Episodio 49"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/1/50/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:26.648Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/1/50/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/1/50/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 03, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tbHzi3JrjkfM0nA5PkoqefoFdPO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 1 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-2",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-2/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:22.250Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 10, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/fctWMUPoa7aYMM0JmHx5nX7ob8T.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 2 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-1",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-1/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-3",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-3/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:18.104Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 17, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yHZAQYBbL6yVsSl7VCbD848wZfG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 3 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-2",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-2/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-4",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-4/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:13.998Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 24, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/s8OXcYhqHDKlX6PNi1aD58aBGRr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 4 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-3",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-3/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-5",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-5/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:09.786Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 31, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/4fb1YLGkmKeo9RkOMT19y9DcUsT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 5 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-4",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-4/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-6",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-6/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:05.459Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 07, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ihEFloustsGo1ZL8fvF8PELIIjD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 6 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-5",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-5/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-7",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-7/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:29:01.401Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 14, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ooFEPonNTCHOoUumhGnflHSs5I.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 7 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-6",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-6/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-8",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-8/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:28:57.309Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 21, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wu1t4epdeyolo4VGhblsJtW0L4M.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 8 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-7",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-7/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-9",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-9/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:28:53.153Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 28, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/A8PEzJxuh8lB8sHIvTz3fEXp8cd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 9 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-8",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-8/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-10",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-10/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:28:48.891Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 05, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bfjHv7tIKGD7kZNwxzuO5a8zycZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 10 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-9",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-9/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-11",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-11/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:28:44.810Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 12, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qz0be5OmZEU9SBHiUBna8VKVCYc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 11 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-10",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-10/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-12",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-12/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:28:40.656Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 19, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9CL9p2Mt3vw26lTgjGGrJ5U4ubj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 12 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-11",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-11/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-13",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-13/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:28:36.508Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 26, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/DBZScHdgIhXesBSf8TVtVphULf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yume-iro Patissiere: 2 Episodio 13 Online",
+        "animeSlug": "a/yumeiro-patissiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/yumeiro-patissiere-2-episodio-12",
+          "link": "https://meusanimes.blog/e/yumeiro-patissiere-2-episodio-12/",
+          "nome": "Yumeiro Pâtissière 2 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/45999/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:28:32.287Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/45999/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/45999/2/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 63,
+    "totalEpisodios": 63,
+    "midiasColetadas": 0,
+    "iframesColetados": 63,
+    "detalhesColetadosEm": "2026-10-22T23:28:24.714Z"
+  },
+  "titulo": "Yume-iro Patissiere",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wYO3e3MK2OcENzq1Yq55x49iQ1v.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2009",
+  "publicadoEm": "Oct. 04, 2009",
+  "url": "https://meusanimes.blog/a/yumeiro-patissiere/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/wYO3e3MK2OcENzq1Yq55x49iQ1v.jpg",
+  "temporadas": 2,
+  "descricao": "Ichigo Amano é uma garota de 14 anos que não tem nenhuma qualidade especial. Um dia, em um festival de doces, conhece Henri Lucas. Esse rapaz a recomenda entrar na Academia St. Marie, ao perceber que Ichigo têm um paladar muito aguçado para os doces. A Academia St. Marie é uma escola especializada em formar pâtissiers e pátissieres. Nesta escola, Ichigo conhece uma Espírito dos Doces chamada Vanilla, que se torna sua parceira e lhe dá lições de culinária. Ichigo também fará novos amigos patissiers e conhecerá novos Espíritos dos Doces. Assim começa as aventuras de Ichigo."
+}

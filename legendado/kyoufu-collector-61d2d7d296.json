@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kyoufu-collector",
+  "capturadoEm": "2026-10-22T09:44:15.410Z",
+  "atualizadoEm": "2026-10-22T12:38:56.118Z",
+  "catalogo": {
+    "slug": "a/kyoufu-collector",
+    "titulo": "Kyoufu Collector",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xgrdf7DfEL2lraPIYKTGUoydBXT.jpg",
+    "info": "Legendado • Oct. 10, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 10, 2026",
+    "url": "https://meusanimes.blog/a/kyoufu-collector/",
+    "postId": "100464"
+  },
+  "detalhes": {
+    "slug": "a/kyoufu-collector",
+    "titulo": "Kyoufu Collector",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xgrdf7DfEL2lraPIYKTGUoydBXT.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/xgrdf7DfEL2lraPIYKTGUoydBXT.jpg",
+    "sinopse": "A internet é cheia de creepypastas, relatos sobre criaturas misteriosas, histórias sobre atividades paranormais e desaparecimentos misteriosos. A maioria desses casos são apenas rumores e pegadinhas alimentados por trolls. No entanto, alguns azarados acabam descobrindo a dura verdade que algumas lendas são reais. Vários acabam condenados, porém o destino pode sorrir para eles se cruzarem o caminho com um certo garoto de capuz vermelho. Ele viaja de cidade em cidade e sempre aparece quando coisas estranhas acontecem. Ele é a luz na escuridão? Ou apenas a prova real que monstros realmente existem…?",
+    "generos": [
+      "Fantasia",
+      "Mistério",
+      "Sobrenatural",
+      "Terror"
+    ],
+    "score": "9",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 10, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/kyoufu-collector/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kyoufu-collector-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/v5IrcOiFVu7igoYyI1rtlQkNCPv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kyoufu Collector: 1 Episodio 1 Online",
+        "animeSlug": "a/kyoufu-collector",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307903/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kyoufu-collector-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kyoufu-collector-episodio-2",
+          "link": "https://meusanimes.blog/e/kyoufu-collector-episodio-2/",
+          "nome": "Kyoufu Collector Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307903/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:38:56.118Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307903/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307903/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kyoufu-collector-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/wGi3btOTfAo30Kua5cof4MTgwvz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kyoufu Collector: 1 Episodio 2 Online",
+        "animeSlug": "a/kyoufu-collector",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307903/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kyoufu-collector-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kyoufu-collector-episodio-1",
+          "link": "https://meusanimes.blog/e/kyoufu-collector-episodio-1/",
+          "nome": "Kyoufu Collector Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307903/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:38:52.357Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307903/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307903/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T12:38:48.457Z"
+  },
+  "titulo": "Kyoufu Collector",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xgrdf7DfEL2lraPIYKTGUoydBXT.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 10, 2026",
+  "url": "https://meusanimes.blog/a/kyoufu-collector/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/xgrdf7DfEL2lraPIYKTGUoydBXT.jpg",
+  "score": "9",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "A internet é cheia de creepypastas, relatos sobre criaturas misteriosas, histórias sobre atividades paranormais e desaparecimentos misteriosos. A maioria desses casos são apenas rumores e pegadinhas alimentados por trolls. No entanto, alguns azarados acabam descobrindo a dura verdade que algumas lendas são reais. Vários acabam condenados, porém o destino pode sorrir para eles se cruzarem o caminho com um certo garoto de capuz vermelho. Ele viaja de cidade em cidade e sempre aparece quando coisas estranhas acontecem. Ele é a luz na escuridão? Ou apenas a prova real que monstros realmente existem…?"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "keijo",
+  "capturadoEm": "2026-10-22T09:52:38.113Z",
+  "atualizadoEm": "2026-10-22T09:52:38.113Z",
+  "catalogo": {
+    "slug": "a/keijo",
+    "titulo": "Keijo!!!!!!!!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/t9zN06BwacKvyRe2Hi4zoTxd2FY.jpg",
+    "info": "Legendado • Oct. 06, 2016",
+    "audio": "Legendado",
+    "score": "6.641",
+    "ano": "2016",
+    "publicadoEm": "Oct. 06, 2016",
+    "url": "https://meusanimes.blog/a/keijo/",
+    "postId": "54295"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      34
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Keijo!!!!!!!!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/t9zN06BwacKvyRe2Hi4zoTxd2FY.jpg",
+  "score": "6.641",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 06, 2016",
+  "url": "https://meusanimes.blog/a/keijo/"
+}

@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "akudama-drive-dublado",
+  "capturadoEm": "2026-10-22T03:02:57.610Z",
+  "atualizadoEm": "2026-10-22T09:41:48.475Z",
+  "catalogo": {
+    "slug": "a/akudama-drive-dublado",
+    "titulo": "Akudama Drive Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg",
+    "info": "Dublado • Oct. 08, 2020",
+    "audio": "Dublado",
+    "score": "7.639",
+    "ano": "2020",
+    "publicadoEm": "Oct. 08, 2020",
+    "url": "https://meusanimes.blog/a/akudama-drive-dublado/",
+    "postId": "84546"
+  },
+  "detalhes": {
+    "slug": "a/akudama-drive-dublado",
+    "titulo": "Akudama Drive Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg",
+    "sinopse": "Há muito tempo, estourou uma guerra no Japão que colocou Kantou contra Kansai e dividiu o país. Kansai tornou-se dependente de Kantou, mas lentamente a polícia e o governo começaram a perder o controle de Kansai para criminosos conhecidos como Akudama.",
+    "generos": [
+      "Ação",
+      "Crime",
+      "Ficção científica",
+      "Mistério"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2020",
+    "publicadoEm": "Oct. 08, 2020",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/akudama-drive-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 08, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/6REAocUKM1zk3BnIblKyEFp5l7M.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-2/",
+          "nome": "Akudama Drive Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:49.001Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 15, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/yZ0nodskc5olcxTzU2PaRyC9AyL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-1/",
+          "nome": "Akudama Drive Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-3/",
+          "nome": "Akudama Drive Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:44.758Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 22, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/iV9vx7Tr9NcFZdV6itaqVA5YcbC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-2/",
+          "nome": "Akudama Drive Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-4/",
+          "nome": "Akudama Drive Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:40.595Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 29, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/aEcwtt2sevzH4eHBv60DN5DuFrc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-3/",
+          "nome": "Akudama Drive Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-5/",
+          "nome": "Akudama Drive Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:36.493Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 12, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1MGDb8TlZRdMjJxMjlyHG2GUtVx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-4/",
+          "nome": "Akudama Drive Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-6/",
+          "nome": "Akudama Drive Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:32.336Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 05, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/iBJwnHvNsL1gOpcK36sZ1RdZ77q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-5/",
+          "nome": "Akudama Drive Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-7/",
+          "nome": "Akudama Drive Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:28.163Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 19, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wS4DiHAMa5LbErD9uQHkvGsxzwa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-6/",
+          "nome": "Akudama Drive Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-8/",
+          "nome": "Akudama Drive Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:24.029Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3u8VxaQ8FyTasqLvizkLh8NcCEo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-7/",
+          "nome": "Akudama Drive Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-9/",
+          "nome": "Akudama Drive Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:19.933Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 03, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/zj1WniDvLhlNyFM0lncrL5ipOFC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-8/",
+          "nome": "Akudama Drive Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-10/",
+          "nome": "Akudama Drive Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:15.637Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 10, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/fGuYByAnyoQrJPbzb28qhidiUvO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-9/",
+          "nome": "Akudama Drive Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-11/",
+          "nome": "Akudama Drive Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:11.472Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 17, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/baURnstoJbyn5EFBx95QeZxhMO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-10/",
+          "nome": "Akudama Drive Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-12/",
+          "nome": "Akudama Drive Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:07.332Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 24, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/roqdBIqGxvbXqEdNoKmQ5AqOPzw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Akudama Drive Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/akudama-drive-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/akudama-drive-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/akudama-drive-dublado-1-episodio-11/",
+          "nome": "Akudama Drive Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1004361/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:03:03.169Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1004361/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1004361/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      10
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T03:02:57.610Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Akudama Drive Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg",
+  "score": "7.639",
+  "audio": "Dublado",
+  "ano": "2020",
+  "publicadoEm": "Oct. 08, 2020",
+  "url": "https://meusanimes.blog/a/akudama-drive-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg",
+  "temporadas": 1,
+  "descricao": "Há muito tempo, estourou uma guerra no Japão que colocou Kantou contra Kansai e dividiu o país. Kansai tornou-se dependente de Kantou, mas lentamente a polícia e o governo começaram a perder o controle de Kansai para criminosos conhecidos como Akudama."
+}

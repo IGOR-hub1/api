@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "star-wars-visions-kyuuninme-no-jedi-dublado",
+  "capturadoEm": "2026-10-21T22:59:26.509Z",
+  "atualizadoEm": "2026-10-22T09:40:36.402Z",
+  "catalogo": {
+    "slug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+    "titulo": "Star Wars: Visions – Kyuuninme no Jedi Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/2zA4K8bAywA0gcMHHF8r0Fdgm8C.jpg",
+    "info": "Dublado • Aug. 05, 2026",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Aug. 05, 2026",
+    "url": "https://meusanimes.blog/a/star-wars-visions-kyuuninme-no-jedi-dublado/",
+    "postId": "94554"
+  },
+  "detalhes": {
+    "slug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+    "titulo": "Star Wars: Visions – Kyuuninme no Jedi Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/2zA4K8bAywA0gcMHHF8r0Fdgm8C.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/2zA4K8bAywA0gcMHHF8r0Fdgm8C.jpg",
+    "sinopse": "Kara e sua equipe heterogenia Jedi partem em busca de mais Jedi dignos para lutar contra um senhor da guerra cada vez mais poderoso.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Aug. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/star-wars-visions-kyuuninme-no-jedi-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/6MBscoeGBPcZixURFMsdQh9JVHJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Star Wars: Visions – Kyuuninme no Jedi Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-2/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/289324/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:59:59.027Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/289324/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/aJ51AheYEPt8ymfTaeZbJOo0NOl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Star Wars: Visions – Kyuuninme no Jedi Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-1/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-3/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/289324/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:59:55.039Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/289324/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/djiRfI0PEaonZncbasM0xujsJK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Star Wars: Visions – Kyuuninme no Jedi Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-2/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-4/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/289324/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:59:50.969Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/289324/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/2XFx9UmtyL2HtMnJ54qnoD4MnHm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Star Wars: Visions – Kyuuninme no Jedi Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-3/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-5/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/289324/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:59:46.823Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/289324/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/pneXqcJ57U8F78yG09jYz39TIZE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Star Wars: Visions – Kyuuninme no Jedi Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-4/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-6/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/289324/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:59:42.704Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/289324/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/vJ8uDzRE2JayA6RLfQnd310frks.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Star Wars: Visions – Kyuuninme no Jedi Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-5/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-7/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/289324/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:59:38.709Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/289324/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/dMmJGQWWga2t3gig6cQ3J5CURwH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Star Wars: Visions – Kyuuninme no Jedi Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-6/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-8/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/289324/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:59:34.640Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/289324/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/kUUVenRHodT8ekGsA70yMVGGooH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Star Wars: Visions – Kyuuninme no Jedi Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/star-wars-visions-kyuuninme-no-jedi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/star-wars-visions-kyuuninme-no-jedi-dublado-episodio-7/",
+          "nome": "Star Wars: Visions – Kyuuninme no Jedi Dublado Episodio 7"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/289324/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:59:30.635Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/289324/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/289324/1/8/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 8,
+    "totalEpisodios": 8,
+    "detalhesColetadosEm": "2026-10-21T22:59:26.509Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 8
+  },
+  "titulo": "Star Wars: Visions – Kyuuninme no Jedi Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/2zA4K8bAywA0gcMHHF8r0Fdgm8C.jpg",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Aug. 05, 2026",
+  "url": "https://meusanimes.blog/a/star-wars-visions-kyuuninme-no-jedi-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/2zA4K8bAywA0gcMHHF8r0Fdgm8C.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Kara e sua equipe heterogenia Jedi partem em busca de mais Jedi dignos para lutar contra um senhor da guerra cada vez mais poderoso."
+}

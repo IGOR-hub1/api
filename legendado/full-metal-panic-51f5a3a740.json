@@ -1,0 +1,1926 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "full-metal-panic",
+  "capturadoEm": "2026-10-22T09:48:27.163Z",
+  "atualizadoEm": "2026-10-22T23:37:19.979Z",
+  "catalogo": {
+    "slug": "a/full-metal-panic",
+    "titulo": "Full Metal Panic",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yBKI75uzUbtkL2gmNxl39uv5jvm.jpg",
+    "info": "Legendado • Jan. 08, 2002",
+    "audio": "Legendado",
+    "score": "7",
+    "ano": "2002",
+    "publicadoEm": "Jan. 08, 2002",
+    "url": "https://meusanimes.blog/a/full-metal-panic/",
+    "postId": "80281"
+  },
+  "detalhes": {
+    "slug": "a/full-metal-panic",
+    "titulo": "Full Metal Panic",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yBKI75uzUbtkL2gmNxl39uv5jvm.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/yBKI75uzUbtkL2gmNxl39uv5jvm.jpg",
+    "sinopse": "Sagara Sousuke é um militar que trabalha na organização secreta mithril, cuja nova missão é proteger e observar uma garota colegial, ela é Kaname Chidori. suspeita-se que ela seja uma “whispered”, uma pessoa detentora de conhecimentos extremamentes avançados, conhecimentos chamados de “black technology”. para o azar de Sagara, é necessário que ele acompanhe a chidori até mesmo na escola. por viver desde criança em meio a guerras, Sousuke não está nem um pouco acostumado ao estilo de vida japonês e a relacionar-se com as pessoas de uma maneira casual. resultado disso? muita confusão, e situações muito anormais e extremamente hilárias.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Drama",
+      "Escolar",
+      "Militar"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2002",
+    "publicadoEm": "Jan. 08, 2002",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/full-metal-panic/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 08, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ydsgdrTTJfDEOI2dPHogoBZUx3s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 1 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-2",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-2/",
+          "nome": "Full Metal Panic 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:37:19.979Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 15, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/h7rxP4yyFonIds0lANlFuYTCjTZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 2 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-1",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-1/",
+          "nome": "Full Metal Panic 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-3",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-3/",
+          "nome": "Full Metal Panic 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:37:15.264Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 22, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/k9N5DJZSuICaaoLOE32BkSfGePL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 3 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-2",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-2/",
+          "nome": "Full Metal Panic 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-4",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-4/",
+          "nome": "Full Metal Panic 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:37:11.142Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 29, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/d7ZdAncblSJcYwuoLEc8WYyrRJf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 4 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-3",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-3/",
+          "nome": "Full Metal Panic 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-5",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-5/",
+          "nome": "Full Metal Panic 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:37:06.976Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 05, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ufXNbChMD9R1aVbyykZ6XgqhYD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 5 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-4",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-4/",
+          "nome": "Full Metal Panic 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-6",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-6/",
+          "nome": "Full Metal Panic 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:37:02.802Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 12, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/itGi4wOIPfEoa21E2MOfJmfusBE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 6 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-5",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-5/",
+          "nome": "Full Metal Panic 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-7",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-7/",
+          "nome": "Full Metal Panic 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:58.551Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 19, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bzh0iHDhP1k6Wwov0ZnQWdZPh4r.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 7 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-6",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-6/",
+          "nome": "Full Metal Panic 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-8",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-8/",
+          "nome": "Full Metal Panic 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:54.358Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 26, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/n27nQ4FqqwkAHG22fx5kz40v7Hq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 8 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-7",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-7/",
+          "nome": "Full Metal Panic 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-9",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-9/",
+          "nome": "Full Metal Panic 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:50.197Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 05, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/nN67c2GVzbJfyzk9sG5YJrD8DsN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 9 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-8",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-8/",
+          "nome": "Full Metal Panic 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-10",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-10/",
+          "nome": "Full Metal Panic 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:46.015Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 12, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6kE94GXMK4KPNDVHG0uj0ibcX0I.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 10 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-9",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-9/",
+          "nome": "Full Metal Panic 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-11",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-11/",
+          "nome": "Full Metal Panic 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:41.776Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 19, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/aIFxuFld7Tchk8j99sZoGXQPD53.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 11 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-10",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-10/",
+          "nome": "Full Metal Panic 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-12",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-12/",
+          "nome": "Full Metal Panic 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:37.614Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 26, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hSP6YHGUMOanvlZXNuyYz5hubd5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 12 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-11",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-11/",
+          "nome": "Full Metal Panic 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-13",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-13/",
+          "nome": "Full Metal Panic 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:33.377Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Apr. 02, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cvbOwWbySq08wL3I4Sne7YL7Zah.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 13 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-12",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-12/",
+          "nome": "Full Metal Panic 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-14",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-14/",
+          "nome": "Full Metal Panic 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:29.069Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Apr. 09, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/zZLpdBAciDXdME5389KiQhSRmiD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 14 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-13",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-13/",
+          "nome": "Full Metal Panic 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-15",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-15/",
+          "nome": "Full Metal Panic 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:24.826Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Apr. 16, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5xr27txQ3OoOYRwL4U88qYc7yYp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 15 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-14",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-14/",
+          "nome": "Full Metal Panic 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-16",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-16/",
+          "nome": "Full Metal Panic 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:20.490Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Apr. 23, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/q1Kji9EuyVJbDDqv0SnkB3LJkQm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 16 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-15",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-15/",
+          "nome": "Full Metal Panic 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-17",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-17/",
+          "nome": "Full Metal Panic 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:16.081Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Apr. 30, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/4J0aHbPILRNB3RSzjF3WqmQxohI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 17 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-16",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-16/",
+          "nome": "Full Metal Panic 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-18",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-18/",
+          "nome": "Full Metal Panic 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:11.943Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "May. 07, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/m4JXxAummR98ovswDFCj4dxyrFC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 18 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-17",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-17/",
+          "nome": "Full Metal Panic 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-19",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-19/",
+          "nome": "Full Metal Panic 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:07.688Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "May. 14, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/iZSO5zOG63B4rZwhEkjQBl67TWQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 19 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-18",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-18/",
+          "nome": "Full Metal Panic 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-20",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-20/",
+          "nome": "Full Metal Panic 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:36:03.540Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "May. 21, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kGO0CnXMtt7BZuPiG4t9297qlNi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 20 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-19",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-19/",
+          "nome": "Full Metal Panic 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-21",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-21/",
+          "nome": "Full Metal Panic 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:59.276Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "May. 28, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/3sieGU5CKMQ71kTdqLzryZccBFK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 21 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-20",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-20/",
+          "nome": "Full Metal Panic 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-22",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-22/",
+          "nome": "Full Metal Panic 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:55.127Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Jun. 04, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uCBfeVGf5AOGRObJIsjK3DWxrSl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 22 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-21",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-21/",
+          "nome": "Full Metal Panic 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-23",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-23/",
+          "nome": "Full Metal Panic 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:50.961Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Jun. 11, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uFvznUcTdh9htj0tFIvBh2BFyjE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 23 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-22",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-22/",
+          "nome": "Full Metal Panic 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-24",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-24/",
+          "nome": "Full Metal Panic 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:46.740Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Jun. 18, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cKWwmT7gxC6fJOJ6ZsoCkFQCdoC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 24 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-23",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-23/",
+          "nome": "Full Metal Panic 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-25",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-25/",
+          "nome": "Full Metal Panic 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:42.605Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Jun. 25, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cKWwmT7gxC6fJOJ6ZsoCkFQCdoC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 1 Episodio 25 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-1-episodio-24",
+          "link": "https://meusanimes.blog/e/full-metal-panic-1-episodio-24/",
+          "nome": "Full Metal Panic 1 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:38.354Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Aug. 26, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/eLIK27Hklr2hdurDkVUutTmBea.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 1 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-2",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-2/",
+          "nome": "Full Metal Panic 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:34.190Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Sep. 02, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5GVH8ogozghJYK9z6815QblenHk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 2 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-1",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-1/",
+          "nome": "Full Metal Panic 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-3",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-3/",
+          "nome": "Full Metal Panic 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:30.014Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Sep. 09, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/zXFkp8y1uG5KL9RV6VaEmEDSMuT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 3 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-2",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-2/",
+          "nome": "Full Metal Panic 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-4",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-4/",
+          "nome": "Full Metal Panic 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:25.912Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Sep. 16, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/s7ky4EslzBrF3DmMSBkUymst0HK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 4 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-3",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-3/",
+          "nome": "Full Metal Panic 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-5",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-5/",
+          "nome": "Full Metal Panic 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:21.735Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 07, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xfPhwO8WZA1wc1xAJAVtH1QP2nF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 5 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-4",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-4/",
+          "nome": "Full Metal Panic 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-6",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-6/",
+          "nome": "Full Metal Panic 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:17.138Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Oct. 14, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cIHDb7vhyKu3aobieX5xVggwcTU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 6 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-5",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-5/",
+          "nome": "Full Metal Panic 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-7",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-7/",
+          "nome": "Full Metal Panic 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:12.960Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Oct. 21, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yehhiToHBqiQ6DxOhC7yN9GOgZv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 7 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-6",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-6/",
+          "nome": "Full Metal Panic 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-8",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-8/",
+          "nome": "Full Metal Panic 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:08.758Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Oct. 28, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/loIOR44XLvGJkQlQ4CvoitOSNCv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 8 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-7",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-7/",
+          "nome": "Full Metal Panic 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-9",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-9/",
+          "nome": "Full Metal Panic 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:35:04.600Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 04, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/iE4KoTgm1bJWCJnnR7OYzUW8WFV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 9 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-8",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-8/",
+          "nome": "Full Metal Panic 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-10",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-10/",
+          "nome": "Full Metal Panic 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:59.478Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Nov. 11, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7w5EQJW4hEOOni5KLgHuYwj1XqU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 10 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-9",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-9/",
+          "nome": "Full Metal Panic 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-11",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-11/",
+          "nome": "Full Metal Panic 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:55.341Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Nov. 18, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uhHVxCzc5efAudt4KJ7BXprRsPY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 2 Episodio 11 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-2-episodio-10",
+          "link": "https://meusanimes.blog/e/full-metal-panic-2-episodio-10/",
+          "nome": "Full Metal Panic 2 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:51.152Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 14, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ixzkszYHeWgss2tcbUX9M7rGkr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 1 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-2",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-2/",
+          "nome": "Full Metal Panic 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:46.988Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 21, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ieztkMCCWSN7BRZ8VTGxk5GclYM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 2 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-1",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-1/",
+          "nome": "Full Metal Panic 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-3",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-3/",
+          "nome": "Full Metal Panic 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:42.590Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 28, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6v1txdkSVeFoeix0hwFCA05trPP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 3 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-2",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-2/",
+          "nome": "Full Metal Panic 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-4",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-4/",
+          "nome": "Full Metal Panic 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:38.434Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 04, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/3tm5eZFXKLJoKP6YLWRJA8CfOT9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 4 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-3",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-3/",
+          "nome": "Full Metal Panic 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-5",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-5/",
+          "nome": "Full Metal Panic 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:34.181Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 11, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7zdb4NZIhmALGLSN4qQ9oW4CPI6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 5 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-4",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-4/",
+          "nome": "Full Metal Panic 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-6",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-6/",
+          "nome": "Full Metal Panic 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:30.001Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 18, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xt40gFYoFsKhbOM9RxsEDi9wefU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 6 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-5",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-5/",
+          "nome": "Full Metal Panic 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-7",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-7/",
+          "nome": "Full Metal Panic 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:25.862Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 25, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gIj9EAVuOr1AhUdTWe6JtTXFXYU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 7 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-6",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-6/",
+          "nome": "Full Metal Panic 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-8",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-8/",
+          "nome": "Full Metal Panic 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:21.615Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 15, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tfC8xpzqIDzGyDTAtLBucPJZj7U.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 8 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-7",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-7/",
+          "nome": "Full Metal Panic 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-9",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-9/",
+          "nome": "Full Metal Panic 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:17.313Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 22, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1aX4NxF3EmU4Fg9ztBUkImDV2kW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 9 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-8",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-8/",
+          "nome": "Full Metal Panic 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-10",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-10/",
+          "nome": "Full Metal Panic 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:13.203Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 29, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cSsd4xsAdQ2c7R3uePONM20iK0N.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 10 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-9",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-9/",
+          "nome": "Full Metal Panic 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-11",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-11/",
+          "nome": "Full Metal Panic 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:08.422Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Oct. 06, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/zX5S6KpWzLrJcgSowdY4kFRYfzM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 11 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-10",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-10/",
+          "nome": "Full Metal Panic 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-12",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-12/",
+          "nome": "Full Metal Panic 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:04.245Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Oct. 13, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vOIuNXfN8bdfVikMEp200ovUhyH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 12 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-11",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-11/",
+          "nome": "Full Metal Panic 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-13",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-13/",
+          "nome": "Full Metal Panic 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:34:00.046Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-3-episodio-13/",
+      "numero": 13,
+      "temporada": 3,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 20, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/4pIynVHUgpUtTWp56riwH2B7IAg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 3 Episodio 13 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-3-episodio-12",
+          "link": "https://meusanimes.blog/e/full-metal-panic-3-episodio-12/",
+          "nome": "Full Metal Panic 3 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/3/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:55.692Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/3/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/3/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 13, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/aWhF5lnzuyUdLguPOXfjDrsBicV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 1 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-2",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-2/",
+          "nome": "Full Metal Panic 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:51.076Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 20, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dksvpiPHT8qbhF986VB2mFkLiAN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 2 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-1",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-1/",
+          "nome": "Full Metal Panic 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-3",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-3/",
+          "nome": "Full Metal Panic 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:46.850Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 27, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rzJAvxKSNseOT4Ssr8vLjCOsdhN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 3 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-2",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-2/",
+          "nome": "Full Metal Panic 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-4",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-4/",
+          "nome": "Full Metal Panic 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:42.678Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "May. 04, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yTqcghaVaczHIS5npA1rXaTqeZr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 4 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-3",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-3/",
+          "nome": "Full Metal Panic 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-5",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-5/",
+          "nome": "Full Metal Panic 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:38.348Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "May. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yAMWRcW1pTZaQpAzOEwRAJrmTxb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 5 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-4",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-4/",
+          "nome": "Full Metal Panic 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-6",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-6/",
+          "nome": "Full Metal Panic 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:34.142Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "May. 25, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tXWviuqsRgymDKeOdisfQQpQPZK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 6 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-5",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-5/",
+          "nome": "Full Metal Panic 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-7",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-7/",
+          "nome": "Full Metal Panic 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:29.962Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "Jun. 01, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bHeMqxHI6mscTQrWL4e1s0lu0Dm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 7 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-6",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-6/",
+          "nome": "Full Metal Panic 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-8",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-8/",
+          "nome": "Full Metal Panic 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:25.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Jun. 08, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/AlxPHgvdMesDtcDt2uG9rZ9uU36.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 8 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-7",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-7/",
+          "nome": "Full Metal Panic 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-9",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-9/",
+          "nome": "Full Metal Panic 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:21.339Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 15, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/68shZAj0Ys64wHGFRoqzDirREkS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 9 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-8",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-8/",
+          "nome": "Full Metal Panic 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-10",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-10/",
+          "nome": "Full Metal Panic 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:17.109Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 22, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yFFXI29IivhohFXg4jW2I0IRpY6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 10 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-9",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-9/",
+          "nome": "Full Metal Panic 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-11",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-11/",
+          "nome": "Full Metal Panic 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:12.957Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Jul. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gV2Pr2HAlV4AhAqZ7gmpha4QllG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 11 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-10",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-10/",
+          "nome": "Full Metal Panic 4 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-12",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-12/",
+          "nome": "Full Metal Panic 4 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:08.561Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/full-metal-panic-4-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Jul. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hewLodnXcIytXy1z7hhAm56lpp3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Full Metal Panic: 4 Episodio 12 Online",
+        "animeSlug": "a/full-metal-panic",
+        "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/full-metal-panic-4-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/full-metal-panic-4-episodio-11",
+          "link": "https://meusanimes.blog/e/full-metal-panic-4-episodio-11/",
+          "nome": "Full Metal Panic 4 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/39379/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:33:04.020Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/39379/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/39379/4/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 61,
+    "totalEpisodios": 61,
+    "midiasColetadas": 0,
+    "iframesColetados": 61,
+    "detalhesColetadosEm": "2026-10-22T23:32:56.747Z"
+  },
+  "titulo": "Full Metal Panic",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yBKI75uzUbtkL2gmNxl39uv5jvm.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2002",
+  "publicadoEm": "Jan. 08, 2002",
+  "url": "https://meusanimes.blog/a/full-metal-panic/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/yBKI75uzUbtkL2gmNxl39uv5jvm.jpg",
+  "temporadas": 4,
+  "descricao": "Sagara Sousuke é um militar que trabalha na organização secreta mithril, cuja nova missão é proteger e observar uma garota colegial, ela é Kaname Chidori. suspeita-se que ela seja uma “whispered”, uma pessoa detentora de conhecimentos extremamentes avançados, conhecimentos chamados de “black technology”. para o azar de Sagara, é necessário que ele acompanhe a chidori até mesmo na escola. por viver desde criança em meio a guerras, Sousuke não está nem um pouco acostumado ao estilo de vida japonês e a relacionar-se com as pessoas de uma maneira casual. resultado disso? muita confusão, e situações muito anormais e extremamente hilárias."
+}

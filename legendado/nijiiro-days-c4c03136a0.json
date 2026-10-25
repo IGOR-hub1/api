@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "nijiiro-days",
+  "capturadoEm": "2026-10-22T09:52:57.858Z",
+  "atualizadoEm": "2026-10-22T09:52:57.858Z",
+  "catalogo": {
+    "slug": "a/nijiiro-days",
+    "titulo": "Nijiiro Days",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/o7rsIEMjXNMtukssbJnN2MVLJET.jpg",
+    "info": "Legendado • Jan. 10, 2016",
+    "audio": "Legendado",
+    "score": "5.975",
+    "ano": "2016",
+    "publicadoEm": "Jan. 10, 2016",
+    "url": "https://meusanimes.blog/a/nijiiro-days/",
+    "postId": "52869"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      36
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Nijiiro Days",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/o7rsIEMjXNMtukssbJnN2MVLJET.jpg",
+  "score": "5.975",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jan. 10, 2016",
+  "url": "https://meusanimes.blog/a/nijiiro-days/"
+}

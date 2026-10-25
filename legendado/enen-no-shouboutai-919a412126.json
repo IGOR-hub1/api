@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "enen-no-shouboutai",
+  "capturadoEm": "2026-10-22T09:49:56.407Z",
+  "atualizadoEm": "2026-10-22T09:49:56.407Z",
+  "catalogo": {
+    "slug": "a/enen-no-shouboutai",
+    "titulo": "Enen no Shouboutai",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/84qakVuGXs7m7bsrj4a5utuUruz.jpg",
+    "info": "Legendado • Jul. 05, 2019",
+    "audio": "Legendado",
+    "score": "8.4",
+    "ano": "2019",
+    "publicadoEm": "Jul. 05, 2019",
+    "url": "https://meusanimes.blog/a/enen-no-shouboutai/",
+    "postId": "84"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      22
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Enen no Shouboutai",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/84qakVuGXs7m7bsrj4a5utuUruz.jpg",
+  "score": "8.4",
+  "audio": "Legendado",
+  "ano": "2019",
+  "publicadoEm": "Jul. 05, 2019",
+  "url": "https://meusanimes.blog/a/enen-no-shouboutai/"
+}

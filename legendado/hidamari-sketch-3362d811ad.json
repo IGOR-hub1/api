@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hidamari-sketch",
+  "capturadoEm": "2026-10-22T09:49:11.879Z",
+  "atualizadoEm": "2026-10-22T09:49:11.879Z",
+  "catalogo": {
+    "slug": "a/hidamari-sketch",
+    "titulo": "Hidamari Sketch",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/g1vJD3al2XDY0OJpIgNXAEN966b.jpg",
+    "info": "Legendado • Jan. 12, 2007",
+    "audio": "Legendado",
+    "score": "6.1",
+    "ano": "2007",
+    "publicadoEm": "Jan. 12, 2007",
+    "url": "https://meusanimes.blog/a/hidamari-sketch/",
+    "postId": "71194"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Hidamari Sketch",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/g1vJD3al2XDY0OJpIgNXAEN966b.jpg",
+  "score": "6.1",
+  "audio": "Legendado",
+  "ano": "2007",
+  "publicadoEm": "Jan. 12, 2007",
+  "url": "https://meusanimes.blog/a/hidamari-sketch/"
+}

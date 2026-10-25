@@ -1,0 +1,1261 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "baki-o-campeao",
+  "capturadoEm": "2026-10-22T08:56:56.334Z",
+  "atualizadoEm": "2026-10-22T09:43:46.941Z",
+  "catalogo": {
+    "slug": "a/baki-o-campeao",
+    "titulo": "Baki – O Campeão",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/hTlJIKptJedaho7N42xCdX0dJyY.jpg",
+    "info": "Dublado • Jun. 26, 2018",
+    "audio": "Dublado",
+    "score": "8.109",
+    "ano": "2018",
+    "publicadoEm": "Jun. 26, 2018",
+    "url": "https://meusanimes.blog/a/baki-o-campeao/",
+    "postId": "37646"
+  },
+  "detalhes": {
+    "slug": "a/baki-o-campeao",
+    "titulo": "Baki – O Campeão",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/hTlJIKptJedaho7N42xCdX0dJyY.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/hTlJIKptJedaho7N42xCdX0dJyY.jpg",
+    "sinopse": "Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai, cinco condenados à pena de morte partem para Tóquio para acabar com ele.",
+    "generos": [
+      "Ação",
+      "Artes Marciais",
+      "Aventura",
+      "Crime",
+      "Drama",
+      "Shounen"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2018",
+    "publicadoEm": "Jun. 26, 2018",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/baki-o-campeao/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 26, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/l6WddxxlqumbwL6NiEBfKYs6iSq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 1 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/1/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-2",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-2/",
+          "nome": "Baki – O Campeão 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:39.986Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 03, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/dUFkV1kpyB7IM74vNHG1AwKjHtN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 2 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/2/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-1",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-1/",
+          "nome": "Baki – O Campeão 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-3",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-3/",
+          "nome": "Baki – O Campeão 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:35.891Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 10, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/uRillQqO7CuaKVs4ROGtG1x3fK8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 3 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/3/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-2",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-2/",
+          "nome": "Baki – O Campeão 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-4",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-4/",
+          "nome": "Baki – O Campeão 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:31.857Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/tjkY1weiJfyvuz81b5OonwoTdNA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 4 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/4/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-3",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-3/",
+          "nome": "Baki – O Campeão 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-5",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-5/",
+          "nome": "Baki – O Campeão 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:27.800Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 24, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/R9xvNrEsX2uckv7eSnu5Vrxb5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 5 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/5/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-4",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-4/",
+          "nome": "Baki – O Campeão 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-6",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-6/",
+          "nome": "Baki – O Campeão 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:23.719Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Jul. 30, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/7ZZqPKK7kXujcs9qUlbublCNbvl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 6 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/6/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-5",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-5/",
+          "nome": "Baki – O Campeão 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-7",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-7/",
+          "nome": "Baki – O Campeão 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:19.673Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 06, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/eiJYoc1sln6P9Xf0fNWeul1pZes.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 7 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/7/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-6",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-6/",
+          "nome": "Baki – O Campeão 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-8",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-8/",
+          "nome": "Baki – O Campeão 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:15.654Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 13, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/mlZ3rF7h7bugd0UhMqKqpvN6R2U.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 8 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/8/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-7",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-7/",
+          "nome": "Baki – O Campeão 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-9",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-9/",
+          "nome": "Baki – O Campeão 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:11.619Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 20, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/uFizeI9GiqNakuRmbT84IBY5HSU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 9 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/9/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-8",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-8/",
+          "nome": "Baki – O Campeão 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-10",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-10/",
+          "nome": "Baki – O Campeão 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:07.595Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Aug. 27, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/8fxOpv6uGtg8yK4KbV0ChYp370O.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 10 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/10/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-9",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-9/",
+          "nome": "Baki – O Campeão 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-11",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-11/",
+          "nome": "Baki – O Campeão 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:03.528Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 03, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5yLS5jJn5hMiQ1v4JX6wvZ46BLW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 11 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/11/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-10",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-10/",
+          "nome": "Baki – O Campeão 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-12",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-12/",
+          "nome": "Baki – O Campeão 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:59.460Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 10, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/md18dgS1waYOn3lwDvPs3yk0pbs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 12 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/12/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-11",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-11/",
+          "nome": "Baki – O Campeão 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-13",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-13/",
+          "nome": "Baki – O Campeão 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:55.372Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 17, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/wWtvvbW1wo1RHwTL7mRjfvwnsR1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 13 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/13/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-12",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-12/",
+          "nome": "Baki – O Campeão 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-14",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-14/",
+          "nome": "Baki – O Campeão 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:51.270Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Sep. 24, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/j4wGL2ST2xRN6ZGWo0z1gB0GQDP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 14 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/14/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-13",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-13/",
+          "nome": "Baki – O Campeão 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-15",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-15/",
+          "nome": "Baki – O Campeão 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:47.100Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 01, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rwS27SpPnirNoBVcCGwcXQPrG6S.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 15 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/15/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-14",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-14/",
+          "nome": "Baki – O Campeão 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-16",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-16/",
+          "nome": "Baki – O Campeão 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:43.059Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 08, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/nOwm3NiTcLVN2PadFGRCIOTH45X.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 16 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/16/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-15",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-15/",
+          "nome": "Baki – O Campeão 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-17",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-17/",
+          "nome": "Baki – O Campeão 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:38.535Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 15, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/4L1dZx7izEK4fJI2e1evVjwshxh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 17 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/17/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-16",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-16/",
+          "nome": "Baki – O Campeão 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-18",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-18/",
+          "nome": "Baki – O Campeão 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:34.481Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Oct. 22, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/4wByu0B9r7TD5d5bb4us5waethS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 18 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/18/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-17",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-17/",
+          "nome": "Baki – O Campeão 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-19",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-19/",
+          "nome": "Baki – O Campeão 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:30.376Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Oct. 29, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/z9A7QkGr1cHmOePMgXSFbNfUsi4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 19 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/19/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-18",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-18/",
+          "nome": "Baki – O Campeão 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-20",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-20/",
+          "nome": "Baki – O Campeão 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:26.342Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Nov. 05, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/807uYl8KsrDVHPAl7ikyPgav9Bc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 20 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/20/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-19",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-19/",
+          "nome": "Baki – O Campeão 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-21",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-21/",
+          "nome": "Baki – O Campeão 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:22.314Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Nov. 12, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ugKCv7gV5YPdlzP94dXAXjU5Xog.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 21 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/21/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-20",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-20/",
+          "nome": "Baki – O Campeão 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-22",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-22/",
+          "nome": "Baki – O Campeão 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:18.278Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Nov. 19, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/digqiX9YSm1mpiHTMNzLcoVGA3y.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 22 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/22/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-21",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-21/",
+          "nome": "Baki – O Campeão 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-23",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-23/",
+          "nome": "Baki – O Campeão 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:14.233Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Nov. 26, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/8CH6qFVKMImUgIhhHnAhPI7Dfha.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 23 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/23/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-22",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-22/",
+          "nome": "Baki – O Campeão 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-24",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-24/",
+          "nome": "Baki – O Campeão 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:10.149Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 03, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/iQtv4LUT3e9VgYWg9PdbYsKBOU4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 24 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-23",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-23/",
+          "nome": "Baki – O Campeão 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-25",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-25/",
+          "nome": "Baki – O Campeão 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:06.039Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Dec. 10, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rWp9aXWI3mKcWYlcM8cffYsHLtC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 25 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-24",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-24/",
+          "nome": "Baki – O Campeão 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-26",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-26/",
+          "nome": "Baki – O Campeão 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:58:01.993Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Dec. 17, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3699oIPV4zvjNiEd1GMPQjz0Xst.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 1 Episodio 26 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-1-episodio-25",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-1-episodio-25/",
+          "nome": "Baki – O Campeão 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:57.704Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/uDK2JjN1aEAEHSnR5CvD0MK4WjC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 1 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-2",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-2/",
+          "nome": "Baki – O Campeão 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:53.665Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/q3mkdo9z4lubIAaJl8OiTVJ9Mke.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 2 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-1",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-1/",
+          "nome": "Baki – O Campeão 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-3",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-3/",
+          "nome": "Baki – O Campeão 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:49.637Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/34RmY27b875qEj30DCncttP4nN4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 3 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-2",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-2/",
+          "nome": "Baki – O Campeão 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-4",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-4/",
+          "nome": "Baki – O Campeão 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:45.572Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/2rREONhrIQ9muLKtawpaTGpV84d.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 4 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-3",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-3/",
+          "nome": "Baki – O Campeão 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-5",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-5/",
+          "nome": "Baki – O Campeão 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:41.438Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/8Vo4cmPa9fa0HcgfnOz4clX16Zo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 5 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-4",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-4/",
+          "nome": "Baki – O Campeão 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-6",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-6/",
+          "nome": "Baki – O Campeão 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:37.408Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xDAsazFaUqfRsOdsWWP8wddkaCI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 6 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-5",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-5/",
+          "nome": "Baki – O Campeão 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-7",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-7/",
+          "nome": "Baki – O Campeão 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:33.345Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/aebpliGZ3hgFkAXPJ0G7ssIXvPL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 7 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-6",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-6/",
+          "nome": "Baki – O Campeão 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-8",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-8/",
+          "nome": "Baki – O Campeão 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:29.254Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/AdxeW1UD1DCOZ7cBPtuMXWpAAmg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 8 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-7",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-7/",
+          "nome": "Baki – O Campeão 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-9",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-9/",
+          "nome": "Baki – O Campeão 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:25.193Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/lB6ZkaRa10unknMepIW1Y9mhrhA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 9 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-8",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-8/",
+          "nome": "Baki – O Campeão 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-10",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-10/",
+          "nome": "Baki – O Campeão 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:21.119Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/x61NlMTjKIyxt9Wje10i73C5HVS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 10 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-9",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-9/",
+          "nome": "Baki – O Campeão 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-11",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-11/",
+          "nome": "Baki – O Campeão 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:17.073Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/8efvJiqwOFP5XYdTLRe0EOSmqDr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 11 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-10",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-10/",
+          "nome": "Baki – O Campeão 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-12",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-12/",
+          "nome": "Baki – O Campeão 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:13.012Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ruCF5486yiMVvA84Zje5CwCNd2u.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 12 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-11",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-11/",
+          "nome": "Baki – O Campeão 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-13",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-13/",
+          "nome": "Baki – O Campeão 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:08.903Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/uBEb3EE58jaFJ0HXw4QFsxPrKa6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Baki – O Campeão: 2 Episodio 13 Online",
+        "animeSlug": "a/baki-o-campeao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/baki-o-campeao-2-episodio-12",
+          "link": "https://meusanimes.blog/e/baki-o-campeao-2-episodio-12/",
+          "nome": "Baki – O Campeão 2 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/80623/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:57:04.840Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/80623/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/80623/2/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 39,
+    "totalEpisodios": 39,
+    "detalhesColetadosEm": "2026-10-22T08:56:56.334Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 39
+  },
+  "titulo": "Baki – O Campeão",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/hTlJIKptJedaho7N42xCdX0dJyY.jpg",
+  "score": "8.109",
+  "audio": "Dublado",
+  "ano": "2018",
+  "publicadoEm": "Jun. 26, 2018",
+  "url": "https://meusanimes.blog/a/baki-o-campeao/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/hTlJIKptJedaho7N42xCdX0dJyY.jpg",
+  "temporadas": 2,
+  "descricao": "Enquanto o campeão de artes marciais Baki Hanma treina duro para superar seu lendário pai, cinco condenados à pena de morte partem para Tóquio para acabar com ele."
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "jinsei",
+  "capturadoEm": "2026-10-22T09:51:10.694Z",
+  "atualizadoEm": "2026-10-22T09:51:10.694Z",
+  "catalogo": {
+    "slug": "a/jinsei",
+    "titulo": "Jinsei",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/tvIn9ygQPjIRWuCA5E8y0Si5uiA.jpg",
+    "info": "Legendado • Jul. 06, 2014",
+    "audio": "Legendado",
+    "score": "4.8",
+    "ano": "2014",
+    "publicadoEm": "Jul. 06, 2014",
+    "url": "https://meusanimes.blog/a/jinsei/",
+    "postId": "61160"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      28
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Jinsei",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/tvIn9ygQPjIRWuCA5E8y0Si5uiA.jpg",
+  "score": "4.8",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jul. 06, 2014",
+  "url": "https://meusanimes.blog/a/jinsei/"
+}

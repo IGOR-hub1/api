@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "beyond-the-boundary",
+  "capturadoEm": "2026-10-22T09:49:02.412Z",
+  "atualizadoEm": "2026-10-22T09:49:02.412Z",
+  "catalogo": {
+    "slug": "a/beyond-the-boundary",
+    "titulo": "Beyond the Boundary",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/h99ADMiMZ6h7f8g4Y07WEgle7hT.jpg",
+    "info": "Legendado • Oct. 02, 2013",
+    "audio": "Legendado",
+    "score": "8.138",
+    "ano": "2013",
+    "publicadoEm": "Oct. 02, 2013",
+    "url": "https://meusanimes.blog/a/beyond-the-boundary/",
+    "postId": "72451"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Beyond the Boundary",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/h99ADMiMZ6h7f8g4Y07WEgle7hT.jpg",
+  "score": "8.138",
+  "audio": "Legendado",
+  "ano": "2013",
+  "publicadoEm": "Oct. 02, 2013",
+  "url": "https://meusanimes.blog/a/beyond-the-boundary/"
+}

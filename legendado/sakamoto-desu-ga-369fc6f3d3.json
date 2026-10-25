@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sakamoto-desu-ga",
+  "capturadoEm": "2026-10-22T09:52:10.142Z",
+  "atualizadoEm": "2026-10-22T09:52:10.142Z",
+  "catalogo": {
+    "slug": "a/sakamoto-desu-ga",
+    "titulo": "Sakamoto Desu Ga?",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/kN8zbPCwUK8PYDMXI7AUfsB97ac.jpg",
+    "info": "Legendado • Apr. 08, 2016",
+    "audio": "Legendado",
+    "score": "7.548",
+    "ano": "2016",
+    "publicadoEm": "Apr. 08, 2016",
+    "url": "https://meusanimes.blog/a/sakamoto-desu-ga/",
+    "postId": "56141"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      32
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sakamoto Desu Ga?",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/kN8zbPCwUK8PYDMXI7AUfsB97ac.jpg",
+  "score": "7.548",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 08, 2016",
+  "url": "https://meusanimes.blog/a/sakamoto-desu-ga/"
+}

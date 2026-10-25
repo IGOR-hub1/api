@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mob-psycho-100",
+  "capturadoEm": "2026-10-22T09:52:41.517Z",
+  "atualizadoEm": "2026-10-22T09:52:41.517Z",
+  "catalogo": {
+    "slug": "a/mob-psycho-100",
+    "titulo": "Mob Psycho 100",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg",
+    "info": "Legendado • Jul. 12, 2016",
+    "audio": "Legendado",
+    "score": "8.489",
+    "ano": "2016",
+    "publicadoEm": "Jul. 12, 2016",
+    "url": "https://meusanimes.blog/a/mob-psycho-100/",
+    "postId": "54068"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      34
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Mob Psycho 100",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg",
+  "score": "8.489",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 12, 2016",
+  "url": "https://meusanimes.blog/a/mob-psycho-100/"
+}

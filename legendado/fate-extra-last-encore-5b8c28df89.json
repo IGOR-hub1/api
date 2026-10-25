@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "fate-extra-last-encore",
+  "capturadoEm": "2026-10-22T09:55:40.447Z",
+  "atualizadoEm": "2026-10-22T09:55:40.447Z",
+  "catalogo": {
+    "slug": "a/fate-extra-last-encore",
+    "titulo": "Fate/EXTRA Last Encore",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5qveZHKo8RatUbZDzgGG9QEj558.jpg",
+    "info": "Legendado • Jan. 27, 2018",
+    "audio": "Legendado",
+    "score": "7.271",
+    "ano": "2018",
+    "publicadoEm": "Jan. 27, 2018",
+    "url": "https://meusanimes.blog/a/fate-extra-last-encore/",
+    "postId": "36799"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      47
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Fate/EXTRA Last Encore",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5qveZHKo8RatUbZDzgGG9QEj558.jpg",
+  "score": "7.271",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jan. 27, 2018",
+  "url": "https://meusanimes.blog/a/fate-extra-last-encore/"
+}

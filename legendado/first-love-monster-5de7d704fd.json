@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "first-love-monster",
+  "capturadoEm": "2026-10-22T09:52:55.838Z",
+  "atualizadoEm": "2026-10-22T09:52:55.838Z",
+  "catalogo": {
+    "slug": "a/first-love-monster",
+    "titulo": "First Love Monster",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/e4YPn7YEY8RZ8qbeZzTJHaYIORu.jpg",
+    "info": "Legendado • Jul. 02, 2016",
+    "audio": "Legendado",
+    "score": "6.954",
+    "ano": "2016",
+    "publicadoEm": "Jul. 02, 2016",
+    "url": "https://meusanimes.blog/a/first-love-monster/",
+    "postId": "52978"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "First Love Monster",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/e4YPn7YEY8RZ8qbeZzTJHaYIORu.jpg",
+  "score": "6.954",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 02, 2016",
+  "url": "https://meusanimes.blog/a/first-love-monster/"
+}

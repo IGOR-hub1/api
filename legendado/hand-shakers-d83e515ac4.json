@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hand-shakers",
+  "capturadoEm": "2026-10-22T09:54:47.857Z",
+  "atualizadoEm": "2026-10-22T09:54:47.857Z",
+  "catalogo": {
+    "slug": "a/hand-shakers",
+    "titulo": "Hand Shakers",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/yOKIeM1JUOe6KD7eYk6woviI6D0.jpg",
+    "info": "Legendado • Jan. 11, 2017",
+    "audio": "Legendado",
+    "score": "5.5",
+    "ano": "2017",
+    "publicadoEm": "Jan. 11, 2017",
+    "url": "https://meusanimes.blog/a/hand-shakers/",
+    "postId": "40981"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      44
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Hand Shakers",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/yOKIeM1JUOe6KD7eYk6woviI6D0.jpg",
+  "score": "5.5",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jan. 11, 2017",
+  "url": "https://meusanimes.blog/a/hand-shakers/"
+}

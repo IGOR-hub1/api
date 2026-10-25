@@ -1,0 +1,1283 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "link-click",
+  "capturadoEm": "2026-10-22T09:45:54.861Z",
+  "atualizadoEm": "2026-10-22T17:23:03.399Z",
+  "catalogo": {
+    "slug": "a/link-click",
+    "titulo": "Link Click",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/au5LmnOXHIe2iUTPydG1QIZMD5P.jpg",
+    "info": "Legendado • Apr. 30, 2021",
+    "audio": "Legendado",
+    "score": "8.2",
+    "ano": "2021",
+    "publicadoEm": "Apr. 30, 2021",
+    "url": "https://meusanimes.blog/a/link-click/",
+    "postId": "16951"
+  },
+  "detalhes": {
+    "slug": "a/link-click",
+    "titulo": "Link Click",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/au5LmnOXHIe2iUTPydG1QIZMD5P.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/au5LmnOXHIe2iUTPydG1QIZMD5P.jpg",
+    "sinopse": "Link Click Online , Em uma metrópole moderna, há uma pequena loja chamada “Time Photo Studio”. Embora apenas alguns clientes venham visitá-lo, na verdade ele é administrado por Cheng Xiaoshi e Lu Guang, dois homens com poderes especiais. Eles cooperam e usam seus superpoderes para entrar nas fotos a fim de atender ao pedido do cliente. Porém, as coisas sempre fogem de seu controle…",
+    "generos": [
+      "Donghua",
+      "Drama",
+      "Mistério"
+    ],
+    "score": "8",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2021",
+    "publicadoEm": "Apr. 30, 2021",
+    "temporadas": 3,
+    "url": "https://meusanimes.blog/a/link-click/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 30, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/icUfSdcAqVPZq2Tmh4kg5z6CXYt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 1 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-2",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-2/",
+          "nome": "Link Click 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:23:03.399Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 30, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/6Z6zB98wuoWlp7ravt86LoKYZO2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 2 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-1",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-1/",
+          "nome": "Link Click 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-3",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-3/",
+          "nome": "Link Click 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:57.354Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "May. 07, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/q010fF2hxZ1CDq26cYfBNXS66C6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 3 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-2",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-2/",
+          "nome": "Link Click 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-4",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-4/",
+          "nome": "Link Click 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:53.196Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "May. 14, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5tsBmkQawTch8yFLFAegQ2qKVUI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 4 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-3",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-3/",
+          "nome": "Link Click 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-5",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-5/",
+          "nome": "Link Click 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:49.009Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 21, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/cmJtccseY6GU5ozR0nt6Mp5j0y6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 5 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-4",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-4/",
+          "nome": "Link Click 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-6",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-6/",
+          "nome": "Link Click 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:44.342Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Jun. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bpahkhKvkfDFNuglHjX5LIsYBi0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 6 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-5",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-5/",
+          "nome": "Link Click 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-7",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-7/",
+          "nome": "Link Click 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:40.221Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Jun. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7HyEa5AJyxxbKUPrY9Ey8pkHWgY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 7 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-6",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-6/",
+          "nome": "Link Click 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-8",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-8/",
+          "nome": "Link Click 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:35.623Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Jun. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8bwB55PbKq8A8MInwrtHIrpljXN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 8 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-7",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-7/",
+          "nome": "Link Click 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-9",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-9/",
+          "nome": "Link Click 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:31.493Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jLntnHS1996YZNGIwmxVFwO7ANd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 9 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-8",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-8/",
+          "nome": "Link Click 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-10",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-10/",
+          "nome": "Link Click 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:27.406Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jul. 02, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5WIoYAfp8sMRTmKovORRsYLilk9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 10 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-9",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-9/",
+          "nome": "Link Click 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-1-episodio-11",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-11/",
+          "nome": "Link Click 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:23.318Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jul. 09, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/iW4c0cYeVqorCOML4vkjqIoV4cM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 1 Episodio 11 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/link-click-1-episodio-10",
+          "link": "https://meusanimes.blog/e/link-click-1-episodio-10/",
+          "nome": "Link Click 1 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:18.684Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 14, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4rxBp7FIeVsTrpaZtHpqY0HmPCP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 1 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-2",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-2/",
+          "nome": "Link Click 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:14.542Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 14, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/66B9Cv26z2LEvmYGKDI4JGYKOJ5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 2 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-1",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-1/",
+          "nome": "Link Click 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-3",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-3/",
+          "nome": "Link Click 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:10.231Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/1i8x17fdN0CmcDKNNsgINOpMzEj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 3 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-2",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-2/",
+          "nome": "Link Click 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-4",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-4/",
+          "nome": "Link Click 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:06.038Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 28, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/c48ubAVVz95acOUhcAhN5FRkHEA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 4 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-3",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-3/",
+          "nome": "Link Click 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-5",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-5/",
+          "nome": "Link Click 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:22:01.847Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 04, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9AnhxkKaG9VyIMaf8Pv4WAMBNel.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 5 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-4",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-4/",
+          "nome": "Link Click 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-6",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-6/",
+          "nome": "Link Click 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:57.502Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 11, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/dxThjNSyzNF4YF3EsEl2xuMEyOq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 6 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-5",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-5/",
+          "nome": "Link Click 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-7",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-7/",
+          "nome": "Link Click 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:53.408Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 18, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/yhWxQxSeAKFsWW6q37a6CMfT3Rt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 7 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-6",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-6/",
+          "nome": "Link Click 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-8",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-8/",
+          "nome": "Link Click 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:48.847Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 25, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/sgEvvNcoa2Ka7IojNE3ly4PX2Le.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 8 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-7",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-7/",
+          "nome": "Link Click 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-9",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-9/",
+          "nome": "Link Click 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:44.760Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 01, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/z0WppFstDULXvJmKIGZTuby8Mxu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 9 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-8",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-8/",
+          "nome": "Link Click 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-10",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-10/",
+          "nome": "Link Click 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:40.647Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 08, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/g3HHkdQtfvVyIdVMSj5HXusRyWB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 10 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-9",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-9/",
+          "nome": "Link Click 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-11",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-11/",
+          "nome": "Link Click 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:36.589Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 15, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ttlj0MoImzXwtyz09xgOobgep6h.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 11 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-10",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-10/",
+          "nome": "Link Click 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-12",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-12/",
+          "nome": "Link Click 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:32.495Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 22, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4MiM5MFcssIaa2FyoCWFY96U7nS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 12 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-11",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-11/",
+          "nome": "Link Click 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-13",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-13/",
+          "nome": "Link Click 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:28.406Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 01, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5tsBmkQawTch8yFLFAegQ2qKVUI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 13 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-12",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-12/",
+          "nome": "Link Click 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-14",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-14/",
+          "nome": "Link Click 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:24.143Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 07, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bpahkhKvkfDFNuglHjX5LIsYBi0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 14 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-13",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-13/",
+          "nome": "Link Click 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-15",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-15/",
+          "nome": "Link Click 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:20.066Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 14, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8bwB55PbKq8A8MInwrtHIrpljXN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 15 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-14",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-14/",
+          "nome": "Link Click 2 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-16",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-16/",
+          "nome": "Link Click 2 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:15.928Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 21, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/iW4c0cYeVqorCOML4vkjqIoV4cM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 16 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-15",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-15/",
+          "nome": "Link Click 2 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-17",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-17/",
+          "nome": "Link Click 2 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:11.800Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Jan. 28, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/c48ubAVVz95acOUhcAhN5FRkHEA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 17 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-16",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-16/",
+          "nome": "Link Click 2 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-2-episodio-18",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-18/",
+          "nome": "Link Click 2 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:07.627Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-2-episodio-18/",
+      "numero": 18,
+      "temporada": 2,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 04, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/dxThjNSyzNF4YF3EsEl2xuMEyOq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 2 Episodio 18 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-2-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/link-click-2-episodio-17",
+          "link": "https://meusanimes.blog/e/link-click-2-episodio-17/",
+          "nome": "Link Click 2 Episodio 17"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/2/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:21:03.545Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/2/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/2/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Dec. 27, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/5GOTfVNbkf2LvntZFo0ZyPei7z3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 1 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-2",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-2/",
+          "nome": "Link Click 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:59.470Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 03, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/i3xaHbChxgW5P9GBtYwR6o016Oq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 2 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-1",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-1/",
+          "nome": "Link Click 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-3",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-3/",
+          "nome": "Link Click 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:55.142Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Aug. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/jEDO11g26w2bfcdyBRj9oEpClhU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 3 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-2",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-2/",
+          "nome": "Link Click 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-4",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-4/",
+          "nome": "Link Click 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:51.022Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 17, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/oND1N936VhQSIxxyVKwMc3sStBl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 4 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-3",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-3/",
+          "nome": "Link Click 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-5",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-5/",
+          "nome": "Link Click 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:46.943Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Jan. 24, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/7h5tBm4MfcPLFyJjowuQHD7GnIY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 5 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-4",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-4/",
+          "nome": "Link Click 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-6",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-6/",
+          "nome": "Link Click 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:42.851Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Sep. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/djrOYPY0JBsQWbKEwpHJi06EPVv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 6 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-5",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-5/",
+          "nome": "Link Click 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-7",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-7/",
+          "nome": "Link Click 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:38.769Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Sep. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/iE5bPKIbeHHS03VuJa13sOGrZTi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 7 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-6",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-6/",
+          "nome": "Link Click 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-8",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-8/",
+          "nome": "Link Click 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:34.550Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/gtCG6OItPDhfa79iNL2HWRuh5K5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 8 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-7",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-7/",
+          "nome": "Link Click 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-9",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-9/",
+          "nome": "Link Click 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:30.458Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Oct. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/dK8v4BM3Avad1l8DYPqKWl0dFER.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 9 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-8",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-8/",
+          "nome": "Link Click 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-10",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-10/",
+          "nome": "Link Click 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:26.364Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Oct. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/q1lZKyL54Iipzs6XcOrwcinTrnE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 10 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-9",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-9/",
+          "nome": "Link Click 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/link-click-3-episodio-11",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-11/",
+          "nome": "Link Click 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:22.023Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/link-click-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Oct. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/1kiZ6bDrLlIXOsTcARjrUmLhcjk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Link Click: 3 Episodio 11 Online",
+        "animeSlug": "a/link-click",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/link-click-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/link-click-3-episodio-10",
+          "link": "https://meusanimes.blog/e/link-click-3-episodio-10/",
+          "nome": "Link Click 3 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123542/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:20:17.785Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123542/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123542/3/11/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 40,
+    "totalEpisodios": 40,
+    "midiasColetadas": 0,
+    "iframesColetados": 40,
+    "detalhesColetadosEm": "2026-10-22T17:20:11.023Z"
+  },
+  "titulo": "Link Click",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/au5LmnOXHIe2iUTPydG1QIZMD5P.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2021",
+  "publicadoEm": "Apr. 30, 2021",
+  "url": "https://meusanimes.blog/a/link-click/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/au5LmnOXHIe2iUTPydG1QIZMD5P.jpg",
+  "status": "Em lançamento",
+  "temporadas": 3,
+  "descricao": "Link Click Online , Em uma metrópole moderna, há uma pequena loja chamada “Time Photo Studio”. Embora apenas alguns clientes venham visitá-lo, na verdade ele é administrado por Cheng Xiaoshi e Lu Guang, dois homens com poderes especiais. Eles cooperam e usam seus superpoderes para entrar nas fotos a fim de atender ao pedido do cliente. Porém, as coisas sempre fogem de seu controle…"
+}

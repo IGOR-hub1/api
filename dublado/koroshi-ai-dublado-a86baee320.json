@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "koroshi-ai-dublado",
+  "capturadoEm": "2026-10-21T22:34:42.261Z",
+  "atualizadoEm": "2026-10-22T09:40:29.404Z",
+  "catalogo": {
+    "slug": "a/koroshi-ai-dublado",
+    "titulo": "Koroshi Ai Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xSn1VQ8nvf7vH4qMh0k2FiJMrrv.jpg",
+    "info": "Dublado • Jan. 13, 2022",
+    "audio": "Dublado",
+    "score": "7.405",
+    "ano": "2022",
+    "publicadoEm": "Jan. 13, 2022",
+    "url": "https://meusanimes.blog/a/koroshi-ai-dublado/",
+    "postId": "95548"
+  },
+  "detalhes": {
+    "slug": "a/koroshi-ai-dublado",
+    "titulo": "Koroshi Ai Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xSn1VQ8nvf7vH4qMh0k2FiJMrrv.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/xSn1VQ8nvf7vH4qMh0k2FiJMrrv.jpg",
+    "sinopse": "A história acompanha Chateau, uma mulher que tem suas habilidades de assassina de aluguel colocadas a prova quando se encontra com Ryang-ha, um excêntrico homem que também trabalha com assassinatos. Acreditando que aquele era seu fim, Chateau se surpreende ao ouvir de Ryang-ha que ele quer apenas o seu número de contato. A partir de então, Ryang-ha passa a aparecer constantemente na frente de Chateau, dando inicio a uma complicada relação de amor e assassinatos.",
+    "generos": [
+      "Ação",
+      "Romance"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2022",
+    "publicadoEm": "Jan. 13, 2022",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/koroshi-ai-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 13, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bFIVIMlDaA8thsi17Y4dWJrDNco.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-2/",
+          "nome": "Koroshi Ai Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:35:31.809Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 20, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/a79BZxCOQqIt8TZbAcat384zec2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-1/",
+          "nome": "Koroshi Ai Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-3/",
+          "nome": "Koroshi Ai Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:35:27.573Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 27, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/dWG1XWJhuQg2naZAQnWVMzWVIbb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-2/",
+          "nome": "Koroshi Ai Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-4/",
+          "nome": "Koroshi Ai Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:35:23.512Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 03, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wWPcXYaJDwUdROgX4jGoAyRqyCT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-3/",
+          "nome": "Koroshi Ai Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-5/",
+          "nome": "Koroshi Ai Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:35:19.402Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 10, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4OHZs5iLyOiMw5u0roY2M4D35yo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-4/",
+          "nome": "Koroshi Ai Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-6/",
+          "nome": "Koroshi Ai Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:35:15.307Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 17, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jhKHszdBCTjUd2zwFmi2yrPX0P8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-5/",
+          "nome": "Koroshi Ai Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-7/",
+          "nome": "Koroshi Ai Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:35:11.215Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 24, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/puZdy9kAPOoOe1TciEESHpBPQXl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-6/",
+          "nome": "Koroshi Ai Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-8/",
+          "nome": "Koroshi Ai Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:35:07.094Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 03, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/lfDDillPhRpkeqXCNuNij33Sw3o.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-7/",
+          "nome": "Koroshi Ai Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-9/",
+          "nome": "Koroshi Ai Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:35:02.979Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 10, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/pTaPY47RQi9VFNSnzCkAWa1COlb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-8/",
+          "nome": "Koroshi Ai Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-10/",
+          "nome": "Koroshi Ai Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:34:58.951Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 17, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/lK6zMFZm9EUSgVqpAu4vnOVj0gJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-9/",
+          "nome": "Koroshi Ai Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-11/",
+          "nome": "Koroshi Ai Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:34:54.903Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 24, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/sDLl9RFLm2YDVAlixKfUdFz6dHC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-10/",
+          "nome": "Koroshi Ai Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-12/",
+          "nome": "Koroshi Ai Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:34:50.786Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 31, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9pgCnUL1vDH1dN9GFJYYc7ALTXJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Koroshi Ai Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/koroshi-ai-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/koroshi-ai-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/koroshi-ai-dublado-episodio-11/",
+          "nome": "Koroshi Ai Dublado Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1143961/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:34:46.644Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1143961/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1143961/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-21T22:34:42.261Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Koroshi Ai Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xSn1VQ8nvf7vH4qMh0k2FiJMrrv.jpg",
+  "score": "7.405",
+  "audio": "Dublado",
+  "ano": "2022",
+  "publicadoEm": "Jan. 13, 2022",
+  "url": "https://meusanimes.blog/a/koroshi-ai-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/xSn1VQ8nvf7vH4qMh0k2FiJMrrv.jpg",
+  "temporadas": 1,
+  "descricao": "A história acompanha Chateau, uma mulher que tem suas habilidades de assassina de aluguel colocadas a prova quando se encontra com Ryang-ha, um excêntrico homem que também trabalha com assassinatos. Acreditando que aquele era seu fim, Chateau se surpreende ao ouvir de Ryang-ha que ele quer apenas o seu número de contato. A partir de então, Ryang-ha passa a aparecer constantemente na frente de Chateau, dando inicio a uma complicada relação de amor e assassinatos."
+}

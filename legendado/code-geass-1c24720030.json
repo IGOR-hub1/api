@@ -1,0 +1,1601 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "code-geass",
+  "capturadoEm": "2026-10-22T09:47:56.014Z",
+  "atualizadoEm": "2026-10-22T22:08:47.106Z",
+  "catalogo": {
+    "slug": "a/code-geass",
+    "titulo": "Code Geass",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r2sbQjPgutBLyT2Jwoh2YY5ZYTo.jpg",
+    "info": "Legendado • Oct. 05, 2006",
+    "audio": "Legendado",
+    "score": "8.352",
+    "ano": "2006",
+    "publicadoEm": "Oct. 05, 2006",
+    "url": "https://meusanimes.blog/a/code-geass/",
+    "postId": "82026"
+  },
+  "detalhes": {
+    "slug": "a/code-geass",
+    "titulo": "Code Geass",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r2sbQjPgutBLyT2Jwoh2YY5ZYTo.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/r2sbQjPgutBLyT2Jwoh2YY5ZYTo.jpg",
+    "sinopse": "No ano de 2010 do Calendário Imperial, partes do mundo estão sob o jugo do Sacro Império Britânnico. Lelouch Lamperouge, um príncipe exilado de Britannia, encontra uma estranha garota chamada C.C. que lhe presenteia com um incrível e terrível poder – o Geass. Com esta potente habilidade, Lelouch é capaz de dobrar qualquer um aos seus desejos… Mas seria o poder do Geass uma bênção ou uma maldição?",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Ficção científica",
+      "Sobrenatural",
+      "Suspense"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2006",
+    "publicadoEm": "Oct. 05, 2006",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/code-geass/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 05, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7743zcmvllIdjT9xP3eGCJrkwpb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 1 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-2",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-2/",
+          "nome": "Code Geass 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:47.106Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 12, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/slXDfYleN9CpptEnk3rIZ1bW0jb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 2 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-1",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-1/",
+          "nome": "Code Geass 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-3",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-3/",
+          "nome": "Code Geass 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:42.964Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 19, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/iXyNONTe6vRsCmeEPFQ15LAw1fN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 3 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-2",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-2/",
+          "nome": "Code Geass 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-4",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-4/",
+          "nome": "Code Geass 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:38.760Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 26, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/1YfshRFqiioIAfo2thM0iHYp4lE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 4 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-3",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-3/",
+          "nome": "Code Geass 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-5",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-5/",
+          "nome": "Code Geass 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:34.489Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 02, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/x5Wx2DmNnx7PrVFaMnQGpket5cz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 5 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-4",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-4/",
+          "nome": "Code Geass 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-6",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-6/",
+          "nome": "Code Geass 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:30.348Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 09, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/kOVnpAgYzvE4nbsTfRr1Lq0GEWU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 6 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-5",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-5/",
+          "nome": "Code Geass 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-7",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-7/",
+          "nome": "Code Geass 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:26.204Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 16, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/yY4NhL6oMyvozFKWgKrR5WoPniP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 7 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-6",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-6/",
+          "nome": "Code Geass 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-8",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-8/",
+          "nome": "Code Geass 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:22.080Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 23, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/5Gt3v3hKTkH5ytbZdAJfuzXepbQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 8 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-7",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-7/",
+          "nome": "Code Geass 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-9",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-9/",
+          "nome": "Code Geass 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:17.995Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 07, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jaIpq2Fb6X41NqOE79JuKIrKTfa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 9 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-8",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-8/",
+          "nome": "Code Geass 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-10",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-10/",
+          "nome": "Code Geass 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:13.964Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 14, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xNtjHZk5iPes7l1GJ3iUzOjyVP0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 10 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-9",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-9/",
+          "nome": "Code Geass 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-11",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-11/",
+          "nome": "Code Geass 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:09.871Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 21, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zzca9NdYKuaRt1N0oGf9SfocOS8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 11 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-10",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-10/",
+          "nome": "Code Geass 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-12",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-12/",
+          "nome": "Code Geass 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:05.699Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jan. 04, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/51gv7uAUWM6McBO280KO4pplYZ3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 12 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-11",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-11/",
+          "nome": "Code Geass 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-13",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-13/",
+          "nome": "Code Geass 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:08:01.574Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 11, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fO1AnhafwAlvx0qeZSnH2ecGHLW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 13 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-12",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-12/",
+          "nome": "Code Geass 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-14",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-14/",
+          "nome": "Code Geass 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:57.523Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 18, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3m4AQqm5CZYb12AdQtCDh0oOf4C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 14 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-13",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-13/",
+          "nome": "Code Geass 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-15",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-15/",
+          "nome": "Code Geass 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:53.389Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 25, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/iWzBQtQqo0m0rAcSM97SXC5aSmI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 15 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-14",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-14/",
+          "nome": "Code Geass 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-16",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-16/",
+          "nome": "Code Geass 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:49.264Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Feb. 01, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/87q1x8uiuJOe8VUkJYgEjC9jx6p.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 16 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-15",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-15/",
+          "nome": "Code Geass 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-17",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-17/",
+          "nome": "Code Geass 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:45.123Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 08, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nayjMU2vW7a0Ktxfonb9EVv2DMS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 17 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-16",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-16/",
+          "nome": "Code Geass 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-18",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-18/",
+          "nome": "Code Geass 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:40.980Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 22, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7D5PwXEMXk9Q906RtApIrnS5ZWY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 18 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-17",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-17/",
+          "nome": "Code Geass 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-19",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-19/",
+          "nome": "Code Geass 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:36.858Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Mar. 01, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pH0iK1U0U2L88ztKCSpeSZmP7yp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 19 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-18",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-18/",
+          "nome": "Code Geass 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-20",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-20/",
+          "nome": "Code Geass 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:32.777Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Mar. 08, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/55MobtYAYtaSTHVHtrU2m5NBqIY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 20 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-19",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-19/",
+          "nome": "Code Geass 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-21",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-21/",
+          "nome": "Code Geass 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:28.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 15, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/4Zi4b8HEdwi1J5sXqgJ5Af9wMwn.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 21 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-20",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-20/",
+          "nome": "Code Geass 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-22",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-22/",
+          "nome": "Code Geass 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:24.596Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 22, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gVPmHFRD8LPblWfRjHJx1sfolt0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 22 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-21",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-21/",
+          "nome": "Code Geass 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-23",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-23/",
+          "nome": "Code Geass 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:20.561Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 29, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zTLuhiG4rzfGSSeTXpbaTTon9yn.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 23 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-22",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-22/",
+          "nome": "Code Geass 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-24",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-24/",
+          "nome": "Code Geass 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:16.358Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Jul. 28, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/iszwAEeiZwmLPi875TojXNYVttF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 24 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-23",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-23/",
+          "nome": "Code Geass 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-1-episodio-25",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-25/",
+          "nome": "Code Geass 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:12.294Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Jul. 28, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zdtl6hkKb1dac4PU53ijwrxu0sn.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 1 Episodio 25 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/code-geass-1-episodio-24",
+          "link": "https://meusanimes.blog/e/code-geass-1-episodio-24/",
+          "nome": "Code Geass 1 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:08.146Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 06, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/70suga2bp7o1gEm1NCWQKNtkjOQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 1 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-2",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-2/",
+          "nome": "Code Geass 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:07:04.022Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 13, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/sJ65CKrpSzQk37jd3OP8GAffHxL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 2 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-1",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-1/",
+          "nome": "Code Geass 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-3",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-3/",
+          "nome": "Code Geass 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:59.912Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 20, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/S3xdIwlR6skKEWQVpYRD2rvz0n.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 3 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-2",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-2/",
+          "nome": "Code Geass 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-4",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-4/",
+          "nome": "Code Geass 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:55.768Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 27, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/a3Z3omowGkXlQtJsCOnFILQN0l6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 4 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-3",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-3/",
+          "nome": "Code Geass 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-5",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-5/",
+          "nome": "Code Geass 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:51.722Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 04, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/iob4hKMosgeuCjzzyBncCVbhHN3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 5 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-4",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-4/",
+          "nome": "Code Geass 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-6",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-6/",
+          "nome": "Code Geass 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:47.560Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 11, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jm2Ncff2o01EHOT4bkQL79y8iD9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 6 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-5",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-5/",
+          "nome": "Code Geass 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-7",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-7/",
+          "nome": "Code Geass 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:43.448Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8jqNkkMmSsGN0n4I0gKBxgNnFMA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 7 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-6",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-6/",
+          "nome": "Code Geass 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-8",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-8/",
+          "nome": "Code Geass 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:39.337Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 25, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jqlcqauI4R7Iqt3IItDVskUXlu2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 8 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-7",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-7/",
+          "nome": "Code Geass 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-9",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-9/",
+          "nome": "Code Geass 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:35.200Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 08, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tog5XVKfQ9MWMCxuqr0uwMvIchi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 9 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-8",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-8/",
+          "nome": "Code Geass 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-10",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-10/",
+          "nome": "Code Geass 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:31.031Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 15, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/Nae8Zu6jwDceJv0pv43CC374nA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 10 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-9",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-9/",
+          "nome": "Code Geass 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-11",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-11/",
+          "nome": "Code Geass 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:26.390Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 22, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3KnFxTys27gsq9EBv4Ry3yZ5tY8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 11 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-10",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-10/",
+          "nome": "Code Geass 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-12",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-12/",
+          "nome": "Code Geass 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:22.298Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 29, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/6r65G5KRYI9ct3eHdUEg5TRzpBD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 12 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-11",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-11/",
+          "nome": "Code Geass 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-13",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-13/",
+          "nome": "Code Geass 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:18.200Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 06, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nYRDiqH4YTRTQbS4FxVsQ1UKAPR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 13 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-12",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-12/",
+          "nome": "Code Geass 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-14",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-14/",
+          "nome": "Code Geass 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:14.077Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 13, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/2dIe5hBqY8FqX7ZlbQ8zMY4m93w.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 14 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-13",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-13/",
+          "nome": "Code Geass 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-15",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-15/",
+          "nome": "Code Geass 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:09.917Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 20, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8ycfdZxumOiX3PfG3o09uIMPzTI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 15 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-14",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-14/",
+          "nome": "Code Geass 2 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-16",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-16/",
+          "nome": "Code Geass 2 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:05.869Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 27, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7xyK25qDuwigovOhMnUKPqQWwnm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 16 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-15",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-15/",
+          "nome": "Code Geass 2 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-17",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-17/",
+          "nome": "Code Geass 2 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:06:01.778Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 03, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zzsCaZUC75YBBSewl9vK0aclADN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 17 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-16",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-16/",
+          "nome": "Code Geass 2 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-18",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-18/",
+          "nome": "Code Geass 2 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:57.683Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-18/",
+      "numero": 18,
+      "temporada": 2,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 10, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/rEGGsiJj8lTdnMLV6yIuPu8o3Qu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 18 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-17",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-17/",
+          "nome": "Code Geass 2 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-19",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-19/",
+          "nome": "Code Geass 2 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:53.540Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-19/",
+      "numero": 19,
+      "temporada": 2,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 17, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/lj7jBh1aFFXO2PR4PWhY1FLkfuP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 19 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-18",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-18/",
+          "nome": "Code Geass 2 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-20",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-20/",
+          "nome": "Code Geass 2 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:49.383Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-20/",
+      "numero": 20,
+      "temporada": 2,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 24, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zmy6LHZpXdCkAALc3XGQkPn69RU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 20 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-19",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-19/",
+          "nome": "Code Geass 2 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-21",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-21/",
+          "nome": "Code Geass 2 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:44.804Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-21/",
+      "numero": 21,
+      "temporada": 2,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 31, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pMNGzGQTschnVxuGQ3rKGZO7U2m.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 21 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-20",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-20/",
+          "nome": "Code Geass 2 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-22",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-22/",
+          "nome": "Code Geass 2 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:40.588Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-22/",
+      "numero": 22,
+      "temporada": 2,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 07, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9cXd1gLuamBR3avfGGGLFownhGj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 22 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-21",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-21/",
+          "nome": "Code Geass 2 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-23",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-23/",
+          "nome": "Code Geass 2 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:36.386Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-23/",
+      "numero": 23,
+      "temporada": 2,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 14, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/uHzLURxZ097fZwC9Oto7npKx3Lk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 23 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-22",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-22/",
+          "nome": "Code Geass 2 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-24",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-24/",
+          "nome": "Code Geass 2 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:32.285Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-24/",
+      "numero": 24,
+      "temporada": 2,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 21, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/lq4NkzGgVdworhsZ6dypJA250pF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 24 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-23",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-23/",
+          "nome": "Code Geass 2 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/code-geass-2-episodio-25",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-25/",
+          "nome": "Code Geass 2 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:28.211Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/code-geass-2-episodio-25/",
+      "numero": 25,
+      "temporada": 2,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 28, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/4kKMHJ7fRW2aYgKusOh3tVnRCSI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Code Geass: 2 Episodio 25 Online",
+        "animeSlug": "a/code-geass",
+        "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/code-geass-2-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/code-geass-2-episodio-24",
+          "link": "https://meusanimes.blog/e/code-geass-2-episodio-24/",
+          "nome": "Code Geass 2 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/31724/2/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:24.091Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/31724/2/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/31724/2/25/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      13
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 50,
+    "totalEpisodios": 50,
+    "midiasColetadas": 0,
+    "iframesColetados": 50,
+    "detalhesColetadosEm": "2026-10-22T22:05:17.170Z"
+  },
+  "titulo": "Code Geass",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r2sbQjPgutBLyT2Jwoh2YY5ZYTo.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2006",
+  "publicadoEm": "Oct. 05, 2006",
+  "url": "https://meusanimes.blog/a/code-geass/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/r2sbQjPgutBLyT2Jwoh2YY5ZYTo.jpg",
+  "temporadas": 2,
+  "descricao": "No ano de 2010 do Calendário Imperial, partes do mundo estão sob o jugo do Sacro Império Britânnico. Lelouch Lamperouge, um príncipe exilado de Britannia, encontra uma estranha garota chamada C.C. que lhe presenteia com um incrível e terrível poder – o Geass. Com esta potente habilidade, Lelouch é capaz de dobrar qualquer um aos seus desejos… Mas seria o poder do Geass uma bênção ou uma maldição?"
+}

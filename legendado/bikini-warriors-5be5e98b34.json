@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "bikini-warriors",
+  "capturadoEm": "2026-10-22T09:51:34.524Z",
+  "atualizadoEm": "2026-10-22T09:51:34.524Z",
+  "catalogo": {
+    "slug": "a/bikini-warriors",
+    "titulo": "Bikini Warriors",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/5Rw670afDjPI99jUJ6pC61O4GqR.jpg",
+    "info": "Legendado • Jul. 08, 2015",
+    "audio": "Legendado",
+    "score": "5.3",
+    "ano": "2015",
+    "publicadoEm": "Jul. 08, 2015",
+    "url": "https://meusanimes.blog/a/bikini-warriors/",
+    "postId": "59333"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      29
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Bikini Warriors",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/5Rw670afDjPI99jUJ6pC61O4GqR.jpg",
+  "score": "5.3",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jul. 08, 2015",
+  "url": "https://meusanimes.blog/a/bikini-warriors/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "marchen-madchen",
+  "capturadoEm": "2026-10-22T09:55:41.812Z",
+  "atualizadoEm": "2026-10-22T09:55:41.812Z",
+  "catalogo": {
+    "slug": "a/marchen-madchen",
+    "titulo": "Marchen Madchen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/mtTJ1zlPQdEYVkdsag9NCkSZM1O.jpg",
+    "info": "Legendado • Jan. 11, 2018",
+    "audio": "Legendado",
+    "score": "4.9",
+    "ano": "2018",
+    "publicadoEm": "Jan. 11, 2018",
+    "url": "https://meusanimes.blog/a/marchen-madchen/",
+    "postId": "36656"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      47
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Marchen Madchen",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/mtTJ1zlPQdEYVkdsag9NCkSZM1O.jpg",
+  "score": "4.9",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jan. 11, 2018",
+  "url": "https://meusanimes.blog/a/marchen-madchen/"
+}

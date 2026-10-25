@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tetsuryou-meet-with-tetsudou-musume",
+  "capturadoEm": "2026-10-22T09:44:19.369Z",
+  "atualizadoEm": "2026-10-22T12:41:26.623Z",
+  "catalogo": {
+    "slug": "a/tetsuryou-meet-with-tetsudou-musume",
+    "titulo": "Tetsuryou! meet with Tetsudou Musume",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/15l8DngKk9k2RRve06sRNbzXRg4.jpg",
+    "info": "Legendado • Oct. 09, 2026",
+    "audio": "Legendado",
+    "score": "2",
+    "ano": "2026",
+    "publicadoEm": "Oct. 09, 2026",
+    "url": "https://meusanimes.blog/a/tetsuryou-meet-with-tetsudou-musume/",
+    "postId": "100367"
+  },
+  "detalhes": {
+    "slug": "a/tetsuryou-meet-with-tetsudou-musume",
+    "titulo": "Tetsuryou! meet with Tetsudou Musume",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/15l8DngKk9k2RRve06sRNbzXRg4.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/15l8DngKk9k2RRve06sRNbzXRg4.jpg",
+    "sinopse": "A série gira em torno de quatro estudantes universitárias que fazem parte do Clube de Viagens de Trem (conhecido como Tetsuryo), que viajam pelo Japão e testemunham a emoção da vida de uma mulher que trabalha nas ferrovias e é conhecida como Tetsudou Musume.",
+    "generos": [
+      "Comédia",
+      "Slice Of Life"
+    ],
+    "score": "5",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 09, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/tetsuryou-meet-with-tetsudou-musume/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsuryou-meet-with-tetsudou-musume-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/qdZa29qSzMpffOFnJM3jQcZJxBE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsuryou! meet with Tetsudou Musume: 1 Episodio 1 Online",
+        "animeSlug": "a/tetsuryou-meet-with-tetsudou-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302020/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsuryou-meet-with-tetsudou-musume-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tetsuryou-meet-with-tetsudou-musume-episodio-2",
+          "link": "https://meusanimes.blog/e/tetsuryou-meet-with-tetsudou-musume-episodio-2/",
+          "nome": "Tetsuryou! meet with Tetsudou Musume Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302020/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:41:26.623Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302020/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302020/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsuryou-meet-with-tetsudou-musume-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/acXPMX6K0kQFCytMqZjMp8orYQy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsuryou! meet with Tetsudou Musume: 1 Episodio 2 Online",
+        "animeSlug": "a/tetsuryou-meet-with-tetsudou-musume",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302020/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsuryou-meet-with-tetsudou-musume-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tetsuryou-meet-with-tetsudou-musume-episodio-1",
+          "link": "https://meusanimes.blog/e/tetsuryou-meet-with-tetsudou-musume-episodio-1/",
+          "nome": "Tetsuryou! meet with Tetsudou Musume Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302020/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:41:22.817Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302020/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302020/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T12:41:18.957Z"
+  },
+  "titulo": "Tetsuryou! meet with Tetsudou Musume",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/15l8DngKk9k2RRve06sRNbzXRg4.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 09, 2026",
+  "url": "https://meusanimes.blog/a/tetsuryou-meet-with-tetsudou-musume/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/15l8DngKk9k2RRve06sRNbzXRg4.jpg",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "A série gira em torno de quatro estudantes universitárias que fazem parte do Clube de Viagens de Trem (conhecido como Tetsuryo), que viajam pelo Japão e testemunham a emoção da vida de uma mulher que trabalha nas ferrovias e é conhecida como Tetsudou Musume."
+}

@@ -1,0 +1,1894 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "ascendance-of-a-bookworm",
+  "capturadoEm": "2026-10-22T09:48:06.190Z",
+  "atualizadoEm": "2026-10-22T22:34:15.984Z",
+  "catalogo": {
+    "slug": "a/ascendance-of-a-bookworm",
+    "titulo": "Ascendance of a Bookworm",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
+    "info": "Legendado • Oct. 03, 2019",
+    "audio": "Legendado",
+    "score": "8.1",
+    "ano": "2019",
+    "publicadoEm": "Oct. 03, 2019",
+    "url": "https://meusanimes.blog/a/ascendance-of-a-bookworm/",
+    "postId": "27977"
+  },
+  "detalhes": {
+    "slug": "a/ascendance-of-a-bookworm",
+    "titulo": "Ascendance of a Bookworm",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
+    "sinopse": "Ascendance of a Bookworm Online , Honzuki no Gekokujou, Motosu morre num acidente, pouco depois de realizar seu sonho de se tornar bibliotecária. Ao acordar, ela renasceu como Myne, filha de um pobre soldado em uma cidade com um rígido sistema de castas. Mas ela não se deixa incomodar: tudo de que ela precisa são livros. Contudo, neste mundo, livros são escassos e caros demais para uma filha de um pobre soldado. E assim ela decide: “Se não existem mais livros, eu mesma vou fazer os meus!” Myne não tem energia nem dinheiro, mas tem o conhecimento de todos os livros que leu em sua vida anterior. Será que Myne conseguirá fazer seus próprios livros?",
+    "generos": [
+      "Drama",
+      "Fantasia",
+      "Ficção científica",
+      "Slice Of Life"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2019",
+    "publicadoEm": "Oct. 03, 2019",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/ascendance-of-a-bookworm/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 03, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pjxGf8sZLiuy4GUAprUVtsh6RWn.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 1 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-2/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:34:15.984Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 10, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/dOWx8btKi98DZl2g3XEMnF6VYnZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 2 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-1",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-1/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-3/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:34:11.521Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 17, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5JT0aggJZZ9Wg3t3eid5EdQ2FBT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 3 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-2/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-4/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:34:06.832Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 24, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/eRK0x5InTFpwWFgNM0Z4Ly4qFmO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 4 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-3/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-5/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:34:02.313Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 31, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1BjyXB4Ng4eKKhcOqQMFgNs9dzY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 5 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-4/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-6/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:58.115Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 07, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/usSLBz99NRbEdwAGexTErrzpuN3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 6 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-5/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-7/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:53.748Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 14, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/hLypNVEhuZDzYxNbVL8ch9l9Bw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 7 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-6/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-8/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:49.477Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 21, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/t4CvbAjVbSHDEgBf9snGMrLRgVB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 8 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-7/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-9/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:45.295Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ncU3lgnaZ7Di8wp4BSaZTwDExdh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 9 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-8/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-10/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:40.885Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 05, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5Ri09noAc3KuO3MF7ujTwu1qcCx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 10 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-9/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-11/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:36.654Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 12, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/vwsH8KdpVlNlFxYgqtI2m5qFmp4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 11 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-10/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-12",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-12/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:32.519Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 19, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/rp45u4o2ZTl67VE5JZDLEeoK5hj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 12 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-11/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-13",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-13/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:28.271Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 26, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/glBfK8jJHEATVpMNo9XCOAAtPFf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 13 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-12",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-12/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-14",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-14/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:24.164Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Dec. 26, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/6oLI3kEjNfJFWV1Fr4fGYIBFISU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 1 Episodio 14 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-1-episodio-13",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-1-episodio-13/",
+          "nome": "Ascendance of a Bookworm 1 Episodio 13"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:19.784Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 05, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bgXecoATUV9grGBESiBBV6LhnDF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 1 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-2",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-2/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:15.615Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 12, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2P5gCJQvXs9Fv7bAzsuZOSljqkd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 2 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-1",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-1/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-3",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-3/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:11.217Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 19, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/9jtE9fs0jLhw5Ouf7fyBEr3anni.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 3 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-2",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-2/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-4",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-4/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:07.054Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/aSUTB2kJkE1d9Wequ3DSYKM7BNe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 4 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-3",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-3/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-5",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-5/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:33:02.627Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 03, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/7FaXozsGLPvFZTNmlZ1E083Apdg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 5 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-4",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-4/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-6",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-6/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:58.222Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 10, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/rSMzYBni8QizAx2V2CrDZnPRFum.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 6 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-5",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-5/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-7",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-7/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:53.878Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 17, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/kuHOustsR0N7o8JlSCxamZfI7rs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 7 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-6",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-6/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-8",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-8/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:49.451Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 24, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/9LjV6DcUfMJiDDpWH9ve4dptEbW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 8 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-7",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-7/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-9",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-9/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:45.232Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "May. 31, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/dH9cfKuBhBSRUBC71vaHwSTGDbj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 9 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-8",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-8/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-10",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-10/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:40.965Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 07, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/AbGh7mHBbKvpBRNbLXnezzEengA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 10 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-9",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-9/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-11",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-11/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:36.835Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 14, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2HhqISZ9kQPkuvfjZHyng7ukiOm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 11 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-10",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-10/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-12",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-12/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:32.509Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 21, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3WMcYzoyRQ1aTx0py1JsjxHEvA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 2 Episodio 12 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-2-episodio-11",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-2-episodio-11/",
+          "nome": "Ascendance of a Bookworm 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:28.345Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 12, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cQDAIjJ6uLxf1vtdpjKi8FoQDEB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 1 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-2",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-2/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:24.246Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 19, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/m2X5ZdVN3MlobaYag1UAw99ZNGV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 2 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-1",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-1/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-3",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-3/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:20.074Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 26, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/t755WHm6XBtV4VYmEUZa5BQA4ix.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 3 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-2",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-2/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-4",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-4/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:15.788Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "May. 03, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/f8hSuFitTLG48b7RRktZLy8sTMA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 4 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-3",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-3/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-5",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-5/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:11.635Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "May. 10, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/44Xt7HmZarx2oxJKHSOnCQU5iSg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 5 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-4",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-4/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-6",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-6/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:07.437Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "May. 17, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/lTZwwnqEITLc69KRNaxfB16iwfj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 6 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-5",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-5/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-7",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-7/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:32:03.235Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "May. 24, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cCTNLB9DvUM2hKoZobWhRR7qZYv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 7 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-6",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-6/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-8",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-8/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:59.061Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "May. 31, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/kwSblJCiOJY0KN4eJtqiNwOS53P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 8 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-7",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-7/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-9",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-9/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:54.903Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 07, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/AgHbmrjJm6NFI2RjJGmDeeGSJy7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 9 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-8",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-8/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-10",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-10/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:50.501Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 14, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ygc0gp4BMDInHirnVMbEFAHKkEZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 3 Episodio 10 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/ascendance-of-a-bookworm-3-episodio-9",
+          "link": "https://meusanimes.blog/e/ascendance-of-a-bookworm-3-episodio-9/",
+          "nome": "Ascendance of a Bookworm 3 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:46.332Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/s7lsHWkev400Yp9B42WtVf1rbDZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 1 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-2",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-2/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:42.200Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9X7NOOX450Qum5z7IspFuzmC8sg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 2 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-1",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-1/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-3",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-3/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:38.045Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Mar. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qkPWjOZW3rDtOKWKHNE0BvVZOzG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 3 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-2",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-2/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-4",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-4/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:33.856Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/f0OCnmGCFiJch3K2Aqp4TfbCyXp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 4 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-3",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-3/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-5",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-5/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:29.403Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "May. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/fEmVS8NEzGj4wM4aguhCKqarO7H.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 5 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-4",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-4/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-6",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-6/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:25.324Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "May. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/701XhCTcE0EyNoJyimNKa7SKeta.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 6 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-5",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-5/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-7",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-7/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:21.112Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "May. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/7OFv2LXGKvUZuHzUHat62Pw1Am3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 7 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-6",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-6/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-8",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-8/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:16.605Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/67YTiZPf4rCL4R1eHALsUMRSdlI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 8 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-7",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-7/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-9",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-9/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:12.158Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/Ai5jMAxEpUPPZJ5Jn2ZAoQv3Ai5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 9 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-8",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-8/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-10",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-10/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:07.629Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/qnH77Z0mqqqbB3j1sWgnTwVvVaO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 10 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-9",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-9/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-11",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-11/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:31:03.161Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/kbcAT7fbpr561cT3OLJWB4RkB9x.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 11 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-10",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-10/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-12",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-12/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:58.967Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/2lewhcLGbTDDV4pXDWX8z3khJsz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 12 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-11",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-11/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-13",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-13/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:54.850Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-13/",
+      "numero": 13,
+      "temporada": 4,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/hzAfMsfTyKpsdBXVDx4b2cV1sk0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 13 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-12",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-12/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-14",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-14/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:50.515Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-14/",
+      "numero": 14,
+      "temporada": 4,
+      "nome": "Episódio 14",
+      "descricao": "Aug. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/p4VQ3piggi70heNdNjVaAVXSE4b.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 14 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-13",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-13/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-15",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-15/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:46.392Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-15/",
+      "numero": 15,
+      "temporada": 4,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/cFs09jT4UaDvWEKVHt4ZHnU4tJy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 15 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-14",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-14/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-16",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-16/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:42.342Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-16/",
+      "numero": 16,
+      "temporada": 4,
+      "nome": "Episódio 16",
+      "descricao": "Aug. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/3HG4aV9j0HU7IJamAMfMM37gJ6B.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 16 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-15",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-15/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-17",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-17/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:38.167Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-17/",
+      "numero": 17,
+      "temporada": 4,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/XT1psr7dqPbPLblwZYWhFgSJs2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 17 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-16",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-16/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-18",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-18/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:34.026Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-18/",
+      "numero": 18,
+      "temporada": 4,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/kmskNJ5Uh1ExKAFIa1UcFBskA30.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 18 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-17",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-17/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-19",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-19/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:29.811Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-19/",
+      "numero": 19,
+      "temporada": 4,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/bkcBqOG9dXnNOaf6aeWIpq6WunI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 19 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-18",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-18/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-20",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-20/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:25.666Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-20/",
+      "numero": 20,
+      "temporada": 4,
+      "nome": "Episódio 20",
+      "descricao": "Sep. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/6oLI3kEjNfJFWV1Fr4fGYIBFISU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 20 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-19",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-19/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-21",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-21/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:21.525Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-21/",
+      "numero": 21,
+      "temporada": 4,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/oB816RspT58b4c5hqyCH7SAuexG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 21 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-20",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-20/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-22",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-22/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:17.159Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-22/",
+      "numero": 22,
+      "temporada": 4,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/p7QLGX0jWOjFtTSJWH1mafoQcCi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 22 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-21",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-21/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-23",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-23/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:12.937Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-23/",
+      "numero": 23,
+      "temporada": 4,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/ygc0gp4BMDInHirnVMbEFAHKkEZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 23 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-22",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-22/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-24",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-24/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:08.811Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-24/",
+      "numero": 24,
+      "temporada": 4,
+      "nome": "Episódio 24",
+      "descricao": "Oct. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/ygc0gp4BMDInHirnVMbEFAHKkEZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ascendance of a Bookworm: 4 Episodio 24 Online",
+        "animeSlug": "a/ascendance-of-a-bookworm",
+        "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/honzuki-no-gekokujou-4-episodio-23",
+          "link": "https://meusanimes.blog/e/honzuki-no-gekokujou-4-episodio-23/",
+          "nome": "Honzuki no Gekokujou 4 Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/91768/4/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:30:04.610Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/91768/4/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/91768/4/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      14
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 60,
+    "totalEpisodios": 60,
+    "midiasColetadas": 0,
+    "iframesColetados": 60,
+    "detalhesColetadosEm": "2026-10-22T22:29:57.049Z"
+  },
+  "titulo": "Ascendance of a Bookworm",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2019",
+  "publicadoEm": "Oct. 03, 2019",
+  "url": "https://meusanimes.blog/a/ascendance-of-a-bookworm/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
+  "temporadas": 4,
+  "descricao": "Ascendance of a Bookworm Online , Honzuki no Gekokujou, Motosu morre num acidente, pouco depois de realizar seu sonho de se tornar bibliotecária. Ao acordar, ela renasceu como Myne, filha de um pobre soldado em uma cidade com um rígido sistema de castas. Mas ela não se deixa incomodar: tudo de que ela precisa são livros. Contudo, neste mundo, livros são escassos e caros demais para uma filha de um pobre soldado. E assim ela decide: “Se não existem mais livros, eu mesma vou fazer os meus!” Myne não tem energia nem dinheiro, mas tem o conhecimento de todos os livros que leu em sua vida anterior. Será que Myne conseguirá fazer seus próprios livros?"
+}

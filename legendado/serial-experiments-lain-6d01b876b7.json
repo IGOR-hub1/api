@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "serial-experiments-lain",
+  "capturadoEm": "2026-10-22T09:49:30.023Z",
+  "atualizadoEm": "2026-10-22T09:49:30.023Z",
+  "catalogo": {
+    "slug": "a/serial-experiments-lain",
+    "titulo": "Serial Experiments Lain",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/ej3tcxv2YYVWy6WoOeWZTcrkiI8.jpg",
+    "info": "Legendado • Jul. 06, 1998",
+    "audio": "Legendado",
+    "score": "8.219",
+    "ano": "1998",
+    "publicadoEm": "Jul. 06, 1998",
+    "url": "https://meusanimes.blog/a/serial-experiments-lain/",
+    "postId": "69066"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Serial Experiments Lain",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/ej3tcxv2YYVWy6WoOeWZTcrkiI8.jpg",
+  "score": "8.219",
+  "audio": "Legendado",
+  "ano": "1998",
+  "publicadoEm": "Jul. 06, 1998",
+  "url": "https://meusanimes.blog/a/serial-experiments-lain/"
+}

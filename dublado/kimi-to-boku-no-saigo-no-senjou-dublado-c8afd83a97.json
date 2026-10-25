@@ -1,0 +1,794 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "kimi-to-boku-no-saigo-no-senjou-dublado",
+  "capturadoEm": "2026-10-21T23:03:46.568Z",
+  "atualizadoEm": "2026-10-22T09:40:39.620Z",
+  "catalogo": {
+    "slug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+    "titulo": "Kimi to Boku no Saigo no Senjou Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/7G2GyMyvEEBATCIYvwF8zH7uUnn.jpg",
+    "info": "Dublado • Oct. 04, 2020",
+    "audio": "Dublado",
+    "score": "8.3",
+    "ano": "2020",
+    "publicadoEm": "Oct. 04, 2020",
+    "url": "https://meusanimes.blog/a/kimi-to-boku-no-saigo-no-senjou-dublado/",
+    "postId": "94253"
+  },
+  "detalhes": {
+    "slug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+    "titulo": "Kimi to Boku no Saigo no Senjou Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/7G2GyMyvEEBATCIYvwF8zH7uUnn.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/7G2GyMyvEEBATCIYvwF8zH7uUnn.jpg",
+    "sinopse": "Dois inimigos de lados opostos de um conflito chegam a um acordo, o que os torna traidores de seus países e amantes devastados pela guerra!",
+    "generos": [
+      "Ação",
+      "Fantasia",
+      "Militar",
+      "Romance"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2020",
+    "publicadoEm": "Oct. 04, 2020",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/kimi-to-boku-no-saigo-no-senjou-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/76VAJhXMLpZiPSgrTSReCJ2JGd4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-2/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:05:26.220Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 11, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/i7yEw393EW2xLO7RqyWQUlQXC7p.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-1/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-3/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:05:21.994Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 18, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/eMqMnh8xDlNHtI2BwKr8pQuljxM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-2/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-4/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:05:17.655Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 25, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/7jKdBmVPNCXqmw2de7w50ptFLXo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-3/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-5/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:05:13.559Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 01, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/n4SWOyqdyzjm6IkMJFtI7hwGRag.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-4/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-6/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:05:09.411Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 08, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/evPBLAosVlYlxfxbj8TqRptFUGp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-5/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-7/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:05:05.316Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 15, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/dXcWdkqo545kYXXYe7Hdwh7Ijtv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-6/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-8/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:05:01.214Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 22, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/tOqlNflvpOjI9Y3unK2g6dgqeO3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-7/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-9/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:56.887Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 29, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/wunjDKVp92NhbqLO5pyTqwfGziP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-8/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-10/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:52.801Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 06, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/9IBf9BcWS82S6ormrE1TnS6woz8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-9/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-11/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:48.570Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 13, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/m3vBv92PrYsJ4Gl65hXtEgTXCXd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-10/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-12/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:44.547Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 20, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/Z8dboK9s6jJ7OzAruv2oRqMmv2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-1-episodio-11/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:40.221Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/wv2MT2A5irKNFa9cI8749wvZ30F.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-2/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:36.196Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 17, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/wBqBLN65rNlr9vwwedTwiqgD9IA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-1/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-3/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:32.120Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 24, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/zxHRyf85wE6X8zx0aI3L4nvVOkg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-2/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-4/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:28.104Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 31, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/tnnLXWbrpo8YAk9xKOBweOLr7Z8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-3/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-5/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:24.068Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 08, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/2zAjemtOnAYfurrmKgwKqIj0ubC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-4/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-6/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:19.959Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/7OA6IWFlkCh2DSN3Cay4lHkfRq6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-5/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-7/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:15.740Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 22, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/bnw4ixYvOErpFKsceJPM3ZLTukb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-6/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-8/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:11.480Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 29, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/r7sygZMIqAxDe1QjxXgmrvgY09u.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-7/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-9/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:07.273Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 05, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fqTgmKLto0KaCZWBPOlYNwxmgYb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-8/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-10/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:04:03.210Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 12, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7qWmcFGJuawkHHJYBSinEfz2Vpv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-9/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-11/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:03:59.118Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 19, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3w1I3HcjfbLcKj8s6ttPJKE4oJ4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-10/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-12/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:03:55.067Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 26, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/1f5fa1kFf7amhduHUGGXRtk5UI7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kimi to Boku no Saigo no Senjou Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/kimi-to-boku-no-saigo-no-senjou-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/kimi-to-boku-no-saigo-no-senjou-dublado-2-episodio-11/",
+          "nome": "Kimi to Boku no Saigo no Senjou Dublado 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1019721/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:03:51.065Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1019721/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1019721/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-21T23:03:46.568Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Kimi to Boku no Saigo no Senjou Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/7G2GyMyvEEBATCIYvwF8zH7uUnn.jpg",
+  "score": "8.3",
+  "audio": "Dublado",
+  "ano": "2020",
+  "publicadoEm": "Oct. 04, 2020",
+  "url": "https://meusanimes.blog/a/kimi-to-boku-no-saigo-no-senjou-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/7G2GyMyvEEBATCIYvwF8zH7uUnn.jpg",
+  "temporadas": 2,
+  "descricao": "Dois inimigos de lados opostos de um conflito chegam a um acordo, o que os torna traidores de seus países e amantes devastados pela guerra!"
+}

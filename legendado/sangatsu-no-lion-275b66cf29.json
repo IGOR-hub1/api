@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sangatsu-no-lion",
+  "capturadoEm": "2026-10-22T09:53:05.419Z",
+  "atualizadoEm": "2026-10-22T09:53:05.419Z",
+  "catalogo": {
+    "slug": "a/sangatsu-no-lion",
+    "titulo": "Sangatsu no Lion",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ufgAYwzv6N2JrOWwyAkoGKMlMbo.jpg",
+    "info": "Legendado • Oct. 08, 2016",
+    "audio": "Legendado",
+    "score": "7.984",
+    "ano": "2016",
+    "publicadoEm": "Oct. 08, 2016",
+    "url": "https://meusanimes.blog/a/sangatsu-no-lion/",
+    "postId": "52237"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      36
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sangatsu no Lion",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ufgAYwzv6N2JrOWwyAkoGKMlMbo.jpg",
+  "score": "7.984",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 08, 2016",
+  "url": "https://meusanimes.blog/a/sangatsu-no-lion/"
+}

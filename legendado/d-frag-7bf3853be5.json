@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "d-frag",
+  "capturadoEm": "2026-10-22T09:50:32.783Z",
+  "atualizadoEm": "2026-10-22T09:50:32.783Z",
+  "catalogo": {
+    "slug": "a/d-frag",
+    "titulo": "D-Frag!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/A9KViEDlmC6sD6GxKNIse3R18Qq.jpg",
+    "info": "Legendado • Jan. 07, 2014",
+    "audio": "Legendado",
+    "score": "6.8",
+    "ano": "2014",
+    "publicadoEm": "Jan. 07, 2014",
+    "url": "https://meusanimes.blog/a/d-frag/",
+    "postId": "64569"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      25
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "D-Frag!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/A9KViEDlmC6sD6GxKNIse3R18Qq.jpg",
+  "score": "6.8",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jan. 07, 2014",
+  "url": "https://meusanimes.blog/a/d-frag/"
+}

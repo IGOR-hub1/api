@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "release-that-witch",
+  "capturadoEm": "2026-10-22T09:48:44.150Z",
+  "atualizadoEm": "2026-10-22T09:48:44.150Z",
+  "catalogo": {
+    "slug": "a/release-that-witch",
+    "titulo": "Release That Witch",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/aALqEgghYorHOwR5pgeCq9YMrjj.jpg",
+    "info": "Legendado • Mar. 03, 2026",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2026",
+    "publicadoEm": "Mar. 03, 2026",
+    "url": "https://meusanimes.blog/a/release-that-witch/",
+    "postId": "75983"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Release That Witch",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/aALqEgghYorHOwR5pgeCq9YMrjj.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Mar. 03, 2026",
+  "url": "https://meusanimes.blog/a/release-that-witch/"
+}

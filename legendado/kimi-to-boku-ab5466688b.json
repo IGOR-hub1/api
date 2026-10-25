@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kimi-to-boku",
+  "capturadoEm": "2026-10-22T09:49:23.260Z",
+  "atualizadoEm": "2026-10-22T09:49:23.260Z",
+  "catalogo": {
+    "slug": "a/kimi-to-boku",
+    "titulo": "Kimi to Boku.",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/c6dZiBpK4N7FEvfvo5eSt8Xe5mX.jpg",
+    "info": "Legendado • Oct. 04, 2011",
+    "audio": "Legendado",
+    "score": "5.786",
+    "ano": "2011",
+    "publicadoEm": "Oct. 04, 2011",
+    "url": "https://meusanimes.blog/a/kimi-to-boku/",
+    "postId": "69997"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kimi to Boku.",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/c6dZiBpK4N7FEvfvo5eSt8Xe5mX.jpg",
+  "score": "5.786",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Oct. 04, 2011",
+  "url": "https://meusanimes.blog/a/kimi-to-boku/"
+}

@@ -1,0 +1,457 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "lazarus-dublado",
+  "capturadoEm": "2026-10-22T09:26:06.638Z",
+  "atualizadoEm": "2026-10-22T09:43:54.212Z",
+  "catalogo": {
+    "slug": "a/lazarus-dublado",
+    "titulo": "Lazarus Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/j5Tvg6cF4jM2nB9YrjQ3Jiq3PBn.jpg",
+    "info": "Dublado • Apr. 06, 2025",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Apr. 06, 2025",
+    "url": "https://meusanimes.blog/a/lazarus-dublado/",
+    "postId": "11992"
+  },
+  "detalhes": {
+    "slug": "a/lazarus-dublado",
+    "titulo": "Lazarus Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/j5Tvg6cF4jM2nB9YrjQ3Jiq3PBn.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/04/j5Tvg6cF4jM2nB9YrjQ3Jiq3PBn.jpg",
+    "sinopse": "Lazarus – Dublado: Ano 2052. Quando uma droga milagrosa se torna mortal, cabe a um grupo de foras da lei chamado Lazarus salvar o mundo – e eles têm apenas 30 dias!",
+    "generos": [
+      "Ficção científica"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Apr. 06, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/lazarus-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/msD8CqPajMRo3VtRGuh85ZNIPfc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-2/",
+          "nome": "Lazarus Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:27:01.188Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/zynWqQoUOVxnNE6KjJb2A5lygFu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-1/",
+          "nome": "Lazarus Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-3/",
+          "nome": "Lazarus Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:57.152Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/aYMR89Dnp6bNgiuVYj3zDekKWFW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-2/",
+          "nome": "Lazarus Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-4/",
+          "nome": "Lazarus Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:53.090Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/re6S4jvEQJdiOSlh3JychXOVbPA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-3/",
+          "nome": "Lazarus Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-5/",
+          "nome": "Lazarus Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:48.988Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 04, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/cPUUaww66P1UTrFAOJZ13V1L1RD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-4/",
+          "nome": "Lazarus Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-6/",
+          "nome": "Lazarus Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:44.954Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 11, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/y3D43IgXfWHgW3TWl5X6GvIbhuq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-5/",
+          "nome": "Lazarus Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-7/",
+          "nome": "Lazarus Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:40.881Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/1JBimgrWI5Ci7BYXUrECohqBZhE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-6/",
+          "nome": "Lazarus Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-8/",
+          "nome": "Lazarus Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:36.526Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 25, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/qi1xAmCotNXiIVyr0TUIzgQoJG5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-7/",
+          "nome": "Lazarus Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-9/",
+          "nome": "Lazarus Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:32.472Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 01, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fzpjOd7bYmwv5M6meehCoLo8sXG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-8/",
+          "nome": "Lazarus Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-10/",
+          "nome": "Lazarus Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:28.475Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hnSg0GBBGjAmGXN4BdDFtRji0kb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-9/",
+          "nome": "Lazarus Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-11/",
+          "nome": "Lazarus Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:24.200Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 15, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jtF3plQNpQDDwchqIzm5jgTDVd9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-10/",
+          "nome": "Lazarus Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-12/",
+          "nome": "Lazarus Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:20.136Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 22, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3OWmm55wacrI8WCgWt4Qtu2zpp7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-11/",
+          "nome": "Lazarus Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-13/",
+          "nome": "Lazarus Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:16.068Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 29, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/6vWeBjVK2MEQYHNkgjiRyQ98UwQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Lazarus Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/lazarus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/lazarus-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/lazarus-dublado-1-episodio-12/",
+          "nome": "Lazarus Dublado 1 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2310031/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:26:12.049Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2310031/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2310031/1/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 13,
+    "totalEpisodios": 13,
+    "detalhesColetadosEm": "2026-10-22T09:26:06.638Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 13
+  },
+  "titulo": "Lazarus Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/j5Tvg6cF4jM2nB9YrjQ3Jiq3PBn.jpg",
+  "audio": "Dublado",
+  "ano": "2025",
+  "publicadoEm": "Apr. 06, 2025",
+  "url": "https://meusanimes.blog/a/lazarus-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/04/j5Tvg6cF4jM2nB9YrjQ3Jiq3PBn.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Lazarus – Dublado: Ano 2052. Quando uma droga milagrosa se torna mortal, cabe a um grupo de foras da lei chamado Lazarus salvar o mundo – e eles têm apenas 30 dias!"
+}

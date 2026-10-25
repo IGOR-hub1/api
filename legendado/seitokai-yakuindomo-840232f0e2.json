@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "seitokai-yakuindomo",
+  "capturadoEm": "2026-10-22T09:48:54.856Z",
+  "atualizadoEm": "2026-10-22T09:48:54.856Z",
+  "catalogo": {
+    "slug": "a/seitokai-yakuindomo",
+    "titulo": "Seitokai Yakuindomo",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/fWZ05GUcRSlWX2Vu3tcl2CBilIp.jpg",
+    "info": "Legendado • Jul. 04, 2010",
+    "audio": "Legendado",
+    "score": "7",
+    "ano": "2010",
+    "publicadoEm": "Jul. 04, 2010",
+    "url": "https://meusanimes.blog/a/seitokai-yakuindomo/",
+    "postId": "73139"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Seitokai Yakuindomo",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/fWZ05GUcRSlWX2Vu3tcl2CBilIp.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2010",
+  "publicadoEm": "Jul. 04, 2010",
+  "url": "https://meusanimes.blog/a/seitokai-yakuindomo/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kokkoku",
+  "capturadoEm": "2026-10-22T09:55:34.943Z",
+  "atualizadoEm": "2026-10-22T09:55:34.943Z",
+  "catalogo": {
+    "slug": "a/kokkoku",
+    "titulo": "Kokkoku",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/jeJApvJOlhgDTqUwuxKhpEXJqMO.jpg",
+    "info": "Legendado • Jan. 08, 2018",
+    "audio": "Legendado",
+    "score": "6.98",
+    "ano": "2018",
+    "publicadoEm": "Jan. 08, 2018",
+    "url": "https://meusanimes.blog/a/kokkoku/",
+    "postId": "37154"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      47
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kokkoku",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/jeJApvJOlhgDTqUwuxKhpEXJqMO.jpg",
+  "score": "6.98",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jan. 08, 2018",
+  "url": "https://meusanimes.blog/a/kokkoku/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kemono-friends",
+  "capturadoEm": "2026-10-22T09:54:17.510Z",
+  "atualizadoEm": "2026-10-22T09:54:17.510Z",
+  "catalogo": {
+    "slug": "a/kemono-friends",
+    "titulo": "Kemono Friends",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3USBlySIKS6rrOAPgq48gHwjcyh.jpg",
+    "info": "Legendado • Jan. 11, 2017",
+    "audio": "Legendado",
+    "score": "4.6",
+    "ano": "2017",
+    "publicadoEm": "Jan. 11, 2017",
+    "url": "https://meusanimes.blog/a/kemono-friends/",
+    "postId": "43872"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      41
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kemono Friends",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3USBlySIKS6rrOAPgq48gHwjcyh.jpg",
+  "score": "4.6",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jan. 11, 2017",
+  "url": "https://meusanimes.blog/a/kemono-friends/"
+}

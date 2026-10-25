@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "durarara",
+  "capturadoEm": "2026-10-22T09:49:28.680Z",
+  "atualizadoEm": "2026-10-22T09:49:28.680Z",
+  "catalogo": {
+    "slug": "a/durarara",
+    "titulo": "Durarara!!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/eV227ZkWjjKhp9xrmY1rr9S8Kwg.jpg",
+    "info": "Legendado • Jan. 08, 2010",
+    "audio": "Legendado",
+    "score": "7.7",
+    "ano": "2010",
+    "publicadoEm": "Jan. 08, 2010",
+    "url": "https://meusanimes.blog/a/durarara/",
+    "postId": "69127"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Durarara!!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/eV227ZkWjjKhp9xrmY1rr9S8Kwg.jpg",
+  "score": "7.7",
+  "audio": "Legendado",
+  "ano": "2010",
+  "publicadoEm": "Jan. 08, 2010",
+  "url": "https://meusanimes.blog/a/durarara/"
+}

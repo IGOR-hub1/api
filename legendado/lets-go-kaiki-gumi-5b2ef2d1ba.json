@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "lets-go-kaiki-gumi",
+  "capturadoEm": "2026-10-22T09:46:24.798Z",
+  "atualizadoEm": "2026-10-22T18:46:35.037Z",
+  "catalogo": {
+    "slug": "a/lets-go-kaiki-gumi",
+    "titulo": "Let’s Go Kaiki-gumi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y.jpg",
+    "info": "Legendado • Jul. 05, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "url": "https://meusanimes.blog/a/lets-go-kaiki-gumi/",
+    "postId": "92493"
+  },
+  "detalhes": {
+    "slug": "a/lets-go-kaiki-gumi",
+    "titulo": "Let’s Go Kaiki-gumi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y.jpg",
+    "sinopse": "A história acompanha um protagonista sem nome que é seis vezes mais vulnerável a fenômenos espirituais do que o ser humano médio. Um dia, o protagonista encontra Mechako, uma garota misteriosa que comanda a Kaikgumi, uma organização que policia o comportamento de fantasmas e monstros que ameaçam os seres humanos, e, de alguma forma, ele acaba se envolvendo para ajudar a Kaikgumi a se restabelecer, resultando em todo tipo de eventos estranhos e travessuras assustadoras.",
+    "generos": [
+      "Comédia",
+      "Sobrenatural",
+      "Terror"
+    ],
+    "score": "8",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/lets-go-kaiki-gumi/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7Jj70z7H9qhW62H7KQm9D8TUMh3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 1 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-2",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-2/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:35.037Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/c3lMkM24XNP5ANm8nDmXLVPQhxa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 2 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-1",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-1/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-3",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-3/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:30.879Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/pBoW6XMlxCv3T2EBi7zAuLZsqJ9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 3 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-2",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-2/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-4",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-4/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:26.786Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7XbzMq8Roj5Eo8YeAfsngLhLCpe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 4 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-3",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-3/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-5",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-5/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:22.367Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/mRALwf15YHnSOaif8EYlv7qrHqj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 5 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-4",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-4/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-6",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-6/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:18.110Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/znnmVLI5yB65lTXb1ruBfWgi28b.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 6 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-5",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-5/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-7",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-7/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:13.991Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/mVZ5p3tFvc9iCh0pnPDWEaLyEbP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 7 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-6",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-6/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-8",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-8/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:09.870Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/82nBRYa8zWyMAqr0u38AzZq6ncH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 8 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-7",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-7/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-9",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-9/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:05.760Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/1K9bUv2jVG8afxCU4tBBE04quw5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 9 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-8",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-8/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-10",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-10/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:01.644Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/sZHeIHwISVJ4FoL7wVbDYyPxpED.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 10 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-9",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-9/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-11",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-11/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:45:57.427Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/umR8dnKXcZ32RLSuXcIXhGaxc1C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 11 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-10",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-10/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-12",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-12/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:45:53.332Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/wpjA2Mitc754UEbXaDsnNItz7C0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Let’s Go Kaiki-gumi: 1 Episodio 12 Online",
+        "animeSlug": "a/lets-go-kaiki-gumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/lets-go-kaiki-gumi-episodio-11",
+          "link": "https://meusanimes.blog/e/lets-go-kaiki-gumi-episodio-11/",
+          "nome": "Let’s Go Kaiki-gumi Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/302824/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:45:49.201Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/302824/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/302824/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T18:45:44.398Z"
+  },
+  "titulo": "Let’s Go Kaiki-gumi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 05, 2026",
+  "url": "https://meusanimes.blog/a/lets-go-kaiki-gumi/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/7Hr1zgpzUWdQ6EtE9sDrx7IRk7Y.jpg",
+  "score": "8",
+  "temporadas": 1,
+  "descricao": "A história acompanha um protagonista sem nome que é seis vezes mais vulnerável a fenômenos espirituais do que o ser humano médio. Um dia, o protagonista encontra Mechako, uma garota misteriosa que comanda a Kaikgumi, uma organização que policia o comportamento de fantasmas e monstros que ameaçam os seres humanos, e, de alguma forma, ele acaba se envolvendo para ajudar a Kaikgumi a se restabelecer, resultando em todo tipo de eventos estranhos e travessuras assustadoras."
+}

@@ -1,0 +1,864 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "kuromukuro-dublado",
+  "capturadoEm": "2026-10-22T04:41:17.915Z",
+  "atualizadoEm": "2026-10-22T09:42:25.596Z",
+  "catalogo": {
+    "slug": "a/kuromukuro-dublado",
+    "titulo": "Kuromukuro Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg",
+    "info": "Dublado • Apr. 07, 2016",
+    "audio": "Dublado",
+    "score": "6.378",
+    "ano": "2016",
+    "publicadoEm": "Apr. 07, 2016",
+    "url": "https://meusanimes.blog/a/kuromukuro-dublado/",
+    "postId": "77457"
+  },
+  "detalhes": {
+    "slug": "a/kuromukuro-dublado",
+    "titulo": "Kuromukuro Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/11/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg",
+    "sinopse": "Durante a construção original da barragem, um antigo artefato foi descoberto, e por isso o Instituto de Investigação de Kurobe das Nações Unidas foi criado. Intelectuais de todo o mundo reuniram-se para estudar o objeto, e os filhos destes pesquisadores frequentam a escola de ensino medio internacional do Monte Tate, incluindo a filha do chefe do instituto, Yukina Shirahane. A história começa quando um samurai solitário desperta mais uma vez.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Drama",
+      "Mistério"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2016",
+    "publicadoEm": "Apr. 07, 2016",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/kuromukuro-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 07, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/iTUDv5V7gJmIsEWAxLHycN4uUcR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-2/",
+          "nome": "Kuromukuro Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:43:09.178Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 14, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/fOCvExNBXWAMAOVaSEWPNm5kfdg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-1/",
+          "nome": "Kuromukuro Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-3/",
+          "nome": "Kuromukuro Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:43:05.006Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 21, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/wVhhnKxPAvGgErI9Db5uWSdGzIE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-2/",
+          "nome": "Kuromukuro Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-4/",
+          "nome": "Kuromukuro Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:43:00.892Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 28, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/yPSVgKpqIfqBogLh0XbU8oleCfC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-3/",
+          "nome": "Kuromukuro Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-5/",
+          "nome": "Kuromukuro Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:56.787Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 05, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/dMLIDWSUgItf7296hvQIkShs2Lc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-4/",
+          "nome": "Kuromukuro Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-6/",
+          "nome": "Kuromukuro Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:52.712Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 12, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/uhVwjz5f5RN2SlVV3C4z3g64E9q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-5/",
+          "nome": "Kuromukuro Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-7/",
+          "nome": "Kuromukuro Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:48.559Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 19, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ltkGtY2Ce60lGvbMfSBu3kHbFGx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-6/",
+          "nome": "Kuromukuro Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-8/",
+          "nome": "Kuromukuro Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:44.457Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 26, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ajwKoikQZDWa5WvkCbxsITz5qHD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-7/",
+          "nome": "Kuromukuro Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-9/",
+          "nome": "Kuromukuro Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:40.326Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 02, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ywv8DHpKGTh7qxXLsEYg54LiGjD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-8/",
+          "nome": "Kuromukuro Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-10/",
+          "nome": "Kuromukuro Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:36.128Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 02, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ywv8DHpKGTh7qxXLsEYg54LiGjD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-9/",
+          "nome": "Kuromukuro Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-11/",
+          "nome": "Kuromukuro Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:32.017Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 09, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/tRjQjeh4tyum3NBnPij4SFew399.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-10/",
+          "nome": "Kuromukuro Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-12/",
+          "nome": "Kuromukuro Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:27.744Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 16, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/muXLf2JDAco7RPpl9vAR1HQ9H1H.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-11/",
+          "nome": "Kuromukuro Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-13/",
+          "nome": "Kuromukuro Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:23.644Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 23, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/hl6aki00YwubXGbKqhtU7c9o3KW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-12/",
+          "nome": "Kuromukuro Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-14/",
+          "nome": "Kuromukuro Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:19.539Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 07, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/qjMbj5FH4xv4opA3kdyDFk0jsra.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-13/",
+          "nome": "Kuromukuro Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-15/",
+          "nome": "Kuromukuro Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:15.362Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 14, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/wLOkHgfAoe32X8FixLpfnKw9WOk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-14/",
+          "nome": "Kuromukuro Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-16/",
+          "nome": "Kuromukuro Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:11.224Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 21, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/9zNnzLnrOczzLdbkU8Oxr1Ienz7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-15/",
+          "nome": "Kuromukuro Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-17/",
+          "nome": "Kuromukuro Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:07.103Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 28, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/zXDqupI5A3FeA48BldvjLdD7xMP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-16/",
+          "nome": "Kuromukuro Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-18/",
+          "nome": "Kuromukuro Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:42:02.973Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 04, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/77D4rm7iqkPjjVt3i1DmaYK0sCE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-17/",
+          "nome": "Kuromukuro Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-19/",
+          "nome": "Kuromukuro Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:41:58.781Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 11, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/zcA25LqUWzBXp5BlbxKQ3usGTEy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-18/",
+          "nome": "Kuromukuro Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-20/",
+          "nome": "Kuromukuro Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:41:54.693Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 18, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/vQZw4QS2L1lUJk6upA4nuwUyhFK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-19/",
+          "nome": "Kuromukuro Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-21/",
+          "nome": "Kuromukuro Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:41:50.578Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 01, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/A5tCXiAw82cibaIk08w0Zp06otw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-20/",
+          "nome": "Kuromukuro Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-22/",
+          "nome": "Kuromukuro Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:41:46.436Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 01, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/A5tCXiAw82cibaIk08w0Zp06otw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-21/",
+          "nome": "Kuromukuro Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-23/",
+          "nome": "Kuromukuro Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:41:42.304Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 08, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/tziPYtRvI2V7VFcITkIj8D1Blz5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-22/",
+          "nome": "Kuromukuro Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-24/",
+          "nome": "Kuromukuro Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:41:38.182Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 15, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/yQq1HvRvYbNjv9qA7YccgrkEqd1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-23/",
+          "nome": "Kuromukuro Dublado 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-25/",
+          "nome": "Kuromukuro Dublado 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:41:34.061Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 22, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/cbeqQ8zyKXJ8Ui6HVLl3VbERt9P.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 25 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-24/",
+          "nome": "Kuromukuro Dublado 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-26",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-26/",
+          "nome": "Kuromukuro Dublado 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:41:29.656Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 29, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/x2NTJIuiou8ydNWPnyicO25H2R.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kuromukuro Dublado: 1 Episodio 26 Online",
+        "animeSlug": "a/kuromukuro-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/26/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/kuromukuro-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/kuromukuro-dublado-1-episodio-25/",
+          "nome": "Kuromukuro Dublado 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/660801/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:41:25.296Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/660801/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/660801/1/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      12
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 26,
+    "totalEpisodios": 26,
+    "detalhesColetadosEm": "2026-10-22T04:41:17.915Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 26
+  },
+  "titulo": "Kuromukuro Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg",
+  "score": "6.378",
+  "audio": "Dublado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 07, 2016",
+  "url": "https://meusanimes.blog/a/kuromukuro-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/11/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg",
+  "temporadas": 1,
+  "descricao": "Durante a construção original da barragem, um antigo artefato foi descoberto, e por isso o Instituto de Investigação de Kurobe das Nações Unidas foi criado. Intelectuais de todo o mundo reuniram-se para estudar o objeto, e os filhos destes pesquisadores frequentam a escola de ensino medio internacional do Monte Tate, incluindo a filha do chefe do instituto, Yukina Shirahane. A história começa quando um samurai solitário desperta mais uma vez."
+}

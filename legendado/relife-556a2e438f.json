@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "relife",
+  "capturadoEm": "2026-10-22T09:53:10.231Z",
+  "atualizadoEm": "2026-10-22T09:53:10.231Z",
+  "catalogo": {
+    "slug": "a/relife",
+    "titulo": "ReLIFE",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/rP8boa01am3AtVrD1pErCzM6EEg.jpg",
+    "info": "Legendado • Jul. 02, 2016",
+    "audio": "Legendado",
+    "score": "7.587",
+    "ano": "2016",
+    "publicadoEm": "Jul. 02, 2016",
+    "url": "https://meusanimes.blog/a/relife/",
+    "postId": "51674"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      36
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "ReLIFE",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/rP8boa01am3AtVrD1pErCzM6EEg.jpg",
+  "score": "7.587",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 02, 2016",
+  "url": "https://meusanimes.blog/a/relife/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "nanatsu-no-bitoku",
+  "capturadoEm": "2026-10-22T09:55:48.763Z",
+  "atualizadoEm": "2026-10-22T09:55:48.763Z",
+  "catalogo": {
+    "slug": "a/nanatsu-no-bitoku",
+    "titulo": "Nanatsu no Bitoku",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/dlbQKuZXyEdydVRvvlxuQJNmvSm.jpg",
+    "info": "Legendado • Jan. 27, 2018",
+    "audio": "Legendado",
+    "score": "7.6",
+    "ano": "2018",
+    "publicadoEm": "Jan. 27, 2018",
+    "url": "https://meusanimes.blog/a/nanatsu-no-bitoku/",
+    "postId": "36202"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      48
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Nanatsu no Bitoku",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/dlbQKuZXyEdydVRvvlxuQJNmvSm.jpg",
+  "score": "7.6",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jan. 27, 2018",
+  "url": "https://meusanimes.blog/a/nanatsu-no-bitoku/"
+}

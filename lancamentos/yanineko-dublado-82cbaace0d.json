@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "yanineko-dublado",
+  "capturadoEm": "2026-10-22T09:45:47.411Z",
+  "atualizadoEm": "2026-10-22T15:55:39.086Z",
+  "catalogo": {
+    "slug": "a/yanineko-dublado",
+    "titulo": "Yanineko Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+    "info": "Dublado • Em lançamento • Jul. 03, 2026",
+    "audio": "Dublado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Jul. 03, 2026",
+    "url": "https://meusanimes.blog/a/yanineko-dublado/",
+    "postId": "93719"
+  },
+  "detalhes": {
+    "slug": "a/yanineko-dublado",
+    "titulo": "Yanineko Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+    "sinopse": "Yani não consegue parar em nenhum emprego nem pagar o aluguel. Ela só pensa em fumar. Mas a preocupação das pessoas próximas vai obrigar a garota a mudar de vida.",
+    "generos": [
+      "Comédia",
+      "Slice Of Life"
+    ],
+    "score": "9",
+    "status": "Em lançamento",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 03, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/yanineko-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xQvQ9f94OcPH7tjP3MSecIUrZ82.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-2/",
+          "nome": "Yanineko Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:39.086Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/u755qx31BOoOpEA2COG4b0mm2D6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-1/",
+          "nome": "Yanineko Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-3/",
+          "nome": "Yanineko Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:35.047Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/eRyUG1EmMOs7fVJez3xqTh8NzDG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-2/",
+          "nome": "Yanineko Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-4/",
+          "nome": "Yanineko Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:30.867Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8VyIEPg9bWRsR34xvRDC3Wlt8WQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-3/",
+          "nome": "Yanineko Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-5/",
+          "nome": "Yanineko Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:26.824Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/kPp7Ciu1IekiJXZYqoSJAzyq29N.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-4/",
+          "nome": "Yanineko Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-6/",
+          "nome": "Yanineko Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:22.796Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/5XqavG0sKE9cY1xwc5xIRaBXGy4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-5/",
+          "nome": "Yanineko Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-7/",
+          "nome": "Yanineko Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:18.734Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/5iKAbxEbr42HoEWKaEtLMDdLUfp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-6/",
+          "nome": "Yanineko Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-8/",
+          "nome": "Yanineko Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:14.534Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/fqrPJnMYrI6le1v1ohhznXUcrPQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-7/",
+          "nome": "Yanineko Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-9/",
+          "nome": "Yanineko Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:09.988Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/YCk7qAWvN2OpvMISn9efDrbxd2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-8/",
+          "nome": "Yanineko Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-10/",
+          "nome": "Yanineko Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:05.948Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/wise07ywTiTprXjBkulYtOJmaYT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-9/",
+          "nome": "Yanineko Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-11/",
+          "nome": "Yanineko Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:55:01.893Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/cyow8qhAylOynPorETPDSp75Sf6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-10/",
+          "nome": "Yanineko Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/yanineko-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-12/",
+          "nome": "Yanineko Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:54:57.759Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yanineko-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/5RMY3ix8yM8XWrK5Jpdy17oyY4g.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Yanineko Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/yanineko-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/yanineko-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/yanineko-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/yanineko-dublado-episodio-11/",
+          "nome": "Yanineko Dublado Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3129491/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:54:53.734Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3129491/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3129491/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T15:54:49.155Z"
+  },
+  "titulo": "Yanineko Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+  "status": "Em lançamento",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 03, 2026",
+  "url": "https://meusanimes.blog/a/yanineko-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Yani não consegue parar em nenhum emprego nem pagar o aluguel. Ela só pensa em fumar. Mas a preocupação das pessoas próximas vai obrigar a garota a mudar de vida."
+}

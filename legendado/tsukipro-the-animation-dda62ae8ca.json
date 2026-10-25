@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tsukipro-the-animation",
+  "capturadoEm": "2026-10-22T09:53:25.216Z",
+  "atualizadoEm": "2026-10-22T09:53:25.216Z",
+  "catalogo": {
+    "slug": "a/tsukipro-the-animation",
+    "titulo": "Tsukipro The Animation",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/v3l4ulbOLhZ238QmmY7E39LL08.jpg",
+    "info": "Legendado • Oct. 04, 2017",
+    "audio": "Legendado",
+    "score": "4.9",
+    "ano": "2017",
+    "publicadoEm": "Oct. 04, 2017",
+    "url": "https://meusanimes.blog/a/tsukipro-the-animation/",
+    "postId": "50532"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      38
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Tsukipro The Animation",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/v3l4ulbOLhZ238QmmY7E39LL08.jpg",
+  "score": "4.9",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Oct. 04, 2017",
+  "url": "https://meusanimes.blog/a/tsukipro-the-animation/"
+}

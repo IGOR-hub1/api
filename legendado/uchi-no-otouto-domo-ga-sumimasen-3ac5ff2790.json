@@ -1,0 +1,524 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "uchi-no-otouto-domo-ga-sumimasen",
+  "capturadoEm": "2026-10-22T09:46:37.384Z",
+  "atualizadoEm": "2026-10-22T19:10:11.530Z",
+  "catalogo": {
+    "slug": "a/uchi-no-otouto-domo-ga-sumimasen",
+    "titulo": "Uchi no Otouto-domo ga Sumimasen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/sFSwNfxWxDGAjfbbzEJYz9BUIbC.jpg",
+    "info": "Legendado • Jul. 04, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 04, 2026",
+    "url": "https://meusanimes.blog/a/uchi-no-otouto-domo-ga-sumimasen/",
+    "postId": "92280"
+  },
+  "detalhes": {
+    "slug": "a/uchi-no-otouto-domo-ga-sumimasen",
+    "titulo": "Uchi no Otouto-domo ga Sumimasen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/sFSwNfxWxDGAjfbbzEJYz9BUIbC.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/sFSwNfxWxDGAjfbbzEJYz9BUIbC.jpg",
+    "sinopse": "Nas férias de primavera, após o novo casamento da mãe, Ito se muda para a nova casa, animada com a ideia de viver com o padrasto. Mas, ao chegar à nova casa, descobre que também ganhou quatro irmãos mais novos. Entre confusões, carinho e muita convivência, a nova irmã mais velha embarca em uma divertida comédia romântica sobre família e laços inesperados.",
+    "generos": [
+      "Comédia",
+      "Romance",
+      "Shounen",
+      "Slice Of Life"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 04, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/uchi-no-otouto-domo-ga-sumimasen/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/aAzkNocrY4DsnWfIAEMCCcMTyHw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 1 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-2",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-2/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:10:11.530Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/9QU1mDzY3YVixmBGPMF4uPdlP6E.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 2 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-1",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-1/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-3",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-3/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:10:07.397Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/thMMdGN3SBH73vuJePTSoty3EKL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 3 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-2",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-2/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-4",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-4/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:10:03.306Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/y9WJpJORZDbpD9EJgwTmrMFLxJX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 4 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-3",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-3/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-5",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-5/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:59.222Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/PRSO5Y1NwY6rJyt8KhWh1VbJPu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 5 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-4",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-4/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-6",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-6/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:55.119Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/tk5lRVkTiS15AVWsF9p4A9ay6eF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 6 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-5",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-5/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-7",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-7/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:50.994Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/48iq0Suu7g3X4lF7IwiGtMMIWev.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 7 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-6",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-6/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-8",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-8/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:46.944Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/uCo2mrg6fEbwkLAYflOjRLUoxV0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 8 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-7",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-7/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-9",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-9/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:42.871Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ozuwkO0HR9hnXiGrx8YdMI5I7IA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 9 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-8",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-8/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-10",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-10/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:38.740Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/3HgTeBFr0uPUpnihtm1k33r9Z6X.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 10 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-9",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-9/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-11",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-11/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:34.725Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/sTiehozwJY8Ub5PzRxDeChnCR0Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 11 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-10",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-10/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-12",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-12/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:30.661Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/bfryAJ92YWheRDVRnnJyYH5iJiG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 12 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-11",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-11/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-13",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-13/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:26.595Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/jSgX8tWchb9vIGNzt3yQOZ1bTJq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 13 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-12",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-12/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-14",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-14/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:22.377Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/a6g3ufriQxli1f9axAEadhsTfIs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 14 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-13",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-13/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-15",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-15/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:18.308Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/pBNwZpJhqOu8KDxiqysAgndiG8T.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Uchi no Otouto-domo ga Sumimasen: 1 Episodio 15 Online",
+        "animeSlug": "a/uchi-no-otouto-domo-ga-sumimasen",
+        "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/uchi-no-otouto-domo-ga-sumimasen-episodio-14",
+          "link": "https://meusanimes.blog/e/uchi-no-otouto-domo-ga-sumimasen-episodio-14/",
+          "nome": "Uchi no Otouto-domo ga Sumimasen Episodio 14"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/307585/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:09:14.241Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/307585/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/307585/1/15/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 15,
+    "totalEpisodios": 15,
+    "midiasColetadas": 0,
+    "iframesColetados": 15,
+    "detalhesColetadosEm": "2026-10-22T19:09:09.328Z"
+  },
+  "titulo": "Uchi no Otouto-domo ga Sumimasen",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/sFSwNfxWxDGAjfbbzEJYz9BUIbC.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 04, 2026",
+  "url": "https://meusanimes.blog/a/uchi-no-otouto-domo-ga-sumimasen/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/sFSwNfxWxDGAjfbbzEJYz9BUIbC.jpg",
+  "score": "6",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Nas férias de primavera, após o novo casamento da mãe, Ito se muda para a nova casa, animada com a ideia de viver com o padrasto. Mas, ao chegar à nova casa, descobre que também ganhou quatro irmãos mais novos. Entre confusões, carinho e muita convivência, a nova irmã mais velha embarca em uma divertida comédia romântica sobre família e laços inesperados."
+}

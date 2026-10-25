@@ -1,0 +1,796 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "youjo-senki-dublado",
+  "capturadoEm": "2026-10-21T23:09:03.521Z",
+  "atualizadoEm": "2026-10-22T09:40:44.017Z",
+  "catalogo": {
+    "slug": "a/youjo-senki-dublado",
+    "titulo": "Youjo Senki Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/iSOOMNqwzes8kwNbMR2Vc0Em53h.jpg",
+    "info": "Dublado • Jan. 06, 2017",
+    "audio": "Dublado",
+    "score": "8.295",
+    "ano": "2017",
+    "publicadoEm": "Jan. 06, 2017",
+    "url": "https://meusanimes.blog/a/youjo-senki-dublado/",
+    "postId": "90907"
+  },
+  "detalhes": {
+    "slug": "a/youjo-senki-dublado",
+    "titulo": "Youjo Senki Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/iSOOMNqwzes8kwNbMR2Vc0Em53h.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/iSOOMNqwzes8kwNbMR2Vc0Em53h.jpg",
+    "sinopse": "Em junho de 1923, Tanya Degurechaff, uma jovem loira de olhos azuis, está nos estágios finais de sua formação na Academia Militar Imperial. Como parte de seu treinamento, ela serve no Teatro de Operações de Norden, na terceira linha de patrulha do distrito militar do norte. Inicialmente designada para tarefas de observação, Tanya é surpreendida por um ataque inimigo das tropas mágicas da Federação. Em desvantagem numérica e sem chance de resistir até a chegada de reforços, ela se vê forçada a lutar.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "score": "5",
+    "status": "Em lançamento",
+    "audio": "Dublado",
+    "ano": "2017",
+    "publicadoEm": "Jan. 06, 2017",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/youjo-senki-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 06, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/jDQj52zrqdhOmI1HWjY8irPWRqa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-2/",
+          "nome": "Youjo Senki Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:43.028Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 31, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bZ4OAX20yrc96Ow97rPkiBlQIaX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-1/",
+          "nome": "Youjo Senki Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-3/",
+          "nome": "Youjo Senki Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:38.961Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 21, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/9RBlEegROfMcureAo1odlupmGID.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-2/",
+          "nome": "Youjo Senki Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-4/",
+          "nome": "Youjo Senki Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:34.751Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 27, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/fLyxiVTWekRfz1kDxSguIKSnDAL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-3/",
+          "nome": "Youjo Senki Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-5/",
+          "nome": "Youjo Senki Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:30.745Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 03, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/sqCcjtzBVEdUfwDZXldN9CfzhmL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-4/",
+          "nome": "Youjo Senki Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-6/",
+          "nome": "Youjo Senki Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:26.721Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 10, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cx6VpJvhKpfu5oxHMyPOCKv493z.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-5/",
+          "nome": "Youjo Senki Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-7/",
+          "nome": "Youjo Senki Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:22.549Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 24, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1Xqe499SVeQP3OqmgzEa23Z9SS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-6/",
+          "nome": "Youjo Senki Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-8/",
+          "nome": "Youjo Senki Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:18.348Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 03, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nFcxEBQNyAhLIU46ODYRpJCNAgX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-7/",
+          "nome": "Youjo Senki Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-9/",
+          "nome": "Youjo Senki Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:14.273Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 10, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/n7eU7qVjuZCWbbx5pGFaTae1NYZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-8/",
+          "nome": "Youjo Senki Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-10/",
+          "nome": "Youjo Senki Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:10.215Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 17, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/dcpuzPxU6Y5FyPJeP3hTVlboJiZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-9/",
+          "nome": "Youjo Senki Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-11/",
+          "nome": "Youjo Senki Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:06.181Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 24, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/AuTDbAACG6UR6U4BWuQe57w8NSw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-10/",
+          "nome": "Youjo Senki Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-12/",
+          "nome": "Youjo Senki Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:10:02.112Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 31, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/zfs4WaQpSrm8NLNtm9MoLfWV5bt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-episodio-11/",
+          "nome": "Youjo Senki Dublado Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:57.957Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/l2doJmWQUtX1pJwjf9M0b3tTWxD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-2/",
+          "nome": "Youjo Senki Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:53.901Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4ypWq0pH9r1zrcwKT3eCHNbBCST.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-1/",
+          "nome": "Youjo Senki Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-3/",
+          "nome": "Youjo Senki Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:49.854Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/iXnZuqYLfC91mfNifWx62ULsgHq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-2/",
+          "nome": "Youjo Senki Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-4/",
+          "nome": "Youjo Senki Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:45.638Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/3WTeA4WXsSa81J0UDgmaAfnsmAe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-3/",
+          "nome": "Youjo Senki Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-5/",
+          "nome": "Youjo Senki Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:41.169Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/6ej0yv3pqW1qu5hZistmG3lA3Zl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-4/",
+          "nome": "Youjo Senki Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-6/",
+          "nome": "Youjo Senki Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:36.970Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/uBkqPXEOoDC7mnFvKkc3mX8ArpG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-5/",
+          "nome": "Youjo Senki Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-7/",
+          "nome": "Youjo Senki Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:32.878Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/eAOa7TPCGm2e8uKRv4Gf2jzVCxe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-6/",
+          "nome": "Youjo Senki Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-8/",
+          "nome": "Youjo Senki Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:28.725Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/b7LvQtpcrp3kfHZkebbaewOOp1z.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-7/",
+          "nome": "Youjo Senki Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-9/",
+          "nome": "Youjo Senki Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:24.607Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/zLKmY9mGcYBYXgLNfzztkPs3yEK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-8/",
+          "nome": "Youjo Senki Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-10/",
+          "nome": "Youjo Senki Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:20.494Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/f3ykeSWdyNgDfNI3O3I9JEmoMsB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-9/",
+          "nome": "Youjo Senki Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-11/",
+          "nome": "Youjo Senki Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:16.419Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/avRTJMdX7I9JrYuqv5WIyk1RrO4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-10/",
+          "nome": "Youjo Senki Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-12/",
+          "nome": "Youjo Senki Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:12.099Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/reIFrDv72UVeO4C0Box2UoyR3zL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Youjo Senki Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/youjo-senki-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/youjo-senki-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/youjo-senki-dublado-2-episodio-11/",
+          "nome": "Youjo Senki Dublado 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/693461/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:09:08.023Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/693461/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/693461/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-21T23:09:03.521Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Youjo Senki Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/iSOOMNqwzes8kwNbMR2Vc0Em53h.jpg",
+  "score": "8.295",
+  "audio": "Dublado",
+  "ano": "2017",
+  "publicadoEm": "Jan. 06, 2017",
+  "url": "https://meusanimes.blog/a/youjo-senki-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/iSOOMNqwzes8kwNbMR2Vc0Em53h.jpg",
+  "status": "Em lançamento",
+  "temporadas": 2,
+  "descricao": "Em junho de 1923, Tanya Degurechaff, uma jovem loira de olhos azuis, está nos estágios finais de sua formação na Academia Militar Imperial. Como parte de seu treinamento, ela serve no Teatro de Operações de Norden, na terceira linha de patrulha do distrito militar do norte. Inicialmente designada para tarefas de observação, Tanya é surpreendida por um ataque inimigo das tropas mágicas da Federação. Em desvantagem numérica e sem chance de resistir até a chegada de reforços, ela se vê forçada a lutar."
+}

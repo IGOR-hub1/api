@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "nobunagun",
+  "capturadoEm": "2026-10-22T09:50:59.796Z",
+  "atualizadoEm": "2026-10-22T09:50:59.796Z",
+  "catalogo": {
+    "slug": "a/nobunagun",
+    "titulo": "Nobunagun",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/vwmrxTZ7pZcRk40ca5Ixyy77H4g.jpg",
+    "info": "Legendado • Jan. 05, 2014",
+    "audio": "Legendado",
+    "score": "6.9",
+    "ano": "2014",
+    "publicadoEm": "Jan. 05, 2014",
+    "url": "https://meusanimes.blog/a/nobunagun/",
+    "postId": "61969"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      27
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Nobunagun",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/vwmrxTZ7pZcRk40ca5Ixyy77H4g.jpg",
+  "score": "6.9",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jan. 05, 2014",
+  "url": "https://meusanimes.blog/a/nobunagun/"
+}

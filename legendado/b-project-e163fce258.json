@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "b-project",
+  "capturadoEm": "2026-10-22T09:52:45.747Z",
+  "atualizadoEm": "2026-10-22T09:52:45.747Z",
+  "catalogo": {
+    "slug": "a/b-project",
+    "titulo": "B-Project",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2GuZ8IRVYXkepzYZGz3kBsmr5ot.jpg",
+    "info": "Legendado • Jul. 03, 2016",
+    "audio": "Legendado",
+    "score": "7",
+    "ano": "2016",
+    "publicadoEm": "Jul. 03, 2016",
+    "url": "https://meusanimes.blog/a/b-project/",
+    "postId": "53813"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "B-Project",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2GuZ8IRVYXkepzYZGz3kBsmr5ot.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 03, 2016",
+  "url": "https://meusanimes.blog/a/b-project/"
+}

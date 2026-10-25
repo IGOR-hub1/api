@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "jujutsu-kaisen",
+  "capturadoEm": "2026-10-22T09:50:05.196Z",
+  "atualizadoEm": "2026-10-22T09:50:05.196Z",
+  "catalogo": {
+    "slug": "a/jujutsu-kaisen",
+    "titulo": "Jujutsu Kaisen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg",
+    "info": "Legendado • Oct. 03, 2020",
+    "audio": "Legendado",
+    "score": "8.585",
+    "ano": "2020",
+    "publicadoEm": "Oct. 03, 2020",
+    "url": "https://meusanimes.blog/a/jujutsu-kaisen/",
+    "postId": "94"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      23
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Jujutsu Kaisen",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/coMNNwjHY4BZTqMIsklanMf2Wp7.jpg",
+  "score": "8.585",
+  "audio": "Legendado",
+  "ano": "2020",
+  "publicadoEm": "Oct. 03, 2020",
+  "url": "https://meusanimes.blog/a/jujutsu-kaisen/"
+}

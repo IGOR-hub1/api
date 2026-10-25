@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mi-yu-xing-zhe",
+  "capturadoEm": "2026-10-22T09:55:42.476Z",
+  "atualizadoEm": "2026-10-22T09:55:42.476Z",
+  "catalogo": {
+    "slug": "a/mi-yu-xing-zhe",
+    "titulo": "Mi Yu Xing Zhe",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/9NzPWlSkMrMLPD7iYwYNoqx2aTo.jpg",
+    "info": "Legendado • Feb. 03, 2018",
+    "audio": "Legendado",
+    "score": "7.938",
+    "ano": "2018",
+    "publicadoEm": "Feb. 03, 2018",
+    "url": "https://meusanimes.blog/a/mi-yu-xing-zhe/",
+    "postId": "36629"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      48
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Mi Yu Xing Zhe",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/9NzPWlSkMrMLPD7iYwYNoqx2aTo.jpg",
+  "score": "7.938",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Feb. 03, 2018",
+  "url": "https://meusanimes.blog/a/mi-yu-xing-zhe/"
+}

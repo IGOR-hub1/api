@@ -1,0 +1,2669 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "haikyuu-dublado",
+  "capturadoEm": "2026-10-22T01:09:36.306Z",
+  "atualizadoEm": "2026-10-22T09:41:35.481Z",
+  "catalogo": {
+    "slug": "a/haikyuu-dublado",
+    "titulo": "Haikyuu!! Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qNKaeunuUdL0smnowVVgShCkWZ4.jpg",
+    "info": "Dublado • Apr. 06, 2014",
+    "audio": "Dublado",
+    "score": "8.615",
+    "ano": "2014",
+    "publicadoEm": "Apr. 06, 2014",
+    "url": "https://meusanimes.blog/a/haikyuu-dublado/",
+    "postId": "87603"
+  },
+  "detalhes": {
+    "slug": "a/haikyuu-dublado",
+    "titulo": "Haikyuu!! Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qNKaeunuUdL0smnowVVgShCkWZ4.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/qNKaeunuUdL0smnowVVgShCkWZ4.jpg",
+    "sinopse": "Shoyo Hinata e Tobio Kageyama, dois rapazes fascinados pelo vôlei. A diferença é que Kageyama é um levantador talentoso, e Hinata, um atacante de baixa estatura para um jogador. Os dois se encontram durante a primeira rodada da etapa de classificação para o torneio Nacional, e acabam se tornando grande rivais. Por coincidência do destino, eles terão que unir forças para entrar no clube de vôlei do colégio Karasuno e manter o sonho de continuar jogando vôlei.",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Esporte",
+      "Shounen"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2014",
+    "publicadoEm": "Apr. 06, 2014",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/haikyuu-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 06, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/uXQBduC3R6xRrmJY0QpR7UqHqtQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-2/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:15:31.995Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 13, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/8UWM0NV1Bw8sp2YIsrDUGehAeUv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-1/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-3/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:15:27.849Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 20, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qd7O61U0iETEsZu9SPvpfJVRru2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-2/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-4/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:15:23.760Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 27, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ffk2aAibQ4bAKAV6KHtjWzuGXzV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-3/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-5/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:15:19.662Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 04, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/8N5BlKfwCUXa5C0kUwC9YcrXDru.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-4/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-6/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:15:15.508Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 11, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/cDCdZa9ccq87ITnKJpXLDO6sqeO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-5/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-7/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:15:11.363Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/vHgijLJ2RMfvlKLjrlQgcuO1wIz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-6/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-8/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:15:07.266Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 25, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/tksoLkxCHZcSGQlNjgr9jgKxzHY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-7/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-9/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:15:02.919Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 01, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/bpj7eLaTFDLNL54B3d5JO9VKfFk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-8/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-10/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:58.810Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 08, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ybUyyuuO9yLdTpb4NtwkDZUmMBF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-9/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-11/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:54.646Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 15, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ckUgE6cXhxsP8bXhtTooWglRGcf.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-10/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-12/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:50.587Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 22, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/vFBpwF6cG7wDXlS12gt3bSxeIB8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-11/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-13/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:46.390Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 29, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/7Z8vNCTomjQfq6zrq92LEveeHp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-12/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-14/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:42.338Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 06, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/3Pk6aN0EAs0ZMXsM3z3NIPF9v8B.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-13/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-15/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:38.236Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 13, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/AfzcYUY9qSjh12wViBV7JSVzEMh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-14/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-16/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:34.164Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 27, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/wdaboZcierpzrQEnFpI1LFOw1V0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-15/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-17/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:30.109Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 27, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/t7vPJIRiJQaHbxHbwNeVJHBljjd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-16/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-18/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:25.965Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 03, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/5Qu4dL1zYC1Qvo3psAZ2ovVbLGo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-17/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-19/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:21.893Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 10, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/5JuxpLBO46NFfgGNIwDDGhpf2We.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-18/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-20/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:17.837Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 17, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/snIaJs41WXlfk1aGiDBUfVF7Tvr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-19/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-21/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:13.777Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 24, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/vtSYSImfgmFhXEK8JHUALv0OAr1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-20/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-22/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:09.350Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 31, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/b7IyrE6AKeCvciWhCjTM4qA4E1u.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-21/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-23/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:14:03.475Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 07, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/vFRPqXutQl6ITFUTsSZAXpVw86b.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-22/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-24/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:59.353Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 14, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/p0nVRpbUrtyEWkg2q6OkCbFelnR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-23/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-25/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:55.292Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 21, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2Yqkdn3BhKTaazBDsGsYMDjwGbm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 1 Episodio 25 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-1-episodio-24/",
+          "nome": "Haikyuu!! Dublado 1 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:51.018Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 04, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/kEVvQvjb3mhESngZ7hPGFY9WTVn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-2/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:46.894Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 11, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/gAoOftCQ3bhMzdsnZXIWaP94rHg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-1/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-3/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:42.763Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 18, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/67ry0UY5cZFjUrwrHLcMYvMLSW0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-2/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-4/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:38.708Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 25, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/mThlgISEs3VmXajHp2YmcJjpXAZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-3/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-5/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:34.568Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 01, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/yvCEcMfmXcL3k7NOGGIiVgTdh1O.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-4/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-6/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:30.124Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 08, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/40aXYh5oAL1wJ2bJxSQJzhJAMHG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-5/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-7/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:26.028Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 15, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/gDcvcRAqreTuH7vgfC42VBGrx6y.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-6/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-8/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:21.751Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 22, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/wIR8o20mk8U5Lr3sKzBuDtjGO0C.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-7/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-9/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:17.675Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 29, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/mAiqEX487M3iwhsACtTQuQ7ymOo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-8/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-10/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:13.590Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 06, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/sobaESSCtYErAxWDswcDyPswCY6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-9/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-11/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:09.543Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 13, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/xxplyVnacmWXDYPwqt2s4tIXQzC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-10/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-12/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:04.963Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 20, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/Ru50zI6v8UgjgghtoiHkMmd6MZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-11/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-13",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-13/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:13:00.866Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 27, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ptAUyVtnoaOZnc2AZDqlXOfvMKN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 13 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-12/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-14",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-14/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:55.648Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 10, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/rmOmKewUSfZVGYsMtHbvGvMlELs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 14 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-13",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-13/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-15",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-15/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:50.813Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 17, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/j59yQ47PCjNSiPRZGca6kaYeKIM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 15 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-14",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-14/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-16",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-16/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:46.643Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 24, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/8cEpkDQlpU2RX3tj7bErMCcgxXM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 16 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-15",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-15/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-17",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-17/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:42.540Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Jan. 31, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ulCDFwEzuNqFsfuhQYSMNXjKnaX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 17 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-16",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-16/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-18",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-18/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:38.251Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-18/",
+      "numero": 18,
+      "temporada": 2,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 07, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2FLRyKX0qLipLwghrK0W1a7V6ob.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 18 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-17",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-17/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-19",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-19/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:34.195Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-19/",
+      "numero": 19,
+      "temporada": 2,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 14, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/boTsMwp1QAMNhkr7Q50m2DrkK3g.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 19 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-18",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-18/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-20",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-20/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:30.111Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-20/",
+      "numero": 20,
+      "temporada": 2,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 21, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/4jZY3sUwfVxgd3YrXjUaqWVKp8G.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 20 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-19",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-19/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-21",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-21/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:26.001Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-21/",
+      "numero": 21,
+      "temporada": 2,
+      "nome": "Episódio 21",
+      "descricao": "Feb. 28, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/sSaU2gFQwX4m6MJB9bgnytU3tos.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 21 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-20",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-20/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-22",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-22/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:21.805Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-22/",
+      "numero": 22,
+      "temporada": 2,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 06, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/4wjRzQrVGJwNcx6xMfJMhUs2RKc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 22 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-21",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-21/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-23",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-23/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:17.756Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-23/",
+      "numero": 23,
+      "temporada": 2,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 13, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qoOmoWnKJ2TdCBkT15SWnCUboYC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 23 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-22",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-22/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-24",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-24/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:13.702Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-24/",
+      "numero": 24,
+      "temporada": 2,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 20, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/lDj3xPns0TjRyPB36zwNZA6X7rU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 24 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-23",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-23/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-25",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-25/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:09.481Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-25/",
+      "numero": 25,
+      "temporada": 2,
+      "nome": "Episódio 25",
+      "descricao": "Mar. 27, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/cNSNpPoIUd80QTi5naxUQn2KyrY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 2 Episodio 25 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-2-episodio-24",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-2-episodio-24/",
+          "nome": "Haikyuu!! Dublado 2 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/2/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:05.409Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/2/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/2/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 08, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/dh7Be0Bif4W0lXVa8cToHIESTsM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 1 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-2",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-2/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:12:01.366Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 15, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/lcF9vQ4DrmkDYTEzNkyfr8XEMjV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 2 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-1",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-1/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-3",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-3/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:57.333Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 22, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/v6nWgP4W6Am0q0qSn5C2rMDduXg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 3 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-2",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-2/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-4",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-4/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:53.214Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 29, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2aBwzsKdw5Pec9NOsyQrXQVT29T.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 4 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-3",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-3/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-5",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-5/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:49.183Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 05, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/3f5ieFdspiS8Pmz8MqeBPnJvIiq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 5 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-4",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-4/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-6",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-6/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:45.097Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 12, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/r8WzcmyXDZE7LdOvUnGkHnaoE1Z.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 6 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-5",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-5/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-7",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-7/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:40.969Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 19, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/iuZGXeoDSVoDSVJGHqAI3qjMpSq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 7 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-6",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-6/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-8",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-8/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:36.904Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 26, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hYHTlgQS4uWZhGS9oCj9y8KfXV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 8 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-7",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-7/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-9",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-9/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:32.846Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 03, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/A0mcRV1YEqFyrQyIenJEyDY29Op.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 9 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-8",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-8/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-10",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-10/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:28.773Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 10, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/fac4rp7kaBoThshC2tdYTrPlOdS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 3 Episodio 10 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-3-episodio-9",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-3-episodio-9/",
+          "nome": "Haikyuu!! Dublado 3 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:24.732Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 11, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/6V26rjSjEWkoGnnQYJSO8XBmJVP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 1 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-2",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-2/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:20.661Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 18, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/6iPILutW52r07MBQxIt3WRYJC8v.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 2 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-1",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-1/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-3",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-3/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:16.620Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 25, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/vOg9vGrOsq1j7pKIp9LjBXonMwR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 3 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-2",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-2/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-4",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-4/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:12.555Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 01, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/uXzkmczsVxXodPE6tJuRLnUBEWh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 4 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-3",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-3/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-5",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-5/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:08.470Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 08, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/bVL2d6tir7wdoulj1zgs8wpju0h.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 5 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-4",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-4/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-6",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-6/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:04.304Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 15, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2ETXl8LgIeHtIhLgNZwvPDO7D8E.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 6 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-5",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-5/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-7",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-7/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:11:00.213Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 22, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/uWZGSRU43jC9qfG3iSKzJsd6Tfj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 7 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-6",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-6/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-8",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-8/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:56.123Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 29, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/pimCQGmDkXkYtXmO1t99wZkZJY1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 8 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-7",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-7/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-9",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-9/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:52.067Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 07, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qOc3o6IYIbbM8shctQ8vbx316w.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 9 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-8",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-8/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-10",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-10/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:47.799Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 14, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hJ4j6TTr4iHVAEwxaTeEvDSHIYU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 10 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-9",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-9/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-11",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-11/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:43.464Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 21, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/cvGEZhQCyIIALcLyHE2MLNHzU7o.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 11 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-10",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-10/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-12",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-12/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:39.398Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 28, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/x5jkiG3TZtRwNLjgTWUgV0kimQK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 12 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-11",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-11/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-13",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-13/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:35.357Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-13/",
+      "numero": 13,
+      "temporada": 4,
+      "nome": "Episódio 13",
+      "descricao": "Apr. 04, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/mYrJeiAikhcftnfiTO0tAmwaj2S.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 13 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-12",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-12/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-14",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-14/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:31.276Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-14/",
+      "numero": 14,
+      "temporada": 4,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 03, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/xBZGCJI8ZxtFQ1pa8KH8ejXd7Fj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 14 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-13",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-13/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-15",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-15/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:27.185Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-15/",
+      "numero": 15,
+      "temporada": 4,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 10, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/8EV3tbBxCQlxuZn5ZZastBGKZqt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 15 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-14",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-14/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-16",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-16/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:23.082Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-16/",
+      "numero": 16,
+      "temporada": 4,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 17, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hqOmpd6kc0dhaeG9Cbsxs1B99Rp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 16 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-15",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-15/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-17",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-17/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:19.016Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-17/",
+      "numero": 17,
+      "temporada": 4,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 24, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/gbDNfq0sa7oMUiS3grfwGlUJHyu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 17 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-16",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-16/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-18",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-18/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:14.882Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-18/",
+      "numero": 18,
+      "temporada": 4,
+      "nome": "Episódio 18",
+      "descricao": "Oct. 31, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/1FyijNjCD0KkcMFMzDgtjFJyhZw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 18 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-17",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-17/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-19",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-19/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:10.824Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-19/",
+      "numero": 19,
+      "temporada": 4,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 07, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/svie8ybBU9S1YbfpvUzF8zLb5pm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 19 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-18",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-18/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-20",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-20/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:06.607Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-20/",
+      "numero": 20,
+      "temporada": 4,
+      "nome": "Episódio 20",
+      "descricao": "Nov. 14, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/fNnS66Z0RSRymMVR9dgq9nZJ8VM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 20 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-19",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-19/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-21",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-21/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:10:02.575Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-21/",
+      "numero": 21,
+      "temporada": 4,
+      "nome": "Episódio 21",
+      "descricao": "Dec. 21, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/x7d5lJMIKScFjfE27n459s13VTc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 21 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-20",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-20/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-22",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-22/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:09:58.402Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-22/",
+      "numero": 22,
+      "temporada": 4,
+      "nome": "Episódio 22",
+      "descricao": "Nov. 28, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/kKdzCWZP0BbSBZKcRFFQkB6QOs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 22 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-21",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-21/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-23",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-23/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:09:54.297Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-23/",
+      "numero": 23,
+      "temporada": 4,
+      "nome": "Episódio 23",
+      "descricao": "Dec. 05, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/pMSZ0fVWraxBkbsO3jiUkfzzvb1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 23 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-22",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-22/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-24",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-24/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:09:50.221Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-24/",
+      "numero": 24,
+      "temporada": 4,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 12, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/gbwqceNLdQFZiR28XPXjeDZyobz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 24 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-23",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-23/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-25",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-25/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:09:46.027Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-25/",
+      "numero": 25,
+      "temporada": 4,
+      "nome": "Episódio 25",
+      "descricao": "Dec. 19, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/yR9y6L64r2xBHhFDsZbz7dy0kSE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Haikyuu!! Dublado: 4 Episodio 25 Online",
+        "animeSlug": "a/haikyuu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/haikyuu-dublado-4-episodio-24",
+          "link": "https://meusanimes.blog/e/haikyuu-dublado-4-episodio-24/",
+          "nome": "Haikyuu!! Dublado 4 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/608631/4/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T01:09:41.729Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/608631/4/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/608631/4/25/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      9
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 85,
+    "totalEpisodios": 85,
+    "detalhesColetadosEm": "2026-10-22T01:09:36.306Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 85
+  },
+  "titulo": "Haikyuu!! Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qNKaeunuUdL0smnowVVgShCkWZ4.jpg",
+  "score": "8.615",
+  "audio": "Dublado",
+  "ano": "2014",
+  "publicadoEm": "Apr. 06, 2014",
+  "url": "https://meusanimes.blog/a/haikyuu-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/qNKaeunuUdL0smnowVVgShCkWZ4.jpg",
+  "temporadas": 4,
+  "descricao": "Shoyo Hinata e Tobio Kageyama, dois rapazes fascinados pelo vôlei. A diferença é que Kageyama é um levantador talentoso, e Hinata, um atacante de baixa estatura para um jogador. Os dois se encontram durante a primeira rodada da etapa de classificação para o torneio Nacional, e acabam se tornando grande rivais. Por coincidência do destino, eles terão que unir forças para entrar no clube de vôlei do colégio Karasuno e manter o sonho de continuar jogando vôlei."
+}

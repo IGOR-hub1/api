@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "dark-summoner-to-dekiteiru",
+  "capturadoEm": "2026-10-22T09:44:44.551Z",
+  "atualizadoEm": "2026-10-22T12:55:01.277Z",
+  "catalogo": {
+    "slug": "a/dark-summoner-to-dekiteiru",
+    "titulo": "Dark Summoner to Dekiteiru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
+    "info": "Legendado • Oct. 05, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 05, 2026",
+    "url": "https://meusanimes.blog/a/dark-summoner-to-dekiteiru/",
+    "postId": "100064"
+  },
+  "detalhes": {
+    "slug": "a/dark-summoner-to-dekiteiru",
+    "titulo": "Dark Summoner to Dekiteiru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
+    "sinopse": "Amona, uma invocadora sombria e demi-humana que usa poderes demoníacos, é a mais nova integrante do grupo do rígido sacerdote Roni. Todos esperavam que os dois não gostassem um do outro e que não tivessem nada a ver um com o outro. Mas, para surpresa deles, no primeiro dia juntos como um grupo de aventureiros, eles tiveram uma aventura de uma noite…!",
+    "generos": [
+      "Comédia",
+      "Ecchi",
+      "Fantasia",
+      "Romance"
+    ],
+    "score": "9",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/dark-summoner-to-dekiteiru/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/4Z3YWd2veKotBa0ee1hklNK2kd8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dark Summoner to Dekiteiru: 1 Episodio 1 Online",
+        "animeSlug": "a/dark-summoner-to-dekiteiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/335790/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dark-summoner-to-dekiteiru-episodio-2",
+          "link": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-2/",
+          "nome": "Dark Summoner to Dekiteiru Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/335790/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:55:01.277Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/335790/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/335790/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/thMCYK1R68JfYAxbqIxcO76oquB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dark Summoner to Dekiteiru: 1 Episodio 2 Online",
+        "animeSlug": "a/dark-summoner-to-dekiteiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/335790/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dark-summoner-to-dekiteiru-episodio-1",
+          "link": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-1/",
+          "nome": "Dark Summoner to Dekiteiru Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dark-summoner-to-dekiteiru-episodio-3",
+          "link": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-3/",
+          "nome": "Dark Summoner to Dekiteiru Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/335790/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:54:57.527Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/335790/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/335790/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/8P7LyCnGbX2RY8Jb2YPkL5duYEX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dark Summoner to Dekiteiru: 1 Episodio 3 Online",
+        "animeSlug": "a/dark-summoner-to-dekiteiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/335790/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dark-summoner-to-dekiteiru-episodio-2",
+          "link": "https://meusanimes.blog/e/dark-summoner-to-dekiteiru-episodio-2/",
+          "nome": "Dark Summoner to Dekiteiru Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/335790/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:54:53.794Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/335790/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/335790/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T12:54:49.824Z"
+  },
+  "titulo": "Dark Summoner to Dekiteiru",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 05, 2026",
+  "url": "https://meusanimes.blog/a/dark-summoner-to-dekiteiru/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/2NTmIr0LGlS0wN8Ty06pyTlbe6.jpg",
+  "score": "9",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Amona, uma invocadora sombria e demi-humana que usa poderes demoníacos, é a mais nova integrante do grupo do rígido sacerdote Roni. Todos esperavam que os dois não gostassem um do outro e que não tivessem nada a ver um com o outro. Mas, para surpresa deles, no primeiro dia juntos como um grupo de aventureiros, eles tiveram uma aventura de uma noite…!"
+}

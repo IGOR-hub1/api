@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "akame-ga-kill",
+  "capturadoEm": "2026-10-22T09:53:29.426Z",
+  "atualizadoEm": "2026-10-22T09:53:29.426Z",
+  "catalogo": {
+    "slug": "a/akame-ga-kill",
+    "titulo": "Akame ga Kill!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hDzm2VXxdeK5kztUN3RWTkBsBZg.jpg",
+    "info": "Legendado • Jul. 07, 2014",
+    "audio": "Legendado",
+    "score": "8.3",
+    "ano": "2014",
+    "publicadoEm": "Jul. 07, 2014",
+    "url": "https://meusanimes.blog/a/akame-ga-kill/",
+    "postId": "50214"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      38
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Akame ga Kill!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hDzm2VXxdeK5kztUN3RWTkBsBZg.jpg",
+  "score": "8.3",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jul. 07, 2014",
+  "url": "https://meusanimes.blog/a/akame-ga-kill/"
+}

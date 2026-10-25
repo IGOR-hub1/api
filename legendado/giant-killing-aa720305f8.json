@@ -1,0 +1,864 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "giant-killing",
+  "capturadoEm": "2026-10-22T09:48:35.393Z",
+  "atualizadoEm": "2026-10-23T00:15:14.943Z",
+  "catalogo": {
+    "slug": "a/giant-killing",
+    "titulo": "Giant Killing",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/nnzTdetoQt6S9KblPcSWqeaxjXn.jpg",
+    "info": "Legendado • Apr. 04, 2010",
+    "audio": "Legendado",
+    "score": "8.3",
+    "ano": "2010",
+    "publicadoEm": "Apr. 04, 2010",
+    "url": "https://meusanimes.blog/a/giant-killing/",
+    "postId": "77648"
+  },
+  "detalhes": {
+    "slug": "a/giant-killing",
+    "titulo": "Giant Killing",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/nnzTdetoQt6S9KblPcSWqeaxjXn.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/nnzTdetoQt6S9KblPcSWqeaxjXn.jpg",
+    "sinopse": "Giant Killing tem como personagem principal Tatsumi Takeshi, um técnico que é reconhecido pelo ?Giant Killing? que é quando um time pequeno vence um time grande, o time East Tokyo United(ETU) que atualmente está em uma péssima posição na tabela do campeonato japonês e em uma forte crise pelo fato de não vencer precisa da ajuda deste incrível técnico para mais uma vez voltar a ser um grande time conhecido por suas vitórias, em meio a isso, na história o foco não é apenas em Tatsumi em si mas sim em jogadores, torcedores, diretoria do time mostrando como funciona realmente um time de futebol?",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Esporte",
+      "Seinen"
+    ],
+    "score": "6",
+    "audio": "Legendado",
+    "ano": "2010",
+    "publicadoEm": "Apr. 04, 2010",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/giant-killing/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ih8Oacgm3fTt12b3Ipoxld8yQNC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 1 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-2",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-2/",
+          "nome": "Giant Killing 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:15:14.943Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9lv9gGcIZbGLF5HjdhSDW6eETxa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 2 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-1",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-1/",
+          "nome": "Giant Killing 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-3",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-3/",
+          "nome": "Giant Killing 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:15:10.636Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 18, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6IalKv6fdNFC5cX1TH9yFAfvGgF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 3 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-2",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-2/",
+          "nome": "Giant Killing 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-4",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-4/",
+          "nome": "Giant Killing 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:15:06.416Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 25, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/zuU8J4kNyREn8YaW0cqEhUOYs7g.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 4 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-3",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-3/",
+          "nome": "Giant Killing 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-5",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-5/",
+          "nome": "Giant Killing 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:15:02.041Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 02, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xr4ycBTvAcIXu4zw5w2VH1LxGMm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 5 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-4",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-4/",
+          "nome": "Giant Killing 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-6",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-6/",
+          "nome": "Giant Killing 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:57.890Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 09, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/jSrYbLUIQhamfARS5NJCszPyuGM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 6 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-5",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-5/",
+          "nome": "Giant Killing 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-7",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-7/",
+          "nome": "Giant Killing 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:53.705Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 16, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/knorEz7tSRu0nTAPzArtcZhaVvj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 7 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-6",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-6/",
+          "nome": "Giant Killing 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-8",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-8/",
+          "nome": "Giant Killing 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:49.473Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 23, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bXAkfAfnCdOLdyqDyvLV4hZISXD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 8 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-7",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-7/",
+          "nome": "Giant Killing 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-9",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-9/",
+          "nome": "Giant Killing 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:45.118Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 30, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/we9kxb2OJ3mnCYBgLnw97TyCGSF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 9 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-8",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-8/",
+          "nome": "Giant Killing 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-10",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-10/",
+          "nome": "Giant Killing 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:40.934Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 06, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qEyILYfJcRZW72ga0P46gxziu1O.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 10 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-9",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-9/",
+          "nome": "Giant Killing 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-11",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-11/",
+          "nome": "Giant Killing 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:36.754Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 13, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rwkLKxeV0AUnmihhBBl0HxzuPRz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 11 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-10",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-10/",
+          "nome": "Giant Killing 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-12",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-12/",
+          "nome": "Giant Killing 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:32.537Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 20, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wPwHq7uV3ZBQZMrkp94301IDvrk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 12 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-11",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-11/",
+          "nome": "Giant Killing 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-13",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-13/",
+          "nome": "Giant Killing 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:28.345Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 27, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sdFPAdvxXJT3svOChKeFz88CCEc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 13 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-12",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-12/",
+          "nome": "Giant Killing 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-14",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-14/",
+          "nome": "Giant Killing 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:24.102Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 04, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dwtnyprQodo8J0x20nhKAT4ENOP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 14 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-13",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-13/",
+          "nome": "Giant Killing 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-15",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-15/",
+          "nome": "Giant Killing 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:19.926Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 11, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dR3LIlsHW8Re2SjvikV6d3N9NSf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 15 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-14",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-14/",
+          "nome": "Giant Killing 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-16",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-16/",
+          "nome": "Giant Killing 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:15.715Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 18, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sD0rvVfQEqUwYJzejjuU8590STh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 16 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-15",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-15/",
+          "nome": "Giant Killing 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-17",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-17/",
+          "nome": "Giant Killing 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:11.510Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 25, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bllTZiieS7yEUHvwGdxNwphtsNo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 17 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-16",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-16/",
+          "nome": "Giant Killing 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-18",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-18/",
+          "nome": "Giant Killing 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:07.336Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 01, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tb0uueVUy0kibpavPYe76ockWye.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 18 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-17",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-17/",
+          "nome": "Giant Killing 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-19",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-19/",
+          "nome": "Giant Killing 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:14:03.170Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 08, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6t56QI40ixBa5Y4Eu5qsVP0m3Rr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 19 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-18",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-18/",
+          "nome": "Giant Killing 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-20",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-20/",
+          "nome": "Giant Killing 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:13:58.967Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 15, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kor5hAywZ0mnB9xQ9a1PfFcOQTd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 20 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-19",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-19/",
+          "nome": "Giant Killing 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-21",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-21/",
+          "nome": "Giant Killing 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:13:54.793Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 22, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tYLN1lOugi64yl6x1m4VywL11H4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 21 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-20",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-20/",
+          "nome": "Giant Killing 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-22",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-22/",
+          "nome": "Giant Killing 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:13:50.620Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 29, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yN4JhrWfbe3JtT7D6693ca8ChuW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 22 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-21",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-21/",
+          "nome": "Giant Killing 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-23",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-23/",
+          "nome": "Giant Killing 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:13:46.422Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 05, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uQo1m7Q6A8xtDHF3uyW0juNtREi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 23 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-22",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-22/",
+          "nome": "Giant Killing 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-24",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-24/",
+          "nome": "Giant Killing 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:13:42.157Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 12, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uQlYKoHT8HjpiB0Q6d3u3WUQh0t.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 24 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-23",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-23/",
+          "nome": "Giant Killing 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-25",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-25/",
+          "nome": "Giant Killing 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:13:37.948Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 19, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pR5OmYnoy2w8HlATNpVJMUtNBn4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 25 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-24",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-24/",
+          "nome": "Giant Killing 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/giant-killing-1-episodio-26",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-26/",
+          "nome": "Giant Killing 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:13:33.759Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/giant-killing-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 26, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rsWRtJU7Oz9upUkaSYL8eYOGxxd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Giant Killing: 1 Episodio 26 Online",
+        "animeSlug": "a/giant-killing",
+        "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/giant-killing-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/giant-killing-1-episodio-25",
+          "link": "https://meusanimes.blog/e/giant-killing-1-episodio-25/",
+          "nome": "Giant Killing 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/46668/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:13:28.701Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/46668/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/46668/1/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 26,
+    "totalEpisodios": 26,
+    "midiasColetadas": 0,
+    "iframesColetados": 26,
+    "detalhesColetadosEm": "2026-10-23T00:13:23.055Z"
+  },
+  "titulo": "Giant Killing",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/nnzTdetoQt6S9KblPcSWqeaxjXn.jpg",
+  "score": "6",
+  "audio": "Legendado",
+  "ano": "2010",
+  "publicadoEm": "Apr. 04, 2010",
+  "url": "https://meusanimes.blog/a/giant-killing/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/nnzTdetoQt6S9KblPcSWqeaxjXn.jpg",
+  "temporadas": 1,
+  "descricao": "Giant Killing tem como personagem principal Tatsumi Takeshi, um técnico que é reconhecido pelo ?Giant Killing? que é quando um time pequeno vence um time grande, o time East Tokyo United(ETU) que atualmente está em uma péssima posição na tabela do campeonato japonês e em uma forte crise pelo fato de não vencer precisa da ajuda deste incrível técnico para mais uma vez voltar a ser um grande time conhecido por suas vitórias, em meio a isso, na história o foco não é apenas em Tatsumi em si mas sim em jogadores, torcedores, diretoria do time mostrando como funciona realmente um time de futebol?"
+}

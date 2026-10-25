@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "monster-list",
+  "capturadoEm": "2026-10-22T09:50:57.089Z",
+  "atualizadoEm": "2026-10-22T09:50:57.089Z",
+  "catalogo": {
+    "slug": "a/monster-list",
+    "titulo": "Monster List",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/xAgqk5fjCXLId5bYn37QY94Zf1D.jpg",
+    "info": "Legendado • Dec. 12, 2014",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2014",
+    "publicadoEm": "Dec. 12, 2014",
+    "url": "https://meusanimes.blog/a/monster-list/",
+    "postId": "62083"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      27
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Monster List",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/xAgqk5fjCXLId5bYn37QY94Zf1D.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Dec. 12, 2014",
+  "url": "https://meusanimes.blog/a/monster-list/"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "ikoku-nikki",
+  "capturadoEm": "2026-10-22T09:50:24.750Z",
+  "atualizadoEm": "2026-10-22T09:50:24.750Z",
+  "catalogo": {
+    "slug": "a/ikoku-nikki",
+    "titulo": "Ikoku Nikki (Journal With Witch)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/oMgxAEq7OVvkLDevVMfYwlAzBrP.jpg",
+    "info": "Legendado • Jan. 04, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jan. 04, 2026",
+    "url": "https://meusanimes.blog/a/ikoku-nikki/",
+    "postId": "61853"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      24
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Ikoku Nikki (Journal With Witch)",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/oMgxAEq7OVvkLDevVMfYwlAzBrP.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jan. 04, 2026",
+  "url": "https://meusanimes.blog/a/ikoku-nikki/"
+}

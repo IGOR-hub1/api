@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "dreamland",
+  "capturadoEm": "2026-10-22T09:44:09.417Z",
+  "atualizadoEm": "2026-10-22T12:21:24.856Z",
+  "catalogo": {
+    "slug": "a/dreamland",
+    "titulo": "Dreamland",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/lZ88hdOO2J7EX40fctU1leGgZFu.jpg",
+    "info": "Legendado • Oct. 17, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 17, 2026",
+    "url": "https://meusanimes.blog/a/dreamland/",
+    "postId": "100782"
+  },
+  "detalhes": {
+    "slug": "a/dreamland",
+    "titulo": "Dreamland",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/lZ88hdOO2J7EX40fctU1leGgZFu.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/lZ88hdOO2J7EX40fctU1leGgZFu.jpg",
+    "sinopse": "Desde que sua mãe morreu em um incêndio, Terrence se isolou num mundo sem emoções. Ele leva sua vida cotidiana de adolescente com apatia… com uma exceção! A simples visão de uma chama o mergulha num mundo de medo, uma versão mais intensa de seus pesadelos, pois toda vez que adormece, ele revive, impotente, o trágico acontecimento, intensificando sua pirofobia. Até que, certa noite, ele não aguenta mais e deixa de fugir das chamas diabólicas. Mal sabe ele que, ao fazer isso, superou seu maior medo e se tornou um Viajante: um tipo muito especial de Sonhador, capaz de explorar a Terra dos Sonhos, a dimensão nascida dos sonhos da humanidade… e dos pesadelos!",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia"
+    ],
+    "score": "7",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 17, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/dreamland/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dreamland-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/zFSsvIL0US8zgnqcwumpTp0ezBe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dreamland: 1 Episodio 1 Online",
+        "animeSlug": "a/dreamland",
+        "iframe": "https://serv01.meusdoramas.club/#/video/204084/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dreamland-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/204084/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:24.856Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/204084/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/204084/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "midiasColetadas": 0,
+    "iframesColetados": 1,
+    "detalhesColetadosEm": "2026-10-22T12:21:21.065Z"
+  },
+  "titulo": "Dreamland",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/lZ88hdOO2J7EX40fctU1leGgZFu.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 17, 2026",
+  "url": "https://meusanimes.blog/a/dreamland/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/lZ88hdOO2J7EX40fctU1leGgZFu.jpg",
+  "score": "7",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Desde que sua mãe morreu em um incêndio, Terrence se isolou num mundo sem emoções. Ele leva sua vida cotidiana de adolescente com apatia… com uma exceção! A simples visão de uma chama o mergulha num mundo de medo, uma versão mais intensa de seus pesadelos, pois toda vez que adormece, ele revive, impotente, o trágico acontecimento, intensificando sua pirofobia. Até que, certa noite, ele não aguenta mais e deixa de fugir das chamas diabólicas. Mal sabe ele que, ao fazer isso, superou seu maior medo e se tornou um Viajante: um tipo muito especial de Sonhador, capaz de explorar a Terra dos Sonhos, a dimensão nascida dos sonhos da humanidade… e dos pesadelos!"
+}

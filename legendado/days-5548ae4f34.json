@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "days",
+  "capturadoEm": "2026-10-22T09:52:19.744Z",
+  "atualizadoEm": "2026-10-22T09:52:19.744Z",
+  "catalogo": {
+    "slug": "a/days",
+    "titulo": "Days",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/27n0VxP9UpRaYfhZB2JINps98Xl.jpg",
+    "info": "Legendado • Jul. 03, 2016",
+    "audio": "Legendado",
+    "score": "7.313",
+    "ano": "2016",
+    "publicadoEm": "Jul. 03, 2016",
+    "url": "https://meusanimes.blog/a/days/",
+    "postId": "55700"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      33
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Days",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/27n0VxP9UpRaYfhZB2JINps98Xl.jpg",
+  "score": "7.313",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 03, 2016",
+  "url": "https://meusanimes.blog/a/days/"
+}

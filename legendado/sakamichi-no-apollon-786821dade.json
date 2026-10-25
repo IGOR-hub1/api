@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sakamichi-no-apollon",
+  "capturadoEm": "2026-10-22T09:50:00.491Z",
+  "atualizadoEm": "2026-10-22T09:50:00.491Z",
+  "catalogo": {
+    "slug": "a/sakamichi-no-apollon",
+    "titulo": "Sakamichi no Apollon",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/a8ukRiYnKZHadK4CwZiZM8C5MsO.jpg",
+    "info": "Legendado • Apr. 13, 2012",
+    "audio": "Legendado",
+    "score": "7.7",
+    "ano": "2012",
+    "publicadoEm": "Apr. 13, 2012",
+    "url": "https://meusanimes.blog/a/sakamichi-no-apollon/",
+    "postId": "66771"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      23
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sakamichi no Apollon",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/a8ukRiYnKZHadK4CwZiZM8C5MsO.jpg",
+  "score": "7.7",
+  "audio": "Legendado",
+  "ano": "2012",
+  "publicadoEm": "Apr. 13, 2012",
+  "url": "https://meusanimes.blog/a/sakamichi-no-apollon/"
+}

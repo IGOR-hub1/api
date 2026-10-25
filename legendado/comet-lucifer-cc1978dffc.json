@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "comet-lucifer",
+  "capturadoEm": "2026-10-22T09:51:50.891Z",
+  "atualizadoEm": "2026-10-22T09:51:50.891Z",
+  "catalogo": {
+    "slug": "a/comet-lucifer",
+    "titulo": "Comet Lucifer",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/621IzHQCeQf39KOWJ45KVuPE6iV.jpg",
+    "info": "Legendado • Oct. 04, 2015",
+    "audio": "Legendado",
+    "score": "7.3",
+    "ano": "2015",
+    "publicadoEm": "Oct. 04, 2015",
+    "url": "https://meusanimes.blog/a/comet-lucifer/",
+    "postId": "57449"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Comet Lucifer",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/621IzHQCeQf39KOWJ45KVuPE6iV.jpg",
+  "score": "7.3",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Oct. 04, 2015",
+  "url": "https://meusanimes.blog/a/comet-lucifer/"
+}

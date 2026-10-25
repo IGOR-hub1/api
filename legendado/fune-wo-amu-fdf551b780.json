@@ -1,0 +1,398 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "fune-wo-amu",
+  "capturadoEm": "2026-10-22T09:48:31.317Z",
+  "atualizadoEm": "2026-10-22T23:48:16.841Z",
+  "catalogo": {
+    "slug": "a/fune-wo-amu",
+    "titulo": "Fune wo Amu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kBqEznvZJFukkH8YZsOM5SruLa6.jpg",
+    "info": "Legendado • Oct. 14, 2016",
+    "audio": "Legendado",
+    "score": "7.1",
+    "ano": "2016",
+    "publicadoEm": "Oct. 14, 2016",
+    "url": "https://meusanimes.blog/a/fune-wo-amu/",
+    "postId": "79877"
+  },
+  "detalhes": {
+    "slug": "a/fune-wo-amu",
+    "titulo": "Fune wo Amu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kBqEznvZJFukkH8YZsOM5SruLa6.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/kBqEznvZJFukkH8YZsOM5SruLa6.jpg",
+    "sinopse": "Kohei Araki, editor-chefe da Genbu Publishing House, está trabalhando em um projeto para publicar um novo dicionário chamado “Daitokai (A Grande Passagem)”. No entanto, com a proximidade de sua aposentadoria, ele está procurando com afinco um sucessor. Quando ouve uma história de Masashi Nishioka, um homem bonito e trabalhador da região, sobre um funcionário do departamento de vendas chamado Mitsuya Majime, Araki decide imediatamente recrutá-lo. Essa é a história de pessoas que lutam para compartilhar com os outros o que realmente querem dizer. Palavras que não são ouvidas. Emoções que não podem ser compartilhadas.",
+    "generos": [
+      "Drama",
+      "Romance",
+      "Slice Of Life"
+    ],
+    "score": "8",
+    "audio": "Legendado",
+    "ano": "2016",
+    "publicadoEm": "Oct. 14, 2016",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/fune-wo-amu/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 14, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wwMmqDL6eHphTu22cUNgfVk93Mb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 1 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-2",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-2/",
+          "nome": "Fune wo Amu 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:16.841Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 21, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sg9LJJiQVM9r9p97YO4M1pmzp5y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 2 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-1",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-1/",
+          "nome": "Fune wo Amu 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-3",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-3/",
+          "nome": "Fune wo Amu 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:12.745Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 28, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cKyyFDotLyhqsumpuBRgzrvb00O.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 3 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-2",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-2/",
+          "nome": "Fune wo Amu 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-4",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-4/",
+          "nome": "Fune wo Amu 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:08.463Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Nov. 04, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/h1hdfFPU15ikeN8X1zsspTTh2Ne.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 4 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-3",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-3/",
+          "nome": "Fune wo Amu 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-5",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-5/",
+          "nome": "Fune wo Amu 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:48:04.228Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 11, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/35gEjKaJTbborsFMaLTbc20hbGK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 5 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-4",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-4/",
+          "nome": "Fune wo Amu 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-6",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-6/",
+          "nome": "Fune wo Amu 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:47:59.920Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 18, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/48qvy3rrdFb48pDjWmGfqc2D3Bf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 6 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-5",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-5/",
+          "nome": "Fune wo Amu 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-7",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-7/",
+          "nome": "Fune wo Amu 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:47:55.748Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 25, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sZjaZmuuk2dxlqdaQsJ0nSWFYFM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 7 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-6",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-6/",
+          "nome": "Fune wo Amu 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-8",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-8/",
+          "nome": "Fune wo Amu 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:47:51.562Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Dec. 02, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ewWtwJ9TQi9brrSbzNG9rFllFia.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 8 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-7",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-7/",
+          "nome": "Fune wo Amu 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-9",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-9/",
+          "nome": "Fune wo Amu 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:47:47.238Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 09, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/aBdd2CueOUpp65VCemkQhAJhF7a.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 9 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-8",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-8/",
+          "nome": "Fune wo Amu 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-10",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-10/",
+          "nome": "Fune wo Amu 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:47:42.985Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 16, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xpcdId9e12PHFTJ8YVt6dkIMYse.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 10 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-9",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-9/",
+          "nome": "Fune wo Amu 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-11",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-11/",
+          "nome": "Fune wo Amu 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:47:38.813Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 23, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/e2jwb13OZLjndPZC5qGrfhlmZ3y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Fune wo Amu: 1 Episodio 11 Online",
+        "animeSlug": "a/fune-wo-amu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/fune-wo-amu-1-episodio-10",
+          "link": "https://meusanimes.blog/e/fune-wo-amu-1-episodio-10/",
+          "nome": "Fune wo Amu 1 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65952/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:47:34.637Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65952/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65952/1/11/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 11,
+    "totalEpisodios": 11,
+    "midiasColetadas": 0,
+    "iframesColetados": 11,
+    "detalhesColetadosEm": "2026-10-22T23:47:29.914Z"
+  },
+  "titulo": "Fune wo Amu",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kBqEznvZJFukkH8YZsOM5SruLa6.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 14, 2016",
+  "url": "https://meusanimes.blog/a/fune-wo-amu/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/kBqEznvZJFukkH8YZsOM5SruLa6.jpg",
+  "temporadas": 1,
+  "descricao": "Kohei Araki, editor-chefe da Genbu Publishing House, está trabalhando em um projeto para publicar um novo dicionário chamado “Daitokai (A Grande Passagem)”. No entanto, com a proximidade de sua aposentadoria, ele está procurando com afinco um sucessor. Quando ouve uma história de Masashi Nishioka, um homem bonito e trabalhador da região, sobre um funcionário do departamento de vendas chamado Mitsuya Majime, Araki decide imediatamente recrutá-lo. Essa é a história de pessoas que lutam para compartilhar com os outros o que realmente querem dizer. Palavras que não são ouvidas. Emoções que não podem ser compartilhadas."
+}

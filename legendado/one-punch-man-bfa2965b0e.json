@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "one-punch-man",
+  "capturadoEm": "2026-10-22T09:53:48.567Z",
+  "atualizadoEm": "2026-10-22T09:53:48.567Z",
+  "catalogo": {
+    "slug": "a/one-punch-man",
+    "titulo": "One-Punch Man",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg",
+    "info": "Legendado • Oct. 05, 2015",
+    "audio": "Legendado",
+    "ano": "2015",
+    "publicadoEm": "Oct. 05, 2015",
+    "url": "https://meusanimes.blog/a/one-punch-man/",
+    "postId": "92"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      39
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "One-Punch Man",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Oct. 05, 2015",
+  "url": "https://meusanimes.blog/a/one-punch-man/"
+}

@@ -1,0 +1,517 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "kikansha-no-mahou-wa-tokubetsu-desu",
+  "capturadoEm": "2026-10-22T09:44:06.703Z",
+  "atualizadoEm": "2026-10-22T12:19:58.152Z",
+  "catalogo": {
+    "slug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+    "titulo": "Kikansha no Mahou wa Tokubetsu desu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/grwiUnGAZlqYJMug1JGqWpsgnj.jpg",
+    "info": "Legendado • Em lançamento • Oct. 08, 2023",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "score": "7.8",
+    "ano": "2023",
+    "publicadoEm": "Oct. 08, 2023",
+    "url": "https://meusanimes.blog/a/kikansha-no-mahou-wa-tokubetsu-desu/",
+    "postId": "8711"
+  },
+  "detalhes": {
+    "slug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+    "titulo": "Kikansha no Mahou wa Tokubetsu desu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/grwiUnGAZlqYJMug1JGqWpsgnj.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/grwiUnGAZlqYJMug1JGqWpsgnj.jpg",
+    "sinopse": "Kikansha no Mahou wa Tokubetsu desu Online , Depois que o Reino das Sombras devastou o planeta, a humanidade depende do sucesso de apenas seis magos, incluindo Desir Herrman, um lutador analítico. Quando seus esforços finais para salvar o mundo falham, Desir fecha os olhos, esperando o fim. Mas quando ele os abre novamente, descobre que voltou 13 anos no passado, para o início de seus dias de escola. Com essa nova oportunidade, Desir pode reencontrar seus companheiros guerreiros, salvar seus entes queridos e tentar mudar o destino do mundo.",
+    "generos": [
+      "Ação",
+      "Escolar",
+      "Fantasia"
+    ],
+    "score": "7",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2023",
+    "publicadoEm": "Oct. 08, 2023",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/kikansha-no-mahou-wa-tokubetsu-desu/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 08, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/aAioEsMdIXrtv7bWuDbTDD0HfTl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 1 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-2/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:58.152Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 15, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/dYvT03kkz2kNrFhWBMQhsA5P0RB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 2 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-1",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-1/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-3/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:54.104Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 22, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/yY6oR4xJGGE0hloF5J26pR5zAv5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 3 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-2/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-4/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:50.049Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 29, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/66pgCKkZhG4cLTgQ1i35dzm7AOh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 4 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-3/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-5/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:46.005Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 05, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/glWZLUKd08FKbudtK2YfZgRO6qR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 5 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-4/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-6/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:41.952Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/xS8erdpU16FJWNGVD79KVrD4Qry.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 6 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-5/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-7/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:37.930Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 19, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/9fIcsbkzQwOTeuk8y9PfBCPAe66.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 7 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-6/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-8/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:33.865Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/ilrUKqgNI2kcv2TLjsDftQ3pOZl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 8 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-7/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-9/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:29.762Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 03, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/6WMnhXFAoix9JLoK4rGWMHuwP8I.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 9 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-8/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-10/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:25.730Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 10, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/fUxg8rXAOn8sUpDONiSHCKKxcLf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 10 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-9/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-11/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:21.686Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 17, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/kdXJSO8A3iTTBV47plTx4gQfPmY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 11 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-10/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-12/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:17.607Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 24, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/jFEywDHYpIfE7wwCW3xfLrBSFKY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 1 Episodio 12 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-1-episodio-11/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:13.588Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/eUVjpJOjKIzof4v2jpAjVWKHpiS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 2 Episodio 1 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-2/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:09.454Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/qlsynqFZga28Wis2q3sT2hkwUxC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 2 Episodio 2 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-1",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-1/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-3",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-3/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:05.412Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/wXFuA7q9sgiQhFlkI2FFgSeuEnW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kikansha no Mahou wa Tokubetsu desu: 2 Episodio 3 Online",
+        "animeSlug": "a/kikansha-no-mahou-wa-tokubetsu-desu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/230050/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kikansha-no-mahou-wa-tokubetsu-desu-2-episodio-2/",
+          "nome": "Kikansha no Mahou wa Tokubetsu desu 2 Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/230050/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:19:01.336Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/230050/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/230050/2/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 15,
+    "totalEpisodios": 15,
+    "midiasColetadas": 0,
+    "iframesColetados": 15,
+    "detalhesColetadosEm": "2026-10-22T12:18:55.944Z"
+  },
+  "titulo": "Kikansha no Mahou wa Tokubetsu desu",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/grwiUnGAZlqYJMug1JGqWpsgnj.jpg",
+  "score": "7",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2023",
+  "publicadoEm": "Oct. 08, 2023",
+  "url": "https://meusanimes.blog/a/kikansha-no-mahou-wa-tokubetsu-desu/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/grwiUnGAZlqYJMug1JGqWpsgnj.jpg",
+  "temporadas": 2,
+  "descricao": "Kikansha no Mahou wa Tokubetsu desu Online , Depois que o Reino das Sombras devastou o planeta, a humanidade depende do sucesso de apenas seis magos, incluindo Desir Herrman, um lutador analítico. Quando seus esforços finais para salvar o mundo falham, Desir fecha os olhos, esperando o fim. Mas quando ele os abre novamente, descobre que voltou 13 anos no passado, para o início de seus dias de escola. Com essa nova oportunidade, Desir pode reencontrar seus companheiros guerreiros, salvar seus entes queridos e tentar mudar o destino do mundo."
+}

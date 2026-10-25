@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "young-black-jack",
+  "capturadoEm": "2026-10-22T09:51:21.555Z",
+  "atualizadoEm": "2026-10-22T09:51:21.555Z",
+  "catalogo": {
+    "slug": "a/young-black-jack",
+    "titulo": "Young Black Jack",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/6BOJC4GiHxaaV4KeC2r0pwLiAyp.jpg",
+    "info": "Legendado • Oct. 02, 2015",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2015",
+    "publicadoEm": "Oct. 02, 2015",
+    "url": "https://meusanimes.blog/a/young-black-jack/",
+    "postId": "60302"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      29
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Young Black Jack",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/6BOJC4GiHxaaV4KeC2r0pwLiAyp.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Oct. 02, 2015",
+  "url": "https://meusanimes.blog/a/young-black-jack/"
+}

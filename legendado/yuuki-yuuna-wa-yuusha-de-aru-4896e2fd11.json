@@ -1,0 +1,974 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "yuuki-yuuna-wa-yuusha-de-aru",
+  "capturadoEm": "2026-10-22T09:46:52.068Z",
+  "atualizadoEm": "2026-10-22T19:36:04.493Z",
+  "catalogo": {
+    "slug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+    "titulo": "Yuuki Yuuna wa Yuusha de Aru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/nOyvBJ6DdmHN0bmK30F1WvP6hbp.jpg",
+    "info": "Legendado • Oct. 17, 2014",
+    "audio": "Legendado",
+    "score": "7.8",
+    "ano": "2014",
+    "publicadoEm": "Oct. 17, 2014",
+    "url": "https://meusanimes.blog/a/yuuki-yuuna-wa-yuusha-de-aru/",
+    "postId": "90171"
+  },
+  "detalhes": {
+    "slug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+    "titulo": "Yuuki Yuuna wa Yuusha de Aru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/nOyvBJ6DdmHN0bmK30F1WvP6hbp.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/06/nOyvBJ6DdmHN0bmK30F1WvP6hbp.jpg",
+    "sinopse": "Durante a Era dos Deuses, no ano 300, Yuuna Yuuki leva uma vida comum como uma aluna do oitavo ano, mas ela também é membro do “Clube Herói”, um clube cujas atividades envolvem combater uma criatura misteriosa chamada “Vertex”.",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Fantasia",
+      "Ficção científica",
+      "Romance",
+      "Suspense"
+    ],
+    "score": "6",
+    "audio": "Legendado",
+    "ano": "2014",
+    "publicadoEm": "Oct. 17, 2014",
+    "temporadas": 3,
+    "url": "https://meusanimes.blog/a/yuuki-yuuna-wa-yuusha-de-aru/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 17, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/bskrTKeavVDXyqukBhe0y3coIcb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 1 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-2/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:36:04.493Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 17, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/x2YCJkTiYiH8GyTLqOtKvepaW3O.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 2 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-1",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-1/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-3/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:36:00.382Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 24, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/yNKEWkbRLAq2lNgGPjaszRWkdQF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 3 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-2/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-4/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:56.256Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 31, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ftPvfaEQIEq9XrWM8Gt4GZ6JfdJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 4 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-3/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-5/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:51.986Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 07, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/pAruBsQgfVj3zaeTAwvAw6o0gXf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 5 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-4/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-6/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:47.872Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 14, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/z1BaZGJPqBF1vaqIbd8jiFlXrlv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 6 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-5/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-7/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:43.769Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 21, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/uQAzneqJeRzjrEawVmCZtq4sI3h.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 7 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-6/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-8/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:39.613Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 28, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/urkZhZ1WXqvytZ1gObSL4SQfqB4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 8 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-7/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-9/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:35.499Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 05, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/vN46Q8Bq4RjmoHUF9hRkxKLhbWN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 9 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-8/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-10/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:31.293Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 12, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/mWfu34A4zKRiY5xCYgaevj7Tv0S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 10 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-9/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-11/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:27.169Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 19, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/cnKJ3LYQmr2y63Qgpl4EWrWNr9k.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 11 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-10/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-12",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-12/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:23.056Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 26, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/o9VN0ISidxuGqIuYDEhujWamocY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 1 Episodio 12 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-1-episodio-11/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:18.920Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 07, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/awmtZ7SG0GrMcGXN7jqwDn92ie.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 2 Episodio 1 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-2",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-2/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:14.795Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 14, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/hVkCxDkwBPkklzUrFNLO7DCE0df.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 2 Episodio 2 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-1",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-1/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-3",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-3/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:10.669Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 21, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/c5msm03OlKnc8ZPD3yYCwILhgrE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 2 Episodio 3 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-2",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-2/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-4",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-4/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:06.563Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 28, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/qeE3jRKBh7awzOIDsg1fXneXxUU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 2 Episodio 4 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-3",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-3/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-5",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-5/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:35:02.416Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 04, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ziFcxwBqSpz06Kkpb9lerLD5ECG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 2 Episodio 5 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-4",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-4/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-6",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-6/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:58.235Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 11, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ccdsAeZV2h5PaCuwHohUYTJbtif.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 2 Episodio 6 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-5",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-2-episodio-5/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 2 Episodio 5"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:54.143Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 02, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/uQzR4wAJ8toLx7KmvHwARjlrPZq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 1 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-2",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-2/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:50.036Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 09, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/90jxZsas6zmUNtjFZnNuqHikRpo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 2 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-1",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-1/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-3",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-3/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:45.942Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 16, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/wF0ZEcYNSt6zrNR5b9GH2g1UOvc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 3 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-2",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-2/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-4",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-4/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:41.862Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 23, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/qIcMPISwotEqEF5eIP3DNA5IpPG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 4 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-3",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-3/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-5",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-5/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:37.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 30, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/4tDNNAR2c8p6PyTtR67dchN4sph.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 5 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-4",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-4/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-6",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-6/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:33.539Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 06, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/iYj4L22AOJoQNNfvmeSqb6W1LlU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 6 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-5",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-5/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-7",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-7/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:29.443Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 13, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ZEXD4I6UAMFXozoGzDV39wW8x7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 7 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-6",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-6/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-8",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-8/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:24.292Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 20, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/50hTnPWEdFwB5nvX4GFc0pEvKP1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 8 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-7",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-7/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-9",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-9/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:20.210Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 27, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/taMtodJ0Tyzwq67wggc3ekxtbjS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 9 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-8",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-8/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-10",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-10/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:16.065Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/51nZM3JfSazYMkZsA5lb3TPr6rq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 10 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-9",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-9/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-11",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-11/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:11.947Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/XXQEHxDsbQsaML0ZTALo994bKT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 11 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-10",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-10/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-12",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-12/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:07.804Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/cEHQfe6wN8TRZtzal3qbBZwknYH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yuuki Yuuna wa Yuusha de Aru: 3 Episodio 12 Online",
+        "animeSlug": "a/yuuki-yuuna-wa-yuusha-de-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-11",
+          "link": "https://meusanimes.blog/e/yuuki-yuuna-wa-yuusha-de-aru-3-episodio-11/",
+          "nome": "Yuuki Yuuna wa Yuusha de Aru 3 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/71493/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:34:02.592Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/71493/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/71493/3/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      9
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 30,
+    "totalEpisodios": 30,
+    "midiasColetadas": 0,
+    "iframesColetados": 30,
+    "detalhesColetadosEm": "2026-10-22T19:33:56.576Z"
+  },
+  "titulo": "Yuuki Yuuna wa Yuusha de Aru",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/nOyvBJ6DdmHN0bmK30F1WvP6hbp.jpg",
+  "score": "6",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Oct. 17, 2014",
+  "url": "https://meusanimes.blog/a/yuuki-yuuna-wa-yuusha-de-aru/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/06/nOyvBJ6DdmHN0bmK30F1WvP6hbp.jpg",
+  "temporadas": 3,
+  "descricao": "Durante a Era dos Deuses, no ano 300, Yuuna Yuuki leva uma vida comum como uma aluna do oitavo ano, mas ela também é membro do “Clube Herói”, um clube cujas atividades envolvem combater uma criatura misteriosa chamada “Vertex”."
+}

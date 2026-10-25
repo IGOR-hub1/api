@@ -1,0 +1,865 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "bucky-dublado",
+  "capturadoEm": "2026-10-22T03:52:45.088Z",
+  "atualizadoEm": "2026-10-22T09:42:04.854Z",
+  "catalogo": {
+    "slug": "a/bucky-dublado",
+    "titulo": "Bucky Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ruxIv3RTec4QQkm3iMGnJgZjn52.jpg",
+    "info": "Dublado • Oct. 05, 1999",
+    "audio": "Dublado",
+    "score": "7.778",
+    "ano": "1999",
+    "publicadoEm": "Oct. 05, 1999",
+    "url": "https://meusanimes.blog/a/bucky-dublado/",
+    "postId": "79197"
+  },
+  "detalhes": {
+    "slug": "a/bucky-dublado",
+    "titulo": "Bucky Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ruxIv3RTec4QQkm3iMGnJgZjn52.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/ruxIv3RTec4QQkm3iMGnJgZjn52.jpg",
+    "sinopse": "Bucky é um garoto normal que tem o desejo de torna-se o “Soberano do Mundo”, onde todos seriam seus escravos e ele seria seu governante. Um dia ele se depara com um monstro encrenqueiro, pensa em chamar a Grande Criança de Prisma (O 1º Mundo, onde ele vive) para ajudá-lo, mas ao decidir querer ser o Soberano do Mundo, não pode depender da Grande Criança de nenhum dos doze mundos e parte para atacar o monstro sozinho, mas é derrotado. É aí que aparece Spark, a Grande Criança de Prisma, que derrota o monstro. Spark pergunta para Bucky porque ele não o chamou para ajudá-lo e Bucky explicou sobre seu sonho. Spark, que já parecia muito grande para ser uma Grande Criança, entrega seu espírito para Bucky e diz que ele é seu sucessor e ele é a nova Grande Criança de Prisma.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Shounen"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "1999",
+    "publicadoEm": "Oct. 05, 1999",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/bucky-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 05, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/oD0XgC6VSecydxxnvN8Rap1yqBr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-2/",
+          "nome": "Bucky Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:54:35.213Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 12, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/nQfJbKjuNp5tLFRj4PzPsLdYYyr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-1/",
+          "nome": "Bucky Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-3/",
+          "nome": "Bucky Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:54:31.147Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 19, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yp1xEhRJMDJTvw7qMAl3ZHZCbY9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-2/",
+          "nome": "Bucky Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-4/",
+          "nome": "Bucky Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:54:26.979Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 26, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ahFWO4rUP1Dj3rwHMdzB9I4x831.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-3/",
+          "nome": "Bucky Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-5/",
+          "nome": "Bucky Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:54:22.820Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 02, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sSz2gCY2GbRofbgwTL0C4nUg9sS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-4/",
+          "nome": "Bucky Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-6/",
+          "nome": "Bucky Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:54:18.746Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 09, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1gVbL2UmENbxaTwa2ZTfoAHi0Es.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-5/",
+          "nome": "Bucky Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-7/",
+          "nome": "Bucky Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:54:14.635Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 16, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rays5grLXR3cHdAt59K5gd6PZSt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-6/",
+          "nome": "Bucky Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-8/",
+          "nome": "Bucky Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:54:10.487Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 23, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ibpdbvWaav3iZbUTqmbfLVCdZzv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-7/",
+          "nome": "Bucky Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-9/",
+          "nome": "Bucky Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:54:06.411Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 30, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/4DpttrXNHGMCE2SyH9zRb7gPlBE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-8/",
+          "nome": "Bucky Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-10/",
+          "nome": "Bucky Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:54:02.332Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 07, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rrXXsDyV30W14FgJjjXKJnQjRyN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-9/",
+          "nome": "Bucky Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-11/",
+          "nome": "Bucky Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:58.229Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 14, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6kHPD33Cno1vpqDof8pR6YXoQQB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-10/",
+          "nome": "Bucky Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-12/",
+          "nome": "Bucky Dublado1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:54.128Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 21, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/prwDcVeFH62rjqigGxz95HCQk7f.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-11/",
+          "nome": "Bucky Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-13/",
+          "nome": "Bucky Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:50.066Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 28, 1999",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/nNVIywim2F3kmOctOLlVA7mMkqp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-12/",
+          "nome": "Bucky Dublado1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-14/",
+          "nome": "Bucky Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:45.974Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 04, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yZ7DXN4rdgxjyOcL3tGPDy0ItV6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-13/",
+          "nome": "Bucky Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-15/",
+          "nome": "Bucky Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:41.878Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 11, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/mGxmSaV0EQoNiamCNdMDav3CYeF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-14/",
+          "nome": "Bucky Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-16/",
+          "nome": "Bucky Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:37.799Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 18, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/l4w71YZxfZ2yJwrFdFtwBoxRVMG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-15/",
+          "nome": "Bucky Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-17/",
+          "nome": "Bucky Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:33.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jan. 25, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/nz0ZuHtW8nZTQrHRFbXy86Q8DNf.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-16/",
+          "nome": "Bucky Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-18/",
+          "nome": "Bucky Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:29.582Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 01, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yTDIj9o66Iwz1J1SUSmOYn6Dlk0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-17/",
+          "nome": "Bucky Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-19/",
+          "nome": "Bucky Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:25.498Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 08, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vuSk8ExyC6taAUjm4mJHzhnmhiE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-18/",
+          "nome": "Bucky Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-20/",
+          "nome": "Bucky Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:21.277Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 15, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5DQOQ3hjrRVLYfXrkt8HnZc5E9P.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-19/",
+          "nome": "Bucky Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-21/",
+          "nome": "Bucky Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:17.060Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Feb. 22, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ksJxVnhFIpQV4YzTfERM2uhNx9Q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-20/",
+          "nome": "Bucky Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-22/",
+          "nome": "Bucky Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:12.942Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Feb. 29, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9PBHPNUAt6ecnxrh5DFqEuIz34b.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-21/",
+          "nome": "Bucky Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-23/",
+          "nome": "Bucky Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:08.835Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 07, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/3RZvhdv4EeS4McyUtUNIoX5DNnt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-22/",
+          "nome": "Bucky Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-24/",
+          "nome": "Bucky Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:04.745Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 14, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kJMrngRPs76JFQsZCTAgA5Zezpy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-23/",
+          "nome": "Bucky Dublado 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-25/",
+          "nome": "Bucky Dublado 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:53:00.592Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Mar. 21, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/oCTPTGjwdViTTgBAIDfNFSXthfR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 25 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-24/",
+          "nome": "Bucky Dublado 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-26",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-26/",
+          "nome": "Bucky Dublado 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:52:56.480Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucky-dublado-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Mar. 28, 2000",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pj7sUmJf78gXvZ7NJzJPtWhT8XS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucky Dublado: 1 Episodio 26 Online",
+        "animeSlug": "a/bucky-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/26/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucky-dublado-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/bucky-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/bucky-dublado-1-episodio-25/",
+          "nome": "Bucky Dublado 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/34841/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:52:52.377Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/34841/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/34841/1/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      11
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 26,
+    "totalEpisodios": 26,
+    "detalhesColetadosEm": "2026-10-22T03:52:45.088Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 26
+  },
+  "titulo": "Bucky Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ruxIv3RTec4QQkm3iMGnJgZjn52.jpg",
+  "score": "7.778",
+  "audio": "Dublado",
+  "ano": "1999",
+  "publicadoEm": "Oct. 05, 1999",
+  "url": "https://meusanimes.blog/a/bucky-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/ruxIv3RTec4QQkm3iMGnJgZjn52.jpg",
+  "temporadas": 1,
+  "descricao": "Bucky é um garoto normal que tem o desejo de torna-se o “Soberano do Mundo”, onde todos seriam seus escravos e ele seria seu governante. Um dia ele se depara com um monstro encrenqueiro, pensa em chamar a Grande Criança de Prisma (O 1º Mundo, onde ele vive) para ajudá-lo, mas ao decidir querer ser o Soberano do Mundo, não pode depender da Grande Criança de nenhum dos doze mundos e parte para atacar o monstro sozinho, mas é derrotado. É aí que aparece Spark, a Grande Criança de Prisma, que derrota o monstro. Spark pergunta para Bucky porque ele não o chamou para ajudá-lo e Bucky explicou sobre seu sonho. Spark, que já parecia muito grande para ser uma Grande Criança, entrega seu espírito para Bucky e diz que ele é seu sucessor e ele é a nova Grande Criança de Prisma."
+}

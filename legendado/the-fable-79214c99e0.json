@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "the-fable",
+  "capturadoEm": "2026-10-22T09:53:34.947Z",
+  "atualizadoEm": "2026-10-22T09:53:34.947Z",
+  "catalogo": {
+    "slug": "a/the-fable",
+    "titulo": "The Fable",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/eEsw3ajX9azQuxsdSqa7ljx4Z2P.jpg",
+    "info": "Legendado • Apr. 07, 2024",
+    "audio": "Legendado",
+    "score": "7.8",
+    "ano": "2024",
+    "publicadoEm": "Apr. 07, 2024",
+    "url": "https://meusanimes.blog/a/the-fable/",
+    "postId": "46326"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      38
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "The Fable",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/eEsw3ajX9azQuxsdSqa7ljx4Z2P.jpg",
+  "score": "7.8",
+  "audio": "Legendado",
+  "ano": "2024",
+  "publicadoEm": "Apr. 07, 2024",
+  "url": "https://meusanimes.blog/a/the-fable/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "samurai-champloo",
+  "capturadoEm": "2026-10-22T09:48:48.911Z",
+  "atualizadoEm": "2026-10-22T09:48:48.911Z",
+  "catalogo": {
+    "slug": "a/samurai-champloo",
+    "titulo": "Samurai Champloo",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/gLFshfLjPIlY0f6LeCZyv8PDl6V.jpg",
+    "info": "Legendado • May. 20, 2004",
+    "audio": "Legendado",
+    "score": "8.289",
+    "ano": "2004",
+    "publicadoEm": "May. 20, 2004",
+    "url": "https://meusanimes.blog/a/samurai-champloo/",
+    "postId": "74875"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Samurai Champloo",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/gLFshfLjPIlY0f6LeCZyv8PDl6V.jpg",
+  "score": "8.289",
+  "audio": "Legendado",
+  "ano": "2004",
+  "publicadoEm": "May. 20, 2004",
+  "url": "https://meusanimes.blog/a/samurai-champloo/"
+}

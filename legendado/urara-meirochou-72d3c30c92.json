@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "urara-meirochou",
+  "capturadoEm": "2026-10-22T09:53:14.242Z",
+  "atualizadoEm": "2026-10-22T09:53:14.242Z",
+  "catalogo": {
+    "slug": "a/urara-meirochou",
+    "titulo": "Urara Meirochou",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9DHVHbnPF7hrjKdCVK6QJ58UVrB.jpg",
+    "info": "Legendado • Jan. 06, 2017",
+    "audio": "Legendado",
+    "score": "5.5",
+    "ano": "2017",
+    "publicadoEm": "Jan. 06, 2017",
+    "url": "https://meusanimes.blog/a/urara-meirochou/",
+    "postId": "51457"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      37
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Urara Meirochou",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9DHVHbnPF7hrjKdCVK6QJ58UVrB.jpg",
+  "score": "5.5",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jan. 06, 2017",
+  "url": "https://meusanimes.blog/a/urara-meirochou/"
+}

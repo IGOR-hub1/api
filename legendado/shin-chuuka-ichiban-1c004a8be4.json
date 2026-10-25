@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shin-chuuka-ichiban",
+  "capturadoEm": "2026-10-22T09:56:07.482Z",
+  "atualizadoEm": "2026-10-22T09:56:07.482Z",
+  "catalogo": {
+    "slug": "a/shin-chuuka-ichiban",
+    "titulo": "Shin Chuuka Ichiban!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/mg2fUxfH3ktaWqbSq4oL3g3yyCm.jpg",
+    "info": "Legendado • Oct. 12, 2019",
+    "audio": "Legendado",
+    "score": "5.864",
+    "ano": "2019",
+    "publicadoEm": "Oct. 12, 2019",
+    "url": "https://meusanimes.blog/a/shin-chuuka-ichiban/",
+    "postId": "35121"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      49
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Shin Chuuka Ichiban!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/mg2fUxfH3ktaWqbSq4oL3g3yyCm.jpg",
+  "score": "5.864",
+  "audio": "Legendado",
+  "ano": "2019",
+  "publicadoEm": "Oct. 12, 2019",
+  "url": "https://meusanimes.blog/a/shin-chuuka-ichiban/"
+}

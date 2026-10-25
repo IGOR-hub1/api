@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "a-i-c-o",
+  "capturadoEm": "2026-10-22T08:55:12.073Z",
+  "atualizadoEm": "2026-10-22T09:43:45.737Z",
+  "catalogo": {
+    "slug": "a/a-i-c-o",
+    "titulo": "A.I.C.O.",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/qwILI4tyWKr1jtpMTxSmbWZnr8s.jpg",
+    "info": "Dublado • Mar. 09, 2018",
+    "audio": "Dublado",
+    "score": "6.3",
+    "ano": "2018",
+    "publicadoEm": "Mar. 09, 2018",
+    "url": "https://meusanimes.blog/a/a-i-c-o/",
+    "postId": "39461"
+  },
+  "detalhes": {
+    "slug": "a/a-i-c-o",
+    "titulo": "A.I.C.O.",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/qwILI4tyWKr1jtpMTxSmbWZnr8s.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/qwILI4tyWKr1jtpMTxSmbWZnr8s.jpg",
+    "sinopse": "Tudo o que Aiko conhecia era mentira. Agora, ela está se juntando a um time de infiltradores para chegar ao lugar onde a erupção começou e salvar sua família.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2018",
+    "publicadoEm": "Mar. 09, 2018",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/a-i-c-o/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/bZZ76ORbJzrhTM6YriIq2oRVium.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 1 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-2",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-2/",
+          "nome": "A.I.C.O. 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:56:02.891Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cAqBVtuQvx3r0fmuIWqKLSbFYSn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 2 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-1",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-1/",
+          "nome": "A.I.C.O. 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-3",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-3/",
+          "nome": "A.I.C.O. 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:58.877Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/aaJQ11CRw9Q4XKrhrPZlAcWf4Mq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 3 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-2",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-2/",
+          "nome": "A.I.C.O. 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-4",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-4/",
+          "nome": "A.I.C.O. 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:54.384Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/hj4pHslHTXZaz7wcEYJC1c1Cys1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 4 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-3",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-3/",
+          "nome": "A.I.C.O. 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-5",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-5/",
+          "nome": "A.I.C.O. 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:50.375Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/dCkLGZDxGatiyJWLJwXhi3UstJi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 5 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-4",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-4/",
+          "nome": "A.I.C.O. 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-6",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-6/",
+          "nome": "A.I.C.O. 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:46.318Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rsGjU1PkXQMkajCVFXlXnGNB7Bp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 6 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-5",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-5/",
+          "nome": "A.I.C.O. 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-7",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-7/",
+          "nome": "A.I.C.O. 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:42.188Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/gFn6ggzhOeVMlX3Tkp8LPbx817u.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 7 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-6",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-6/",
+          "nome": "A.I.C.O. 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-8",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-8/",
+          "nome": "A.I.C.O. 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:38.163Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/yOhn4O0f3WJgwvOZQOk8GJ5Y4RT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 8 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-7",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-7/",
+          "nome": "A.I.C.O. 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-9",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-9/",
+          "nome": "A.I.C.O. 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:34.142Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/8JZ4COg5e7gbitM38XLYRWrt8VP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 9 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-8",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-8/",
+          "nome": "A.I.C.O. 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-10",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-10/",
+          "nome": "A.I.C.O. 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:29.813Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/6vIoaIhbT2RXqbEcLLyy6EzXAUC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 10 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-9",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-9/",
+          "nome": "A.I.C.O. 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-11",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-11/",
+          "nome": "A.I.C.O. 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:25.757Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/mJYANWrV9VR6ic9sEx90QNnwqGI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 11 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-10",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-10/",
+          "nome": "A.I.C.O. 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-12",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-12/",
+          "nome": "A.I.C.O. 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:21.711Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/a-i-c-o-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/j5wrhJv8vfUhDEAjYhJGRj2RGBK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "A.I.C.O.: 1 Episodio 12 Online",
+        "animeSlug": "a/a-i-c-o",
+        "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/a-i-c-o-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/a-i-c-o-1-episodio-11",
+          "link": "https://meusanimes.blog/e/a-i-c-o-1-episodio-11/",
+          "nome": "A.I.C.O. 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/77778/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:55:17.659Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/77778/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/77778/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T08:55:12.073Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "A.I.C.O.",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/qwILI4tyWKr1jtpMTxSmbWZnr8s.jpg",
+  "score": "6.3",
+  "audio": "Dublado",
+  "ano": "2018",
+  "publicadoEm": "Mar. 09, 2018",
+  "url": "https://meusanimes.blog/a/a-i-c-o/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/qwILI4tyWKr1jtpMTxSmbWZnr8s.jpg",
+  "temporadas": 1,
+  "descricao": "Tudo o que Aiko conhecia era mentira. Agora, ela está se juntando a um time de infiltradores para chegar ao lugar onde a erupção começou e salvar sua família."
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mononoke",
+  "capturadoEm": "2026-10-22T09:50:03.207Z",
+  "atualizadoEm": "2026-10-22T09:50:03.207Z",
+  "catalogo": {
+    "slug": "a/mononoke",
+    "titulo": "Mononoke",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/g2Hm6h1tQU0w0A1wH7gwB4tH7e7.jpg",
+    "info": "Legendado • Jul. 13, 2007",
+    "audio": "Legendado",
+    "score": "7.932",
+    "ano": "2007",
+    "publicadoEm": "Jul. 13, 2007",
+    "url": "https://meusanimes.blog/a/mononoke/",
+    "postId": "66637"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      23
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Mononoke",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/g2Hm6h1tQU0w0A1wH7gwB4tH7e7.jpg",
+  "score": "7.932",
+  "audio": "Legendado",
+  "ano": "2007",
+  "publicadoEm": "Jul. 13, 2007",
+  "url": "https://meusanimes.blog/a/mononoke/"
+}

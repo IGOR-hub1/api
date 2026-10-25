@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kuragehime",
+  "capturadoEm": "2026-10-22T09:49:36.170Z",
+  "atualizadoEm": "2026-10-22T09:49:36.170Z",
+  "catalogo": {
+    "slug": "a/kuragehime",
+    "titulo": "Kuragehime",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/5Ii7D3OKq6OMJdv90RPeSY07eOW.jpg",
+    "info": "Legendado • Oct. 15, 2010",
+    "audio": "Legendado",
+    "score": "7.6",
+    "ano": "2010",
+    "publicadoEm": "Oct. 15, 2010",
+    "url": "https://meusanimes.blog/a/kuragehime/",
+    "postId": "68732"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kuragehime",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/5Ii7D3OKq6OMJdv90RPeSY07eOW.jpg",
+  "score": "7.6",
+  "audio": "Legendado",
+  "ano": "2010",
+  "publicadoEm": "Oct. 15, 2010",
+  "url": "https://meusanimes.blog/a/kuragehime/"
+}

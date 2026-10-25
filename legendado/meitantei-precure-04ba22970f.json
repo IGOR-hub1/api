@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "meitantei-precure",
+  "capturadoEm": "2026-10-22T09:48:58.960Z",
+  "atualizadoEm": "2026-10-22T09:48:58.960Z",
+  "catalogo": {
+    "slug": "a/meitantei-precure",
+    "titulo": "Meitantei Precure!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
+    "info": "Legendado • Feb. 01, 2026",
+    "audio": "Legendado",
+    "score": "10",
+    "ano": "2026",
+    "publicadoEm": "Feb. 01, 2026",
+    "url": "https://meusanimes.blog/a/meitantei-precure/",
+    "postId": "72738"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Meitantei Precure!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
+  "score": "10",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Feb. 01, 2026",
+  "url": "https://meusanimes.blog/a/meitantei-precure/"
+}

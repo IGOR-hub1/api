@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "isshuukan-friends",
+  "capturadoEm": "2026-10-22T09:50:45.610Z",
+  "atualizadoEm": "2026-10-22T09:50:45.610Z",
+  "catalogo": {
+    "slug": "a/isshuukan-friends",
+    "titulo": "Isshuukan Friends",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/m4mIH6Y9kbS1E6aqX8ncmidpP0u.jpg",
+    "info": "Legendado • Apr. 07, 2014",
+    "audio": "Legendado",
+    "score": "6.629",
+    "ano": "2014",
+    "publicadoEm": "Apr. 07, 2014",
+    "url": "https://meusanimes.blog/a/isshuukan-friends/",
+    "postId": "62912"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      26
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Isshuukan Friends",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/m4mIH6Y9kbS1E6aqX8ncmidpP0u.jpg",
+  "score": "6.629",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Apr. 07, 2014",
+  "url": "https://meusanimes.blog/a/isshuukan-friends/"
+}

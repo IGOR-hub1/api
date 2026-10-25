@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "yoru-no-yatterman",
+  "capturadoEm": "2026-10-22T09:51:20.875Z",
+  "atualizadoEm": "2026-10-22T09:51:20.875Z",
+  "catalogo": {
+    "slug": "a/yoru-no-yatterman",
+    "titulo": "Yoru no Yatterman",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/bJcSGUFZGaNdTKEvOJ93ILhdftF.jpg",
+    "info": "Legendado • Jan. 11, 2015",
+    "audio": "Legendado",
+    "score": "7.3",
+    "ano": "2015",
+    "publicadoEm": "Jan. 11, 2015",
+    "url": "https://meusanimes.blog/a/yoru-no-yatterman/",
+    "postId": "60330"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      28
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Yoru no Yatterman",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/bJcSGUFZGaNdTKEvOJ93ILhdftF.jpg",
+  "score": "7.3",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jan. 11, 2015",
+  "url": "https://meusanimes.blog/a/yoru-no-yatterman/"
+}

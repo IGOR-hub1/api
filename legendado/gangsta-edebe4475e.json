@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "gangsta",
+  "capturadoEm": "2026-10-22T09:51:59.148Z",
+  "atualizadoEm": "2026-10-22T09:51:59.148Z",
+  "catalogo": {
+    "slug": "a/gangsta",
+    "titulo": "Gangsta.",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ue7g8bHgJ0aBC86ZjSkYdOzpL3i.jpg",
+    "info": "Legendado • Jul. 02, 2015",
+    "audio": "Legendado",
+    "score": "7.209",
+    "ano": "2015",
+    "publicadoEm": "Jul. 02, 2015",
+    "url": "https://meusanimes.blog/a/gangsta/",
+    "postId": "56740"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Gangsta.",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ue7g8bHgJ0aBC86ZjSkYdOzpL3i.jpg",
+  "score": "7.209",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jul. 02, 2015",
+  "url": "https://meusanimes.blog/a/gangsta/"
+}

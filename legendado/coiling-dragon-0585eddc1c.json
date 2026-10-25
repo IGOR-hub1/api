@@ -1,0 +1,678 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "coiling-dragon",
+  "capturadoEm": "2026-10-22T09:47:12.908Z",
+  "atualizadoEm": "2026-10-22T20:28:18.726Z",
+  "catalogo": {
+    "slug": "a/coiling-dragon",
+    "titulo": "Coiling Dragon",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
+    "info": "Legendado • Apr. 30, 2026",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2026",
+    "publicadoEm": "Apr. 30, 2026",
+    "url": "https://meusanimes.blog/a/coiling-dragon/",
+    "postId": "86437"
+  },
+  "detalhes": {
+    "slug": "a/coiling-dragon",
+    "titulo": "Coiling Dragon",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
+    "sinopse": "O Continente Yulan é um mundo mágico repleto de criaturas extraordinárias e feitiços deslumbrantes. Um dia, Linley Baruch, um jovem nobre da empobrecida Cidade de Wushan, entra na antiga casa de sua família e, por acaso, obtém um anel aparentemente comum — o Anel do Dragão — mudando seu destino para sempre.",
+    "generos": [
+      "Ação",
+      "Donghua",
+      "Fantasia",
+      "Magia"
+    ],
+    "score": "8",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 30, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/coiling-dragon/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cWhb957oEU9UCNyfGlHyIGD6dMY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 1 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-2",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-2/",
+          "nome": "Coiling Dragon Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:18.726Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/zNDir5WdSKi0CFNLMiFAVhgnp1C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 2 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-1",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-1/",
+          "nome": "Coiling Dragon Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-3",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-3/",
+          "nome": "Coiling Dragon Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:14.684Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/dMgxHewWc17dR4BSzk2hVno9zWc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 3 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-2",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-2/",
+          "nome": "Coiling Dragon Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-4",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-4/",
+          "nome": "Coiling Dragon Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:10.612Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "May. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/y9CZ9liDptBLfBBcPQjVfutYad4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 4 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-3",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-3/",
+          "nome": "Coiling Dragon Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-5",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-5/",
+          "nome": "Coiling Dragon Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:06.534Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/zNDir5WdSKi0CFNLMiFAVhgnp1C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 5 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-4",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-4/",
+          "nome": "Coiling Dragon Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-6",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-6/",
+          "nome": "Coiling Dragon Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:28:02.479Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/scwxoVzXYIGwdrqaAb8Bqe4L3dj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 6 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-5",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-5/",
+          "nome": "Coiling Dragon Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-7",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-7/",
+          "nome": "Coiling Dragon Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:58.448Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/2RUYKqFzyiYyPBIAi39iEEeN4an.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 7 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-6",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-6/",
+          "nome": "Coiling Dragon Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-8",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-8/",
+          "nome": "Coiling Dragon Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:54.240Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Jun. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/dMgxHewWc17dR4BSzk2hVno9zWc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 8 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-7",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-7/",
+          "nome": "Coiling Dragon Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-9",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-9/",
+          "nome": "Coiling Dragon Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:49.861Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/hMtnNEgYrMUmKDiS5znRGlUK0xI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 9 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-8",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-8/",
+          "nome": "Coiling Dragon Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-10",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-10/",
+          "nome": "Coiling Dragon Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:45.685Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/qwCNT8tjDfC9b1V7Z6WvjMLIRQ8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 10 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-9",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-9/",
+          "nome": "Coiling Dragon Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-11",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-11/",
+          "nome": "Coiling Dragon Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:41.645Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/scwxoVzXYIGwdrqaAb8Bqe4L3dj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 11 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-10",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-10/",
+          "nome": "Coiling Dragon Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-12",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-12/",
+          "nome": "Coiling Dragon Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:37.408Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jul. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cWhb957oEU9UCNyfGlHyIGD6dMY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 12 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-11",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-11/",
+          "nome": "Coiling Dragon Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-13",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-13/",
+          "nome": "Coiling Dragon Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:33.120Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/y9CZ9liDptBLfBBcPQjVfutYad4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 13 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-12",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-12/",
+          "nome": "Coiling Dragon Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-14",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-14/",
+          "nome": "Coiling Dragon Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:29.031Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/2RUYKqFzyiYyPBIAi39iEEeN4an.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 14 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-13",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-13/",
+          "nome": "Coiling Dragon Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-15",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-15/",
+          "nome": "Coiling Dragon Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:24.958Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/zNDir5WdSKi0CFNLMiFAVhgnp1C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 15 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-14",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-14/",
+          "nome": "Coiling Dragon Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-16",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-16/",
+          "nome": "Coiling Dragon Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:20.888Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/dMgxHewWc17dR4BSzk2hVno9zWc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 16 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-15",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-15/",
+          "nome": "Coiling Dragon Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-17",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-17/",
+          "nome": "Coiling Dragon Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:16.788Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/qwCNT8tjDfC9b1V7Z6WvjMLIRQ8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 17 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-16",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-16/",
+          "nome": "Coiling Dragon Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-18",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-18/",
+          "nome": "Coiling Dragon Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:12.729Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/hMtnNEgYrMUmKDiS5znRGlUK0xI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 18 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-17",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-17/",
+          "nome": "Coiling Dragon Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-19",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-19/",
+          "nome": "Coiling Dragon Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:08.516Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/scwxoVzXYIGwdrqaAb8Bqe4L3dj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 19 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-18",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-18/",
+          "nome": "Coiling Dragon Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/coiling-dragon-episodio-20",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-20/",
+          "nome": "Coiling Dragon Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:04.457Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/coiling-dragon-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/2RUYKqFzyiYyPBIAi39iEEeN4an.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Coiling Dragon: 1 Episodio 20 Online",
+        "animeSlug": "a/coiling-dragon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/coiling-dragon-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/coiling-dragon-episodio-19",
+          "link": "https://meusanimes.blog/e/coiling-dragon-episodio-19/",
+          "nome": "Coiling Dragon Episodio 19"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283805/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:27:00.355Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283805/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283805/1/20/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      10
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 20,
+    "totalEpisodios": 20,
+    "midiasColetadas": 0,
+    "iframesColetados": 20,
+    "detalhesColetadosEm": "2026-10-22T20:26:55.197Z"
+  },
+  "titulo": "Coiling Dragon",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 30, 2026",
+  "url": "https://meusanimes.blog/a/coiling-dragon/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/41nbfTB1qmX59JOeQoyXvpMTxXI.jpg",
+  "temporadas": 1,
+  "descricao": "O Continente Yulan é um mundo mágico repleto de criaturas extraordinárias e feitiços deslumbrantes. Um dia, Linley Baruch, um jovem nobre da empobrecida Cidade de Wushan, entra na antiga casa de sua família e, por acaso, obtém um anel aparentemente comum — o Anel do Dragão — mudando seu destino para sempre."
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "room-mate",
+  "capturadoEm": "2026-10-22T09:54:40.913Z",
+  "atualizadoEm": "2026-10-22T09:54:40.913Z",
+  "catalogo": {
+    "slug": "a/room-mate",
+    "titulo": "Room Mate",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/8AaD1HV2yDpd2HTfgKbSTD6p66B.jpg",
+    "info": "Legendado • Apr. 12, 2017",
+    "audio": "Legendado",
+    "score": "4.6",
+    "ano": "2017",
+    "publicadoEm": "Apr. 12, 2017",
+    "url": "https://meusanimes.blog/a/room-mate/",
+    "postId": "41746"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      43
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Room Mate",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/8AaD1HV2yDpd2HTfgKbSTD6p66B.jpg",
+  "score": "4.6",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Apr. 12, 2017",
+  "url": "https://meusanimes.blog/a/room-mate/"
+}

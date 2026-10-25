@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "www-working",
+  "capturadoEm": "2026-10-22T09:47:05.557Z",
+  "atualizadoEm": "2026-10-22T20:09:53.589Z",
+  "catalogo": {
+    "slug": "a/www-working",
+    "titulo": "WWW.Working!!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cUDruI1hqgQUYlwcJp2EmNtRJk3.jpg",
+    "info": "Legendado • Oct. 01, 2016",
+    "audio": "Legendado",
+    "score": "6",
+    "ano": "2016",
+    "publicadoEm": "Oct. 01, 2016",
+    "url": "https://meusanimes.blog/a/www-working/",
+    "postId": "87811"
+  },
+  "detalhes": {
+    "slug": "a/www-working",
+    "titulo": "WWW.Working!!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cUDruI1hqgQUYlwcJp2EmNtRJk3.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/cUDruI1hqgQUYlwcJp2EmNtRJk3.jpg",
+    "sinopse": "Com dificuldades financeiras, Daisuke Higashida começou um bico num restaurante de comida caseira. Entretanto, parece que nenhum funcionário desse restaurante bate muito bem da cabeça, incluindo o gerente que não leva o menor jeito pra cozinha e os garçons, que só querem saber de dinheiro!",
+    "generos": [
+      "Comédia",
+      "Romance",
+      "Slice Of Life"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2016",
+    "publicadoEm": "Oct. 01, 2016",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/www-working/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 01, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5g1sjBFBbonx2jzXqvezCZs23FY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 1 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-2",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-2/",
+          "nome": "WWW.Working!! 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:53.589Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 08, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/pDwywm8N2d05Wk2SpXSiIIBORG3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 2 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-1",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-1/",
+          "nome": "WWW.Working!! 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-3",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-3/",
+          "nome": "WWW.Working!! 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:49.536Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 15, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/lD5iaqiL6GX53WEukoIP6MBbjpE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 3 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-2",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-2/",
+          "nome": "WWW.Working!! 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-4",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-4/",
+          "nome": "WWW.Working!! 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:45.451Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 22, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/yVgvTHaC4STXVqF1TxhpCQG2awp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 4 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-3",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-3/",
+          "nome": "WWW.Working!! 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-5",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-5/",
+          "nome": "WWW.Working!! 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:41.363Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 29, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/jdEm2hxmdMcRrEOSlkVrTTu1lZE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 5 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-4",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-4/",
+          "nome": "WWW.Working!! 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-6",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-6/",
+          "nome": "WWW.Working!! 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:37.274Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 05, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/oFdUDB2TjILkUtqjfeBXU91jf0x.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 6 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-5",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-5/",
+          "nome": "WWW.Working!! 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-7",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-7/",
+          "nome": "WWW.Working!! 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:33.182Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 12, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/t3Pkbt6r59Aobr6VdwRv6g2qcC2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 7 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-6",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-6/",
+          "nome": "WWW.Working!! 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-8",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-8/",
+          "nome": "WWW.Working!! 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:29.074Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 19, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/7oEQm7LR6iufgbqtBqTffja3D6A.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 8 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-7",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-7/",
+          "nome": "WWW.Working!! 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-9",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-9/",
+          "nome": "WWW.Working!! 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:24.965Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 26, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/yzjjAm6XzggZSsOHLQoXTMnOn0L.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 9 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-8",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-8/",
+          "nome": "WWW.Working!! 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-10",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-10/",
+          "nome": "WWW.Working!! 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:20.884Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 03, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/uWGdiAOwlq8pi8DFszIXraEfV0l.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 10 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-9",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-9/",
+          "nome": "WWW.Working!! 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-11",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-11/",
+          "nome": "WWW.Working!! 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:16.681Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 10, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/dNd3huE0NEqbe32PmRHam4OHRbQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 11 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-10",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-10/",
+          "nome": "WWW.Working!! 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-12",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-12/",
+          "nome": "WWW.Working!! 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:12.457Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 17, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/bJ3bkiCAFfEuCFyrlscAKX2Qwrq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 12 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-11",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-11/",
+          "nome": "WWW.Working!! 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/www-working-1-episodio-13",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-13/",
+          "nome": "WWW.Working!! 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:08.358Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/www-working-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 24, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/raXDsDHeDpjAUR0FQ6OsGz38LAx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "WWW.Working!!: 1 Episodio 13 Online",
+        "animeSlug": "a/www-working",
+        "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/www-working-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/www-working-1-episodio-12",
+          "link": "https://meusanimes.blog/e/www-working-1-episodio-12/",
+          "nome": "WWW.Working!! 1 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/68070/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:09:04.241Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/68070/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/68070/1/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      10
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 13,
+    "totalEpisodios": 13,
+    "midiasColetadas": 0,
+    "iframesColetados": 13,
+    "detalhesColetadosEm": "2026-10-22T20:08:59.331Z"
+  },
+  "titulo": "WWW.Working!!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cUDruI1hqgQUYlwcJp2EmNtRJk3.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 01, 2016",
+  "url": "https://meusanimes.blog/a/www-working/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/cUDruI1hqgQUYlwcJp2EmNtRJk3.jpg",
+  "temporadas": 1,
+  "descricao": "Com dificuldades financeiras, Daisuke Higashida começou um bico num restaurante de comida caseira. Entretanto, parece que nenhum funcionário desse restaurante bate muito bem da cabeça, incluindo o gerente que não leva o menor jeito pra cozinha e os garçons, que só querem saber de dinheiro!"
+}

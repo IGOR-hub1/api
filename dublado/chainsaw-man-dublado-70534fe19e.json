@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "chainsaw-man-dublado",
+  "capturadoEm": "2026-10-22T08:03:57.071Z",
+  "atualizadoEm": "2026-10-22T09:43:32.123Z",
+  "catalogo": {
+    "slug": "a/chainsaw-man-dublado",
+    "titulo": "Chainsaw Man Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vN19LCdbQr64Hf7xxEzTyPy7M9I.jpg",
+    "info": "Dublado • Oct. 12, 2022",
+    "audio": "Dublado",
+    "ano": "2022",
+    "publicadoEm": "Oct. 12, 2022",
+    "url": "https://meusanimes.blog/a/chainsaw-man-dublado/",
+    "postId": "63985"
+  },
+  "detalhes": {
+    "slug": "a/chainsaw-man-dublado",
+    "titulo": "Chainsaw Man Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vN19LCdbQr64Hf7xxEzTyPy7M9I.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/vN19LCdbQr64Hf7xxEzTyPy7M9I.jpg",
+    "sinopse": "Chainsaw Man Dublado , Denji é um adolescente que mora com Pochita, o Demônio da Motosserra. Por conta das dívidas que herdou de seu pai, ele vive na miséria, exterminando outros demônios com Pochita para pagar as contas. Até que, um dia, Denji é traído e morre. Em seus últimos momentos de consciência, ele firma um contrato com Pochita e renasce como o Homem-Motosserra – um humano com coração de demônio.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Drama",
+      "Sobrenatural"
+    ],
+    "score": "7",
+    "audio": "Dublado",
+    "ano": "2022",
+    "publicadoEm": "Oct. 12, 2022",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/chainsaw-man-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 12, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/Ws2MUU8o1LHlxt8dnYAlzsBLib.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-2/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:48.063Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 19, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fvAOxW42H60ssVZlZND7WwFfqGU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-1/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-3/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:43.958Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 26, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/x20TB0bPovb6mcOoSWO3SNL7zhj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-2/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-4/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:39.206Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Nov. 02, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/78p3CwjbIbJv2MucbLWnvBtF34d.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-3/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-5/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:35.103Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 09, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5OX1F7rJY5GUrxJ3ll8PWABzTN3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-4/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-6/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:31.019Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 16, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/1gtFS9ch884GtW543RK4Ma0xAwW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-5/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-7/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:26.961Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 23, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/iUCOrXRCuc17081EZb0i2OnNDtA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-6/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-8/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:22.887Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 30, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oMRTKYMYHQBlFVYvjNuUJWzLYz5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-7/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-9/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:18.772Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 07, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/azSm7pEl9LSAmEKZ1dbn1s9cHTG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-8/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-10/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:14.708Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 14, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/latU1KQwYICuYqpz3oNphvYG6DH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-9/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-11/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:10.622Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 21, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8sDXfti8kNF1NXZ0OM7qdeVH3Pr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-10/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-12/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:06.564Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 28, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xqxc5esGMw5alHcju87cmjyAkyy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Chainsaw Man Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/chainsaw-man-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/chainsaw-man-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/chainsaw-man-dublado-1-episodio-11/",
+          "nome": "Chainsaw Man Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1144101/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:04:02.427Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1144101/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1144101/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T08:03:57.071Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Chainsaw Man Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vN19LCdbQr64Hf7xxEzTyPy7M9I.jpg",
+  "audio": "Dublado",
+  "ano": "2022",
+  "publicadoEm": "Oct. 12, 2022",
+  "url": "https://meusanimes.blog/a/chainsaw-man-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/vN19LCdbQr64Hf7xxEzTyPy7M9I.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "Chainsaw Man Dublado , Denji é um adolescente que mora com Pochita, o Demônio da Motosserra. Por conta das dívidas que herdou de seu pai, ele vive na miséria, exterminando outros demônios com Pochita para pagar as contas. Até que, um dia, Denji é traído e morre. Em seus últimos momentos de consciência, ele firma um contrato com Pochita e renasce como o Homem-Motosserra – um humano com coração de demônio."
+}

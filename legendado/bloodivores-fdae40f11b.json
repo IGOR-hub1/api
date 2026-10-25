@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "bloodivores",
+  "capturadoEm": "2026-10-22T09:52:25.873Z",
+  "atualizadoEm": "2026-10-22T09:52:25.873Z",
+  "catalogo": {
+    "slug": "a/bloodivores",
+    "titulo": "Bloodivores",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/1siA3Telvg03wk3JL4v5exnzQxa.jpg",
+    "info": "Legendado • Sep. 30, 2016",
+    "audio": "Legendado",
+    "score": "6.1",
+    "ano": "2016",
+    "publicadoEm": "Sep. 30, 2016",
+    "url": "https://meusanimes.blog/a/bloodivores/",
+    "postId": "55126"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      33
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Bloodivores",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/1siA3Telvg03wk3JL4v5exnzQxa.jpg",
+  "score": "6.1",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Sep. 30, 2016",
+  "url": "https://meusanimes.blog/a/bloodivores/"
+}

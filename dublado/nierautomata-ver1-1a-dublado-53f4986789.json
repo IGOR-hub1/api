@@ -1,0 +1,801 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "nierautomata-ver1-1a-dublado",
+  "capturadoEm": "2026-10-22T09:39:58.846Z",
+  "atualizadoEm": "2026-10-22T10:11:56.266Z",
+  "catalogo": {
+    "slug": "a/nierautomata-ver1-1a-dublado",
+    "titulo": "NieR:Automata Ver1.1a Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/tTldK0S5b6ICerha6oK0TF7p1gY.jpg",
+    "info": "Dublado • Jan. 08, 2023",
+    "audio": "Dublado",
+    "score": "8.071",
+    "ano": "2023",
+    "publicadoEm": "Jan. 08, 2023",
+    "url": "https://meusanimes.blog/a/nierautomata-ver1-1a-dublado/",
+    "postId": "100101"
+  },
+  "detalhes": {
+    "slug": "a/nierautomata-ver1-1a-dublado",
+    "titulo": "NieR:Automata Ver1.1a Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/tTldK0S5b6ICerha6oK0TF7p1gY.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/tTldK0S5b6ICerha6oK0TF7p1gY.jpg",
+    "sinopse": "O ano é 5012. Uma súbita invasão de aliens e seus Seres Vivos Mecânicos quase exterminam a humanidade por completo. Os poucos sobreviventes se refugiam na Lua, organizando um contra-ataque para retomar o planeta, mas chegam a um impasse por conta da capacidade infinita de multiplicação dos Seres Vivos Mecânicos. Para vencer o impasse, a humanidade cria a YoRHa, uma unidade de soldados androides. 2B, uma androide, é enviada para a Terra para se encontrar com 9S e analisar os misteriosos fenômenos que lá encontram.",
+    "generos": [
+      "Ação",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2023",
+    "publicadoEm": "Jan. 08, 2023",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/nierautomata-ver1-1a-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 08, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/pa25WRD3GxD7p5EeRCuAZ99N3RB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-2/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:56.266Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 15, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/o6q6Z1D9PWrabPfQKTTttpooEku.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-1/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-3/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:52.163Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 22, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/zBAH1JFQf9eMxDcr81AAk8slCdr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-2/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-4/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:48.099Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 19, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/22Cx4MHykJ88Utkv3VK7RxCWa4h.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-3/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-5/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:44.030Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8FpJSPliOdMF9rIiD8Z2Gp099lS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-4/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-6/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:39.993Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 05, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fF4y2Hix8ahU816JO7nU7TASnww.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-5/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-7/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:35.905Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/zHa4FL9ibB24RPvf4LlCsghnOXB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-6/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-8/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:31.800Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 19, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4HerYWjHGpDCnku5XplrcUSe9QE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-7/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-9/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:27.674Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jul. 23, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xYB232tNF2dv6hD9fYdoRkok9aC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-8/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-10/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:23.583Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jul. 23, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bQXlf9i34JaWLeDoTSl0JalXBdk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-9/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-11/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:19.520Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jul. 23, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ieM9qsXi9d998laCseovT9NiT4D.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-10/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-12/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:15.430Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jul. 23, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jK5k5qPICWLKHkl9DiDxsGyog1p.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-11/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-13",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-13/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:11.326Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Apr. 05, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/thsPSVifQw1WLJVzkB0h6twvi4u.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-12/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-14",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-14/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:07.263Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 12, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/agav6Hp4GxZWlS3AjpOHXuoKHNa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-13",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-13/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-15",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-15/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:11:03.028Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 19, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/dA5szdAtlrvfVRji2fnGliNPRuu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-14",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-14/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-16",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-16/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:58.939Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 26, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/6ttIgn8e8oOabcuUnUlDqusXQ2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-15",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-15/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-17",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-17/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:54.807Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 02, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9JpCgeZfeCMOx1t5D1ThVGe10c9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-16",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-16/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-18",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-18/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:50.719Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 09, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ly4j3ZAUGmUf0YHQYWT47HvbF2q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-17",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-17/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-19",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-19/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:46.614Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 23, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9qtXq1EyG5IY0nVHsNr80z6ACUV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-18",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-18/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-20",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-20/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:42.534Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 30, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/yQZN4Ic8iAjoKsAbOGd35M5L1sV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-19",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-19/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-21",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-21/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:38.408Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 06, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vdMYuAYYl5Ckfk680j1HA5Qekr6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-20",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-20/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-22",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-22/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:34.325Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 13, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wcL0N4Tb4anHFTQ3ndNmvrU2vaa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-21",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-21/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-23",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-23/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:30.106Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 20, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ewn1T8lnwUK3tpZUFAKz9pRXDVq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-22",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-22/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-24",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-24/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:26.012Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 27, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/gD19N5wfjzcwMH096N9wE6q6dUD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "NieR:Automata Ver1.1a Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/nierautomata-ver1-1a-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/nierautomata-ver1-1a-dublado-episodio-23",
+          "link": "https://meusanimes.blog/e/nierautomata-ver1-1a-dublado-episodio-23/",
+          "nome": "NieR:Automata Ver1.1a Dublado Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1583731/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T10:10:21.888Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1583731/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1583731/1/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "midiasColetadas": 0,
+    "iframesColetados": 24,
+    "detalhesColetadosEm": "2026-10-22T10:10:15.819Z"
+  },
+  "titulo": "NieR:Automata Ver1.1a Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/tTldK0S5b6ICerha6oK0TF7p1gY.jpg",
+  "score": "6",
+  "audio": "Dublado",
+  "ano": "2023",
+  "publicadoEm": "Jan. 08, 2023",
+  "url": "https://meusanimes.blog/a/nierautomata-ver1-1a-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/tTldK0S5b6ICerha6oK0TF7p1gY.jpg",
+  "temporadas": 1,
+  "descricao": "O ano é 5012. Uma súbita invasão de aliens e seus Seres Vivos Mecânicos quase exterminam a humanidade por completo. Os poucos sobreviventes se refugiam na Lua, organizando um contra-ataque para retomar o planeta, mas chegam a um impasse por conta da capacidade infinita de multiplicação dos Seres Vivos Mecânicos. Para vencer o impasse, a humanidade cria a YoRHa, uma unidade de soldados androides. 2B, uma androide, é enviada para a Terra para se encontrar com 9S e analisar os misteriosos fenômenos que lá encontram."
+}

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "avatar-aang-the-last-airbender-2026",
+  "capturadoEm": "2026-10-22T09:47:25.061Z",
+  "atualizadoEm": "2026-10-22T20:54:36.671Z",
+  "catalogo": {
+    "slug": "a/avatar-aang-the-last-airbender-2026",
+    "titulo": "Avatar: Aang The Last Airbender (2026)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+    "info": "Legendado • Jun. 30, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jun. 30, 2026",
+    "url": "https://meusanimes.blog/a/avatar-aang-the-last-airbender-2026/",
+    "postId": "83773"
+  },
+  "detalhes": {
+    "slug": "a/avatar-aang-the-last-airbender-2026",
+    "titulo": "Avatar: Aang The Last Airbender (2026)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+    "sinopse": "acompanha Aang, Katara, Sokka, Zuko e Toph na fase adulta, entre os 20 e 30 anos. A história aborda o amadurecimento do grupo enquanto Aang busca proteger seu legado e restaurar a cultura dos Nômades do Ar em um mundo em constante mudança",
+    "generos": [
+      "Ação",
+      "Família",
+      "Fantasia",
+      "Ficção científica",
+      "Shounen",
+      "Super Poderes"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jun. 30, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/avatar-aang-the-last-airbender-2026/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/avatar-aang-the-last-airbender-2026/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/1hB9bjScqsfy7vdR1Jh6sVqdyqP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Avatar: Aang The Last Airbender (2026): 1 Episodio 1 Online",
+        "animeSlug": "a/avatar-aang-the-last-airbender-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1669809/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/avatar-aang-the-last-airbender-2026/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1669809/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:54:36.671Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1669809/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1669809/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      11
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "midiasColetadas": 0,
+    "iframesColetados": 1,
+    "detalhesColetadosEm": "2026-10-22T20:54:32.542Z"
+  },
+  "titulo": "Avatar: Aang The Last Airbender (2026)",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jun. 30, 2026",
+  "url": "https://meusanimes.blog/a/avatar-aang-the-last-airbender-2026/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "acompanha Aang, Katara, Sokka, Zuko e Toph na fase adulta, entre os 20 e 30 anos. A história aborda o amadurecimento do grupo enquanto Aang busca proteger seu legado e restaurar a cultura dos Nômades do Ar em um mundo em constante mudança"
+}

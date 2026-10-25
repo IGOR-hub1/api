@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mousou-dairinin",
+  "capturadoEm": "2026-10-22T09:48:46.220Z",
+  "atualizadoEm": "2026-10-22T09:48:46.220Z",
+  "catalogo": {
+    "slug": "a/mousou-dairinin",
+    "titulo": "Mousou Dairinin",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gVsTX3EJIsq3fHx2xLDFEeWMYDe.jpg",
+    "info": "Legendado • Feb. 03, 2004",
+    "audio": "Legendado",
+    "score": "7.932",
+    "ano": "2004",
+    "publicadoEm": "Feb. 03, 2004",
+    "url": "https://meusanimes.blog/a/mousou-dairinin/",
+    "postId": "75832"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Mousou Dairinin",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/gVsTX3EJIsq3fHx2xLDFEeWMYDe.jpg",
+  "score": "7.932",
+  "audio": "Legendado",
+  "ano": "2004",
+  "publicadoEm": "Feb. 03, 2004",
+  "url": "https://meusanimes.blog/a/mousou-dairinin/"
+}

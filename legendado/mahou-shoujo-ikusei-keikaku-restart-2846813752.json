@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mahou-shoujo-ikusei-keikaku-restart",
+  "capturadoEm": "2026-10-22T09:44:41.882Z",
+  "atualizadoEm": "2026-10-22T12:54:09.060Z",
+  "catalogo": {
+    "slug": "a/mahou-shoujo-ikusei-keikaku-restart",
+    "titulo": "Mahou Shoujo Ikusei Keikaku: Restart",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/yFRVyWWmNMJ72CqxRc2dZqW9TAE.jpg",
+    "info": "Legendado • Oct. 06, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 06, 2026",
+    "url": "https://meusanimes.blog/a/mahou-shoujo-ikusei-keikaku-restart/",
+    "postId": "100095"
+  },
+  "detalhes": {
+    "slug": "a/mahou-shoujo-ikusei-keikaku-restart",
+    "titulo": "Mahou Shoujo Ikusei Keikaku: Restart",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/yFRVyWWmNMJ72CqxRc2dZqW9TAE.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/yFRVyWWmNMJ72CqxRc2dZqW9TAE.jpg",
+    "sinopse": "O jogo mortal está de volta! Mais uma vez, dezesseis Magical Girls foram reunidas para um desafio de alto risco. A cada três dias, seu Magical Phone os leva para uma simulação semelhante a um RPG, onde eles precisam trabalhar juntos para lutar contra inimigos, resolver quebra-cabeças e ganhar Magical Candy para avançar. Uma impressionante recompensa de dez bilhões de ienes os aguarda no final – mas apenas para os jogadores que desferirem o golpe final. Com um prêmio tão tentador em jogo, é apenas uma questão de tempo até que as garotas se voltem uma contra a outra — e se seus pontos de vida caírem a zero, o fim do jogo será a menor de suas preocupações…",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Fantasia",
+      "Magia",
+      "Suspense"
+    ],
+    "score": "5",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 06, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/mahou-shoujo-ikusei-keikaku-restart/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-ikusei-keikaku-restart-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/9EcdUttHh3NgM6SyLioUkFLzqe8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Ikusei Keikaku: Restart: 1 Episodio 1 Online",
+        "animeSlug": "a/mahou-shoujo-ikusei-keikaku-restart",
+        "iframe": "https://serv01.meusdoramas.club/#/video/337277/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-ikusei-keikaku-restart-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-ikusei-keikaku-restart-episodio-2",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-ikusei-keikaku-restart-episodio-2/",
+          "nome": "Mahou Shoujo Ikusei Keikaku: Restart Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/337277/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:54:09.060Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/337277/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/337277/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-ikusei-keikaku-restart-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/3B63XoQX5erx8vX8q6v4Pp83cYf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Ikusei Keikaku: Restart: 1 Episodio 2 Online",
+        "animeSlug": "a/mahou-shoujo-ikusei-keikaku-restart",
+        "iframe": "https://serv01.meusdoramas.club/#/video/337277/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-ikusei-keikaku-restart-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-ikusei-keikaku-restart-episodio-1",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-ikusei-keikaku-restart-episodio-1/",
+          "nome": "Mahou Shoujo Ikusei Keikaku: Restart Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/337277/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:54:04.037Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/337277/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/337277/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T12:54:00.146Z"
+  },
+  "titulo": "Mahou Shoujo Ikusei Keikaku: Restart",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/yFRVyWWmNMJ72CqxRc2dZqW9TAE.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 06, 2026",
+  "url": "https://meusanimes.blog/a/mahou-shoujo-ikusei-keikaku-restart/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/yFRVyWWmNMJ72CqxRc2dZqW9TAE.jpg",
+  "score": "5",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "O jogo mortal está de volta! Mais uma vez, dezesseis Magical Girls foram reunidas para um desafio de alto risco. A cada três dias, seu Magical Phone os leva para uma simulação semelhante a um RPG, onde eles precisam trabalhar juntos para lutar contra inimigos, resolver quebra-cabeças e ganhar Magical Candy para avançar. Uma impressionante recompensa de dez bilhões de ienes os aguarda no final – mas apenas para os jogadores que desferirem o golpe final. Com um prêmio tão tentador em jogo, é apenas uma questão de tempo até que as garotas se voltem uma contra a outra — e se seus pontos de vida caírem a zero, o fim do jogo será a menor de suas preocupações…"
+}

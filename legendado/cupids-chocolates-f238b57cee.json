@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "cupids-chocolates",
+  "capturadoEm": "2026-10-22T09:51:51.597Z",
+  "atualizadoEm": "2026-10-22T09:51:51.597Z",
+  "catalogo": {
+    "slug": "a/cupids-chocolates",
+    "titulo": "Cupids Chocolates",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/hk19cU59e2sp6wtmL0eNIrzIyhs.jpg",
+    "info": "Legendado • Dec. 02, 2015",
+    "audio": "Legendado",
+    "score": "7.3",
+    "ano": "2015",
+    "publicadoEm": "Dec. 02, 2015",
+    "url": "https://meusanimes.blog/a/cupids-chocolates/",
+    "postId": "57382"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Cupids Chocolates",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/hk19cU59e2sp6wtmL0eNIrzIyhs.jpg",
+  "score": "7.3",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Dec. 02, 2015",
+  "url": "https://meusanimes.blog/a/cupids-chocolates/"
+}

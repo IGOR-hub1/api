@@ -1,0 +1,2446 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "black-butler",
+  "capturadoEm": "2026-10-22T09:47:12.225Z",
+  "atualizadoEm": "2026-10-22T20:26:54.160Z",
+  "catalogo": {
+    "slug": "a/black-butler",
+    "titulo": "Black Butler",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/tfjvfipG4FoKOeG3rpDuGWIvx4k.jpg",
+    "info": "Legendado • Oct. 02, 2008",
+    "audio": "Legendado",
+    "score": "7.725",
+    "ano": "2008",
+    "publicadoEm": "Oct. 02, 2008",
+    "url": "https://meusanimes.blog/a/black-butler/",
+    "postId": "87109"
+  },
+  "detalhes": {
+    "slug": "a/black-butler",
+    "titulo": "Black Butler",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/tfjvfipG4FoKOeG3rpDuGWIvx4k.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/tfjvfipG4FoKOeG3rpDuGWIvx4k.jpg",
+    "sinopse": "Em plena Era Vitoriana, em Londres, o mordomo Sebastian Michaelis presta serviços a Ciel Phantomhive, o líder de 12 anos de uma nobre família inglesa. Sebastian é um homem perfeito. Seus conhecimentos, educação, habilidades na cozinha e nas artes marciais são excelentes. Além disso, ele pode atender a qualquer pedido de seu mestre, com facilidade e perfeição, devido a sua secreta linhagem demoníaca e ao contrato que possui com o seu mestre.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Drama",
+      "Fantasia",
+      "Mistério",
+      "Suspense"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2008",
+    "publicadoEm": "Oct. 02, 2008",
+    "temporadas": 5,
+    "url": "https://meusanimes.blog/a/black-butler/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 02, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/6V9FLEgDKpBke3Yg43ANAxPkbO2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 1 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-2/",
+          "nome": "Black Butler 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:54.160Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 09, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/mXasAWwBpYgDeFXUddjNzKo4RQx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 2 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-1",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-1/",
+          "nome": "Black Butler 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-3/",
+          "nome": "Black Butler 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:49.941Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 16, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/fhlRNZfnx2WS7deBQDwW25ZGAMh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 3 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-2/",
+          "nome": "Black Butler 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-4/",
+          "nome": "Black Butler 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:45.916Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 23, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/vHNVJhwoG6Fa5lJtJT94CiZrYYB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 4 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-3/",
+          "nome": "Black Butler 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-5/",
+          "nome": "Black Butler 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:41.801Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 30, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/2NKd68EUVC7h4zaXS5J10iXzfJs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 5 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-4/",
+          "nome": "Black Butler 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-6/",
+          "nome": "Black Butler 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:37.751Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 06, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/7qE7DeGBmR6XDh5WqZylqQckCmW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 6 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-5/",
+          "nome": "Black Butler 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-7/",
+          "nome": "Black Butler 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:33.709Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 13, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/yweKCtv2trDFoYXgh6VIEbtjfRe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 7 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-6/",
+          "nome": "Black Butler 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-8/",
+          "nome": "Black Butler 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:28.353Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 20, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/pVvQF2nxsxdzZ7NxCTX2YQexg7f.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 8 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-7/",
+          "nome": "Black Butler 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-9/",
+          "nome": "Black Butler 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:24.242Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 27, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/o83S6xkzjOj4wlyV1W9beK7jASR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 9 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-8/",
+          "nome": "Black Butler 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-10/",
+          "nome": "Black Butler 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:19.997Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 04, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/lOJ7RgjIwGMg2eQuYFHQ47uFBNO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 10 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-9/",
+          "nome": "Black Butler 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-11",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-11/",
+          "nome": "Black Butler 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:15.911Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 11, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/9O5GCHlW9QDz8Qm79MeUiFZ3aCU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 11 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-10/",
+          "nome": "Black Butler 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-12",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-12/",
+          "nome": "Black Butler 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:11.388Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 18, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/1Qr7MnqicXrnlj1uGo0J5icHepv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 12 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-11",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-11/",
+          "nome": "Black Butler 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-13",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-13/",
+          "nome": "Black Butler 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:07.231Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 25, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/ad8jTb9ER6RcrLk48nSK9lpYAjl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 13 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-12",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-12/",
+          "nome": "Black Butler 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-14",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-14/",
+          "nome": "Black Butler 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:26:03.126Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 15, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/2gum2eRvvWYRwKfIkqbNaznPdZP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 14 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-13",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-13/",
+          "nome": "Black Butler 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-15",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-15/",
+          "nome": "Black Butler 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:59.021Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 22, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/8K34NpmlQ0kw0hg1Fe0cnYV1ero.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 15 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-14",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-14/",
+          "nome": "Black Butler 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-16",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-16/",
+          "nome": "Black Butler 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:54.277Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 29, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5S6vgVaNYEN55fFQ5FLET9UWVlA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 16 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-15",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-15/",
+          "nome": "Black Butler 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-17",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-17/",
+          "nome": "Black Butler 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:50.147Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 05, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/q7f5aPB6lBP2gZf6xm8No0awcDz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 17 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-16",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-16/",
+          "nome": "Black Butler 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-18",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-18/",
+          "nome": "Black Butler 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:46.057Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 13, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/jTL96Kd9HNhnW28JE0AKBtGJvEi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 18 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-17",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-17/",
+          "nome": "Black Butler 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-19",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-19/",
+          "nome": "Black Butler 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:41.912Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 20, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/hgvRUBxAsrt6AKKPKRXir5Mr79k.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 19 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-18",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-18/",
+          "nome": "Black Butler 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-20",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-20/",
+          "nome": "Black Butler 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:37.719Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 27, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5vXylhqsJEFIGShm1kFxgWSzp48.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 20 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-19",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-19/",
+          "nome": "Black Butler 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-21",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-21/",
+          "nome": "Black Butler 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:33.599Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 06, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/kyVxswP9zMX5iPXnhzIiCreTySP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 21 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-20",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-20/",
+          "nome": "Black Butler 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-22",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-22/",
+          "nome": "Black Butler 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:29.496Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 13, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/3pWLZ8kbFiOEtiEOX8MJBrxHH2L.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 22 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-21",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-21/",
+          "nome": "Black Butler 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-23",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-23/",
+          "nome": "Black Butler 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:25.141Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 20, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/yQjOiAcnXWlxHqb1gQiDRddCs3F.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 23 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-22",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-22/",
+          "nome": "Black Butler 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-24",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-24/",
+          "nome": "Black Butler 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:21.055Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 27, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/jbl5b7NdIga3NDY92mZ7HZWGDm0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 24 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-23",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-23/",
+          "nome": "Black Butler 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-1-episodio-25",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-25/",
+          "nome": "Black Butler 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:16.915Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Apr. 03, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/v5WbuxDjus63F2Y43gsTKBEHkk4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 1 Episodio 25 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/black-butler-1-episodio-24",
+          "link": "https://meusanimes.blog/e/black-butler-1-episodio-24/",
+          "nome": "Black Butler 1 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:12.799Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 02, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/v5WbuxDjus63F2Y43gsTKBEHkk4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 1 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-2/",
+          "nome": "Black Butler 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:08.382Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 09, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5iRLygaZFtU2XmV9HtpWjNDdrNB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 2 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-1",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-1/",
+          "nome": "Black Butler 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-3/",
+          "nome": "Black Butler 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:25:04.069Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 16, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/s72rsMKhgtBE6qrScOXXZMRsGMr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 3 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-2/",
+          "nome": "Black Butler 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-4/",
+          "nome": "Black Butler 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:59.801Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 23, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5sWz5O7WgxBXHlu3AmYdwMZMJYv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 4 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-3/",
+          "nome": "Black Butler 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-5/",
+          "nome": "Black Butler 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:54.988Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 30, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4OYVyanOLwY7WvkGrxGuYYLVqWi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 5 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-4/",
+          "nome": "Black Butler 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-6/",
+          "nome": "Black Butler 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:50.711Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 06, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/54pAdE6OyVAm3Dw9ozF4qWPJ5RV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 6 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-5/",
+          "nome": "Black Butler 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-7/",
+          "nome": "Black Butler 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:46.017Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 13, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/xltRtvS3rg4rkwVZ55R26R99jCh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 7 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-6/",
+          "nome": "Black Butler 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-8/",
+          "nome": "Black Butler 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:41.861Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 20, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/uPTInNoEGzn6qGjxfURk8HBqvxV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 8 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-7/",
+          "nome": "Black Butler 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-9/",
+          "nome": "Black Butler 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:37.757Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 27, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/gwKuVQLjnr5c3UtTWejzmSzYgZ6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 9 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-8/",
+          "nome": "Black Butler 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-10/",
+          "nome": "Black Butler 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:33.616Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 03, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/s9Pnb0LHU8sTZjeZrfAfPDa4k2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 10 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-9/",
+          "nome": "Black Butler 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-11",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-11/",
+          "nome": "Black Butler 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:29.530Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 10, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/fJvB3z58McFPs3Coa1OCeKq49Xv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 11 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-10/",
+          "nome": "Black Butler 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-12",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-12/",
+          "nome": "Black Butler 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:25.145Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 17, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/u7rXbt78LHrdYLta6q9H4Hr2dZT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 12 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-11",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-11/",
+          "nome": "Black Butler 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-13",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-13/",
+          "nome": "Black Butler 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:21.062Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 24, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/uPTInNoEGzn6qGjxfURk8HBqvxV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 13 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-12",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-12/",
+          "nome": "Black Butler 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-14",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-14/",
+          "nome": "Black Butler 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:16.961Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 01, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/uPTInNoEGzn6qGjxfURk8HBqvxV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 14 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-13",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-13/",
+          "nome": "Black Butler 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-15",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-15/",
+          "nome": "Black Butler 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:12.826Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 07, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5iRLygaZFtU2XmV9HtpWjNDdrNB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 15 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-14",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-14/",
+          "nome": "Black Butler 2 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-16",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-16/",
+          "nome": "Black Butler 2 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:08.590Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 14, 2010",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/v5WbuxDjus63F2Y43gsTKBEHkk4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 16 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-15",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-15/",
+          "nome": "Black Butler 2 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-2-episodio-17",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-17/",
+          "nome": "Black Butler 2 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:04.441Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5vXylhqsJEFIGShm1kFxgWSzp48.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 2 Episodio 17 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-2-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/black-butler-2-episodio-16",
+          "link": "https://meusanimes.blog/e/black-butler-2-episodio-16/",
+          "nome": "Black Butler 2 Episodio 16"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/2/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:24:00.358Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/2/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/2/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 11, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/tg7F7SIJlYvxRor4AyaMGQTC1kB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 1 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-2/",
+          "nome": "Black Butler 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:56.249Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 18, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cozMb7zhqkUEIeM0Xh5SEpEw6F0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 2 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-1",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-1/",
+          "nome": "Black Butler 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-3/",
+          "nome": "Black Butler 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:52.110Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 25, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/iL38sYpNrEsed29ZqoaPI0WPxp5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 3 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-2/",
+          "nome": "Black Butler 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-4/",
+          "nome": "Black Butler 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:48.015Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 01, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/tXVNuJIUyBCZsEGEFr2e0OQKfBY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 4 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-3/",
+          "nome": "Black Butler 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-5/",
+          "nome": "Black Butler 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:43.865Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 08, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/coEwQZVE4AwGn9DscJLWOAJVcJq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 5 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-4/",
+          "nome": "Black Butler 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-6/",
+          "nome": "Black Butler 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:39.762Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 15, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/70dt2R0wh61Jz5pyol2ZuYafrsq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 6 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-5/",
+          "nome": "Black Butler 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-7/",
+          "nome": "Black Butler 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:35.575Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 22, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/9KWi73s2DzFbK74UwDhVVrXsMBV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 7 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-6/",
+          "nome": "Black Butler 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-8/",
+          "nome": "Black Butler 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:31.453Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 29, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/7TIZqFTrgwYfNNc0EzTZ01vQwEo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 8 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-7/",
+          "nome": "Black Butler 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-9/",
+          "nome": "Black Butler 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:27.186Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 05, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/c72jrNU0RTtJa8jw7Lpbpr2eGud.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 9 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-8/",
+          "nome": "Black Butler 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-10/",
+          "nome": "Black Butler 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:23.084Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 12, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4xnOsQ99dn9QNEBgtVBiAeUCUOR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 10 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-9/",
+          "nome": "Black Butler 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-11",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-11/",
+          "nome": "Black Butler 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:18.883Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Apr. 19, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/tXVNuJIUyBCZsEGEFr2e0OQKfBY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 11 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-10/",
+          "nome": "Black Butler 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-3-episodio-12",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-12/",
+          "nome": "Black Butler 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:14.798Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Apr. 26, 2014",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cozMb7zhqkUEIeM0Xh5SEpEw6F0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 3 Episodio 12 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/black-butler-3-episodio-11",
+          "link": "https://meusanimes.blog/e/black-butler-3-episodio-11/",
+          "nome": "Black Butler 3 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:10.668Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 13, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/jhBbcsuEj70d3d8RjJhTuoTz1CJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 1 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-2/",
+          "nome": "Black Butler 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:06.536Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 20, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/ve3HkK0v46kcfevrE4zLcVvW3Je.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 2 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-1",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-1/",
+          "nome": "Black Butler 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-3/",
+          "nome": "Black Butler 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:23:02.379Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 27, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/1e2N1XBorJ9dNmCXpoMEdrIthr0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 3 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-2/",
+          "nome": "Black Butler 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-4/",
+          "nome": "Black Butler 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:58.117Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "May. 04, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/aBPjzBRUs4sjRPyJGsumm7K0cGu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 4 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-3/",
+          "nome": "Black Butler 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-5/",
+          "nome": "Black Butler 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:54.028Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "May. 11, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/lPOOSRdrEcikCsh5xwNdoJXf2SY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 5 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-4/",
+          "nome": "Black Butler 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-6/",
+          "nome": "Black Butler 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:49.891Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "May. 18, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5t3eqjVEXcwzA8Ij7TFLZGHcO4Z.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 6 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-5/",
+          "nome": "Black Butler 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-7/",
+          "nome": "Black Butler 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:45.736Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "May. 25, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/prwCkcwW1Y9NZNgFiPanxOPoDQ6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 7 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-6/",
+          "nome": "Black Butler 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-8/",
+          "nome": "Black Butler 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:41.659Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Jun. 01, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/9wQjnMqoSnOnIMyYbHbUf7EGFjb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 8 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-7/",
+          "nome": "Black Butler 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-9/",
+          "nome": "Black Butler 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:37.385Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 08, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/9IYea1QtUw4Ks1QVIJEXUvsOMBR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 9 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-8/",
+          "nome": "Black Butler 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-10/",
+          "nome": "Black Butler 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:33.308Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/hszkM4Eghh2Zqfxw0YnzUsHOoNf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 10 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-9/",
+          "nome": "Black Butler 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-4-episodio-11",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-11/",
+          "nome": "Black Butler 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:29.033Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 22, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/dxALhLfMzgDoKxJ1nkLaC91BCOI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 4 Episodio 11 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/black-butler-4-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-4-episodio-10/",
+          "nome": "Black Butler 4 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:24.922Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-1/",
+      "numero": 1,
+      "temporada": 5,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/m0fiVDezHV6prGokh8C6rAsiQAI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 1 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-2/",
+          "nome": "Black Butler 5 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:20.804Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-2/",
+      "numero": 2,
+      "temporada": 5,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/j1Nzm2oLwXbq9YmjvdhtX9MQR0D.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 2 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-1",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-1/",
+          "nome": "Black Butler 5 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-3/",
+          "nome": "Black Butler 5 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:16.714Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-3/",
+      "numero": 3,
+      "temporada": 5,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4DQ3r6SC7Fd6y5yZfjggVNpXo4v.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 3 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-2",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-2/",
+          "nome": "Black Butler 5 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-4/",
+          "nome": "Black Butler 5 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:12.588Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-4/",
+      "numero": 4,
+      "temporada": 5,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 26, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/8CJHDO2k1bsvLtrDqB17SdWP4s4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 4 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-3",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-3/",
+          "nome": "Black Butler 5 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-5/",
+          "nome": "Black Butler 5 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:08.483Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-5/",
+      "numero": 5,
+      "temporada": 5,
+      "nome": "Episódio 5",
+      "descricao": "May. 03, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/rsGj4FmbPaT0w4j9QRYlvRTBJPl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 5 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-4",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-4/",
+          "nome": "Black Butler 5 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-6/",
+          "nome": "Black Butler 5 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:04.329Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-6/",
+      "numero": 6,
+      "temporada": 5,
+      "nome": "Episódio 6",
+      "descricao": "May. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/yHAAIN6GeaxVZUEdfR0UP5EtRDL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 6 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-5",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-5/",
+          "nome": "Black Butler 5 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-7/",
+          "nome": "Black Butler 5 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:22:00.136Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-7/",
+      "numero": 7,
+      "temporada": 5,
+      "nome": "Episódio 7",
+      "descricao": "May. 17, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cJXOMQ30HIq2YQb5w6gdBGWXPmG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 7 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-6",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-6/",
+          "nome": "Black Butler 5 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-8/",
+          "nome": "Black Butler 5 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:21:56.035Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-8/",
+      "numero": 8,
+      "temporada": 5,
+      "nome": "Episódio 8",
+      "descricao": "May. 24, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/iLlmKdh0Muxpx1eY8dQxS21wwaY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 8 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-7",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-7/",
+          "nome": "Black Butler 5 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-9/",
+          "nome": "Black Butler 5 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:21:51.965Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-9/",
+      "numero": 9,
+      "temporada": 5,
+      "nome": "Episódio 9",
+      "descricao": "May. 31, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/frtQgHppfK7Jn6GZH92lOWVb6M6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 9 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-8",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-8/",
+          "nome": "Black Butler 5 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-10/",
+          "nome": "Black Butler 5 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:21:47.902Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-10/",
+      "numero": 10,
+      "temporada": 5,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 07, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/y71QfqlEwBFIc4O8thFYf2HiKMl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 10 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-9",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-9/",
+          "nome": "Black Butler 5 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-11",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-11/",
+          "nome": "Black Butler 5 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:21:43.713Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-11/",
+      "numero": 11,
+      "temporada": 5,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 14, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/fTJM5VaKiVjhXpktqx2wtXAQmDO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 11 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-10",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-10/",
+          "nome": "Black Butler 5 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-12",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-12/",
+          "nome": "Black Butler 5 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:21:39.591Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-12/",
+      "numero": 12,
+      "temporada": 5,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 21, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/6PaDSihlWex5b5HTv80HtZGVGQo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 12 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-11",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-11/",
+          "nome": "Black Butler 5 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/black-butler-5-episodio-13",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-13/",
+          "nome": "Black Butler 5 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:21:35.382Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/black-butler-5-episodio-13/",
+      "numero": 13,
+      "temporada": 5,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 28, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4gVshxHUsoghgMqS5oK8gHt9ilc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Black Butler: 5 Episodio 13 Online",
+        "animeSlug": "a/black-butler",
+        "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/black-butler-5-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/black-butler-5-episodio-12",
+          "link": "https://meusanimes.blog/e/black-butler-5-episodio-12/",
+          "nome": "Black Butler 5 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/50712/5/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:21:31.097Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/50712/5/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/50712/5/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      10
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 78,
+    "totalEpisodios": 78,
+    "midiasColetadas": 0,
+    "iframesColetados": 78,
+    "detalhesColetadosEm": "2026-10-22T20:21:22.386Z"
+  },
+  "titulo": "Black Butler",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/tfjvfipG4FoKOeG3rpDuGWIvx4k.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2008",
+  "publicadoEm": "Oct. 02, 2008",
+  "url": "https://meusanimes.blog/a/black-butler/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/tfjvfipG4FoKOeG3rpDuGWIvx4k.jpg",
+  "temporadas": 5,
+  "descricao": "Em plena Era Vitoriana, em Londres, o mordomo Sebastian Michaelis presta serviços a Ciel Phantomhive, o líder de 12 anos de uma nobre família inglesa. Sebastian é um homem perfeito. Seus conhecimentos, educação, habilidades na cozinha e nas artes marciais são excelentes. Além disso, ele pode atender a qualquer pedido de seu mestre, com facilidade e perfeição, devido a sua secreta linhagem demoníaca e ao contrato que possui com o seu mestre."
+}

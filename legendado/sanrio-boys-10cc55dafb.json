@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sanrio-boys",
+  "capturadoEm": "2026-10-22T09:55:10.679Z",
+  "atualizadoEm": "2026-10-22T09:55:10.679Z",
+  "catalogo": {
+    "slug": "a/sanrio-boys",
+    "titulo": "Sanrio Boys",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/wml6rxWR7OJvJsNUS0WbDmwqrxF.jpg",
+    "info": "Legendado • Jan. 06, 2018",
+    "audio": "Legendado",
+    "score": "6.625",
+    "ano": "2018",
+    "publicadoEm": "Jan. 06, 2018",
+    "url": "https://meusanimes.blog/a/sanrio-boys/",
+    "postId": "39346"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      45
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sanrio Boys",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/wml6rxWR7OJvJsNUS0WbDmwqrxF.jpg",
+  "score": "6.625",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jan. 06, 2018",
+  "url": "https://meusanimes.blog/a/sanrio-boys/"
+}

@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku",
+  "capturadoEm": "2026-10-22T09:44:00.129Z",
+  "atualizadoEm": "2026-10-22T12:14:36.014Z",
+  "catalogo": {
+    "slug": "a/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku",
+    "titulo": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+    "info": "Legendado • Em lançamento • Oct. 11, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Oct. 11, 2026",
+    "url": "https://meusanimes.blog/a/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku/",
+    "postId": "100527"
+  },
+  "detalhes": {
+    "slug": "a/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku",
+    "titulo": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+    "sinopse": "Makoto Takatsuki é transportado para um mundo de fantasia junto com seus colegas, mas acaba sendo considerado o mais fraco. Para sobreviver, ele se torna seguidor de Noah, uma deusa sem fiéis, e embarca em uma aventura cheia de magia, monstros e desafios, tentando ficar mais forte e ajudar sua deusa a conquistar poder.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia"
+    ],
+    "score": "7",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 11, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/cdwzu0kaVpLVu8zULic8HRiNxdg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku: 1 Episodio 1 Online",
+        "animeSlug": "a/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288588/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-episodio-2",
+          "link": "https://meusanimes.blog/e/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-episodio-2/",
+          "nome": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288588/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:14:36.014Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288588/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288588/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/57UZwd81NwvgQAos1Isv8DiNwUa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku: 1 Episodio 2 Online",
+        "animeSlug": "a/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku",
+        "iframe": "https://serv01.meusdoramas.club/#/video/288588/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-episodio-1",
+          "link": "https://meusanimes.blog/e/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku-episodio-1/",
+          "nome": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/288588/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:14:31.957Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/288588/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/288588/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T12:14:26.654Z"
+  },
+  "titulo": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 11, 2026",
+  "url": "https://meusanimes.blog/a/shinja-zero-no-megami-sama-to-hajimeru-isekai-kouryaku/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/bD0PjbDtwSyt4CpIxvAQLHmNIKu.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "Makoto Takatsuki é transportado para um mundo de fantasia junto com seus colegas, mas acaba sendo considerado o mais fraco. Para sobreviver, ele se torna seguidor de Noah, uma deusa sem fiéis, e embarca em uma aventura cheia de magia, monstros e desafios, tentando ficar mais forte e ajudar sua deusa a conquistar poder."
+}

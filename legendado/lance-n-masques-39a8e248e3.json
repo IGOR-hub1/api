@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "lance-n-masques",
+  "capturadoEm": "2026-10-22T09:52:03.821Z",
+  "atualizadoEm": "2026-10-22T09:52:03.821Z",
+  "catalogo": {
+    "slug": "a/lance-n-masques",
+    "titulo": "Lance N Masques",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/bk35ArMdP1giITGafGGTdTYk0kM.jpg",
+    "info": "Legendado • Oct. 01, 2015",
+    "audio": "Legendado",
+    "score": "5.8",
+    "ano": "2015",
+    "publicadoEm": "Oct. 01, 2015",
+    "url": "https://meusanimes.blog/a/lance-n-masques/",
+    "postId": "56482"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      32
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Lance N Masques",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/bk35ArMdP1giITGafGGTdTYk0kM.jpg",
+  "score": "5.8",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Oct. 01, 2015",
+  "url": "https://meusanimes.blog/a/lance-n-masques/"
+}

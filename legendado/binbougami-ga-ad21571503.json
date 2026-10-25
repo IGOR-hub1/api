@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "binbougami-ga",
+  "capturadoEm": "2026-10-22T09:48:51.588Z",
+  "atualizadoEm": "2026-10-22T09:48:51.588Z",
+  "catalogo": {
+    "slug": "a/binbougami-ga",
+    "titulo": "Binbougami Ga!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/3gmBRiWz8Elnb1VoRHehhYtd0sj.jpg",
+    "info": "Legendado • Jul. 05, 2012",
+    "audio": "Legendado",
+    "score": "6.6",
+    "ano": "2012",
+    "publicadoEm": "Jul. 05, 2012",
+    "url": "https://meusanimes.blog/a/binbougami-ga/",
+    "postId": "73663"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Binbougami Ga!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/3gmBRiWz8Elnb1VoRHehhYtd0sj.jpg",
+  "score": "6.6",
+  "audio": "Legendado",
+  "ano": "2012",
+  "publicadoEm": "Jul. 05, 2012",
+  "url": "https://meusanimes.blog/a/binbougami-ga/"
+}

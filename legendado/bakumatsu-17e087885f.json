@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "bakumatsu",
+  "capturadoEm": "2026-10-22T09:55:26.579Z",
+  "atualizadoEm": "2026-10-22T09:55:26.579Z",
+  "catalogo": {
+    "slug": "a/bakumatsu",
+    "titulo": "Bakumatsu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/tOEc28kvIfo19mEnvLpLnzI1urk.jpg",
+    "info": "Legendado • Oct. 04, 2018",
+    "audio": "Legendado",
+    "score": "9.2",
+    "ano": "2018",
+    "publicadoEm": "Oct. 04, 2018",
+    "url": "https://meusanimes.blog/a/bakumatsu/",
+    "postId": "37733"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      46
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Bakumatsu",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/tOEc28kvIfo19mEnvLpLnzI1urk.jpg",
+  "score": "9.2",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Oct. 04, 2018",
+  "url": "https://meusanimes.blog/a/bakumatsu/"
+}

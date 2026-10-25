@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "mao-dublado",
+  "capturadoEm": "2026-10-22T09:40:23.152Z",
+  "atualizadoEm": "2026-10-22T09:40:23.152Z",
+  "catalogo": {
+    "slug": "a/mao-dublado",
+    "titulo": "Mao Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+    "info": "Dublado • Apr. 04, 2026",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 04, 2026",
+    "url": "https://meusanimes.blog/a/mao-dublado/",
+    "postId": "96568"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Mao Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 04, 2026",
+  "url": "https://meusanimes.blog/a/mao-dublado/"
+}

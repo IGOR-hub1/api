@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "himegoto",
+  "capturadoEm": "2026-10-22T09:51:08.660Z",
+  "atualizadoEm": "2026-10-22T09:51:08.660Z",
+  "catalogo": {
+    "slug": "a/himegoto",
+    "titulo": "Himegoto",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/cfNgyiz8bX6GxpiH9rP66h5n2Gp.jpg",
+    "info": "Legendado • Jul. 07, 2014",
+    "audio": "Legendado",
+    "score": "5.724",
+    "ano": "2014",
+    "publicadoEm": "Jul. 07, 2014",
+    "url": "https://meusanimes.blog/a/himegoto/",
+    "postId": "61359"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      28
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Himegoto",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/cfNgyiz8bX6GxpiH9rP66h5n2Gp.jpg",
+  "score": "5.724",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jul. 07, 2014",
+  "url": "https://meusanimes.blog/a/himegoto/"
+}

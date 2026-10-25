@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "yona-of-the-dawn",
+  "capturadoEm": "2026-10-22T09:51:06.668Z",
+  "atualizadoEm": "2026-10-22T09:51:06.668Z",
+  "catalogo": {
+    "slug": "a/yona-of-the-dawn",
+    "titulo": "Yona of the Dawn (Akatsuki no Yona)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/uF11jqAUCXJzG5aLihc8My4IIgc.jpg",
+    "info": "Legendado • Oct. 07, 2014",
+    "audio": "Legendado",
+    "score": "8.349",
+    "ano": "2014",
+    "publicadoEm": "Oct. 07, 2014",
+    "url": "https://meusanimes.blog/a/yona-of-the-dawn/",
+    "postId": "61472"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      27
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Yona of the Dawn (Akatsuki no Yona)",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/uF11jqAUCXJzG5aLihc8My4IIgc.jpg",
+  "score": "8.349",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Oct. 07, 2014",
+  "url": "https://meusanimes.blog/a/yona-of-the-dawn/"
+}

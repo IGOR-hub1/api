@@ -1,0 +1,428 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+  "capturadoEm": "2026-10-22T09:48:10.894Z",
+  "atualizadoEm": "2026-10-22T22:48:35.882Z",
+  "catalogo": {
+    "slug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+    "titulo": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9sfqKo6Xh7vOqYqmjoKPvSgVLCC.jpg",
+    "info": "Legendado • Apr. 03, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 03, 2026",
+    "url": "https://meusanimes.blog/a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru/",
+    "postId": "81338"
+  },
+  "detalhes": {
+    "slug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+    "titulo": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9sfqKo6Xh7vOqYqmjoKPvSgVLCC.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/9sfqKo6Xh7vOqYqmjoKPvSgVLCC.jpg",
+    "sinopse": "Monster Eater, Rudd não é ninguém — apenas um aventureiro de Rank E com um talento aparentemente inútil de imunidade a status. Um pária em uma cidade obcecada por explorar labirintos, ele mal consegue sobreviver trabalhando como um “catador imundo”, lidando com a política das guildas e aventureiros traiçoeiros apenas para continuar vivo. Mas quando uma traição o deixa à beira da morte, sem suprimentos ou ajuda, ele faz o impensável e consome a carne de monstros derrotados…",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 03, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/w9xGqPcC2U4m3FyRT3bwgW8OzJL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 1 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-2",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-2/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:48:35.882Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3LVdwlZo7kr7je3k6rmKPls1wP6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 2 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-1",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-1/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-3",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-3/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:48:31.353Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/dklEhnMTpcZ7UlpQags3rBdd8Ry.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 3 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-2",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-2/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-4",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-4/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:48:27.332Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gPSs1ebppBhCOxS8ses1CSdQmhv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 4 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-3",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-3/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-5",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-5/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:48:23.234Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/wztwg7CCsmVlB4OrZfddxSu2T6J.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 5 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-4",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-4/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-6",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-6/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:48:18.968Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/ozIfZkcUHDSz5bpUZRhqZF3d5mp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 6 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-5",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-5/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-7",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-7/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:48:14.853Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/y0JEoULNOOpZbe2SVzG1OWen2AN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 7 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-6",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-6/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-8",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-8/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:48:10.687Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/AbZimqTJJssGgepYCo27S3Sk92Q.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 8 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-7",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-7/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-9",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-9/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:48:06.569Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/dwRM7QaA93CrJW3S5ikLG0RXzbB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 9 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-8",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-8/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-10",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-10/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:48:02.130Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/5Kwzniej3pVkoXZKdU3tvBTBMbW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 10 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-9",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-9/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-11",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-11/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:47:57.997Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/kqcxsHKFpsYEMopz8SwwgpD4OqH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 11 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-10",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-10/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-12",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-12/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:47:53.860Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/21wn7L29axB9bmBnjVDGj16ULni.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru: 1 Episodio 12 Online",
+        "animeSlug": "a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-11",
+          "link": "https://meusanimes.blog/e/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru-episodio-11/",
+          "nome": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/310921/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:47:49.693Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/310921/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/310921/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      14
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T22:47:44.941Z"
+  },
+  "titulo": "Mamonogurai no Boukensha Ore dake Mamono wo Kuratte Tsuyoku Naru",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9sfqKo6Xh7vOqYqmjoKPvSgVLCC.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 03, 2026",
+  "url": "https://meusanimes.blog/a/mamonogurai-no-boukensha-ore-dake-mamono-wo-kuratte-tsuyoku-naru/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/9sfqKo6Xh7vOqYqmjoKPvSgVLCC.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Monster Eater, Rudd não é ninguém — apenas um aventureiro de Rank E com um talento aparentemente inútil de imunidade a status. Um pária em uma cidade obcecada por explorar labirintos, ele mal consegue sobreviver trabalhando como um “catador imundo”, lidando com a política das guildas e aventureiros traiçoeiros apenas para continuar vivo. Mas quando uma traição o deixa à beira da morte, sem suprimentos ou ajuda, ele faz o impensável e consome a carne de monstros derrotados…"
+}

@@ -1,0 +1,865 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "mushishi-dublado",
+  "capturadoEm": "2026-10-22T08:11:47.252Z",
+  "atualizadoEm": "2026-10-22T09:43:35.173Z",
+  "catalogo": {
+    "slug": "a/mushishi-dublado",
+    "titulo": "Mushishi Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/m7jn2e8Rt1Vwv3kiH3D0amypImJ.jpg",
+    "info": "Dublado • Oct. 23, 2005",
+    "audio": "Dublado",
+    "ano": "2005",
+    "publicadoEm": "Oct. 23, 2005",
+    "url": "https://meusanimes.blog/a/mushishi-dublado/",
+    "postId": "58590"
+  },
+  "detalhes": {
+    "slug": "a/mushishi-dublado",
+    "titulo": "Mushishi Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/m7jn2e8Rt1Vwv3kiH3D0amypImJ.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/11/m7jn2e8Rt1Vwv3kiH3D0amypImJ.jpg",
+    "sinopse": "Há criaturas conhecidas apenas como “Mushi” cujas habilidades entram no espectro sobrenatural. Embora sua existência e aparência não sejam conhecidas à maioria dos humanos ao seu redor, algumas poucas pessoas os conhecem, como Ginko, um Mushi-shi que viaja investigando para descobrir mais sobre os Mushi. Em sua jornada de descobertas e novos entendimentos, ele ajuda pessoas que têm problemas causados pelos Mushi…",
+    "generos": [
+      "Drama",
+      "Fantasia",
+      "Mistério",
+      "Seinen",
+      "Slice Of Life",
+      "Sobrenatural"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2005",
+    "publicadoEm": "Oct. 23, 2005",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/mushishi-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 23, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/CnJlK033C4ipsWnxgq5NDC9pfx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-2/",
+          "nome": "Mushishi Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:37.147Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 30, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/9p2plnvuyOTZz7qmxqcQcTGxiR6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-1/",
+          "nome": "Mushishi Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-3/",
+          "nome": "Mushishi Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:33.076Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Nov. 06, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/z52RTOZvTWQ81TezyiFrSHZ2Ygv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-2/",
+          "nome": "Mushishi Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-4/",
+          "nome": "Mushishi Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:28.982Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Nov. 13, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/9mLFX99hO4KQT5cxwifbwW2Acs1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-3/",
+          "nome": "Mushishi Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-5/",
+          "nome": "Mushishi Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:24.918Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 20, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/9kcxm5f7aWknWbRKE2UbHg1Jfxy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-4/",
+          "nome": "Mushishi Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-6/",
+          "nome": "Mushishi Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:20.863Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 27, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/8oPtnNKUZX2hGxBiIroE9j60coW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-5/",
+          "nome": "Mushishi Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-7/",
+          "nome": "Mushishi Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:16.775Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Dec. 04, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/q2uZgG85nMT2CUxxganVkruG3BZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-6/",
+          "nome": "Mushishi Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-8/",
+          "nome": "Mushishi Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:12.670Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Dec. 11, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/bkyKaMnaH0VWiVYLibPbfVBkmG1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-7/",
+          "nome": "Mushishi Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-9/",
+          "nome": "Mushishi Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:08.644Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 18, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/8QI8ZsYfHexfS0dVLj0nDLfcaTv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-8/",
+          "nome": "Mushishi Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-10/",
+          "nome": "Mushishi Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:04.587Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jan. 08, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/8EKOzQSFSnGTigCoKYowRvuJ8Wf.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-9/",
+          "nome": "Mushishi Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-11/",
+          "nome": "Mushishi Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:13:00.510Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jan. 08, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/mXUpkAeboJ4Bl7VR9b6XYXL5LO9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-10/",
+          "nome": "Mushishi Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-12/",
+          "nome": "Mushishi Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:56.380Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jan. 15, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/oH0YSSSf3c8O8n8FEuzvkRplsz0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-11/",
+          "nome": "Mushishi Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-13/",
+          "nome": "Mushishi Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:52.298Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 22, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/xaJQ1Bw8VEGwZ11tyHcPv4sXGga.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-12/",
+          "nome": "Mushishi Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-14/",
+          "nome": "Mushishi Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:48.270Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 29, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/AvSVWh27RE7KvMTRQo4xpQEfTY6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-13/",
+          "nome": "Mushishi Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-15/",
+          "nome": "Mushishi Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:44.201Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Feb. 05, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/k9Y2rRLNj68I5ErdLXghpuABkzc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-14/",
+          "nome": "Mushishi Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-16/",
+          "nome": "Mushishi Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:40.108Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Feb. 12, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/aKTgK0hZ8mcHapXXh0lSVvIbpqT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-15/",
+          "nome": "Mushishi Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-17/",
+          "nome": "Mushishi Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:36.043Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 19, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/oXiZ61BgZly8ux2Z91HhLs3Q9qv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-16/",
+          "nome": "Mushishi Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-18/",
+          "nome": "Mushishi Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:31.988Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 26, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/aTHMSsw29k5OP4TlgYs5fENfvrU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-17/",
+          "nome": "Mushishi Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-19/",
+          "nome": "Mushishi Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:27.931Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Mar. 05, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/pedIX3rQJKBT4r6mVkLbWqWn8oc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-18/",
+          "nome": "Mushishi Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-20/",
+          "nome": "Mushishi Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:23.871Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Mar. 12, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/g8ft68nOORnIOCeXlT73Nze04A7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-19/",
+          "nome": "Mushishi Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-21/",
+          "nome": "Mushishi Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:19.255Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "May. 14, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/g5UeGOjp6W9n41knY1OpuaAMYyl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-20/",
+          "nome": "Mushishi Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-22/",
+          "nome": "Mushishi Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:15.199Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "May. 21, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/5vvT4ikRvyBS1LP2rgNLpgc9qlv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-21/",
+          "nome": "Mushishi Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-23/",
+          "nome": "Mushishi Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:10.561Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "May. 28, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/nli0jz1ikK96BbqUuOJ8cFiFPn9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-22/",
+          "nome": "Mushishi Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-24/",
+          "nome": "Mushishi Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:06.461Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Jun. 04, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/qQPwKCzgqgJosB8FascM1hqMu3B.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-23/",
+          "nome": "Mushishi Dublado 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-25/",
+          "nome": "Mushishi Dublado 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:12:02.388Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Jun. 11, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/iZqX408iaQTmPZ7OCEyTFIID2Pe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 25 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-24/",
+          "nome": "Mushishi Dublado 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-26",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-26/",
+          "nome": "Mushishi Dublado 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:11:58.296Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Jun. 18, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/mEOOLxl9dwabBGY2XtR2UxRS5Zu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mushishi Dublado: 1 Episodio 26 Online",
+        "animeSlug": "a/mushishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/26/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/mushishi-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/mushishi-dublado-1-episodio-25/",
+          "nome": "Mushishi Dublado 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/268671/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:11:54.080Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/268671/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/268671/1/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 26,
+    "totalEpisodios": 26,
+    "detalhesColetadosEm": "2026-10-22T08:11:47.252Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 26
+  },
+  "titulo": "Mushishi Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/m7jn2e8Rt1Vwv3kiH3D0amypImJ.jpg",
+  "audio": "Dublado",
+  "ano": "2005",
+  "publicadoEm": "Oct. 23, 2005",
+  "url": "https://meusanimes.blog/a/mushishi-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/11/m7jn2e8Rt1Vwv3kiH3D0amypImJ.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "Há criaturas conhecidas apenas como “Mushi” cujas habilidades entram no espectro sobrenatural. Embora sua existência e aparência não sejam conhecidas à maioria dos humanos ao seu redor, algumas poucas pessoas os conhecem, como Ginko, um Mushi-shi que viaja investigando para descobrir mais sobre os Mushi. Em sua jornada de descobertas e novos entendimentos, ele ajuda pessoas que têm problemas causados pelos Mushi…"
+}

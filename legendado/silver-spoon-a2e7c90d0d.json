@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "silver-spoon",
+  "capturadoEm": "2026-10-22T09:49:30.709Z",
+  "atualizadoEm": "2026-10-22T09:49:30.709Z",
+  "catalogo": {
+    "slug": "a/silver-spoon",
+    "titulo": "Silver Spoon",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/vK7o0CUopJpxVXQOI7oSDeED33M.jpg",
+    "info": "Legendado • Jul. 12, 2013",
+    "audio": "Legendado",
+    "score": "7.771",
+    "ano": "2013",
+    "publicadoEm": "Jul. 12, 2013",
+    "url": "https://meusanimes.blog/a/silver-spoon/",
+    "postId": "69016"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Silver Spoon",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/vK7o0CUopJpxVXQOI7oSDeED33M.jpg",
+  "score": "7.771",
+  "audio": "Legendado",
+  "ano": "2013",
+  "publicadoEm": "Jul. 12, 2013",
+  "url": "https://meusanimes.blog/a/silver-spoon/"
+}

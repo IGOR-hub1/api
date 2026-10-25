@@ -1,0 +1,2020 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mahou-shoujo-lyrical-nanoha",
+  "capturadoEm": "2026-10-22T09:47:01.559Z",
+  "atualizadoEm": "2026-10-22T20:01:06.617Z",
+  "catalogo": {
+    "slug": "a/mahou-shoujo-lyrical-nanoha",
+    "titulo": "Mahou Shoujo Lyrical Nanoha",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/oCyNR085MvIwTap6A4txgFWEGEm.jpg",
+    "info": "Legendado • Oct. 02, 2004",
+    "audio": "Legendado",
+    "score": "6.917",
+    "ano": "2004",
+    "publicadoEm": "Oct. 02, 2004",
+    "url": "https://meusanimes.blog/a/mahou-shoujo-lyrical-nanoha/",
+    "postId": "88118"
+  },
+  "detalhes": {
+    "slug": "a/mahou-shoujo-lyrical-nanoha",
+    "titulo": "Mahou Shoujo Lyrical Nanoha",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/oCyNR085MvIwTap6A4txgFWEGEm.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/oCyNR085MvIwTap6A4txgFWEGEm.jpg",
+    "sinopse": "Yuuno Scrya é um mago de um planeta distante que tenta consertar o problema que começou quando as Jewel Seeds foram acidentalmente espalhadas ao redor do mundo. Numa tentativa falha de selar uma seed propriamente, ele vaga pela Terra na forma de um furão. No entanto, sua batalha não acabará até que ele alcance a Terra e ele precisará que alguém sele as seeds para ele. Takamachi Nanoha ouve seu chamado telepático por ajuda e vai ao seu encontro para ajudá-lo. Quando lhe é dado uma pérola mágica conhecida como Raising Heart ela é capaz de se transformar na Magical Girl Lyrical. Para ajudar Yuuno ela precisará selar as 21 Jewel Seeds, mas Fate irá interferir para impedir que Nanoha realize seu objetivo.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Drama",
+      "Ficção científica",
+      "Magia",
+      "Shoujo"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2004",
+    "publicadoEm": "Oct. 02, 2004",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/mahou-shoujo-lyrical-nanoha/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 02, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/djAgt8hjIGyuq4wUPRFHaz85EGb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 1 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-2",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-2/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:01:06.617Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 09, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/nU3INmskRg9FnYcEnxL3PyFkAxY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 2 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-1",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-1/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-3",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-3/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:01:02.469Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 16, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/eCJCiWtJv3qCIXwLohm9Zi98na1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 3 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-2",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-2/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-4",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-4/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:58.353Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 23, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cv2cTSUDWbxdyXitrp4wDquAc6N.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 4 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-3",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-3/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-5",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-5/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:54.221Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 30, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/vh0sUNu1RiTjJvKiJmJVEubDvvF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 5 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-4",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-4/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-6",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-6/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:50.039Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 06, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/pF2W7gBDQfcn1fAWNCDeBO6VwUS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 6 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-5",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-5/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-7",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-7/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:45.884Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 13, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/oyC1VzCeNQXMjxiwSuVTKus2REU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 7 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-6",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-6/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-8",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-8/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:41.703Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 20, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/uLfWoMAPwNEqYrxcDuAxnRFiR9b.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 8 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-7",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-7/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-9",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-9/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:37.551Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 27, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/6jRRCdiAh7p5qPBBkIvo8hYudwS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 9 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-8",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-8/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-10",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-10/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:33.389Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 04, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/uCJHhQXRKNRrUulq0M5Ndr01TZV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 10 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-9",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-9/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-11",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-11/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:29.277Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 11, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/eP4fUGKUfLbU9njm0g80DgKQii7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 11 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-10",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-10/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-12",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-12/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:25.092Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 18, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/8iYUaeydQfERiQoEw4yc5mQWJ02.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 12 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-11",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-11/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-13",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-13/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:20.951Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 25, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/7Fax3pK4wfxyoLOTcrSXiXkEXTY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 1 Episodio 13 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-1-episodio-12",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-1-episodio-12/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 1 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:16.678Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 02, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/ZEZiK4dEvKSLgYBsA6wnW4zjq7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 1 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-2",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-2/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:12.460Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 09, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/q8EgdZTAnttUwlxd2zQFIDrfkDz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 2 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-1",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-1/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-3",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-3/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:08.309Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 15, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/wPDVa46SuuAWuibrBdnMvPQ1CZc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 3 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-2",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-2/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-4",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-4/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:00:04.063Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 22, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/oLPmMxq9Zxq1z8FrxFt0p0x2N3y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 4 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-3",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-3/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-5",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-5/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:59.345Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 29, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/8ykROJOLNQktP3OKQ8USWSZDVM3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 5 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-4",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-4/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-6",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-6/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:54.740Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 05, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/bxVKLVaVb5F8IzN04SOdvqJt8pe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 6 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-5",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-5/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-7",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-7/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:49.812Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 12, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/gOUuClNDiJBqUihAuNL7aeMQyUp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 7 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-6",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-6/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-8",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-8/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:45.613Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 19, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/b9IIYfb3YayJOEPnaPrTmy1abV0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 8 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-7",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-7/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-9",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-9/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:41.177Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 26, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/3CjFVYGnasZFIR53Q1fMxe8Nh7Q.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 9 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-8",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-8/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-10",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-10/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:36.785Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 03, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4YAG10bisSqlyYsb5pr4Buxiq9k.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 10 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-9",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-9/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-11",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-11/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:32.619Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 10, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/eB2hxmWYPIQ0GHwTTe3KUJLU8Ja.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 11 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-10",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-10/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-12",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-12/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:28.483Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 18, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/32Sn1eLz8WMYydD3xtQHXNR7X7x.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 12 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-11",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-11/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-13",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-13/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:24.292Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 24, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cfijrMn66DKbRnYaXRttCBix3b8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 2 Episodio 13 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-2-episodio-12",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-2-episodio-12/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 2 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:20.155Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 02, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/vJr4pQbZB7H1AXC1e6ulhq3d9zM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 1 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-2",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-2/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:16.037Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 09, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/ywNZ1tBdueL4e1hwulrtTfYF707.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 2 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-1",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-1/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-3",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-3/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:11.801Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 16, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/yhAjcqdcr7AshxkctGUDZy40Bgh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 3 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-2",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-2/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-4",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-4/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:07.605Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 23, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/j1R9ftwcvZQTcQp6XTU87nQffxf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 4 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-3",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-3/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-5",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-5/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:59:03.449Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Apr. 30, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/9y7pwnRjCqMFUj06VSEivMXBU23.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 5 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-4",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-4/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-6",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-6/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:59.195Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "May. 07, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/6K6R5kmlUpaVhljFS9BpH0cgOxO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 6 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-5",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-5/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-7",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-7/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:55.065Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "May. 14, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/HHeBrBBPBGZtUkEFyezvKZQnrN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 7 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-6",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-6/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-8",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-8/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:50.939Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "May. 21, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/fceoDOfQamGx46aYobzXvbA7FrG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 8 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-7",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-7/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-9",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-9/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:46.823Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "May. 28, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/88FY7SEMQpLSaqDgUo03oJlha1i.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 9 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-8",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-8/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-10",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-10/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:42.692Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 04, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cuQdl281bC6iIWjFaIRZBStBuwf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 10 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-9",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-9/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-11",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-11/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:38.484Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 11, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/2tutkeenMyNXT7H5elGdWqeGxIb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 11 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-10",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-10/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-12",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-12/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:34.328Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 18, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/mtQ8KSD0c8ltoVS3mJ96HeZvQHA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 12 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-11",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-11/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-13",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-13/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:30.114Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-13/",
+      "numero": 13,
+      "temporada": 3,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 25, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/7nLaNiSrSKggOhIF7AeqazFSdSC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 13 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-12",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-12/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-14",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-14/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:25.941Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-14/",
+      "numero": 14,
+      "temporada": 3,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 02, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/pddQ3xYKDPHiBYPIEHGccd3DbMQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 14 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-13",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-13/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-15",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-15/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:21.799Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-15/",
+      "numero": 15,
+      "temporada": 3,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 09, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/ujGBqA5pahPhSitIdsBre0Y2UBN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 15 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-14",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-14/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-16",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-16/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:17.600Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-16/",
+      "numero": 16,
+      "temporada": 3,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 16, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/ic0nsV3z1bl2DSbb6jEwb3lzNXR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 16 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-15",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-15/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-17",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-17/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:13.478Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-17/",
+      "numero": 17,
+      "temporada": 3,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 23, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/wf9b3n09R8XOIxrOlyVbEFIQMsr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 17 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-16",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-16/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-18",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-18/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:09.338Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-18/",
+      "numero": 18,
+      "temporada": 3,
+      "nome": "Episódio 18",
+      "descricao": "Jul. 30, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/nVVOwoTANz5wPSQB9MePzbJBD7r.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 18 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-17",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-17/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-19",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-19/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:05.181Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-19/",
+      "numero": 19,
+      "temporada": 3,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 06, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/e0ZpzfKxyIqResM62RsyPq06lZV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 19 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-18",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-18/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-20",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-20/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:58:01.048Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-20/",
+      "numero": 20,
+      "temporada": 3,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 13, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/s5OEEl2jJ0oFSoFHXVtUCDch4XX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 20 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-19",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-19/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-21",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-21/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:56.924Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-21/",
+      "numero": 21,
+      "temporada": 3,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 20, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/rykiKyEazV2HWRKt5a88w4OJNRt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 21 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-20",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-20/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-22",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-22/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:52.816Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-22/",
+      "numero": 22,
+      "temporada": 3,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 27, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/q3TwPNkwpqmprT6rhAUqN32ynqC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 22 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-21",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-21/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-23",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-23/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:48.666Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-23/",
+      "numero": 23,
+      "temporada": 3,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 03, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/fnBwKevlnFBx4n3FXjvFElzJ1R6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 23 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-22",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-22/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-24",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-24/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:44.157Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-24/",
+      "numero": 24,
+      "temporada": 3,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 10, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/28Cb9AUqMYzAYoxsrEZI2RNoUwZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 24 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-23",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-23/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-25",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-25/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:39.966Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-25/",
+      "numero": 25,
+      "temporada": 3,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 17, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/gzA10WmqZX0xGRO53zBEmVnF2DL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 25 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-24",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-24/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-26",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-26/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:35.825Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-26/",
+      "numero": 26,
+      "temporada": 3,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 24, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/sMKOHutz9Ea92WtEn3fISKNOBnC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 3 Episodio 26 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-3-episodio-25",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-3-episodio-25/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 3 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/3/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:31.236Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/3/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/3/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 03, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/jt6A9OJD96VPvp6FuevfBoXtYxr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 1 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-2",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-2/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:27.079Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 10, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/hCTBHx9FU1DeWEy2vlIa8McLLSX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 2 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-1",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-1/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-3",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-3/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:22.957Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 17, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/eqEt1ojJliLOugz86UgW8l4R72P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 3 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-2",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-2/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-4",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-4/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:18.810Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 24, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/qcSMouqs0y8iwk1wkDPqtI8R5lg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 4 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-3",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-3/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-5",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-5/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:14.212Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "May. 01, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/ni2SOTccJ9VeXqNU2kgQ8e4gIMe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 5 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-4",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-4/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-6",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-6/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:10.012Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "May. 08, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/rV2o7zaRQS6DHH84Wh4nuNS6vB1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 6 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-5",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-5/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-7",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-7/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:05.874Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "May. 15, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/zplcn4caGzPLcd7H5Wafylm8JjV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 7 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-6",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-6/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-8",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-8/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:57:01.753Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "May. 22, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/spiaLWezRUsW7nObRHrnhdJDdky.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 8 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-7",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-7/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-9",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-9/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:56:57.423Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "May. 29, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/xFzUhbcD7ksDVwTe8BC6fjF9WAh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 9 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-8",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-8/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-10",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-10/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:56:53.192Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 05, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/sKYs58JNX9M1jSgAL4K3wNAVMJJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 10 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-9",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-9/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-11",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-11/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:56:48.566Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 12, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4UqLmDzmEM2m97g3RsEFPHfloul.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 11 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-10",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-10/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-12",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-12/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:56:44.115Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 19, 2015",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/rUK7AtbxqS4yI2QAq2T68rXWqEm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mahou Shoujo Lyrical Nanoha: 4 Episodio 12 Online",
+        "animeSlug": "a/mahou-shoujo-lyrical-nanoha",
+        "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mahou-shoujo-lyrical-nanoha-4-episodio-11",
+          "link": "https://meusanimes.blog/e/mahou-shoujo-lyrical-nanoha-4-episodio-11/",
+          "nome": "Mahou Shoujo Lyrical Nanoha 4 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/19836/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:56:39.901Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/19836/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/19836/4/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      9
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 64,
+    "totalEpisodios": 64,
+    "midiasColetadas": 0,
+    "iframesColetados": 64,
+    "detalhesColetadosEm": "2026-10-22T19:56:32.037Z"
+  },
+  "titulo": "Mahou Shoujo Lyrical Nanoha",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/oCyNR085MvIwTap6A4txgFWEGEm.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2004",
+  "publicadoEm": "Oct. 02, 2004",
+  "url": "https://meusanimes.blog/a/mahou-shoujo-lyrical-nanoha/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/oCyNR085MvIwTap6A4txgFWEGEm.jpg",
+  "temporadas": 4,
+  "descricao": "Yuuno Scrya é um mago de um planeta distante que tenta consertar o problema que começou quando as Jewel Seeds foram acidentalmente espalhadas ao redor do mundo. Numa tentativa falha de selar uma seed propriamente, ele vaga pela Terra na forma de um furão. No entanto, sua batalha não acabará até que ele alcance a Terra e ele precisará que alguém sele as seeds para ele. Takamachi Nanoha ouve seu chamado telepático por ajuda e vai ao seu encontro para ajudá-lo. Quando lhe é dado uma pérola mágica conhecida como Raising Heart ela é capaz de se transformar na Magical Girl Lyrical. Para ajudar Yuuno ela precisará selar as 21 Jewel Seeds, mas Fate irá interferir para impedir que Nanoha realize seu objetivo."
+}

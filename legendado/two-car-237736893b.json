@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "two-car",
+  "capturadoEm": "2026-10-22T09:53:26.623Z",
+  "atualizadoEm": "2026-10-22T09:53:26.623Z",
+  "catalogo": {
+    "slug": "a/two-car",
+    "titulo": "Two Car",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9RLFNKCvdnHXJr9PO2iqRermW0E.jpg",
+    "info": "Legendado • Oct. 07, 2017",
+    "audio": "Legendado",
+    "score": "3.8",
+    "ano": "2017",
+    "publicadoEm": "Oct. 07, 2017",
+    "url": "https://meusanimes.blog/a/two-car/",
+    "postId": "50462"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      38
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Two Car",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9RLFNKCvdnHXJr9PO2iqRermW0E.jpg",
+  "score": "3.8",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Oct. 07, 2017",
+  "url": "https://meusanimes.blog/a/two-car/"
+}

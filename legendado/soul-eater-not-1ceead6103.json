@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "soul-eater-not",
+  "capturadoEm": "2026-10-22T09:51:07.331Z",
+  "atualizadoEm": "2026-10-22T09:51:07.331Z",
+  "catalogo": {
+    "slug": "a/soul-eater-not",
+    "titulo": "Soul Eater Not!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/ztbotMzXCEqt344bq4Q9dGwD6t0.jpg",
+    "info": "Legendado • Apr. 08, 2014",
+    "audio": "Legendado",
+    "score": "5.71",
+    "ano": "2014",
+    "publicadoEm": "Apr. 08, 2014",
+    "url": "https://meusanimes.blog/a/soul-eater-not/",
+    "postId": "61444"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      27
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Soul Eater Not!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/ztbotMzXCEqt344bq4Q9dGwD6t0.jpg",
+  "score": "5.71",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Apr. 08, 2014",
+  "url": "https://meusanimes.blog/a/soul-eater-not/"
+}

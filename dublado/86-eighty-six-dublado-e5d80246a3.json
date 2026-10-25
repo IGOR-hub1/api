@@ -1,0 +1,763 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "86-eighty-six-dublado",
+  "capturadoEm": "2026-10-22T05:37:40.725Z",
+  "atualizadoEm": "2026-10-22T09:42:49.317Z",
+  "catalogo": {
+    "slug": "a/86-eighty-six-dublado",
+    "titulo": "86 Eighty-Six Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/aEG1ZtdyjDFDtlGqovvAHsAfsR6.jpg",
+    "info": "Dublado • Apr. 11, 2021",
+    "audio": "Dublado",
+    "score": "8.081",
+    "ano": "2021",
+    "publicadoEm": "Apr. 11, 2021",
+    "url": "https://meusanimes.blog/a/86-eighty-six-dublado/",
+    "postId": "74506"
+  },
+  "detalhes": {
+    "slug": "a/86-eighty-six-dublado",
+    "titulo": "86 Eighty-Six Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/aEG1ZtdyjDFDtlGqovvAHsAfsR6.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/aEG1ZtdyjDFDtlGqovvAHsAfsR6.jpg",
+    "sinopse": "Juggernauts, os drones não-tripulados de guerra, desenvolvidos pela República de San Magnolia para conter os ataques dos Legion, os drones autônomos do fronteiriço Império de Giad. Mas os Juggernauts são não-tripulados apenas para a mídia. Na realidade, eles são pilotados pelos Eighty-sixers – humanos tratados como inferiores, e usados como meradas ferramentas. Shin é o capitão do Esquadrão Spearhead, lutando num campo de batalha onde apenas a morte o espera. Lena é uma soldada de elite, encarregada das operações de campo e determinada a tratar os Eighty-sixers com humanidade.",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Ficção científica",
+      "Militar"
+    ],
+    "score": "7",
+    "audio": "Dublado",
+    "ano": "2021",
+    "publicadoEm": "Apr. 11, 2021",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/86-eighty-six-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uPXOau2nKMheRPZKJN1GIEzBjsI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-2/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:39:20.126Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1f67WO3BXBevSKQIVP6IINmI1Bs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-1/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-3/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:39:15.941Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2rmd7VSVoW8VqLeh98G0kbRrUgb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-2/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-4/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:39:11.748Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "May. 02, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/oA2oXwZeEeQKTbJRxioTVUTRMAJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-3/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-5/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:39:07.613Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 09, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/y1A9kF3VTSGbxfJGZRxo2RtyG66.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-4/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-6/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:39:03.190Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 16, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/9vn3UrEXJ7yJ6hrzTlLnOWeTM31.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-5/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-7/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:59.020Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 23, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/33hVP5bomUCDw3plmiAGxYGAe4Q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-6/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-8/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:54.824Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 30, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/rQI724J0LuoIxMA0w6dlIRtuuGB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-7/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-9/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:50.618Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 06, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/zRrkqGwUl846UyQPOVHkWxeY4GK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-8/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-10/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:46.435Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 13, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5MV5HDMTFVSDMzq0r1whJSuq36J.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-9/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-11/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:42.260Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 20, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/gkxgMmkC6wiU70PgfxCUjVmjC3j.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-1-episodio-10/",
+          "nome": "86 Eighty-Six Dublado 1 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:38.053Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 03, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3iiFrTaLSjiq3eAN9S2BKM4nVR0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-2/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:33.893Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 10, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/yqOJC0kX5pRiVwS8mmsC0cxO01a.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-1/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-3/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:29.735Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/k23GDBXas3xfeT3n1AfuYTNOTq5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-2/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-4/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:25.557Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 24, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/rEq1FQXuNYTJ9c7P4Ex6bsL7ZUQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-3/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-5/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:21.421Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 31, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2VYEt4uxVcZ8LU2KjNEWuLp3bNA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-4/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-6/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:17.251Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 07, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/f18YFaHxqEyonsw6ziLtDRXd2mi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-5/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-7/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:13.142Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 21, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cDpBFFgMGTyEZs5cjq6NnssiZf1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-6/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-8/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:08.961Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Dec. 05, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/qK088d03SZe83QirUvnDy2bKYSP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-7/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-9/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:04.782Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 19, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/oG81P6yyh7ECDgFaDi3TeUpeNWy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-8/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-10/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:38:00.599Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 26, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nrqVqHdklGeQTOD4aVUAAeTdGLT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-9/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-11/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:37:56.397Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 13, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/eJipk98y8cZFcu3CqWyoQ8rm2sg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-10/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-12/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:37:52.206Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 20, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/9tAAvAB29vobClzSELQdHGtigvG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "86 Eighty-Six Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/86-eighty-six-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/86-eighty-six-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/86-eighty-six-dublado-2-episodio-11/",
+          "nome": "86 Eighty-Six Dublado 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1005651/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:37:48.000Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1005651/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1005651/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      14
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 23,
+    "totalEpisodios": 23,
+    "detalhesColetadosEm": "2026-10-22T05:37:40.725Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 23
+  },
+  "titulo": "86 Eighty-Six Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/aEG1ZtdyjDFDtlGqovvAHsAfsR6.jpg",
+  "score": "8.081",
+  "audio": "Dublado",
+  "ano": "2021",
+  "publicadoEm": "Apr. 11, 2021",
+  "url": "https://meusanimes.blog/a/86-eighty-six-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/aEG1ZtdyjDFDtlGqovvAHsAfsR6.jpg",
+  "temporadas": 2,
+  "descricao": "Juggernauts, os drones não-tripulados de guerra, desenvolvidos pela República de San Magnolia para conter os ataques dos Legion, os drones autônomos do fronteiriço Império de Giad. Mas os Juggernauts são não-tripulados apenas para a mídia. Na realidade, eles são pilotados pelos Eighty-sixers – humanos tratados como inferiores, e usados como meradas ferramentas. Shin é o capitão do Esquadrão Spearhead, lutando num campo de batalha onde apenas a morte o espera. Lena é uma soldada de elite, encarregada das operações de campo e determinada a tratar os Eighty-sixers com humanidade."
+}

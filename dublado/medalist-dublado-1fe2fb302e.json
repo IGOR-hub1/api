@@ -1,0 +1,731 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "medalist-dublado",
+  "capturadoEm": "2026-10-22T06:29:33.680Z",
+  "atualizadoEm": "2026-10-22T09:43:07.884Z",
+  "catalogo": {
+    "slug": "a/medalist-dublado",
+    "titulo": "Medalist Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/7DXsDnyOTTlqcj1fKrNQz8Ftxco.jpg",
+    "info": "Dublado • Jan. 05, 2025",
+    "audio": "Dublado",
+    "score": "8.297",
+    "ano": "2025",
+    "publicadoEm": "Jan. 05, 2025",
+    "url": "https://meusanimes.blog/a/medalist-dublado/",
+    "postId": "70720"
+  },
+  "detalhes": {
+    "slug": "a/medalist-dublado",
+    "titulo": "Medalist Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/7DXsDnyOTTlqcj1fKrNQz8Ftxco.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/11/7DXsDnyOTTlqcj1fKrNQz8Ftxco.jpg",
+    "sinopse": "Tsukasa Akeuraji, um patinador frustrado, conhece Inori Yuitsuka, que sonha ser patinadora artística. Motivado pela obsessão de Inori no rinque, Tsukasa começa a dar aulas para ela. O talento dela desabrocha, e Tsukasa vira um ótimo mentor. O objetivo da dupla é que Inori seja uma grande medalhista!",
+    "generos": [
+      "Drama",
+      "Esporte",
+      "Seinen"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Jan. 05, 2025",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/medalist-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/vxfl4KY3WsENBT4UkWmNPQBypeQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-2/",
+          "nome": "Medalist Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:31:08.722Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/mHV2TeRnHdXyi8lfkNJ6rqCqele.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-1/",
+          "nome": "Medalist Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-3/",
+          "nome": "Medalist Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:31:04.521Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/8mnOb2PJOdKu5hOzJxvrsyHJxXb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-2/",
+          "nome": "Medalist Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-4/",
+          "nome": "Medalist Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:31:00.295Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 26, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/vb8QVGBQAjZj7KMa1yBubfXrnBV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-3/",
+          "nome": "Medalist Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-5/",
+          "nome": "Medalist Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:56.076Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 02, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/JhcMCDaBj75OLLbwHPQff2EXKE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-4/",
+          "nome": "Medalist Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-6/",
+          "nome": "Medalist Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:51.912Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 09, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/6cuq4KqqrBSjVvYdSR23x539k4i.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-5/",
+          "nome": "Medalist Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-7/",
+          "nome": "Medalist Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:47.763Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 16, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/tcc8PSZp1gq6WvSLSzJFjCwQv5y.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-6/",
+          "nome": "Medalist Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-8/",
+          "nome": "Medalist Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:43.562Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 23, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/zXTqFUDQg73nzdxySgKCJc6pBl3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-7/",
+          "nome": "Medalist Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-9/",
+          "nome": "Medalist Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:39.340Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 02, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/q9WPixamQga1udILcSSmAkRObhm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-8/",
+          "nome": "Medalist Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-10/",
+          "nome": "Medalist Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:35.115Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 09, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ap5L9iXjXu61Pbp4y2HfLxhQnE0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-9/",
+          "nome": "Medalist Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-11/",
+          "nome": "Medalist Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:30.916Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 16, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/8cpxBWE2UzlQaGzTWelOBG8heOF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-10/",
+          "nome": "Medalist Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-12/",
+          "nome": "Medalist Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:26.753Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 23, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/jdk8i784O2dLaHXj5oCkXyhS4N6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-11/",
+          "nome": "Medalist Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-13/",
+          "nome": "Medalist Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:22.548Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Mar. 30, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/9mRRqxuCz3Ad53dLAU2oOXwavz3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/medalist-dublado-1-episodio-12/",
+          "nome": "Medalist Dublado 1 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:18.390Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/8fTzn0yjLNz2RSLtq6OVcE12wv0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-2/",
+          "nome": "Medalist Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:14.201Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Feb. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/skoIluHeke1GKUZArImCyXJy5y4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-1/",
+          "nome": "Medalist Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-3/",
+          "nome": "Medalist Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:09.999Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Feb. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/l84jKKyGffWwAeTVvaA6Q0tn0B9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-2/",
+          "nome": "Medalist Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-4/",
+          "nome": "Medalist Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:05.780Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/8WXfQxYGIlcnFyWaIZNBiBuFeLR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-3/",
+          "nome": "Medalist Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-5/",
+          "nome": "Medalist Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:30:01.575Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/jUVd0GcZGuXfjjpQ7pZAiy4Phsw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-4/",
+          "nome": "Medalist Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-6/",
+          "nome": "Medalist Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:29:57.431Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/7Z1I9gE1cCZi24e2rB0GEImjM3g.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-5/",
+          "nome": "Medalist Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-7/",
+          "nome": "Medalist Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:29:53.249Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/udKwJm5VTnlj6mPfB8lHvNlIeka.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-6/",
+          "nome": "Medalist Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-8/",
+          "nome": "Medalist Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:29:49.027Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/AclVnGjGtsrz2SZpKdHg34RXsRn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-7/",
+          "nome": "Medalist Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-9/",
+          "nome": "Medalist Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:29:44.838Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/medalist-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/10uNfXdOw9CuMJCJoB9VRahidje.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Medalist Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/medalist-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/medalist-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/medalist-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/medalist-dublado-2-episodio-8/",
+          "nome": "Medalist Dublado 2 Episodio 8"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2375291/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:29:40.599Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2375291/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2375291/2/9/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 22,
+    "totalEpisodios": 22,
+    "detalhesColetadosEm": "2026-10-22T06:29:33.680Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 22
+  },
+  "titulo": "Medalist Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/7DXsDnyOTTlqcj1fKrNQz8Ftxco.jpg",
+  "score": "8.297",
+  "audio": "Dublado",
+  "ano": "2025",
+  "publicadoEm": "Jan. 05, 2025",
+  "url": "https://meusanimes.blog/a/medalist-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/11/7DXsDnyOTTlqcj1fKrNQz8Ftxco.jpg",
+  "temporadas": 2,
+  "descricao": "Tsukasa Akeuraji, um patinador frustrado, conhece Inori Yuitsuka, que sonha ser patinadora artística. Motivado pela obsessão de Inori no rinque, Tsukasa começa a dar aulas para ela. O talento dela desabrocha, e Tsukasa vira um ótimo mentor. O objetivo da dupla é que Inori seja uma grande medalhista!"
+}

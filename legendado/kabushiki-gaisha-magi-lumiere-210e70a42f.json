@@ -1,0 +1,794 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kabushiki-gaisha-magi-lumiere",
+  "capturadoEm": "2026-10-22T09:46:28.817Z",
+  "atualizadoEm": "2026-10-22T18:53:34.345Z",
+  "catalogo": {
+    "slug": "a/kabushiki-gaisha-magi-lumiere",
+    "titulo": "Kabushiki Gaisha Magi Lumiere",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rmHEbDIhyCQ4roow3Q0tBOCww6A.jpg",
+    "info": "Legendado • Oct. 04, 2024",
+    "audio": "Legendado",
+    "score": "6.8",
+    "ano": "2024",
+    "publicadoEm": "Oct. 04, 2024",
+    "url": "https://meusanimes.blog/a/kabushiki-gaisha-magi-lumiere/",
+    "postId": "92389"
+  },
+  "detalhes": {
+    "slug": "a/kabushiki-gaisha-magi-lumiere",
+    "titulo": "Kabushiki Gaisha Magi Lumiere",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rmHEbDIhyCQ4roow3Q0tBOCww6A.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/rmHEbDIhyCQ4roow3Q0tBOCww6A.jpg",
+    "sinopse": "Garotas mágicas: fortes, descoladas, o emprego dos sonhos. A universitária Kana Sakuragi está procurando emprego – sem muito sucesso! Um dia ela se vê no meio de um ataque de um Kaii. A corajosa garota mágica Hitomi Koshigaya vai ao seu resgate, e Kana usa sua excelente memória para ajudar. Contratada como garota mágica pela Magilumiere, Kana inicia sua jornada no mercado de trabalho!",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2024",
+    "publicadoEm": "Oct. 04, 2024",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/kabushiki-gaisha-magi-lumiere/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 04, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/pUyN568pVATUiwCou0Z1EHOM7ff.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 1 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-2",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-2/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:53:34.345Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 11, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4AwaO2OT3jv8enFM957oPYNcPXh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 2 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-1",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-1/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-3",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-3/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:53:30.251Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 18, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/5EyaS39uIgHSaIiTFZdOj8LPOdh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 3 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-2",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-2/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-4",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-4/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:53:26.172Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 25, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8Vu502vHybkgUACo7T9LYhkuUAa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 4 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-3",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-3/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-5",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-5/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:53:22.112Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 01, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oiUVTDDCrn6kw8GUcCIeOgzNvrr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 5 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-4",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-4/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-6",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-6/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:53:18.062Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 08, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/jDbPflP3dMtL0mOqCCpsDH9Kyfv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 6 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-5",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-5/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-7",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-7/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:53:13.982Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/aGaLWtkf7QeMxwUjFsBXyYIUZYW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 7 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-6",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-6/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-8",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-8/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:53:09.864Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 22, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/zSmyHReNd7MNCtjmumllikTrjIr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 8 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-7",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-7/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-9",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-9/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:53:05.762Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 29, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oC2pz4e3F82lSePqUeuCbRQBe6s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 9 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-8",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-8/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-10",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-10/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:53:01.673Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 06, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/uSGvzTP6NRa05ng9z9wEEnxlnYy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 10 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-9",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-9/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-11",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-11/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:57.600Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 13, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/1zsLr5xde3VeducuM55D1VvCJs8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 11 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-10",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-10/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-12",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-12/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:53.440Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 20, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/x2KoPM2CVokGbMYwnAVYxIvB4qZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 1 Episodio 12 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-episodio-11",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-episodio-11/",
+          "nome": "Kabushiki Gaisha Magi Lumiere Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:49.331Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/x1mTf4fa07N2mhSByncmLgQQkLx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 1 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-2/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:45.247Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/iecTrR1OD5xUA0lQW07b7sSEBBZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 2 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-1",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-1/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-3",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-3/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:41.165Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/zebxhsLrBtOabqc2zK5opT1pMRX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 3 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-2",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-2/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-4",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-4/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:36.933Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lFNaBWixM702mpkUtUHmPppg7Sp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 4 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-3",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-3/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-5",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-5/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:32.823Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ouK39FFtSHSQLgXqjtChbaV9PMF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 5 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-4",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-4/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-6",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-6/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:28.706Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/g2855YwcD865KNhH9OKnPfZNK0l.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 6 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-5",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-5/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-7",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-7/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:24.647Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/w1p3WeoFcLBrXWsqZTb1KVoTN00.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 7 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-6",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-6/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-8",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-8/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:20.505Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/2xs2XIyWqiLfLHTJOPw2irI84UI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 8 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-7",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-7/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-9",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-9/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:16.167Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/o9LfLJbAFjzqfyH5NL92H82PNkE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 9 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-8",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-8/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-10",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-10/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:12.078Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/xpfvXcAqWSPSqvASYFglB3rA1wu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 10 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-9",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-9/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-11",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-11/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:07.973Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/7wSKzOJ2mpDWA1BtWRGstEn4Jal.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 11 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-10",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-10/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-12",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-12/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:52:03.799Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/u9gL2281YMpa9GBI0LER4CrfXV6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kabushiki Gaisha Magi Lumiere: 2 Episodio 12 Online",
+        "animeSlug": "a/kabushiki-gaisha-magi-lumiere",
+        "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kabushiki-gaisha-magi-lumiere-2-episodio-11",
+          "link": "https://meusanimes.blog/e/kabushiki-gaisha-magi-lumiere-2-episodio-11/",
+          "nome": "Kabushiki Gaisha Magi Lumiere 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/240576/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:51:59.708Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/240576/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/240576/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "midiasColetadas": 0,
+    "iframesColetados": 24,
+    "detalhesColetadosEm": "2026-10-22T18:51:54.203Z"
+  },
+  "titulo": "Kabushiki Gaisha Magi Lumiere",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rmHEbDIhyCQ4roow3Q0tBOCww6A.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2024",
+  "publicadoEm": "Oct. 04, 2024",
+  "url": "https://meusanimes.blog/a/kabushiki-gaisha-magi-lumiere/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/rmHEbDIhyCQ4roow3Q0tBOCww6A.jpg",
+  "temporadas": 2,
+  "descricao": "Garotas mágicas: fortes, descoladas, o emprego dos sonhos. A universitária Kana Sakuragi está procurando emprego – sem muito sucesso! Um dia ela se vê no meio de um ataque de um Kaii. A corajosa garota mágica Hitomi Koshigaya vai ao seu resgate, e Kana usa sua excelente memória para ajudar. Contratada como garota mágica pela Magilumiere, Kana inicia sua jornada no mercado de trabalho!"
+}

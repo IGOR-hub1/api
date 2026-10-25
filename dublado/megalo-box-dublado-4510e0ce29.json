@@ -1,0 +1,888 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "megalo-box-dublado",
+  "capturadoEm": "2026-10-22T05:04:22.236Z",
+  "atualizadoEm": "2026-10-22T09:42:33.746Z",
+  "catalogo": {
+    "slug": "a/megalo-box-dublado",
+    "titulo": "Megalo Box Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/jJNt35kX7Ovxm3zZqt0eaSzwFxO.jpg",
+    "info": "Dublado • Apr. 06, 2018",
+    "audio": "Dublado",
+    "score": "7.941",
+    "ano": "2018",
+    "publicadoEm": "Apr. 06, 2018",
+    "url": "https://meusanimes.blog/a/megalo-box-dublado/",
+    "postId": "75708"
+  },
+  "detalhes": {
+    "slug": "a/megalo-box-dublado",
+    "titulo": "Megalo Box Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/jJNt35kX7Ovxm3zZqt0eaSzwFxO.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/jJNt35kX7Ovxm3zZqt0eaSzwFxO.jpg",
+    "sinopse": "Um jovem sem nome nem passado ganha a vida no ringue brigando em lutas clandestinas de um esporte chamado “Megalobox”.",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Esporte",
+      "Shounen",
+      "Slice Of Life"
+    ],
+    "score": "7",
+    "audio": "Dublado",
+    "ano": "2018",
+    "publicadoEm": "Apr. 06, 2018",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/megalo-box-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 06, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xhojszRsGWu2SGHHalP0NDVDVLu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-2/",
+          "nome": "Megalo Box Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:06:18.982Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 13, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/24xcJ0CHRhN1GMD7S44kYckLug4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-1/",
+          "nome": "Megalo Box Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-3/",
+          "nome": "Megalo Box Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:06:14.812Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 20, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/hp2p8kriHANti09welJfG3S8rdJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-2/",
+          "nome": "Megalo Box Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-4/",
+          "nome": "Megalo Box Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:06:10.702Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 27, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/h0lQw4aJoo8Crx8ll099B052QYK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-3/",
+          "nome": "Megalo Box Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-5/",
+          "nome": "Megalo Box Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:06:06.574Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 04, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xcdib0vOpzzA5oabCWaHoe7GGLn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-4/",
+          "nome": "Megalo Box Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-6/",
+          "nome": "Megalo Box Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:06:02.419Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 11, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/lQV0p5rq8CSN8WxCw63lkUBOs41.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-5/",
+          "nome": "Megalo Box Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-7/",
+          "nome": "Megalo Box Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:58.293Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-6-2/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/yBtcdvmxHBdZY5OTjFgTKaJklo1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-6-2/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-6/",
+          "nome": "Megalo Box Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-8/",
+          "nome": "Megalo Box Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:54.181Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/yBtcdvmxHBdZY5OTjFgTKaJklo1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-6/",
+          "nome": "Megalo Box Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-8/",
+          "nome": "Megalo Box Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:50.015Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 25, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ypvxdCctoAcgsrbVkAqWNJMfyjA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-7/",
+          "nome": "Megalo Box Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-9/",
+          "nome": "Megalo Box Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:45.884Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 01, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/1aMxgywH6cTmrv5fjH35NYptb9P.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-8/",
+          "nome": "Megalo Box Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-10/",
+          "nome": "Megalo Box Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:41.666Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 08, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/lI0KC7lE79Vv79yq1W304YYpHrQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-9/",
+          "nome": "Megalo Box Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-11/",
+          "nome": "Megalo Box Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:37.273Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 15, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xJrjGhU6IGOKF6zgEeQZ45KWkyS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-10/",
+          "nome": "Megalo Box Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-12/",
+          "nome": "Megalo Box Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:33.134Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 22, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/dvi3NX7PRrIOBs0TQDNl32C8ScF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-11/",
+          "nome": "Megalo Box Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-13/",
+          "nome": "Megalo Box Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:28.990Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 29, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/zu9aHh6hIDyCSv8mm7oNXV1MJ20.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-1-episodio-12/",
+          "nome": "Megalo Box Dublado 1 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:24.330Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cW5RGyN0VrbUCCn900GGv9Eu4lb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-2/",
+          "nome": "Megalo Box Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:20.212Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/nn7rnFdsd8hRZ63XUjgVKFu85QG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-1/",
+          "nome": "Megalo Box Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-3/",
+          "nome": "Megalo Box Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:16.086Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/nEHsNtOHcrNijN0d3hQZmu9mm84.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-2/",
+          "nome": "Megalo Box Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-4/",
+          "nome": "Megalo Box Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:11.936Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/9sBZUPuH7FruVj33eQEfHCPexh4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-3/",
+          "nome": "Megalo Box Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-5/",
+          "nome": "Megalo Box Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:07.804Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 02, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/Ajl0eK0TmW6pMDITRY99uUt4guZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-4/",
+          "nome": "Megalo Box Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-6/",
+          "nome": "Megalo Box Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:05:03.658Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 09, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/Aq2Gvngm9pSnQIl6NfYqwBhKLts.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-5/",
+          "nome": "Megalo Box Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-7/",
+          "nome": "Megalo Box Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:04:59.513Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 16, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/2mAuBOP3MIOqe3zNUlW2i5Am19Q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-6/",
+          "nome": "Megalo Box Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-8/",
+          "nome": "Megalo Box Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:04:55.268Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 23, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/1XBGxJ5DHdQIG2YcrVXCXKd02Us.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-7/",
+          "nome": "Megalo Box Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-9/",
+          "nome": "Megalo Box Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:04:51.063Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "May. 30, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/mDJ4LzvG3chQdbbiCijBoM0Nclx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-8/",
+          "nome": "Megalo Box Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-10/",
+          "nome": "Megalo Box Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:04:46.905Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 06, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/hqnb2V0f6aPMJY4M2K17dhH4ima.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-9/",
+          "nome": "Megalo Box Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-11/",
+          "nome": "Megalo Box Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:04:42.777Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 13, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cxKCwQlnQv7MmW0XXoxHeIuVZOz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-10/",
+          "nome": "Megalo Box Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-12/",
+          "nome": "Megalo Box Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:04:38.654Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 20, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/yEJTNycKJWJd7cj9XXF7vKN2exS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-11/",
+          "nome": "Megalo Box Dublado 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-13",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-13/",
+          "nome": "Megalo Box Dublado 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:04:34.542Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 27, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/bemql9pD8E1Oere1ttJNxXLGXcH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Megalo Box Dublado: 2 Episodio 13 Online",
+        "animeSlug": "a/megalo-box-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/megalo-box-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/megalo-box-dublado-2-episodio-12/",
+          "nome": "Megalo Box Dublado 2 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/779391/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:04:30.053Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/779391/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/779391/2/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      13
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 27,
+    "totalEpisodios": 27,
+    "detalhesColetadosEm": "2026-10-22T05:04:22.236Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 27
+  },
+  "titulo": "Megalo Box Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/jJNt35kX7Ovxm3zZqt0eaSzwFxO.jpg",
+  "score": "7.941",
+  "audio": "Dublado",
+  "ano": "2018",
+  "publicadoEm": "Apr. 06, 2018",
+  "url": "https://meusanimes.blog/a/megalo-box-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/jJNt35kX7Ovxm3zZqt0eaSzwFxO.jpg",
+  "temporadas": 2,
+  "descricao": "Um jovem sem nome nem passado ganha a vida no ringue brigando em lutas clandestinas de um esporte chamado “Megalobox”."
+}

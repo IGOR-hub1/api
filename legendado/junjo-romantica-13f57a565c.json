@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "junjo-romantica",
+  "capturadoEm": "2026-10-22T09:48:58.313Z",
+  "atualizadoEm": "2026-10-22T09:48:58.313Z",
+  "catalogo": {
+    "slug": "a/junjo-romantica",
+    "titulo": "Junjo Romantica",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/uk64dnQxQaqlWHJiP9M2oQdoedN.jpg",
+    "info": "Legendado • Apr. 10, 2008",
+    "audio": "Legendado",
+    "score": "6.861",
+    "ano": "2008",
+    "publicadoEm": "Apr. 10, 2008",
+    "url": "https://meusanimes.blog/a/junjo-romantica/",
+    "postId": "72796"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Junjo Romantica",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/uk64dnQxQaqlWHJiP9M2oQdoedN.jpg",
+  "score": "6.861",
+  "audio": "Legendado",
+  "ano": "2008",
+  "publicadoEm": "Apr. 10, 2008",
+  "url": "https://meusanimes.blog/a/junjo-romantica/"
+}

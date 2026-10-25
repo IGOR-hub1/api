@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kiznaiver",
+  "capturadoEm": "2026-10-22T09:52:36.770Z",
+  "atualizadoEm": "2026-10-22T09:52:36.770Z",
+  "catalogo": {
+    "slug": "a/kiznaiver",
+    "titulo": "Kiznaiver",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2CWwdv8rO06DUx0VKfhrGpYAAfd.jpg",
+    "info": "Legendado • Apr. 09, 2016",
+    "audio": "Legendado",
+    "score": "7.707",
+    "ano": "2016",
+    "publicadoEm": "Apr. 09, 2016",
+    "url": "https://meusanimes.blog/a/kiznaiver/",
+    "postId": "54352"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      34
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kiznaiver",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2CWwdv8rO06DUx0VKfhrGpYAAfd.jpg",
+  "score": "7.707",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 09, 2016",
+  "url": "https://meusanimes.blog/a/kiznaiver/"
+}

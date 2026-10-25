@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "love-live-superstar",
+  "capturadoEm": "2026-10-22T09:49:03.058Z",
+  "atualizadoEm": "2026-10-22T09:49:03.058Z",
+  "catalogo": {
+    "slug": "a/love-live-superstar",
+    "titulo": "Love Live! Superstar!!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/4KoXFWudJb389qH0EoAdRq8xtvs.jpg",
+    "info": "Legendado • Jul. 11, 2021",
+    "audio": "Legendado",
+    "score": "8.2",
+    "ano": "2021",
+    "publicadoEm": "Jul. 11, 2021",
+    "url": "https://meusanimes.blog/a/love-live-superstar/",
+    "postId": "72370"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Love Live! Superstar!!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/4KoXFWudJb389qH0EoAdRq8xtvs.jpg",
+  "score": "8.2",
+  "audio": "Legendado",
+  "ano": "2021",
+  "publicadoEm": "Jul. 11, 2021",
+  "url": "https://meusanimes.blog/a/love-live-superstar/"
+}

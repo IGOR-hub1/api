@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tetsunabe-no-jan",
+  "capturadoEm": "2026-10-22T09:46:25.488Z",
+  "atualizadoEm": "2026-10-22T18:47:27.767Z",
+  "catalogo": {
+    "slug": "a/tetsunabe-no-jan",
+    "titulo": "Tetsunabe no Jan!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/qD4qUOIX2wF67tnhhCWVbkwQuhs.jpg",
+    "info": "Legendado • Jul. 05, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "url": "https://meusanimes.blog/a/tetsunabe-no-jan/",
+    "postId": "92485"
+  },
+  "detalhes": {
+    "slug": "a/tetsunabe-no-jan",
+    "titulo": "Tetsunabe no Jan!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/qD4qUOIX2wF67tnhhCWVbkwQuhs.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/qD4qUOIX2wF67tnhhCWVbkwQuhs.jpg",
+    "sinopse": "A história gira em torno de um arrogante chef colegial que vê a culinária como um campo de batalha, em contraste com seu rival, que cozinha com o coração.",
+    "generos": [
+      "Ação",
+      "Comédia"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/tetsunabe-no-jan/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/nfwjTT3e1ATo04BfE83s6eRAPCP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 1 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-2",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-2/",
+          "nome": "Tetsunabe no Jan! Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:47:27.767Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rhBdbr6NDIPYtkFQFCjgScWl1cc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 2 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-1",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-1/",
+          "nome": "Tetsunabe no Jan! Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-3",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-3/",
+          "nome": "Tetsunabe no Jan! Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:47:23.614Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lsyjYbCxOX12D1hVxZIuYE2WAsr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 3 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-2",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-2/",
+          "nome": "Tetsunabe no Jan! Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-4",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-4/",
+          "nome": "Tetsunabe no Jan! Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:47:19.510Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/x3ISrefcnP88EuUh048JJF765zb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 4 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-3",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-3/",
+          "nome": "Tetsunabe no Jan! Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-5",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-5/",
+          "nome": "Tetsunabe no Jan! Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:47:15.422Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/nfwjTT3e1ATo04BfE83s6eRAPCP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 5 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-4",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-4/",
+          "nome": "Tetsunabe no Jan! Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-6",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-6/",
+          "nome": "Tetsunabe no Jan! Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:47:10.781Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/qWTKO6jvSqEKLnDHJtQRAg6S3bo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 6 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-5",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-5/",
+          "nome": "Tetsunabe no Jan! Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-7",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-7/",
+          "nome": "Tetsunabe no Jan! Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:47:06.643Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/vL9RQbJo42H0zVSIpaOG0t26gF5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 7 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-6",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-6/",
+          "nome": "Tetsunabe no Jan! Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-8",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-8/",
+          "nome": "Tetsunabe no Jan! Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:47:02.526Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/6aDKSTUpGKA8lFPxZrQbf6va98A.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 8 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-7",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-7/",
+          "nome": "Tetsunabe no Jan! Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-9",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-9/",
+          "nome": "Tetsunabe no Jan! Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:58.414Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/r8lmNPWOpLD1j9XWf7fCuDWIZht.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 9 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-8",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-8/",
+          "nome": "Tetsunabe no Jan! Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-10",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-10/",
+          "nome": "Tetsunabe no Jan! Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:54.220Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rhBdbr6NDIPYtkFQFCjgScWl1cc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 10 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-9",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-9/",
+          "nome": "Tetsunabe no Jan! Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-11",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-11/",
+          "nome": "Tetsunabe no Jan! Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:49.479Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/7uRWFcvmCrgukDGjoTJGjRSvePD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 11 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-10",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-10/",
+          "nome": "Tetsunabe no Jan! Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-12",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-12/",
+          "nome": "Tetsunabe no Jan! Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:45.396Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/jqHRhu83EqtewL9rCLlNBTbgO6Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tetsunabe no Jan!: 1 Episodio 12 Online",
+        "animeSlug": "a/tetsunabe-no-jan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/tetsunabe-no-jan-episodio-11",
+          "link": "https://meusanimes.blog/e/tetsunabe-no-jan-episodio-11/",
+          "nome": "Tetsunabe no Jan! Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308403/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:46:40.850Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308403/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308403/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T18:46:36.055Z"
+  },
+  "titulo": "Tetsunabe no Jan!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/qD4qUOIX2wF67tnhhCWVbkwQuhs.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 05, 2026",
+  "url": "https://meusanimes.blog/a/tetsunabe-no-jan/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/qD4qUOIX2wF67tnhhCWVbkwQuhs.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "A história gira em torno de um arrogante chef colegial que vê a culinária como um campo de batalha, em contraste com seu rival, que cozinha com o coração."
+}

@@ -1,0 +1,795 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "7seeds",
+  "capturadoEm": "2026-10-22T09:12:58.076Z",
+  "atualizadoEm": "2026-10-22T09:43:49.981Z",
+  "catalogo": {
+    "slug": "a/7seeds",
+    "titulo": "7Seeds",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/d84XDdYib5nEKvHm2HAh2itIgBY.jpg",
+    "info": "Dublado • Jun. 28, 2019",
+    "audio": "Dublado",
+    "score": "7.793",
+    "ano": "2019",
+    "publicadoEm": "Jun. 28, 2019",
+    "url": "https://meusanimes.blog/a/7seeds/",
+    "postId": "27308"
+  },
+  "detalhes": {
+    "slug": "a/7seeds",
+    "titulo": "7Seeds",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/d84XDdYib5nEKvHm2HAh2itIgBY.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/d84XDdYib5nEKvHm2HAh2itIgBY.jpg",
+    "sinopse": "7Seeds Online , A tímida Natsu desperta fazendo parte de um grupo escolhido para garantir a sobrevivência da humanidade. Juntos, eles precisam seguir suas vidas na Terra transformada.",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Ficção científica",
+      "Romance",
+      "Shoujo"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2019",
+    "publicadoEm": "Jun. 28, 2019",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/7seeds/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/dg4H9eZtMg57fmv0dLtC1n374QG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 1 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-2",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-2/",
+          "nome": "7Seeds 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:39.743Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3FN7naOkEG63yoWwHe6CKiBna1C.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 2 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-1",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-1/",
+          "nome": "7Seeds 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-3",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-3/",
+          "nome": "7Seeds 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:35.656Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/7PiVeX7U7BI2QGSrYv6sumd2bsw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 3 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-2",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-2/",
+          "nome": "7Seeds 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-4",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-4/",
+          "nome": "7Seeds 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:31.497Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/g070nhfY0eNLL5skLqr8qWYJ9Kl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 4 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-3",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-3/",
+          "nome": "7Seeds 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-5",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-5/",
+          "nome": "7Seeds 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:27.412Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5VHKHGXuzc2au4pUHUVpchZnRJK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 5 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-4",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-4/",
+          "nome": "7Seeds 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-6",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-6/",
+          "nome": "7Seeds 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:23.331Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/gk8GYDuhuiwY3dMtzDnzi0K9inm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 6 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-5",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-5/",
+          "nome": "7Seeds 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-7",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-7/",
+          "nome": "7Seeds 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:19.223Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2gDwy6IOUCgXsfxKTrqL7yWJAPp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 7 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-6",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-6/",
+          "nome": "7Seeds 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-8",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-8/",
+          "nome": "7Seeds 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:14.934Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/kYYhy3IbbIOFkrzuAdTtLSD1BrG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 8 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-7",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-7/",
+          "nome": "7Seeds 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-9",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-9/",
+          "nome": "7Seeds 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:10.872Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/4BW2lEGexUrl3Tc6GHkx51Dd6oB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 9 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-8",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-8/",
+          "nome": "7Seeds 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-10",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-10/",
+          "nome": "7Seeds 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:06.760Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/hJKAabVsybK3o3VLaJnc7JFiozL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 10 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-9",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-9/",
+          "nome": "7Seeds 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-11",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-11/",
+          "nome": "7Seeds 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:14:02.681Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/awQIOKsSf1o35PkPDy2ZWq64e7x.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 11 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-10",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-10/",
+          "nome": "7Seeds 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-1-episodio-12",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-12/",
+          "nome": "7Seeds 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:58.548Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 28, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/x1GhVSaKLSe212F0q4uP86xyUaP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 1 Episodio 12 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/7seeds-1-episodio-11",
+          "link": "https://meusanimes.blog/e/7seeds-1-episodio-11/",
+          "nome": "7Seeds 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:54.421Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/sefzhjCLyH2pTYyAzaBuX54mmyz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 1 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-2",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-2/",
+          "nome": "7Seeds 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:50.265Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/gYjjB5Ic8ZcMvfPpiScRDMWfsWn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 2 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-1",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-1/",
+          "nome": "7Seeds 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-3",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-3/",
+          "nome": "7Seeds 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:46.162Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nbVYlyuJhqh4RWqUaFfcmLbhW6H.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 3 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-2",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-2/",
+          "nome": "7Seeds 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-4",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-4/",
+          "nome": "7Seeds 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:42.073Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/AoxYaHI5OiedPG8XQBPPz7RpMkd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 4 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-3",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-3/",
+          "nome": "7Seeds 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-5",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-5/",
+          "nome": "7Seeds 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:37.946Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/xddztpVYWvxVSZ7xoeCj2VKpJCO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 5 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-4",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-4/",
+          "nome": "7Seeds 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-6",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-6/",
+          "nome": "7Seeds 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:33.774Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2V6u170wVtlSrRsjQGGdjJYxYcy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 6 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-5",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-5/",
+          "nome": "7Seeds 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-7",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-7/",
+          "nome": "7Seeds 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:29.655Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nmUSSd2YjGW3qZtmZKKYXP48sKh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 7 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-6",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-6/",
+          "nome": "7Seeds 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-8",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-8/",
+          "nome": "7Seeds 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:25.498Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/hmWdi5wqqXeqyvVgqayL3VyU8SA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 8 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-7",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-7/",
+          "nome": "7Seeds 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-9",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-9/",
+          "nome": "7Seeds 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:21.386Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/i78pwJOEHzVS5hZNX1eBqml9BZ2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 9 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-8",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-8/",
+          "nome": "7Seeds 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-10",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-10/",
+          "nome": "7Seeds 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:17.317Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cUGEIzbHrTdNmOjs747rkXGok.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 10 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-9",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-9/",
+          "nome": "7Seeds 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-11",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-11/",
+          "nome": "7Seeds 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:13.210Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uEidOHzBjetvv9MazeE5lTSJ3xx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 11 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-10",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-10/",
+          "nome": "7Seeds 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/7seeds-2-episodio-12",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-12/",
+          "nome": "7Seeds 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:09.053Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/7seeds-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/dKUA0n1fRnNsR7048ZmCIXjkXXw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "7Seeds: 2 Episodio 12 Online",
+        "animeSlug": "a/7seeds",
+        "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/7seeds-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/7seeds-2-episodio-11",
+          "link": "https://meusanimes.blog/e/7seeds-2-episodio-11/",
+          "nome": "7Seeds 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/85940/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:13:04.972Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/85940/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/85940/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T09:12:58.076Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "7Seeds",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/d84XDdYib5nEKvHm2HAh2itIgBY.jpg",
+  "score": "7.793",
+  "audio": "Dublado",
+  "ano": "2019",
+  "publicadoEm": "Jun. 28, 2019",
+  "url": "https://meusanimes.blog/a/7seeds/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/d84XDdYib5nEKvHm2HAh2itIgBY.jpg",
+  "temporadas": 2,
+  "descricao": "7Seeds Online , A tímida Natsu desperta fazendo parte de um grupo escolhido para garantir a sobrevivência da humanidade. Juntos, eles precisam seguir suas vidas na Terra transformada."
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "gin-no-guardian",
+  "capturadoEm": "2026-10-22T09:54:54.728Z",
+  "atualizadoEm": "2026-10-22T09:54:54.728Z",
+  "catalogo": {
+    "slug": "a/gin-no-guardian",
+    "titulo": "Gin no Guardian",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/2gd8uO8dsW9OaO4TiBPImsZi3ji.jpg",
+    "info": "Legendado • Apr. 01, 2017",
+    "audio": "Legendado",
+    "score": "6.5",
+    "ano": "2017",
+    "publicadoEm": "Apr. 01, 2017",
+    "url": "https://meusanimes.blog/a/gin-no-guardian/",
+    "postId": "40262"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      44
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Gin no Guardian",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/2gd8uO8dsW9OaO4TiBPImsZi3ji.jpg",
+  "score": "6.5",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Apr. 01, 2017",
+  "url": "https://meusanimes.blog/a/gin-no-guardian/"
+}

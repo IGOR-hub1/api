@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kageki-shojo",
+  "capturadoEm": "2026-10-22T09:49:04.420Z",
+  "atualizadoEm": "2026-10-22T09:49:04.420Z",
+  "catalogo": {
+    "slug": "a/kageki-shojo",
+    "titulo": "Kageki Shojo!!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/jee2p5CXSIS9V5Vxx0Uwe9Qr1Hb.jpg",
+    "info": "Legendado • Jul. 04, 2021",
+    "audio": "Legendado",
+    "score": "7.083",
+    "ano": "2021",
+    "publicadoEm": "Jul. 04, 2021",
+    "url": "https://meusanimes.blog/a/kageki-shojo/",
+    "postId": "72298"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kageki Shojo!!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/jee2p5CXSIS9V5Vxx0Uwe9Qr1Hb.jpg",
+  "score": "7.083",
+  "audio": "Legendado",
+  "ano": "2021",
+  "publicadoEm": "Jul. 04, 2021",
+  "url": "https://meusanimes.blog/a/kageki-shojo/"
+}

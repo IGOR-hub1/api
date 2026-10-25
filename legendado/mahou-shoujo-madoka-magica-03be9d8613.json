@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mahou-shoujo-madoka-magica",
+  "capturadoEm": "2026-10-22T09:50:01.864Z",
+  "atualizadoEm": "2026-10-22T09:50:01.864Z",
+  "catalogo": {
+    "slug": "a/mahou-shoujo-madoka-magica",
+    "titulo": "Mahou Shoujo Madoka Magica",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/qYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg",
+    "info": "Legendado • Jan. 07, 2011",
+    "audio": "Legendado",
+    "score": "8.1",
+    "ano": "2011",
+    "publicadoEm": "Jan. 07, 2011",
+    "url": "https://meusanimes.blog/a/mahou-shoujo-madoka-magica/",
+    "postId": "66697"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      23
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Mahou Shoujo Madoka Magica",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/qYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg",
+  "score": "8.1",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Jan. 07, 2011",
+  "url": "https://meusanimes.blog/a/mahou-shoujo-madoka-magica/"
+}

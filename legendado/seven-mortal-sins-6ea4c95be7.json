@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "seven-mortal-sins",
+  "capturadoEm": "2026-10-22T09:54:44.432Z",
+  "atualizadoEm": "2026-10-22T09:54:44.432Z",
+  "catalogo": {
+    "slug": "a/seven-mortal-sins",
+    "titulo": "Seven Mortal Sins",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/aY7Q2MX5O60njeYV4DB0WrYj9ym.jpg",
+    "info": "Legendado • Apr. 15, 2017",
+    "audio": "Legendado",
+    "score": "6.8",
+    "ano": "2017",
+    "publicadoEm": "Apr. 15, 2017",
+    "url": "https://meusanimes.blog/a/seven-mortal-sins/",
+    "postId": "41206"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      43
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Seven Mortal Sins",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/aY7Q2MX5O60njeYV4DB0WrYj9ym.jpg",
+  "score": "6.8",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Apr. 15, 2017",
+  "url": "https://meusanimes.blog/a/seven-mortal-sins/"
+}

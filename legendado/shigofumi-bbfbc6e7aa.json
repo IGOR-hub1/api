@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shigofumi",
+  "capturadoEm": "2026-10-22T09:47:21.666Z",
+  "atualizadoEm": "2026-10-22T20:50:07.320Z",
+  "catalogo": {
+    "slug": "a/shigofumi",
+    "titulo": "Shigofumi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ppzbMcdcPq6sFsB0IKdRf7yhKV8.jpg",
+    "info": "Legendado • Jan. 05, 2008",
+    "audio": "Legendado",
+    "score": "5.5",
+    "ano": "2008",
+    "publicadoEm": "Jan. 05, 2008",
+    "url": "https://meusanimes.blog/a/shigofumi/",
+    "postId": "83930"
+  },
+  "detalhes": {
+    "slug": "a/shigofumi",
+    "titulo": "Shigofumi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ppzbMcdcPq6sFsB0IKdRf7yhKV8.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/ppzbMcdcPq6sFsB0IKdRf7yhKV8.jpg",
+    "sinopse": "A história gira em torno de Fumika, uma jovem mensageira sobrenatural conhecida como Shigofumi. Sua missão é entregar cartas escritas por pessoas falecidas aos destinatários vivos. Cada episódio apresenta uma história independente em que Fumika é encarregada de entregar uma carta específica. As cartas revelam os sentimentos, segredos e arrependimentos dos falecidos, muitas vezes revelando eventos obscuros e trágicos. Fumika, juntamente com seu companheiro misterioso chamado Kanaka, enfrenta situações complexas e emocionais ao lidar com essas mensagens.",
+    "generos": [
+      "Drama",
+      "Fantasia",
+      "Sobrenatural",
+      "Suspense"
+    ],
+    "score": "6",
+    "audio": "Legendado",
+    "ano": "2008",
+    "publicadoEm": "Jan. 05, 2008",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/shigofumi/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 05, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/s9KJyhzR4WsqAu9w0zUEDl4gYDf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 1 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-2",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-2/",
+          "nome": "Shigofumi 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:50:07.320Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 12, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/vx14yJzgHAND9uohQRPEyaTSWud.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 2 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-1",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-1/",
+          "nome": "Shigofumi 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-3",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-3/",
+          "nome": "Shigofumi 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:50:03.100Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 19, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/iANWiEHBybYG0A0tqfGWLJgPnFZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 3 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-2",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-2/",
+          "nome": "Shigofumi 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-4",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-4/",
+          "nome": "Shigofumi 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:58.952Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 26, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/mCThZFlkFdFmbg9phoqCb5FXnVp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 4 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-3",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-3/",
+          "nome": "Shigofumi 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-5",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-5/",
+          "nome": "Shigofumi 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:54.660Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 02, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/2KdcGHsq9DjhpJrr8Pn3StXfZ0o.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 5 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-4",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-4/",
+          "nome": "Shigofumi 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-6",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-6/",
+          "nome": "Shigofumi 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:50.548Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 09, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qiqAnb5oLYVBtLW3RCpvZuYamJq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 6 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-5",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-5/",
+          "nome": "Shigofumi 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-7",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-7/",
+          "nome": "Shigofumi 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:46.224Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 16, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/94AdqUVmkQzXc50UPHEnZuVKQcL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 7 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-6",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-6/",
+          "nome": "Shigofumi 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-8",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-8/",
+          "nome": "Shigofumi 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:42.077Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 23, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/kPud6gE5ZUOc23yutUWJH27KnQI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 8 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-7",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-7/",
+          "nome": "Shigofumi 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-9",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-9/",
+          "nome": "Shigofumi 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:38.014Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 01, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/AhCtyKEnWstYGWsx0YryfV10OfA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 9 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-8",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-8/",
+          "nome": "Shigofumi 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-10",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-10/",
+          "nome": "Shigofumi 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:33.573Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 08, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ezoVSebAZmpbZxWRxslVF2JiBng.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 10 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-9",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-9/",
+          "nome": "Shigofumi 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-11",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-11/",
+          "nome": "Shigofumi 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:29.432Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 15, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/vcccKSNSnDOdLzFV3382CIV3s5a.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 11 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-10",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-10/",
+          "nome": "Shigofumi 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/shigofumi-1-episodio-12",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-12/",
+          "nome": "Shigofumi 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:25.355Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shigofumi-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 22, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/strbiVOv5PTc1ojgVykcnz9hoFE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shigofumi: 1 Episodio 12 Online",
+        "animeSlug": "a/shigofumi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shigofumi-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/shigofumi-1-episodio-11",
+          "link": "https://meusanimes.blog/e/shigofumi-1-episodio-11/",
+          "nome": "Shigofumi 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/89664/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:49:21.247Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/89664/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/89664/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      11
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T20:49:16.583Z"
+  },
+  "titulo": "Shigofumi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ppzbMcdcPq6sFsB0IKdRf7yhKV8.jpg",
+  "score": "6",
+  "audio": "Legendado",
+  "ano": "2008",
+  "publicadoEm": "Jan. 05, 2008",
+  "url": "https://meusanimes.blog/a/shigofumi/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/ppzbMcdcPq6sFsB0IKdRf7yhKV8.jpg",
+  "temporadas": 1,
+  "descricao": "A história gira em torno de Fumika, uma jovem mensageira sobrenatural conhecida como Shigofumi. Sua missão é entregar cartas escritas por pessoas falecidas aos destinatários vivos. Cada episódio apresenta uma história independente em que Fumika é encarregada de entregar uma carta específica. As cartas revelam os sentimentos, segredos e arrependimentos dos falecidos, muitas vezes revelando eventos obscuros e trágicos. Fumika, juntamente com seu companheiro misterioso chamado Kanaka, enfrenta situações complexas e emocionais ao lidar com essas mensagens."
+}

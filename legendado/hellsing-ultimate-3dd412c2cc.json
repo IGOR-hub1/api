@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hellsing-ultimate",
+  "capturadoEm": "2026-10-22T09:54:52.017Z",
+  "atualizadoEm": "2026-10-22T09:54:52.017Z",
+  "catalogo": {
+    "slug": "a/hellsing-ultimate",
+    "titulo": "Hellsing Ultimate",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/lCv4RUTTVO5NShI6q0Ewo8Bd4Ek.jpg",
+    "info": "Legendado • Feb. 10, 2006",
+    "audio": "Legendado",
+    "score": "8.424",
+    "ano": "2006",
+    "publicadoEm": "Feb. 10, 2006",
+    "url": "https://meusanimes.blog/a/hellsing-ultimate/",
+    "postId": "40311"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      44
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Hellsing Ultimate",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/lCv4RUTTVO5NShI6q0Ewo8Bd4Ek.jpg",
+  "score": "8.424",
+  "audio": "Legendado",
+  "ano": "2006",
+  "publicadoEm": "Feb. 10, 2006",
+  "url": "https://meusanimes.blog/a/hellsing-ultimate/"
+}

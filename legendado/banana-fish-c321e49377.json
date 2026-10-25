@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "banana-fish",
+  "capturadoEm": "2026-10-22T09:55:49.459Z",
+  "atualizadoEm": "2026-10-22T09:55:49.459Z",
+  "catalogo": {
+    "slug": "a/banana-fish",
+    "titulo": "Banana Fish",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3GiB5Ybbhzt0ePRR2zgld9R56DB.jpg",
+    "info": "Legendado • Jul. 06, 2018",
+    "audio": "Legendado",
+    "score": "8.584",
+    "ano": "2018",
+    "publicadoEm": "Jul. 06, 2018",
+    "url": "https://meusanimes.blog/a/banana-fish/",
+    "postId": "36140"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      48
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Banana Fish",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3GiB5Ybbhzt0ePRR2zgld9R56DB.jpg",
+  "score": "8.584",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jul. 06, 2018",
+  "url": "https://meusanimes.blog/a/banana-fish/"
+}

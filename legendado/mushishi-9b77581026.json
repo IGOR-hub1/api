@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mushishi",
+  "capturadoEm": "2026-10-22T09:51:39.995Z",
+  "atualizadoEm": "2026-10-22T09:51:39.995Z",
+  "catalogo": {
+    "slug": "a/mushishi",
+    "titulo": "Mushishi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/m7jn2e8Rt1Vwv3kiH3D0amypImJ.jpg",
+    "info": "Legendado • Oct. 23, 2005",
+    "audio": "Legendado",
+    "ano": "2005",
+    "publicadoEm": "Oct. 23, 2005",
+    "url": "https://meusanimes.blog/a/mushishi/",
+    "postId": "58675"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      30
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Mushishi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/m7jn2e8Rt1Vwv3kiH3D0amypImJ.jpg",
+  "audio": "Legendado",
+  "ano": "2005",
+  "publicadoEm": "Oct. 23, 2005",
+  "url": "https://meusanimes.blog/a/mushishi/"
+}

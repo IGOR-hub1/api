@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "heavy-object",
+  "capturadoEm": "2026-10-22T09:51:55.720Z",
+  "atualizadoEm": "2026-10-22T09:51:55.720Z",
+  "catalogo": {
+    "slug": "a/heavy-object",
+    "titulo": "Heavy Object",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/eA5si7XKXwYhkAFbcPorseuhDB6.jpg",
+    "info": "Legendado • Oct. 02, 2015",
+    "audio": "Legendado",
+    "score": "6.7",
+    "ano": "2015",
+    "publicadoEm": "Oct. 02, 2015",
+    "url": "https://meusanimes.blog/a/heavy-object/",
+    "postId": "56908"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Heavy Object",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/eA5si7XKXwYhkAFbcPorseuhDB6.jpg",
+  "score": "6.7",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Oct. 02, 2015",
+  "url": "https://meusanimes.blog/a/heavy-object/"
+}

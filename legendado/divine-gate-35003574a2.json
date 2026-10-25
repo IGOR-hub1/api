@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "divine-gate",
+  "capturadoEm": "2026-10-22T09:52:21.749Z",
+  "atualizadoEm": "2026-10-22T09:52:21.749Z",
+  "catalogo": {
+    "slug": "a/divine-gate",
+    "titulo": "Divine Gate",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/fHjODQq2sOK9kGhO09XtBgToxzQ.jpg",
+    "info": "Legendado • Jan. 08, 2016",
+    "audio": "Legendado",
+    "score": "5.463",
+    "ano": "2016",
+    "publicadoEm": "Jan. 08, 2016",
+    "url": "https://meusanimes.blog/a/divine-gate/",
+    "postId": "55511"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      33
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Divine Gate",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/fHjODQq2sOK9kGhO09XtBgToxzQ.jpg",
+  "score": "5.463",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jan. 08, 2016",
+  "url": "https://meusanimes.blog/a/divine-gate/"
+}

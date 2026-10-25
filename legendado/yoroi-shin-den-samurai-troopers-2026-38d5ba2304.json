@@ -1,0 +1,802 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "yoroi-shin-den-samurai-troopers-2026",
+  "capturadoEm": "2026-10-22T09:46:15.455Z",
+  "atualizadoEm": "2026-10-22T18:31:17.477Z",
+  "catalogo": {
+    "slug": "a/yoroi-shin-den-samurai-troopers-2026",
+    "titulo": "Yoroi Shin Den Samurai Troopers (2026)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/ddgRtxHt1mcXdsbvXNit6mVfifv.jpg",
+    "info": "Legendado • Jan. 06, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jan. 06, 2026",
+    "url": "https://meusanimes.blog/a/yoroi-shin-den-samurai-troopers-2026/",
+    "postId": "64930"
+  },
+  "detalhes": {
+    "slug": "a/yoroi-shin-den-samurai-troopers-2026",
+    "titulo": "Yoroi Shin Den Samurai Troopers (2026)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/ddgRtxHt1mcXdsbvXNit6mVfifv.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/01/ddgRtxHt1mcXdsbvXNit6mVfifv.jpg",
+    "sinopse": "), Um livro de 300 anos é descoberto, narrando as aventuras dos lendários Samurais… séculos antes de acontecerem! Mas o que isso significa? Seriam os Samurais meros fantoches em uma peça cósmica, representando papéis? Quem é essa misteriosa Suzunagi, uma garota enigmática que seduz cada um dos guerreiros com o desejo de seus corações: salvação, novas armaduras, liberdade de uma vida de lutas? Por que ela se interessa tanto pelos Samurais e suas armaduras?",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica",
+      "Shounen"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jan. 06, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/yoroi-shin-den-samurai-troopers-2026/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/ddgRtxHt1mcXdsbvXNit6mVfifv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 1 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-2",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-2/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:31:17.477Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/cqvpUscXliyhiacRwI6zx3BU6i0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 2 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-1",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-1/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-3",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-3/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:31:13.405Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/n7t2gJV8qj9Wg5nyHPLwPcCudmF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 3 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-2",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-2/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-4",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-4/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:31:09.294Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/4KHzBqo50BHwT247ZBwQO3b75ZY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 4 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-3",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-3/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-5",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-5/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:31:05.149Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/xmPIMrYJLbiXrEghA7BNJOtvNrS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 5 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-4",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-4/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-6",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-6/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:31:01.052Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/ig63YwsWEdMiMw0JBWsn40onnVA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 6 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-5",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-5/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-7",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-7/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:56.674Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/oWWbKbSohwftJ5ziuQ0SCxq74T9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 7 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-6",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-6/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-8",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-8/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:52.602Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/lDzYJKb8WFdFqPK7VcYgleDHJ26.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 8 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-7",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-7/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-9",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-9/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:48.479Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pYLSqvQvKjTthXkOKYT6eUfZgov.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 9 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-8",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-8/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-10",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-10/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:44.325Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sDdQqxYwhNLlBR5j4wpMTHqPDUr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 10 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-9",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-9/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-11",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-11/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:40.188Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/66AVP9PVSD8I9gcYDFHjLm1Wdxw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 11 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-10",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-10/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-12",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-12/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:36.125Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rG5Fdh54c8Iu4yrYJmWZHhSUM6L.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 12 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-11",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-11/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-13",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-13/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:32.035Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/gp0LeEsNeeC27JPSYM4yqbR9jFj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 13 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-12",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-12/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-14",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-14/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:27.321Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/45c3b1w4OMLm5kKfF0iGqHapzGI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 14 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-13",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-13/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-15",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-15/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:23.201Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/1suo9CLAY9hmFGxr3bRt5JzEisx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 15 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-14",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-14/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-16",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-16/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:19.078Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4qKXeOVWhKyu2XZqv37oeroWSiL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 16 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-15",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-15/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-17",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-17/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:14.388Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/e4i1hHdvpY1efZVazWRtaap1hrC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 17 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-16",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-16/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-18",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-18/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:10.311Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/diN0gxPnONaqWUtmo3Kd4adZ0QB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 18 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-17",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-17/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-19",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-19/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:06.174Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/v2JPOQbd0jlmvhGRgr1DEOTndM5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 19 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-18",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-18/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-20",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-20/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:30:02.039Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ivyOfIaMCAMGJ0C6n8L1eVGiWKs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 20 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-19",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-19/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-21",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-21/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:29:57.943Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/ck57fJxwaLfJpwOVS9tvdc09qtN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 21 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-20",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-20/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-22",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-22/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:29:53.668Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/7rfdHamCwkjcLiI5d52W3zAdICo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 22 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-21",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-21/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-23",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-23/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:29:49.518Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/jwfNEu5vBetwgSaKmGTFDvBHupL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 23 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-22",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-22/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-24",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-24/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:29:45.443Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/7ShU5TrQnGbXtZsL32vE7z5slt1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Yoroi Shin Den Samurai Troopers (2026): 1 Episodio 24 Online",
+        "animeSlug": "a/yoroi-shin-den-samurai-troopers-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/yoroi-shin-den-samurai-troopers-2026-episodio-23",
+          "link": "https://meusanimes.blog/e/yoroi-shin-den-samurai-troopers-2026-episodio-23/",
+          "nome": "Yoroi Shin Den Samurai Troopers (2026) Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/293629/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:29:41.265Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/293629/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/293629/1/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      6
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "midiasColetadas": 0,
+    "iframesColetados": 24,
+    "detalhesColetadosEm": "2026-10-22T18:29:35.649Z"
+  },
+  "titulo": "Yoroi Shin Den Samurai Troopers (2026)",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/ddgRtxHt1mcXdsbvXNit6mVfifv.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jan. 06, 2026",
+  "url": "https://meusanimes.blog/a/yoroi-shin-den-samurai-troopers-2026/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/01/ddgRtxHt1mcXdsbvXNit6mVfifv.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "), Um livro de 300 anos é descoberto, narrando as aventuras dos lendários Samurais… séculos antes de acontecerem! Mas o que isso significa? Seriam os Samurais meros fantoches em uma peça cósmica, representando papéis? Quem é essa misteriosa Suzunagi, uma garota enigmática que seduz cada um dos guerreiros com o desejo de seus corações: salvação, novas armaduras, liberdade de uma vida de lutas? Por que ela se interessa tanto pelos Samurais e suas armaduras?"
+}

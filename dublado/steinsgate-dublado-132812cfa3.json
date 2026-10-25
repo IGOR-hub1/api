@@ -1,0 +1,805 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "steinsgate-dublado",
+  "capturadoEm": "2026-10-22T06:33:56.397Z",
+  "atualizadoEm": "2026-10-22T09:43:09.123Z",
+  "catalogo": {
+    "slug": "a/steinsgate-dublado",
+    "titulo": "Steins;Gate Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/5DZix6ggRiFEbsGqUeTAI1z2wtX.jpg",
+    "info": "Dublado • Apr. 06, 2011",
+    "audio": "Dublado",
+    "score": "8.438",
+    "ano": "2011",
+    "publicadoEm": "Apr. 06, 2011",
+    "url": "https://meusanimes.blog/a/steinsgate-dublado/",
+    "postId": "70207"
+  },
+  "detalhes": {
+    "slug": "a/steinsgate-dublado",
+    "titulo": "Steins;Gate Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/5DZix6ggRiFEbsGqUeTAI1z2wtX.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/01/5DZix6ggRiFEbsGqUeTAI1z2wtX.jpg",
+    "sinopse": "Rintaro é um auto-proclamado cientista louco que acredita que uma organização internacional está conspirando para remodelar o mundo de acordo com seus próprios interesses. Ele e seu amigo Itaru inadvertidamente criam um dispositivo capaz de enviar mensagens para o passado. A descoberta e experimentação deste instrumento torna-se o catalisador de alterações fundamentais para o presente. Alheio das consequências de suas ações, Rintaro e seus amigos acabam criando modificações de proporções graves. Agora ele deve tentar encontrar uma maneira de voltar a linha do tempo para o mais próximo possível do original, para salvar os preciosos membros do laboratório.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Ficção científica",
+      "Mistério",
+      "Suspense"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2011",
+    "publicadoEm": "Apr. 06, 2011",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/steinsgate-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 06, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/gPZXNWR7WuUgMZ9x6hwIZPRLbna.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-2/",
+          "nome": "Steins;Gate Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:41.302Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 13, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/mIRuPZNEoGt0oyE9bL4BqEcmquq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-1/",
+          "nome": "Steins;Gate Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-3/",
+          "nome": "Steins;Gate Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:37.125Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 20, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/p78yoSbi7wXww1rEGYGbYSUm3wl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-2/",
+          "nome": "Steins;Gate Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-4/",
+          "nome": "Steins;Gate Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:32.970Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/jOvUzKQUbqdkNAtIAzQpL7GuUx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-3/",
+          "nome": "Steins;Gate Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-5/",
+          "nome": "Steins;Gate Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:28.531Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 04, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/92SFTY8Z4jj7AykgKlF5v4EMBxj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-4/",
+          "nome": "Steins;Gate Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-6/",
+          "nome": "Steins;Gate Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:23.919Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 11, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/suWPFexRgjwhJTy1E7yTtTrXpyt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-5/",
+          "nome": "Steins;Gate Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-7/",
+          "nome": "Steins;Gate Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:19.737Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/8AXyRwdJhDmfESjlLbJzBWtYvfO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-6/",
+          "nome": "Steins;Gate Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-8/",
+          "nome": "Steins;Gate Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:15.566Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 25, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/l6fhgZvTOEMosDnzo5a9TNc9xyj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-7/",
+          "nome": "Steins;Gate Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-9/",
+          "nome": "Steins;Gate Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:11.380Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 01, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/nlVR9hXGFfpfk8YmK116Co400QQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-8/",
+          "nome": "Steins;Gate Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-10/",
+          "nome": "Steins;Gate Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:07.207Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 15, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/22ocRiKS7UWHnB6lNOZM5e96Dxm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-9/",
+          "nome": "Steins;Gate Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-11/",
+          "nome": "Steins;Gate Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:35:03.037Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 15, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/22ocRiKS7UWHnB6lNOZM5e96Dxm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-10/",
+          "nome": "Steins;Gate Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-12/",
+          "nome": "Steins;Gate Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:58.828Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 22, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/6fZmIsYfKPOEthp8Yvb9n0eqcs5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-11/",
+          "nome": "Steins;Gate Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-13/",
+          "nome": "Steins;Gate Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:54.593Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 29, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/gfzkT5cRRUWIa4KZBDDiTKthWsi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-12/",
+          "nome": "Steins;Gate Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-14/",
+          "nome": "Steins;Gate Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:50.425Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 06, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/lyHw1A0hJQqZEoxmJeDHZR6YOb9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-13/",
+          "nome": "Steins;Gate Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-15/",
+          "nome": "Steins;Gate Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:46.314Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 13, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/suTIlaYwdYs86bArm1uIbydqDXP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-14/",
+          "nome": "Steins;Gate Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-16/",
+          "nome": "Steins;Gate Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:42.111Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 20, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/jdzioz7bLWM5RDdaiH51R2GiRYa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-15/",
+          "nome": "Steins;Gate Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-17/",
+          "nome": "Steins;Gate Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:37.884Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 27, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/aw1cw6w5QipglLN1kCGyWaJAQuH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-16/",
+          "nome": "Steins;Gate Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-18/",
+          "nome": "Steins;Gate Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:33.710Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 03, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/szXig1xFqHU7JUNUlewNa3Y8nuy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-17/",
+          "nome": "Steins;Gate Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-19/",
+          "nome": "Steins;Gate Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:29.529Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 10, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/6ueX65TiBKLcfHHEb0BnYz0NXLc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-18/",
+          "nome": "Steins;Gate Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-20/",
+          "nome": "Steins;Gate Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:25.396Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 17, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/f5WwsY3RDq7Adrz3bjuNpnTv4gX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-19/",
+          "nome": "Steins;Gate Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-21/",
+          "nome": "Steins;Gate Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:21.175Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 24, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/ivAupaMSHkqrJhdz2dCkylorAS9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-20/",
+          "nome": "Steins;Gate Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-22/",
+          "nome": "Steins;Gate Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:16.275Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 31, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/p447zo2INlfczdI3Va1HSW4sUDI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-21/",
+          "nome": "Steins;Gate Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-23/",
+          "nome": "Steins;Gate Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:12.090Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 07, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/mwwX38MhYVzPRgk8kySqdHRGNzR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-22/",
+          "nome": "Steins;Gate Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-24/",
+          "nome": "Steins;Gate Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:07.869Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 14, 2011",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/3q6vkkZn8uTaGiN6ViHEzyVV1eU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Steins;Gate Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/steinsgate-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/steinsgate-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/steinsgate-dublado-1-episodio-23/",
+          "nome": "Steins;Gate Dublado 1 Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/425091/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:34:03.633Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/425091/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/425091/1/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T06:33:56.397Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Steins;Gate Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/5DZix6ggRiFEbsGqUeTAI1z2wtX.jpg",
+  "score": "8.438",
+  "audio": "Dublado",
+  "ano": "2011",
+  "publicadoEm": "Apr. 06, 2011",
+  "url": "https://meusanimes.blog/a/steinsgate-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/01/5DZix6ggRiFEbsGqUeTAI1z2wtX.jpg",
+  "temporadas": 1,
+  "descricao": "Rintaro é um auto-proclamado cientista louco que acredita que uma organização internacional está conspirando para remodelar o mundo de acordo com seus próprios interesses. Ele e seu amigo Itaru inadvertidamente criam um dispositivo capaz de enviar mensagens para o passado. A descoberta e experimentação deste instrumento torna-se o catalisador de alterações fundamentais para o presente. Alheio das consequências de suas ações, Rintaro e seus amigos acabam criando modificações de proporções graves. Agora ele deve tentar encontrar uma maneira de voltar a linha do tempo para o mais próximo possível do original, para salvar os preciosos membros do laboratório."
+}

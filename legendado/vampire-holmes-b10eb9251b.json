@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "vampire-holmes",
+  "capturadoEm": "2026-10-22T09:51:22.228Z",
+  "atualizadoEm": "2026-10-22T09:51:22.228Z",
+  "catalogo": {
+    "slug": "a/vampire-holmes",
+    "titulo": "Vampire Holmes",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/mL7ydYZ746gCnvNy7qwUthwD6lA.jpg",
+    "info": "Legendado • Apr. 04, 2015",
+    "audio": "Legendado",
+    "score": "4.2",
+    "ano": "2015",
+    "publicadoEm": "Apr. 04, 2015",
+    "url": "https://meusanimes.blog/a/vampire-holmes/",
+    "postId": "60285"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      29
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Vampire Holmes",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/mL7ydYZ746gCnvNy7qwUthwD6lA.jpg",
+  "score": "4.2",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 04, 2015",
+  "url": "https://meusanimes.blog/a/vampire-holmes/"
+}

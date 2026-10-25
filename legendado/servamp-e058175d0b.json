@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "servamp",
+  "capturadoEm": "2026-10-22T09:52:12.179Z",
+  "atualizadoEm": "2026-10-22T09:52:12.179Z",
+  "catalogo": {
+    "slug": "a/servamp",
+    "titulo": "Servamp",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ws1dZfIaptH3A6zeWC7ANIXDcLl.jpg",
+    "info": "Legendado • Jul. 05, 2016",
+    "audio": "Legendado",
+    "score": "8.239",
+    "ano": "2016",
+    "publicadoEm": "Jul. 05, 2016",
+    "url": "https://meusanimes.blog/a/servamp/",
+    "postId": "56068"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      32
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Servamp",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/ws1dZfIaptH3A6zeWC7ANIXDcLl.jpg",
+  "score": "8.239",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 05, 2016",
+  "url": "https://meusanimes.blog/a/servamp/"
+}

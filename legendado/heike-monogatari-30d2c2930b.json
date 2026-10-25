@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "heike-monogatari",
+  "capturadoEm": "2026-10-22T09:49:09.824Z",
+  "atualizadoEm": "2026-10-22T09:49:09.824Z",
+  "catalogo": {
+    "slug": "a/heike-monogatari",
+    "titulo": "Heike Monogatari",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/xQcOPx3WOaJV49uSwSrZ6omigod.jpg",
+    "info": "Legendado • Jan. 13, 2022",
+    "audio": "Legendado",
+    "score": "7.3",
+    "ano": "2022",
+    "publicadoEm": "Jan. 13, 2022",
+    "url": "https://meusanimes.blog/a/heike-monogatari/",
+    "postId": "71439"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Heike Monogatari",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/xQcOPx3WOaJV49uSwSrZ6omigod.jpg",
+  "score": "7.3",
+  "audio": "Legendado",
+  "ano": "2022",
+  "publicadoEm": "Jan. 13, 2022",
+  "url": "https://meusanimes.blog/a/heike-monogatari/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "akuma-no-riddle",
+  "capturadoEm": "2026-10-22T09:50:43.550Z",
+  "atualizadoEm": "2026-10-22T09:50:43.550Z",
+  "catalogo": {
+    "slug": "a/akuma-no-riddle",
+    "titulo": "Akuma no Riddle",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/kxYkhoOzutECAXQrwkjv9BOy7Q9.jpg",
+    "info": "Legendado • Apr. 04, 2014",
+    "audio": "Legendado",
+    "score": "7.7",
+    "ano": "2014",
+    "publicadoEm": "Apr. 04, 2014",
+    "url": "https://meusanimes.blog/a/akuma-no-riddle/",
+    "postId": "62996"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      26
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Akuma no Riddle",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/kxYkhoOzutECAXQrwkjv9BOy7Q9.jpg",
+  "score": "7.7",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Apr. 04, 2014",
+  "url": "https://meusanimes.blog/a/akuma-no-riddle/"
+}

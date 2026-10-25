@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "haikyu",
+  "capturadoEm": "2026-10-22T09:53:30.800Z",
+  "atualizadoEm": "2026-10-22T09:53:30.800Z",
+  "catalogo": {
+    "slug": "a/haikyu",
+    "titulo": "Haikyuu!!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qNKaeunuUdL0smnowVVgShCkWZ4.jpg",
+    "info": "Legendado • Apr. 06, 2014",
+    "audio": "Legendado",
+    "score": "8.615",
+    "ano": "2014",
+    "publicadoEm": "Apr. 06, 2014",
+    "url": "https://meusanimes.blog/a/haikyu/",
+    "postId": "47631"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      38
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Haikyuu!!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qNKaeunuUdL0smnowVVgShCkWZ4.jpg",
+  "score": "8.615",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Apr. 06, 2014",
+  "url": "https://meusanimes.blog/a/haikyu/"
+}

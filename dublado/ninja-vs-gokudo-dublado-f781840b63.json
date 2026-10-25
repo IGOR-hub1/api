@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "ninja-vs-gokudo-dublado",
+  "capturadoEm": "2026-10-22T05:02:31.319Z",
+  "atualizadoEm": "2026-10-22T09:42:32.492Z",
+  "catalogo": {
+    "slug": "a/ninja-vs-gokudo-dublado",
+    "titulo": "Ninja vs. Gokudo Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/37eik5Xi5xMjAzfkDaTO3Nc9nIT.jpg",
+    "info": "Dublado • Oct. 08, 2025",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 08, 2025",
+    "url": "https://meusanimes.blog/a/ninja-vs-gokudo-dublado/",
+    "postId": "75762"
+  },
+  "detalhes": {
+    "slug": "a/ninja-vs-gokudo-dublado",
+    "titulo": "Ninja vs. Gokudo Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/37eik5Xi5xMjAzfkDaTO3Nc9nIT.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/37eik5Xi5xMjAzfkDaTO3Nc9nIT.jpg",
+    "sinopse": "Ninja to Gokudou, Os ninjas expulsam o mal das sombras. Os gokudo reúnem marginais dispersos e cometem crimes. O ressentimento forjado há séculos se reacende hoje. O ninja Shinoha encontra Kiwami, um gokudo com aparência de homem de negócios. Sem saber da identidade um do outro, eles fazem amizade regada a anime, mas a guerra entre ninjas e gokudo se acirra. Quem vai sobreviver e quem vai sucumbir? Ninja ou gokudo?",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "score": "7",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 08, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/ninja-vs-gokudo-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/KQDy2RJMN2gsPV5RZO1pQdFZAQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-2/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:03:23.339Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 15, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9o6S8xSsMGnGFHqyNGlro8HrKoG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-1/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-3/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:03:19.180Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 22, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9LI9VkyVWArwX7WnDYSG9lO7UNg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-2/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-4/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:03:14.753Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 29, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/KQDy2RJMN2gsPV5RZO1pQdFZAQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-3/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-5/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:03:10.400Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/aSq8V0GtD8UftE5RmiQBGnnOJMA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-4/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-6/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:03:06.093Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/aghWJKoGh9pRyB0bhjswG6Mi0Hr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-5/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-7/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:03:01.792Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/zfVUkNDp1HvS5nKGg4IQMUfrDzs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-6/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-8/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:02:57.610Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 26, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/mBu8hsOlMZutoHqDFUhEuiOiUEW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-7/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-9/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:02:53.490Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 03, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/83o16lwBP7jtshmLvek79B7Gmjo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-8/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-10/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:02:49.323Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/2xpaeT47X4zmVZZr3kqJO1JiTIx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-9/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-11/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:02:45.166Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 17, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/kBj4zUtECJWEoA1Z6BcyBkZTtVX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-10/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-12/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:02:41.006Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 24, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/zgkm3seCqeqjGTGdpMJJw0kJCtW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Ninja vs. Gokudo Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/ninja-vs-gokudo-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/ninja-vs-gokudo-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ninja-vs-gokudo-dublado-1-episodio-11/",
+          "nome": "Ninja vs. Gokudo Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2850701/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:02:36.903Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2850701/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2850701/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      13
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T05:02:31.319Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Ninja vs. Gokudo Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/37eik5Xi5xMjAzfkDaTO3Nc9nIT.jpg",
+  "audio": "Dublado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 08, 2025",
+  "url": "https://meusanimes.blog/a/ninja-vs-gokudo-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/37eik5Xi5xMjAzfkDaTO3Nc9nIT.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "Ninja to Gokudou, Os ninjas expulsam o mal das sombras. Os gokudo reúnem marginais dispersos e cometem crimes. O ressentimento forjado há séculos se reacende hoje. O ninja Shinoha encontra Kiwami, um gokudo com aparência de homem de negócios. Sem saber da identidade um do outro, eles fazem amizade regada a anime, mas a guerra entre ninjas e gokudo se acirra. Quem vai sobreviver e quem vai sucumbir? Ninja ou gokudo?"
+}

@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shuumatsu-touring",
+  "capturadoEm": "2026-10-22T09:53:49.940Z",
+  "atualizadoEm": "2026-10-22T09:53:49.940Z",
+  "catalogo": {
+    "slug": "a/shuumatsu-touring",
+    "titulo": "Shuumatsu Touring",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/tVeLF6cUEqzdzqcEyWEN151zaa4.jpg",
+    "info": "Legendado • Oct. 04, 2025",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 04, 2025",
+    "url": "https://meusanimes.blog/a/shuumatsu-touring/",
+    "postId": "44981"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      39
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Shuumatsu Touring",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/tVeLF6cUEqzdzqcEyWEN151zaa4.jpg",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 04, 2025",
+  "url": "https://meusanimes.blog/a/shuumatsu-touring/"
+}

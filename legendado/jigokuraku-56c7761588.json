@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "jigokuraku",
+  "capturadoEm": "2026-10-22T09:49:44.299Z",
+  "atualizadoEm": "2026-10-22T09:49:44.299Z",
+  "catalogo": {
+    "slug": "a/jigokuraku",
+    "titulo": "Jigokuraku",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bbTgS7R6lor3j6YRAHnQj3dVlPa.jpg",
+    "info": "Legendado • Apr. 01, 2023",
+    "audio": "Legendado",
+    "score": "8.2",
+    "ano": "2023",
+    "publicadoEm": "Apr. 01, 2023",
+    "url": "https://meusanimes.blog/a/jigokuraku/",
+    "postId": "12015"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Jigokuraku",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bbTgS7R6lor3j6YRAHnQj3dVlPa.jpg",
+  "score": "8.2",
+  "audio": "Legendado",
+  "ano": "2023",
+  "publicadoEm": "Apr. 01, 2023",
+  "url": "https://meusanimes.blog/a/jigokuraku/"
+}

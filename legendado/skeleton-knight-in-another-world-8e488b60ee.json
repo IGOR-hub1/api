@@ -1,0 +1,793 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "skeleton-knight-in-another-world",
+  "capturadoEm": "2026-10-22T09:46:34.070Z",
+  "atualizadoEm": "2026-10-22T19:01:20.433Z",
+  "catalogo": {
+    "slug": "a/skeleton-knight-in-another-world",
+    "titulo": "Skeleton Knight in Another World",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
+    "info": "Legendado • Apr. 07, 2022",
+    "audio": "Legendado",
+    "score": "7.615",
+    "ano": "2022",
+    "publicadoEm": "Apr. 07, 2022",
+    "url": "https://meusanimes.blog/a/skeleton-knight-in-another-world/",
+    "postId": "15701"
+  },
+  "detalhes": {
+    "slug": "a/skeleton-knight-in-another-world",
+    "titulo": "Skeleton Knight in Another World",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
+    "sinopse": "Skeleton Knight in Another World Online , Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu, Após uma noite jogando, um jovem gamer acorda dentro do próprio jogo, habitando o corpo de um esqueleto. Tentando sobreviver nesse mundo fantástico, ele busca um refúgio seguro, mas seus planos mudam ao encontrar uma jovem elfa. A partir daí, sua nova vida é marcada por batalhas e perigos que colocam à prova sua existência nesse universo hostil.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2022",
+    "publicadoEm": "Apr. 07, 2022",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/skeleton-knight-in-another-world/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 07, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fBtVIQiLuLWHJlqeKphBWXMXGsd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 1 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-2",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-2/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:01:20.433Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 14, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/um10LevdXEI0R2AYptydlueHcpc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 2 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-1",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-1/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-3",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-3/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:01:16.349Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 21, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/lZ7YvC4uIYemSJupsZjOoOLjqi6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 3 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-2",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-2/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-4",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-4/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:01:12.175Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 28, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/rHHR4PqUUz1QW4TOhPbOnFYIwUq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 4 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-3",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-3/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-5",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-5/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:01:07.997Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 05, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ni7FhGMJIibku27F0e5RUdAg5Yv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 5 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-4",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-4/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-6",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-6/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:01:03.904Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 12, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/zVnOTb0k3UAr7x5pQiqOBvK4jRY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 6 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-5",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-5/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-7",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-7/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:59.819Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 19, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/dfJ7Yf0EyIfj5npoevyVyPhHElU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 7 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-6",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-6/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-8",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-8/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:55.512Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 26, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4w6Si1ZKUftG18L6CxOYtaGmnLc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 8 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-7",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-7/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-9",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-9/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:51.314Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 02, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/rZUtXhlhizgXbt2r9LSSkgn56bb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 9 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-8",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-8/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-10",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-10/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:47.215Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 09, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/n9yhihLfyCxjYBfsCbHpwipWIcy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 10 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-9",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-9/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-11",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-11/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:43.122Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 16, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/qJtcMoTVyfyLCmEMtL3qkyWS4qu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 11 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-10",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-10/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-12",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-12/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:38.864Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 23, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9k5pk3KOgjsDrBCwLiv93XSmQfr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 1 Episodio 12 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/skeleton-knight-in-another-world-1-episodio-11",
+          "link": "https://meusanimes.blog/e/skeleton-knight-in-another-world-1-episodio-11/",
+          "nome": "Skeleton Knight in Another World 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:34.733Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/vSyxK1kED9YWohtlgE9vMLFyBEz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 1 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-2",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-2/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:30.574Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/2LMl67NKxlbyBto5zltrAlZfnMM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 2 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-1",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-1/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-3",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-3/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:26.505Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/5tIuk8G4oXD3f3WKJQZchHROsVy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 3 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-2",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-2/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-4",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-4/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:22.399Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oN84eFbqjLXxdNhF9eCirm4sQxM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 4 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-3",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-3/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-5",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-5/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:18.178Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/yvX5m2P6vI2mAQx7lujuR0nSeHk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 5 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-4",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-4/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-6",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-6/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:14.120Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/mCc1PRFFCGzq3KaYQ63Zso3p4bw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 6 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-5",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-5/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-7",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-7/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:10.007Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ndmpyffvIEt3CvJdfOFkRl9Ccfa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 7 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-6",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-6/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-8",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-8/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:05.916Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/4w6Si1ZKUftG18L6CxOYtaGmnLc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 8 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-7",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-7/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-9",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-9/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:00:01.749Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/AsNoiScrF610ssQssU4Zyp5ZmHM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 9 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-8",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-8/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-10",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-10/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:57.588Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/3TlaDSAIoYY9Xyi29J8o97t3FHa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 10 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-9",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-9/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-11",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-11/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:53.509Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/afVYMqfIpAJN4Htk6eg9ui3TLT1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 11 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-10",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-10/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-12",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-12/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:49.402Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/8jnNczXyuiZz3KdX9e39yCpOtGZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Skeleton Knight in Another World: 2 Episodio 12 Online",
+        "animeSlug": "a/skeleton-knight-in-another-world",
+        "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-11",
+          "link": "https://meusanimes.blog/e/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu-2-episodio-11/",
+          "nome": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/123528/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:59:45.215Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/123528/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/123528/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "midiasColetadas": 0,
+    "iframesColetados": 24,
+    "detalhesColetadosEm": "2026-10-22T18:59:39.782Z"
+  },
+  "titulo": "Skeleton Knight in Another World",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2022",
+  "publicadoEm": "Apr. 07, 2022",
+  "url": "https://meusanimes.blog/a/skeleton-knight-in-another-world/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/kztE76NfhDw1LFVyOHVp2a48czQ.jpg",
+  "temporadas": 2,
+  "descricao": "Skeleton Knight in Another World Online , Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu, Após uma noite jogando, um jovem gamer acorda dentro do próprio jogo, habitando o corpo de um esqueleto. Tentando sobreviver nesse mundo fantástico, ele busca um refúgio seguro, mas seus planos mudam ao encontrar uma jovem elfa. A partir daí, sua nova vida é marcada por batalhas e perigos que colocam à prova sua existência nesse universo hostil."
+}

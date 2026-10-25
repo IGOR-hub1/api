@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "owari-no-seraph",
+  "capturadoEm": "2026-10-22T09:51:28.376Z",
+  "atualizadoEm": "2026-10-22T09:51:28.376Z",
+  "catalogo": {
+    "slug": "a/owari-no-seraph",
+    "titulo": "Owari no Seraph (Seraph of the End)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/jP569pDgvwX3MeZPXUnmteYA2oZ.jpg",
+    "info": "Legendado • Apr. 04, 2015",
+    "audio": "Legendado",
+    "score": "7.9",
+    "ano": "2015",
+    "publicadoEm": "Apr. 04, 2015",
+    "url": "https://meusanimes.blog/a/owari-no-seraph/",
+    "postId": "59896"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      29
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Owari no Seraph (Seraph of the End)",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/jP569pDgvwX3MeZPXUnmteYA2oZ.jpg",
+  "score": "7.9",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 04, 2015",
+  "url": "https://meusanimes.blog/a/owari-no-seraph/"
+}

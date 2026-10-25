@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "vampire-in-the-garden",
+  "capturadoEm": "2026-10-22T09:49:07.132Z",
+  "atualizadoEm": "2026-10-22T09:49:07.132Z",
+  "catalogo": {
+    "slug": "a/vampire-in-the-garden",
+    "titulo": "Vampire in the Garden",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/3iiSG770kZ3uW2abcMWCt15BLtR.jpg",
+    "info": "Legendado • May. 16, 2022",
+    "audio": "Legendado",
+    "score": "7.169",
+    "ano": "2022",
+    "publicadoEm": "May. 16, 2022",
+    "url": "https://meusanimes.blog/a/vampire-in-the-garden/",
+    "postId": "71645"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Vampire in the Garden",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/3iiSG770kZ3uW2abcMWCt15BLtR.jpg",
+  "score": "7.169",
+  "audio": "Legendado",
+  "ano": "2022",
+  "publicadoEm": "May. 16, 2022",
+  "url": "https://meusanimes.blog/a/vampire-in-the-garden/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "handa-kun",
+  "capturadoEm": "2026-10-22T09:52:56.489Z",
+  "atualizadoEm": "2026-10-22T09:52:56.489Z",
+  "catalogo": {
+    "slug": "a/handa-kun",
+    "titulo": "Handa-kun",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/mSDLhlkEWGLKqGc5aR0RlYPGtZB.jpg",
+    "info": "Legendado • Jul. 08, 2016",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2016",
+    "publicadoEm": "Jul. 08, 2016",
+    "url": "https://meusanimes.blog/a/handa-kun/",
+    "postId": "52949"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Handa-kun",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/mSDLhlkEWGLKqGc5aR0RlYPGtZB.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 08, 2016",
+  "url": "https://meusanimes.blog/a/handa-kun/"
+}

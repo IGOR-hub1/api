@@ -1,0 +1,832 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "witch-watch-dublado",
+  "capturadoEm": "2026-10-22T06:06:19.491Z",
+  "atualizadoEm": "2026-10-22T09:42:58.625Z",
+  "catalogo": {
+    "slug": "a/witch-watch-dublado",
+    "titulo": "Witch Watch Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6.jpg",
+    "info": "Dublado • Apr. 06, 2025",
+    "audio": "Dublado",
+    "score": "10",
+    "ano": "2025",
+    "publicadoEm": "Apr. 06, 2025",
+    "url": "https://meusanimes.blog/a/witch-watch-dublado/",
+    "postId": "73629"
+  },
+  "detalhes": {
+    "slug": "a/witch-watch-dublado",
+    "titulo": "Witch Watch Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6.jpg",
+    "sinopse": "Morihito Otogi, um colegial de uma linhagem de ogros, aproveita uma vida pacífica e comum até sua amiga de infância, Nico, se mudar e passar a morar com ele. Nico é uma bruxa em treinamento e escolhe Morihito como seu familiar. Enquanto Nico está empolgada em reencontrar seu velho amigo e paixão do passado, Morihito é encarregado com a perigosa tarefa de protegê-la de uma calamidade anunciada. Entre o caos imprevisível causado pela magia de Nico e o constrangimento de compartilhar uma casa, suas vidas vão se tornar um redemoinho de farras e ameaças sobrenaturais.",
+    "generos": [
+      "Comédia",
+      "Shounen",
+      "Sobrenatural"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Apr. 06, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/witch-watch-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/fRvOA3U5CJnhaUv8Eo6xmIzAOVc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-2/",
+          "nome": "Witch Watch Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:08:07.316Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/kuwEX3F9iFoVEqSAr9Pifad5Zdl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-1/",
+          "nome": "Witch Watch Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-3/",
+          "nome": "Witch Watch Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:08:03.160Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/g5liYRAwa1uHVXsNT6bWAvMONYx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-2/",
+          "nome": "Witch Watch Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-4/",
+          "nome": "Witch Watch Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:59.014Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/qCE3JI90cAcdQ9m6RJmrxHNh89x.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-3/",
+          "nome": "Witch Watch Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-5/",
+          "nome": "Witch Watch Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:54.828Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 04, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/iH1ouguZFFn2umbVE3v9Tn6yqYk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-4/",
+          "nome": "Witch Watch Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-6/",
+          "nome": "Witch Watch Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:50.152Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 11, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/uQ4yva6BOVATTxEG23kXAKKv50a.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-5/",
+          "nome": "Witch Watch Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-7/",
+          "nome": "Witch Watch Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:45.983Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/4pwENJmUvqNCaxI3dHBe33srVTq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-6/",
+          "nome": "Witch Watch Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-8/",
+          "nome": "Witch Watch Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:41.790Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 25, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/4hCKQ6ndRzRJ5ONYTCl96rrMqZO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-7/",
+          "nome": "Witch Watch Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-9/",
+          "nome": "Witch Watch Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:37.660Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 01, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9QTkzdXwe3RkaOxyyWcBGa0zPhN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-8/",
+          "nome": "Witch Watch Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-10/",
+          "nome": "Witch Watch Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:33.526Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7ST2qEsdiQn4V3dJcva1IUin3Wu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-9/",
+          "nome": "Witch Watch Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-11/",
+          "nome": "Witch Watch Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:29.375Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 11, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/rco1JRrnYF9IdQMW0mbJAwLYbTM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-10/",
+          "nome": "Witch Watch Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-12/",
+          "nome": "Witch Watch Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:25.049Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 22, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/f54pSvsKZStkb5smTgaPuG6Qocy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-11/",
+          "nome": "Witch Watch Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-13/",
+          "nome": "Witch Watch Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:20.814Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 29, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oSwbaUG4MfeNCaJ2BKpjrWccGGN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-12/",
+          "nome": "Witch Watch Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-14/",
+          "nome": "Witch Watch Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:16.664Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/aDfVBKXeCsrV6MA9R7G9CV3V5h1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-13/",
+          "nome": "Witch Watch Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-15/",
+          "nome": "Witch Watch Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:12.495Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/y8qLYTfAxrAcAIkDBxeOBCdWthJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-14/",
+          "nome": "Witch Watch Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-16/",
+          "nome": "Witch Watch Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:08.360Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/y8qLYTfAxrAcAIkDBxeOBCdWthJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-15/",
+          "nome": "Witch Watch Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-17/",
+          "nome": "Witch Watch Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:04.177Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nqN4SAwrMxgQmWjNhYUEx0iW884.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-16/",
+          "nome": "Witch Watch Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-18/",
+          "nome": "Witch Watch Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:07:00.027Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 03, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/rC1vF6PSclyRoKer15YHBs0VBBM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-17/",
+          "nome": "Witch Watch Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-19/",
+          "nome": "Witch Watch Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:06:55.854Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/t5zJeUb7auvysXMZfbQw0JjzFjK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-18/",
+          "nome": "Witch Watch Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-20/",
+          "nome": "Witch Watch Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:06:51.721Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 17, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/7RIiDORwRr28xSjKyAvcamjk4to.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-19/",
+          "nome": "Witch Watch Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-21/",
+          "nome": "Witch Watch Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:06:47.555Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 24, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/sszDaq0hZSAb3A5i9LX84Jr9oYw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-20/",
+          "nome": "Witch Watch Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-22/",
+          "nome": "Witch Watch Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:06:43.417Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 31, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/t8DNrLhouIEUjCn0IwCXmQdVwr2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-21/",
+          "nome": "Witch Watch Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-23/",
+          "nome": "Witch Watch Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:06:39.295Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 14, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/rhbp9iDrF4lcJszysdd8OIP2OHJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-22/",
+          "nome": "Witch Watch Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-24/",
+          "nome": "Witch Watch Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:06:35.160Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 21, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/1orgE66idaQwHczAP4EeMYb43m6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-23/",
+          "nome": "Witch Watch Dublado 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-25/",
+          "nome": "Witch Watch Dublado 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:06:30.893Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Oct. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/mVajlSTdtdIK7e7T1mE0pKTxCEO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Witch Watch Dublado: 1 Episodio 25 Online",
+        "animeSlug": "a/witch-watch-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/witch-watch-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/witch-watch-dublado-1-episodio-24/",
+          "nome": "Witch Watch Dublado 1 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2618681/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:06:26.687Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2618681/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2618681/1/25/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      15
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 25,
+    "totalEpisodios": 25,
+    "detalhesColetadosEm": "2026-10-22T06:06:19.491Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 25
+  },
+  "titulo": "Witch Watch Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6.jpg",
+  "score": "10",
+  "audio": "Dublado",
+  "ano": "2025",
+  "publicadoEm": "Apr. 06, 2025",
+  "url": "https://meusanimes.blog/a/witch-watch-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/04/jeh8PhZecsxpPikl6oUrVEkG8s6.jpg",
+  "temporadas": 1,
+  "descricao": "Morihito Otogi, um colegial de uma linhagem de ogros, aproveita uma vida pacífica e comum até sua amiga de infância, Nico, se mudar e passar a morar com ele. Nico é uma bruxa em treinamento e escolhe Morihito como seu familiar. Enquanto Nico está empolgada em reencontrar seu velho amigo e paixão do passado, Morihito é encarregado com a perigosa tarefa de protegê-la de uma calamidade anunciada. Entre o caos imprevisível causado pela magia de Nico e o constrangimento de compartilhar uma casa, suas vidas vão se tornar um redemoinho de farras e ameaças sobrenaturais."
+}

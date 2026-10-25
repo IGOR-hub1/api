@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "nanbaka",
+  "capturadoEm": "2026-10-22T09:52:44.323Z",
+  "atualizadoEm": "2026-10-22T09:52:44.323Z",
+  "catalogo": {
+    "slug": "a/nanbaka",
+    "titulo": "Nanbaka",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ukVxrDjvnUm2DS2NdvIBcsgGieH.jpg",
+    "info": "Legendado • Oct. 05, 2016",
+    "audio": "Legendado",
+    "score": "5.696",
+    "ano": "2016",
+    "publicadoEm": "Oct. 05, 2016",
+    "url": "https://meusanimes.blog/a/nanbaka/",
+    "postId": "53895"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Nanbaka",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ukVxrDjvnUm2DS2NdvIBcsgGieH.jpg",
+  "score": "5.696",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 05, 2016",
+  "url": "https://meusanimes.blog/a/nanbaka/"
+}

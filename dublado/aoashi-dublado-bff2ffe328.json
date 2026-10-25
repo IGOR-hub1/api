@@ -1,0 +1,801 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "aoashi-dublado",
+  "capturadoEm": "2026-10-22T02:40:27.573Z",
+  "atualizadoEm": "2026-10-22T09:41:45.315Z",
+  "catalogo": {
+    "slug": "a/aoashi-dublado",
+    "titulo": "Aoashi Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/gz0WlSXT7SjyCykKnsAbZze2QC8.jpg",
+    "info": "Dublado • Apr. 09, 2022",
+    "audio": "Dublado",
+    "score": "7.705",
+    "ano": "2022",
+    "publicadoEm": "Apr. 09, 2022",
+    "url": "https://meusanimes.blog/a/aoashi-dublado/",
+    "postId": "85057"
+  },
+  "detalhes": {
+    "slug": "a/aoashi-dublado",
+    "titulo": "Aoashi Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/gz0WlSXT7SjyCykKnsAbZze2QC8.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/gz0WlSXT7SjyCykKnsAbZze2QC8.jpg",
+    "sinopse": "Ashito Aoi é um adolescente que mora no interior do Japão e é o artilheiro de um time de várzea. Após perder a final do torneio sub-15, ele é recrutado por Tatsuya Fukuda, técnico da categoria de base do Tokyo City Esperion FC, um dos maiores times da J-League, a primeira divisão do campeonato japonês. Tatsuya quer transformar o Esperion em um time de calibre mundial, e encontra em Ashito um talento a ser refinado e desenvolvido. Ao ouvir isso, Ashito aceita a oferta e decide se candidatar para a peneira. Perda, amadurecimento e amizade não faltam nesta obra cheia de espírito juvenil!",
+    "generos": [
+      "Drama",
+      "Esporte",
+      "Slice Of Life"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2022",
+    "publicadoEm": "Apr. 09, 2022",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/aoashi-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 09, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7bwfG5T96ViLo88xU8MVtcr9jCT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-2/",
+          "nome": "Aoashi Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:42:55.667Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 16, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3HsHK1DX6lMs2ZzcIIn9C75xEi0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-1/",
+          "nome": "Aoashi Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-3/",
+          "nome": "Aoashi Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:42:46.802Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 23, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jr8HtxCNsl32xkcsvJFgM0HNUvC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-2/",
+          "nome": "Aoashi Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-4/",
+          "nome": "Aoashi Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:42:39.176Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 30, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/v9jsZgTJuIdtRCp5f8ZhLCHNtU2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-3/",
+          "nome": "Aoashi Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-5/",
+          "nome": "Aoashi Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:42:32.069Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 07, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jzE2Hnr7EwnGcwNoTRtqLFNnqm6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-4/",
+          "nome": "Aoashi Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-6/",
+          "nome": "Aoashi Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:42:24.556Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 14, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/nTMslfZKvTvLPToFcoGmGiLQ69V.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-5/",
+          "nome": "Aoashi Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-7/",
+          "nome": "Aoashi Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:42:18.285Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 21, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jOzs2d1jEjPChezQYi9BCKPlNbN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-6/",
+          "nome": "Aoashi Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-8/",
+          "nome": "Aoashi Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:42:08.758Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 28, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bUThe8lGTQ82yAJR1akfD6wVycN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-7/",
+          "nome": "Aoashi Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-9/",
+          "nome": "Aoashi Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:54.657Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 04, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5pa0okjjfCLHbi7Bd91Gyu4Gdan.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-8/",
+          "nome": "Aoashi Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-10/",
+          "nome": "Aoashi Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:50.577Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 11, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mYPkJ78I6APMABsionXmTnVqVi5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-9/",
+          "nome": "Aoashi Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-11/",
+          "nome": "Aoashi Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:46.543Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 18, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/swp1PJSIW8q9Sde5UDHqsEXHZfs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-10/",
+          "nome": "Aoashi Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-12/",
+          "nome": "Aoashi Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:41.216Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 25, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jN5bHSSteiDbzduRNibov86tGGk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-11/",
+          "nome": "Aoashi Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-13/",
+          "nome": "Aoashi Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:36.036Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 02, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/pIDBH2mfh2aQ3URgQb3rqhekjw8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-12/",
+          "nome": "Aoashi Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-14/",
+          "nome": "Aoashi Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:30.556Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 09, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ivso6mZUZB60BK88UqZKTD7Psud.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-13/",
+          "nome": "Aoashi Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-15/",
+          "nome": "Aoashi Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:24.731Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 16, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/53KfJ4iAHYrHnIdGHDD5loPzRGH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-14/",
+          "nome": "Aoashi Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-16/",
+          "nome": "Aoashi Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:20.571Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 23, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/r0EUidjCxU1kCUpTUNyzzu7UKnW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-15/",
+          "nome": "Aoashi Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-17/",
+          "nome": "Aoashi Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:15.193Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 30, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/2RykHwAsgFjhga2kbfovjIQozZi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-16/",
+          "nome": "Aoashi Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-18/",
+          "nome": "Aoashi Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:09.706Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 06, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wlbtRffKmwOomY1uSqbXFKV6t3G.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-17/",
+          "nome": "Aoashi Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-19/",
+          "nome": "Aoashi Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:41:03.844Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 20, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/niLn7ZylVBzC6YkZ8ip7VQWI9SS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-18/",
+          "nome": "Aoashi Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-20/",
+          "nome": "Aoashi Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:40:58.545Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 27, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/yIOjQz7S3JFuTYMVDknLeFSy75d.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-19/",
+          "nome": "Aoashi Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-21/",
+          "nome": "Aoashi Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:40:53.551Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 03, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vuhsKYLGRcwVUzfgV8MXOC4FL2y.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-20/",
+          "nome": "Aoashi Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-22/",
+          "nome": "Aoashi Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:40:48.325Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 10, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wAyVco6WmNNwNUEuQokSb7mY6Zj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-21/",
+          "nome": "Aoashi Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-23/",
+          "nome": "Aoashi Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:40:43.573Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 17, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/tE7BoUxFcZbMWWCWKevejiUIRGK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-22/",
+          "nome": "Aoashi Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-24/",
+          "nome": "Aoashi Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:40:38.610Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 24, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/XhtcC4wJH1Xuit6SDNENUZWJ5z.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Aoashi Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/aoashi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/aoashi-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/aoashi-dublado-1-episodio-23/",
+          "nome": "Aoashi Dublado 1 Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1264371/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:40:33.353Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1264371/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1264371/1/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      9
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T02:40:27.573Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Aoashi Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/gz0WlSXT7SjyCykKnsAbZze2QC8.jpg",
+  "score": "7.705",
+  "audio": "Dublado",
+  "ano": "2022",
+  "publicadoEm": "Apr. 09, 2022",
+  "url": "https://meusanimes.blog/a/aoashi-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/gz0WlSXT7SjyCykKnsAbZze2QC8.jpg",
+  "temporadas": 1,
+  "descricao": "Ashito Aoi é um adolescente que mora no interior do Japão e é o artilheiro de um time de várzea. Após perder a final do torneio sub-15, ele é recrutado por Tatsuya Fukuda, técnico da categoria de base do Tokyo City Esperion FC, um dos maiores times da J-League, a primeira divisão do campeonato japonês. Tatsuya quer transformar o Esperion em um time de calibre mundial, e encontra em Ashito um talento a ser refinado e desenvolvido. Ao ouvir isso, Ashito aceita a oferta e decide se candidatar para a peneira. Perda, amadurecimento e amizade não faltam nesta obra cheia de espírito juvenil!"
+}

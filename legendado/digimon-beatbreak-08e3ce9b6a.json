@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "digimon-beatbreak",
+  "capturadoEm": "2026-10-22T09:53:55.435Z",
+  "atualizadoEm": "2026-10-22T09:53:55.435Z",
+  "catalogo": {
+    "slug": "a/digimon-beatbreak",
+    "titulo": "Digimon Beatbreak",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/yV5O0AlpfAKOibDAzCQ6Gp7G6BU.jpg",
+    "info": "Legendado • Oct. 05, 2025",
+    "audio": "Legendado",
+    "score": "10",
+    "ano": "2025",
+    "publicadoEm": "Oct. 05, 2025",
+    "url": "https://meusanimes.blog/a/digimon-beatbreak/",
+    "postId": "44838"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      40
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Digimon Beatbreak",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/yV5O0AlpfAKOibDAzCQ6Gp7G6BU.jpg",
+  "score": "10",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 05, 2025",
+  "url": "https://meusanimes.blog/a/digimon-beatbreak/"
+}

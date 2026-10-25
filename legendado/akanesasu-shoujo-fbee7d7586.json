@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "akanesasu-shoujo",
+  "capturadoEm": "2026-10-22T09:55:07.915Z",
+  "atualizadoEm": "2026-10-22T09:55:07.915Z",
+  "catalogo": {
+    "slug": "a/akanesasu-shoujo",
+    "titulo": "Akanesasu Shoujo",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/kdAnLccsAzoyuIOkxechHJcmV3b.jpg",
+    "info": "Legendado • Oct. 01, 2018",
+    "audio": "Legendado",
+    "score": "6.938",
+    "ano": "2018",
+    "publicadoEm": "Oct. 01, 2018",
+    "url": "https://meusanimes.blog/a/akanesasu-shoujo/",
+    "postId": "39490"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      45
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Akanesasu Shoujo",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/kdAnLccsAzoyuIOkxechHJcmV3b.jpg",
+  "score": "6.938",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Oct. 01, 2018",
+  "url": "https://meusanimes.blog/a/akanesasu-shoujo/"
+}

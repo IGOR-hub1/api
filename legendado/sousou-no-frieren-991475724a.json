@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sousou-no-frieren",
+  "capturadoEm": "2026-10-22T09:49:25.935Z",
+  "atualizadoEm": "2026-10-22T09:49:25.935Z",
+  "catalogo": {
+    "slug": "a/sousou-no-frieren",
+    "titulo": "Sousou no Frieren",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/qykTIEJQF8cunKD0CKOqab15wns.jpg",
+    "info": "Legendado • Sep. 29, 2023",
+    "audio": "Legendado",
+    "score": "8.789",
+    "ano": "2023",
+    "publicadoEm": "Sep. 29, 2023",
+    "url": "https://meusanimes.blog/a/sousou-no-frieren/",
+    "postId": "8938"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sousou no Frieren",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/qykTIEJQF8cunKD0CKOqab15wns.jpg",
+  "score": "8.789",
+  "audio": "Legendado",
+  "ano": "2023",
+  "publicadoEm": "Sep. 29, 2023",
+  "url": "https://meusanimes.blog/a/sousou-no-frieren/"
+}

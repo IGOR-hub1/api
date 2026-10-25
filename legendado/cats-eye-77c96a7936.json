@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "cats-eye",
+  "capturadoEm": "2026-10-22T09:54:20.984Z",
+  "atualizadoEm": "2026-10-22T09:54:20.984Z",
+  "catalogo": {
+    "slug": "a/cats-eye",
+    "titulo": "Cat’s Eye",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/g440ds4Jna6BmwdIvxX47FYH8oc.jpg",
+    "info": "Legendado • Sep. 26, 2025",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Sep. 26, 2025",
+    "url": "https://meusanimes.blog/a/cats-eye/",
+    "postId": "43843"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      42
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Cat’s Eye",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/g440ds4Jna6BmwdIvxX47FYH8oc.jpg",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Sep. 26, 2025",
+  "url": "https://meusanimes.blog/a/cats-eye/"
+}

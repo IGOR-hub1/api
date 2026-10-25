@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kyoukai-no-rinne",
+  "capturadoEm": "2026-10-22T09:51:44.109Z",
+  "atualizadoEm": "2026-10-22T09:51:44.109Z",
+  "catalogo": {
+    "slug": "a/kyoukai-no-rinne",
+    "titulo": "Kyoukai no Rinne",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+    "info": "Legendado • Apr. 04, 2015",
+    "audio": "Legendado",
+    "score": "7.3",
+    "ano": "2015",
+    "publicadoEm": "Apr. 04, 2015",
+    "url": "https://meusanimes.blog/a/kyoukai-no-rinne/",
+    "postId": "57904"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      30
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kyoukai no Rinne",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/aWTAIftIb2pEnOPyXRDgpscJOKK.jpg",
+  "score": "7.3",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 04, 2015",
+  "url": "https://meusanimes.blog/a/kyoukai-no-rinne/"
+}

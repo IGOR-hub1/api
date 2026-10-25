@@ -1,0 +1,2948 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "dr-stone-dublado",
+  "capturadoEm": "2026-10-22T03:24:30.505Z",
+  "atualizadoEm": "2026-10-22T09:41:57.285Z",
+  "catalogo": {
+    "slug": "a/dr-stone-dublado",
+    "titulo": "Dr. Stone Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+    "info": "Dublado • Jul. 05, 2019",
+    "audio": "Dublado",
+    "score": "8.6",
+    "ano": "2019",
+    "publicadoEm": "Jul. 05, 2019",
+    "url": "https://meusanimes.blog/a/dr-stone-dublado/",
+    "postId": "76179"
+  },
+  "detalhes": {
+    "slug": "a/dr-stone-dublado",
+    "titulo": "Dr. Stone Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+    "sinopse": "Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência – Senku Ishigami. Diante de um mundo de pedra e do colapso generalizado da civilização, Senku decide usar sua mente para reconstruir o mundo. Ao lado de Taiju Oki, seu amigo de infância absurdamente forte, eles começam a reestabelecer a civilização do zero… Representando os dois milhões de anos da história da ciência, desde a Idade da Pedra até os dias atuais, esta aventura científica sem precedentes está prestes a começar!",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica",
+      "Shounen"
+    ],
+    "score": "7",
+    "audio": "Dublado",
+    "ano": "2019",
+    "publicadoEm": "Jul. 05, 2019",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/dr-stone-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 05, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jNdIdz4cKsAvxJRh0QWocGaKN66.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-2/",
+          "nome": "Dr. Stone Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:31:12.333Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 12, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/l7BW5GPY9EcnoxBZKHXWZfEKeOA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-1/",
+          "nome": "Dr. Stone Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-3/",
+          "nome": "Dr. Stone Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:31:08.195Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 19, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/n5lpLE1e4njZIn0d6jmb55OWwKH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-2/",
+          "nome": "Dr. Stone Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-4/",
+          "nome": "Dr. Stone Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:31:04.019Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 26, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/30pMZkqgpxvpxysB1nlOuKWWTgA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-3/",
+          "nome": "Dr. Stone Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-5/",
+          "nome": "Dr. Stone Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:59.864Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 02, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mM4UPEQJhUcFp3oTAYgQW90nQDz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-4/",
+          "nome": "Dr. Stone Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-6/",
+          "nome": "Dr. Stone Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:55.750Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 09, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/71MPjVE59eUssTmByfFBYC5p8ad.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-5/",
+          "nome": "Dr. Stone Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-7/",
+          "nome": "Dr. Stone Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:51.614Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 16, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/w3Ybj8vPIEViNhvCjqmyGCj67ZT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-6/",
+          "nome": "Dr. Stone Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-8/",
+          "nome": "Dr. Stone Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:47.472Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 23, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vgeIE6xvK8wTDH345bBsz6eMIOO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-7/",
+          "nome": "Dr. Stone Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-9/",
+          "nome": "Dr. Stone Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:43.343Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 30, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/kVRz1t86UbFH6ILg9Lw9z1sqxL1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-8/",
+          "nome": "Dr. Stone Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-10/",
+          "nome": "Dr. Stone Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:39.222Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 06, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/sxqp8JCFDumCKbyQvX9hgGHqxsN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-9/",
+          "nome": "Dr. Stone Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-11/",
+          "nome": "Dr. Stone Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:35.109Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 13, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bTpVChtIatCqNywNRdKMo1q612Z.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-10/",
+          "nome": "Dr. Stone Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-12/",
+          "nome": "Dr. Stone Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:30.976Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 20, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/yRZzEHHNfA9ZrxzgcxD0TS6ANJ6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-11/",
+          "nome": "Dr. Stone Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-13/",
+          "nome": "Dr. Stone Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:26.873Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 27, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9gbwAqikwaXPcOUoe9Xbr4WjlJE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-12/",
+          "nome": "Dr. Stone Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-14/",
+          "nome": "Dr. Stone Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:22.759Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 04, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mtoDxCqcZJGk2tDZZlMQrOLpwaI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-13/",
+          "nome": "Dr. Stone Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-15/",
+          "nome": "Dr. Stone Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:18.638Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 11, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/b4JdwngG7o59Pp3fOXO0oC1vZD3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-14/",
+          "nome": "Dr. Stone Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-16/",
+          "nome": "Dr. Stone Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:14.509Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 18, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/28Yz2QuiXD0Y9QmwnumXx82Xa2t.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-15/",
+          "nome": "Dr. Stone Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-17/",
+          "nome": "Dr. Stone Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:10.312Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 25, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wPRqE3dJPZsraso2gKoyoIqagZN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-16/",
+          "nome": "Dr. Stone Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-18/",
+          "nome": "Dr. Stone Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:06.143Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Nov. 01, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ojACONcUoDGtDTAGdjeRhyNM38g.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-17/",
+          "nome": "Dr. Stone Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-19/",
+          "nome": "Dr. Stone Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:30:02.021Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 08, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/pflOejXjo7Sv6M30ONwpnR9hAzd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-18/",
+          "nome": "Dr. Stone Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-20/",
+          "nome": "Dr. Stone Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:57.869Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Nov. 15, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/r4CvVy6gVY7WBPbZic2IPrV8Wcs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-19/",
+          "nome": "Dr. Stone Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-21/",
+          "nome": "Dr. Stone Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:53.768Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Nov. 22, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vKq2lSipWkHjwz6dtzAKIiZYTya.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-20/",
+          "nome": "Dr. Stone Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-22/",
+          "nome": "Dr. Stone Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:49.682Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Nov. 29, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/pzYT1Dynwqp99Md54mch3l9HLzE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-21/",
+          "nome": "Dr. Stone Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-23/",
+          "nome": "Dr. Stone Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:45.578Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Dec. 06, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fmsDl2bBSCy6g2WyQ6ecTjkIeOY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-22/",
+          "nome": "Dr. Stone Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-24/",
+          "nome": "Dr. Stone Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:41.444Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 13, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mJC54TEmf2Sug3DLZT9fhqiGuxW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-1-episodio-23/",
+          "nome": "Dr. Stone Dublado 1 Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:37.348Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 14, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/cW1XaeCWJya4PIgoDjijM2Qk3Vc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-2/",
+          "nome": "Dr. Stone Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:33.221Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 21, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/kyRkW4ICLl1AZwvWk5lo9IAJwQj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-1/",
+          "nome": "Dr. Stone Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-3/",
+          "nome": "Dr. Stone Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:29.051Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 28, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fOM5gNKdSaFAOtetiZpUUP2ZZaW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-2/",
+          "nome": "Dr. Stone Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-4/",
+          "nome": "Dr. Stone Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:24.863Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 02, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7W3gH6WhfPED2iCimeI5zOI7yZQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-3/",
+          "nome": "Dr. Stone Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-5/",
+          "nome": "Dr. Stone Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:20.640Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xdDdZDajj5l0o7sOnovnGEi7Sov.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-4/",
+          "nome": "Dr. Stone Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-6/",
+          "nome": "Dr. Stone Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:16.466Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5wtdap5BlXlgmIIseNTSFFFhgEo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-5/",
+          "nome": "Dr. Stone Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-7/",
+          "nome": "Dr. Stone Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:12.121Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/dLDk4u9n6aXCmP2TDgS4BodHYRo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-6/",
+          "nome": "Dr. Stone Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-8/",
+          "nome": "Dr. Stone Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:07.943Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oZusPVxwvyvnbwfPXQAlWUox8OB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-7/",
+          "nome": "Dr. Stone Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-9/",
+          "nome": "Dr. Stone Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:29:03.869Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/1pMkShY92cz8P4nrWAd3MlkKo9V.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-8/",
+          "nome": "Dr. Stone Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-10/",
+          "nome": "Dr. Stone Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:59.761Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8Na2zGSLtavAygx3MuAeOj651QS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-9/",
+          "nome": "Dr. Stone Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-11/",
+          "nome": "Dr. Stone Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:55.460Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/1ZAvZGt0teLnh4R0W9yhS3EjwK3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-2-episodio-10/",
+          "nome": "Dr. Stone Dublado 2 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:51.266Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 06, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/x3hrsz8A6WX1crKV5WLiMkvUuvo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 1 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-2/",
+          "nome": "Dr. Stone Dublado 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:47.189Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 13, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/o15nnT0jmjhMfxLPn00PgkSisR7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 2 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-1/",
+          "nome": "Dr. Stone Dublado 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-3/",
+          "nome": "Dr. Stone Dublado 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:42.857Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 20, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7uRDjro0Z42MHQFT5AyFaUxvY6M.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 3 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-2/",
+          "nome": "Dr. Stone Dublado 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-4/",
+          "nome": "Dr. Stone Dublado 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:38.744Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 27, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/aVA397LlFUhOTIrEt9k3F7OKk6M.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 4 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-3/",
+          "nome": "Dr. Stone Dublado 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-5/",
+          "nome": "Dr. Stone Dublado 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:34.644Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "May. 04, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3IjMInLbkq1mygdPzWSmj6Mrdp8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 5 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-4/",
+          "nome": "Dr. Stone Dublado 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-6/",
+          "nome": "Dr. Stone Dublado 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:30.508Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "May. 11, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/v8hh3pmeXKH4MtPFajLqOQ3Hvqr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 6 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-5/",
+          "nome": "Dr. Stone Dublado 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-7/",
+          "nome": "Dr. Stone Dublado 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:26.377Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4fgL5cLY8SqjUOyO3KC1ycPSBaB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 7 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-6/",
+          "nome": "Dr. Stone Dublado 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-8/",
+          "nome": "Dr. Stone Dublado 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:22.286Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "May. 25, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/n1yumf39DunOziTGMZWcCkgkS4b.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 8 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-7/",
+          "nome": "Dr. Stone Dublado 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-9/",
+          "nome": "Dr. Stone Dublado 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:18.128Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 01, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7LhbWIVc3mJf0cjshNwpVWJDLAQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 9 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-8/",
+          "nome": "Dr. Stone Dublado 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-10/",
+          "nome": "Dr. Stone Dublado 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:14.016Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 08, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7OeCecH8SqkaKXDV9aS9vyMyKQz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 10 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-9/",
+          "nome": "Dr. Stone Dublado 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-11/",
+          "nome": "Dr. Stone Dublado 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:09.915Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 15, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/b577K4Y15J2zop96edjtQRjeG5S.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 11 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-10/",
+          "nome": "Dr. Stone Dublado 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-12/",
+          "nome": "Dr. Stone Dublado 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:05.795Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Oct. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wK4bbwqbPk1PbLljcazH6KzWVvx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 12 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-11/",
+          "nome": "Dr. Stone Dublado 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-13/",
+          "nome": "Dr. Stone Dublado 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:28:01.449Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-13/",
+      "numero": 13,
+      "temporada": 3,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 19, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/gTfHFLH8RNvq2KirV7aPemhzXW8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 13 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-12/",
+          "nome": "Dr. Stone Dublado 3 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-14/",
+          "nome": "Dr. Stone Dublado 3 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:57.273Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-14/",
+      "numero": 14,
+      "temporada": 3,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mHFWnsigkolhX6GyhV8Z4wb9rtp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 14 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-13/",
+          "nome": "Dr. Stone Dublado 3 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-15/",
+          "nome": "Dr. Stone Dublado 3 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:53.169Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-15/",
+      "numero": 15,
+      "temporada": 3,
+      "nome": "Episódio 15",
+      "descricao": "Nov. 02, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/i5WrLPDOESOxntDuoJ1AqVgYR9I.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 15 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-14/",
+          "nome": "Dr. Stone Dublado 3 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-16/",
+          "nome": "Dr. Stone Dublado 3 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:49.038Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-16/",
+      "numero": 16,
+      "temporada": 3,
+      "nome": "Episódio 16",
+      "descricao": "Nov. 09, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/uJGNLytepCwHWmUXl7MjPfOtZAa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 16 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-15/",
+          "nome": "Dr. Stone Dublado 3 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-17/",
+          "nome": "Dr. Stone Dublado 3 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:44.693Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-17/",
+      "numero": 17,
+      "temporada": 3,
+      "nome": "Episódio 17",
+      "descricao": "Nov. 16, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/6v7V8kljFknyT2NhVRsHK9tESC1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 17 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-16/",
+          "nome": "Dr. Stone Dublado 3 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-18/",
+          "nome": "Dr. Stone Dublado 3 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:40.581Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-18/",
+      "numero": 18,
+      "temporada": 3,
+      "nome": "Episódio 18",
+      "descricao": "Nov. 23, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/93wkryYnttiGIYLbBpfK1ZsRtWV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 18 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-17/",
+          "nome": "Dr. Stone Dublado 3 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-19/",
+          "nome": "Dr. Stone Dublado 3 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:36.482Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-19/",
+      "numero": 19,
+      "temporada": 3,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 30, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4PlCnfRS4V6Ij8RR7qLtK2akqKW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 19 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-18/",
+          "nome": "Dr. Stone Dublado 3 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-20/",
+          "nome": "Dr. Stone Dublado 3 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:32.369Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-20/",
+      "numero": 20,
+      "temporada": 3,
+      "nome": "Episódio 20",
+      "descricao": "Dec. 07, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8nhV9hoZ1k6qcUVHMZ5MV8jc0TJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 20 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-19/",
+          "nome": "Dr. Stone Dublado 3 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-21/",
+          "nome": "Dr. Stone Dublado 3 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:28.207Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-21/",
+      "numero": 21,
+      "temporada": 3,
+      "nome": "Episódio 21",
+      "descricao": "Dec. 14, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/r2YtNnc9wgcbC6pZTrFhi5LBHpm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 21 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-20/",
+          "nome": "Dr. Stone Dublado 3 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-22/",
+          "nome": "Dr. Stone Dublado 3 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:24.115Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-22/",
+      "numero": 22,
+      "temporada": 3,
+      "nome": "Episódio 22",
+      "descricao": "Dec. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/2GB1NNoz7KsQC6yaMOpQs8xvVZO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 3 Episodio 22 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-3-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-3-episodio-21/",
+          "nome": "Dr. Stone Dublado 3 Episodio 21"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/3/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:20.024Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/3/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/3/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 09, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 1 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-2/",
+          "nome": "Dr. Stone Dublado 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:15.970Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 16, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9g0A6XVGIkXNXz56w9xjCp3zVOq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 2 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-1/",
+          "nome": "Dr. Stone Dublado 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-3/",
+          "nome": "Dr. Stone Dublado 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:11.854Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 23, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jroZEcETT7etBtv03Kf1SsydZ4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 3 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-2/",
+          "nome": "Dr. Stone Dublado 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-4/",
+          "nome": "Dr. Stone Dublado 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:07.769Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 30, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ttjeTBt1ZLIUjhaOu1PO6S74Zw0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 4 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-3/",
+          "nome": "Dr. Stone Dublado 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-5/",
+          "nome": "Dr. Stone Dublado 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:27:03.685Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/w0Cf0omdaTfnxKikdLOHTLCeKtB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 5 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-4/",
+          "nome": "Dr. Stone Dublado 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-6/",
+          "nome": "Dr. Stone Dublado 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:59.559Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/lLFi5q8mRqS48TXOQdxc8VG9Tpl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 6 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-5/",
+          "nome": "Dr. Stone Dublado 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-7/",
+          "nome": "Dr. Stone Dublado 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:55.274Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/53oHxXkmiPselcrT9A74SGItjt4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 7 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-6/",
+          "nome": "Dr. Stone Dublado 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-8/",
+          "nome": "Dr. Stone Dublado 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:50.939Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8QuD8JwRQKVutOVNCQi6cP0wHrV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 8 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-7/",
+          "nome": "Dr. Stone Dublado 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-9/",
+          "nome": "Dr. Stone Dublado 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:46.835Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hG4fOlbgdt7EmD54N3AxjLmkouI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 9 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-8/",
+          "nome": "Dr. Stone Dublado 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-10/",
+          "nome": "Dr. Stone Dublado 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:42.738Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/m8JSOafuanBZHm5AvYc5qzKZ7hO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 10 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-9/",
+          "nome": "Dr. Stone Dublado 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-11/",
+          "nome": "Dr. Stone Dublado 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:38.544Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/m41G97oBvIzc6eTfH8vXZdKo8Vh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 11 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-10/",
+          "nome": "Dr. Stone Dublado 4 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-12/",
+          "nome": "Dr. Stone Dublado 4 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:34.408Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4f8yWqwIz2nu0XTaH8wPzjP8KCz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 12 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-11/",
+          "nome": "Dr. Stone Dublado 4 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-13/",
+          "nome": "Dr. Stone Dublado 4 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:30.291Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-13/",
+      "numero": 13,
+      "temporada": 4,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/nKQswsgZYS6lzski4F78yJcJO2Z.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 13 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-12/",
+          "nome": "Dr. Stone Dublado 4 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-14/",
+          "nome": "Dr. Stone Dublado 4 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:26.174Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-14/",
+      "numero": 14,
+      "temporada": 4,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 17, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/usXgtCw8S7vIdZFHiFPibh8cwuP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 14 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-13/",
+          "nome": "Dr. Stone Dublado 4 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-15/",
+          "nome": "Dr. Stone Dublado 4 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:22.086Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-15/",
+      "numero": 15,
+      "temporada": 4,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 24, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/A8DX2r9WMKB0mfw6jvxaZpXXisL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 15 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-14/",
+          "nome": "Dr. Stone Dublado 4 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-16/",
+          "nome": "Dr. Stone Dublado 4 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:17.989Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-16/",
+      "numero": 16,
+      "temporada": 4,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 31, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3VdFxpg5qXwbwqByUFt8QcVSExT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 16 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-15/",
+          "nome": "Dr. Stone Dublado 4 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-17/",
+          "nome": "Dr. Stone Dublado 4 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:13.922Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-17/",
+      "numero": 17,
+      "temporada": 4,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 07, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/i1FRetXyFN5ssjk0j3JNMFLOTFp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 17 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-16/",
+          "nome": "Dr. Stone Dublado 4 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-18/",
+          "nome": "Dr. Stone Dublado 4 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:09.800Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-18/",
+      "numero": 18,
+      "temporada": 4,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 14, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cUamd5AnPoaV8gpbeOSYqP98xBT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 18 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-17/",
+          "nome": "Dr. Stone Dublado 4 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-19/",
+          "nome": "Dr. Stone Dublado 4 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:05.628Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-19/",
+      "numero": 19,
+      "temporada": 4,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 21, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/sysrBgyqcTQAkIV0FyGbr8wGElU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 19 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-18/",
+          "nome": "Dr. Stone Dublado 4 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-20/",
+          "nome": "Dr. Stone Dublado 4 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:26:01.314Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-20/",
+      "numero": 20,
+      "temporada": 4,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 28, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xCcnSYPMgYwx0kSXapNcExw9wUu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 20 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-19/",
+          "nome": "Dr. Stone Dublado 4 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-21/",
+          "nome": "Dr. Stone Dublado 4 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:57.210Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-21/",
+      "numero": 21,
+      "temporada": 4,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 04, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/wi00k5SHH4Rx1imtUnSnc3iHS7k.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 21 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-20/",
+          "nome": "Dr. Stone Dublado 4 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-22/",
+          "nome": "Dr. Stone Dublado 4 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:53.056Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-22/",
+      "numero": 22,
+      "temporada": 4,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 11, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3Y5FMnjRwZDPGE9QKPzzXNprljb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 22 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-21/",
+          "nome": "Dr. Stone Dublado 4 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-23",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-23/",
+          "nome": "Dr. Stone Dublado 4 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:48.885Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-23/",
+      "numero": 23,
+      "temporada": 4,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 18, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/9rNkii47R4Za5MY9IwSyhSAGMiW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 23 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-22/",
+          "nome": "Dr. Stone Dublado 4 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-24",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-24/",
+          "nome": "Dr. Stone Dublado 4 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:44.604Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-24/",
+      "numero": 24,
+      "temporada": 4,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 25, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/FV01DRaIiI76EI2EPglHDMAkd4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 24 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-23",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-23/",
+          "nome": "Dr. Stone Dublado 4 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-1/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 1"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:40.486Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-1/",
+      "numero": 25,
+      "temporada": 4,
+      "nome": "Episódio 25",
+      "descricao": "Apr. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/csK2P8qgAJlpmjfiwEK24Idzs7J.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 25 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-1/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-dublado-4-episodio-24",
+          "link": "https://meusanimes.blog/e/dr-stone-dublado-4-episodio-24/",
+          "nome": "Dr. Stone Dublado 4 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-2/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:36.323Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-2/",
+      "numero": 26,
+      "temporada": 4,
+      "nome": "Episódio 26",
+      "descricao": "Apr. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8hLkiFYfTh2p3oWPB8U25A4LdVP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 26 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/26/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-1/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-3/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:32.234Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-3/",
+      "numero": 27,
+      "temporada": 4,
+      "nome": "Episódio 27",
+      "descricao": "Apr. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tXvGNXMN91pEuoHIw9HcOHn9u8W.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 27 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/27/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-2/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-4/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:28.020Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-4/",
+      "numero": 28,
+      "temporada": 4,
+      "nome": "Episódio 28",
+      "descricao": "Apr. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fEIJ898viPqr0j7CnoBovvwWEyf.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 28 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/28/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-3/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-5/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:23.510Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/28/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-5/",
+      "numero": 29,
+      "temporada": 4,
+      "nome": "Episódio 29",
+      "descricao": "Apr. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7ehwfb6aB6LuhAxGLU5xzdq3IpB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 29 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/29/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-4/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-6/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/29/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:19.383Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/29/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/29/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-6/",
+      "numero": 30,
+      "temporada": 4,
+      "nome": "Episódio 30",
+      "descricao": "May. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/2JaWJ9SygDxdmbpTJ8UMwTWA3TW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 30 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/30/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-5/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-7/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/30/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:15.213Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/30/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/30/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-7/",
+      "numero": 31,
+      "temporada": 4,
+      "nome": "Episódio 31",
+      "descricao": "May. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/kLhKTqF1ag0cc5nRBKwi6kchka1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 31 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/31/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-6/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-8/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/31/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:11.068Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/31/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/31/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-8/",
+      "numero": 32,
+      "temporada": 4,
+      "nome": "Episódio 32",
+      "descricao": "May. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5Tdm4g6yJoP1OpO6HZhG9ZnbRhj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 32 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/32/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-7/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-9/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/32/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:06.958Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/32/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/32/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-9/",
+      "numero": 33,
+      "temporada": 4,
+      "nome": "Episódio 33",
+      "descricao": "May. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/c9Wtq5mg90jkH1hozFYNSExTKEY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 33 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/33/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-8/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-10/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/33/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:25:02.839Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/33/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/33/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-10/",
+      "numero": 34,
+      "temporada": 4,
+      "nome": "Episódio 34",
+      "descricao": "Jun. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/6qKflZD73Xq2gBDP8ixqaWweujr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 34 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/34/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-9/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-11/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/34/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:24:58.733Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/34/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/34/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-11/",
+      "numero": 35,
+      "temporada": 4,
+      "nome": "Episódio 35",
+      "descricao": "Jun. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/sTI46V4If7ZALmCG58HvJk2iyxY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 35 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/35/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-10/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-12/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/35/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:24:54.618Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/35/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/35/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-12/",
+      "numero": 36,
+      "temporada": 4,
+      "nome": "Episódio 36",
+      "descricao": "Jun. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/l3ZUyE6Fc9koO6AnTiX50qYNYM4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 36 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/36/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-11/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-13/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/36/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:24:50.484Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/36/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/36/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-13/",
+      "numero": 37,
+      "temporada": 4,
+      "nome": "Episódio 37",
+      "descricao": "Jul. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/x9Q7jNLYl1vYQrKHLGjrkplL3lc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dr. Stone Dublado: 4 Episodio 37 Online",
+        "animeSlug": "a/dr-stone-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/37/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-dublado-episodio-12/",
+          "nome": "Dr. Stone: Science Future Part 3 Dublado Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/860311/4/37/"
+      },
+      "playerCapturadoEm": "2026-10-22T03:24:46.383Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/860311/4/37/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/860311/4/37/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      10
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 94,
+    "totalEpisodios": 94,
+    "detalhesColetadosEm": "2026-10-22T03:24:30.505Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 94
+  },
+  "titulo": "Dr. Stone Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+  "score": "8.6",
+  "audio": "Dublado",
+  "ano": "2019",
+  "publicadoEm": "Jul. 05, 2019",
+  "url": "https://meusanimes.blog/a/dr-stone-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+  "temporadas": 4,
+  "descricao": "Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência – Senku Ishigami. Diante de um mundo de pedra e do colapso generalizado da civilização, Senku decide usar sua mente para reconstruir o mundo. Ao lado de Taiju Oki, seu amigo de infância absurdamente forte, eles começam a reestabelecer a civilização do zero… Representando os dois milhões de anos da história da ciência, desde a Idade da Pedra até os dias atuais, esta aventura científica sem precedentes está prestes a começar!"
+}

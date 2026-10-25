@@ -1,0 +1,1344 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "record-of-ragnarok-dublado",
+  "capturadoEm": "2026-10-22T09:16:53.047Z",
+  "atualizadoEm": "2026-10-22T09:43:51.795Z",
+  "catalogo": {
+    "slug": "a/record-of-ragnarok-dublado",
+    "titulo": "Record of Ragnarok Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+    "info": "Dublado • Jun. 17, 2021",
+    "audio": "Dublado",
+    "score": "8.461",
+    "ano": "2021",
+    "publicadoEm": "Jun. 17, 2021",
+    "url": "https://meusanimes.blog/a/record-of-ragnarok-dublado/",
+    "postId": "19929"
+  },
+  "detalhes": {
+    "slug": "a/record-of-ragnarok-dublado",
+    "titulo": "Record of Ragnarok Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+    "sinopse": "Record of Ragnarok Online , Antes de erradicar a humanidade do mundo, os deuses dão a eles uma última chance de provar que são dignos de sobreviver. Que as batalhas do Ragnarok comecem.",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Seinen",
+      "Super Poderes"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2021",
+    "publicadoEm": "Jun. 17, 2021",
+    "temporadas": 3,
+    "url": "https://meusanimes.blog/a/record-of-ragnarok-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/yJCZIaulQqjRAlgWnBlP1Rwkbb2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-2",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-2/",
+          "nome": "Record of Ragnarok 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:52.677Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/aai6GXiCf2eeISDv5iTHZVAl34u.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-1",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-1/",
+          "nome": "Record of Ragnarok 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-3",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-3/",
+          "nome": "Record of Ragnarok 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:48.608Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/qi1nhQeXG7D9F9CXHIle0yFwt75.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-2",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-2/",
+          "nome": "Record of Ragnarok 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-4",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-4/",
+          "nome": "Record of Ragnarok 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:44.507Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/e6Df2Ekbl9qJW7PmLtYRNSDmVl9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-3",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-3/",
+          "nome": "Record of Ragnarok 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-5",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-5/",
+          "nome": "Record of Ragnarok 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:40.420Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/v4i8xQeyhes4pMH3E3NmWk6o1YQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-4",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-4/",
+          "nome": "Record of Ragnarok 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-6",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-6/",
+          "nome": "Record of Ragnarok 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:35.764Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/iNXaSHJbtew9qbF3q9ZwOmFNkCz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-5",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-5/",
+          "nome": "Record of Ragnarok 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-7",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-7/",
+          "nome": "Record of Ragnarok 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:31.710Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bWNrHARxecJCcIAYDFKHlqB1Xam.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-6",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-6/",
+          "nome": "Record of Ragnarok 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-8",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-8/",
+          "nome": "Record of Ragnarok 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:27.598Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nyskn0IxG9i7Vee12G4CNRxFgmA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-7",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-7/",
+          "nome": "Record of Ragnarok 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-9",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-9/",
+          "nome": "Record of Ragnarok 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:23.531Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/xWofkIgdnOrYfNNtMR4GtaRRjef.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-8",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-8/",
+          "nome": "Record of Ragnarok 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-10",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-10/",
+          "nome": "Record of Ragnarok 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:18.909Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/dE6LmylAd2RT7ozn2yMY2lUgCtk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-9",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-9/",
+          "nome": "Record of Ragnarok 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-11",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-11/",
+          "nome": "Record of Ragnarok 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:14.770Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3OR8vVXjWE6VId3u76p9WLv6K1U.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-10",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-10/",
+          "nome": "Record of Ragnarok 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-12",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-12/",
+          "nome": "Record of Ragnarok 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:10.665Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/6pJlzARnDmyQI3dMlGTf8nuHjAE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-1-episodio-11",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-1-episodio-11/",
+          "nome": "Record of Ragnarok 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:06.569Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/mh6NE9pf8KrbShE1Pk5nhCmUxll.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-2",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-2/",
+          "nome": "Record of Ragnarok 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:19:02.446Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/d7Cggx3KGtgCi7nYIvadGaPX4oS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-1",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-1/",
+          "nome": "Record of Ragnarok 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-3",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-3/",
+          "nome": "Record of Ragnarok 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:58.394Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bDHHRMoVzU3El1Us9Iptk9wzBXc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-2",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-2/",
+          "nome": "Record of Ragnarok 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-4",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-4/",
+          "nome": "Record of Ragnarok 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:54.295Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5Is4ayGRXryxrwaoTBDZaL71eb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-3",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-3/",
+          "nome": "Record of Ragnarok 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-5",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-5/",
+          "nome": "Record of Ragnarok 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:50.229Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ragUTF0S1STwB3j2OdeqsGBJnoN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-4",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-4/",
+          "nome": "Record of Ragnarok 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-6",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-6/",
+          "nome": "Record of Ragnarok 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:46.078Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/AqfLehARGiJN8d76n7YPz4DhBke.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-5",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-5/",
+          "nome": "Record of Ragnarok 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-7",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-7/",
+          "nome": "Record of Ragnarok 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:41.998Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/c9FHQKuAqWBdA4MIDzsIlNAWCXE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-6",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-6/",
+          "nome": "Record of Ragnarok 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-8",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-8/",
+          "nome": "Record of Ragnarok 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:37.652Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ghFpzWrDTBuUtXEbnSgYglvZM6n.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-7",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-7/",
+          "nome": "Record of Ragnarok 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-9",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-9/",
+          "nome": "Record of Ragnarok 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:33.555Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/oj0p3YznwlEw9KUwL5hSjH45BbR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-8",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-8/",
+          "nome": "Record of Ragnarok 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-10",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-10/",
+          "nome": "Record of Ragnarok 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:28.919Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jan. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pT7DF9d5qJpTRfia1SVJ8c6HPoe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-9",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-9/",
+          "nome": "Record of Ragnarok 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-11",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-11/",
+          "nome": "Record of Ragnarok 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:24.845Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jul. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/z5XJkkB4ihkfHapbxbbUPtIWqVE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-10",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-10/",
+          "nome": "Record of Ragnarok 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-12",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-12/",
+          "nome": "Record of Ragnarok 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:20.753Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jul. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uzJEipxL96FHjRf0efarRwHdDW3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-11",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-11/",
+          "nome": "Record of Ragnarok 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-13",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-13/",
+          "nome": "Record of Ragnarok 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:16.705Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uvMrqXRRmNKA2EOa1mF2uCE6XLy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 13 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-12",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-12/",
+          "nome": "Record of Ragnarok 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-14",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-14/",
+          "nome": "Record of Ragnarok 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:12.524Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/kBDUxq0x15eesPWCCPVK6OimkOd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 14 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-13",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-13/",
+          "nome": "Record of Ragnarok 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-15",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-15/",
+          "nome": "Record of Ragnarok 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:08.448Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/gNZe7sHTcilhjeihFKfoz1V2q9A.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 2 Episodio 15 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-2-episodio-14",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-2-episodio-14/",
+          "nome": "Record of Ragnarok 2 Episodio 14"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:04.326Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/5DuOduIwy7EcsHJhWEWlnkP1HrX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 1 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-2",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-2/",
+          "nome": "Record of Ragnarok 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:18:00.231Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/9lmSELTu9ey24qjyMxvs9lgZIpy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 2 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-1",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-1/",
+          "nome": "Record of Ragnarok 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-3",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-3/",
+          "nome": "Record of Ragnarok 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:56.096Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/lDLISYaNC01d2pEzn0B0nJZIyJw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 3 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-2",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-2/",
+          "nome": "Record of Ragnarok 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-4",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-4/",
+          "nome": "Record of Ragnarok 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:51.989Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/vORHnMVnDMwNrVTxUBvnDjd36RR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 4 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-3",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-3/",
+          "nome": "Record of Ragnarok 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-5",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-5/",
+          "nome": "Record of Ragnarok 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:47.937Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/3Z7BWCp94FsZeshx1LgYK2LNofK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 5 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-4",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-4/",
+          "nome": "Record of Ragnarok 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-6",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-6/",
+          "nome": "Record of Ragnarok 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:43.763Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/csl6NzXrrvWW3Q3egn2KNRg6YaM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 6 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-5",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-5/",
+          "nome": "Record of Ragnarok 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-7",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-7/",
+          "nome": "Record of Ragnarok 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:39.620Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/m7C1xeDW4a5ExaD1AYAZETMDEHS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 7 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-6",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-6/",
+          "nome": "Record of Ragnarok 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-8",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-8/",
+          "nome": "Record of Ragnarok 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:35.556Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/9TJexwdseB86CVMEcXso9G5eJeM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 8 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-7",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-7/",
+          "nome": "Record of Ragnarok 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-9",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-9/",
+          "nome": "Record of Ragnarok 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:31.501Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/arFiLvlIsE88KkdhKaVLXZFaG5I.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 9 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-8",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-8/",
+          "nome": "Record of Ragnarok 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-10",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-10/",
+          "nome": "Record of Ragnarok 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:27.415Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/oD0jtj34WNcREl6NExBn6bXtPaC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 10 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-9",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-9/",
+          "nome": "Record of Ragnarok 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-11",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-11/",
+          "nome": "Record of Ragnarok 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:23.273Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/9sIj1pShROJwIzD1sMxidCUIZG8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 11 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-10",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-10/",
+          "nome": "Record of Ragnarok 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-12",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-12/",
+          "nome": "Record of Ragnarok 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:19.153Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/qKKlGcSDw8ndmVpEKK3kHU6Euou.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 12 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-11",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-11/",
+          "nome": "Record of Ragnarok 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-13",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-13/",
+          "nome": "Record of Ragnarok 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:14.835Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-13/",
+      "numero": 13,
+      "temporada": 3,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/nso5HRCS169t2IZIGnGQmrjkdwE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 13 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-12",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-12/",
+          "nome": "Record of Ragnarok 3 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-14",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-14/",
+          "nome": "Record of Ragnarok 3 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:10.711Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-14/",
+      "numero": 14,
+      "temporada": 3,
+      "nome": "Episódio 14",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/iZYZig2Af5wxgmKHAEimLkclFSD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 14 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-13",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-13/",
+          "nome": "Record of Ragnarok 3 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-15",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-15/",
+          "nome": "Record of Ragnarok 3 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:06.597Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-15/",
+      "numero": 15,
+      "temporada": 3,
+      "nome": "Episódio 15",
+      "descricao": "Dec. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/hfc3bueWoJ8k7PUMbNq0AfPesLo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Record of Ragnarok Dublado: 3 Episodio 15 Online",
+        "animeSlug": "a/record-of-ragnarok-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/record-of-ragnarok-3-episodio-14",
+          "link": "https://meusanimes.blog/e/record-of-ragnarok-3-episodio-14/",
+          "nome": "Record of Ragnarok 3 Episodio 14"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/114868/3/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:17:02.431Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/114868/3/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/114868/3/15/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 42,
+    "totalEpisodios": 42,
+    "detalhesColetadosEm": "2026-10-22T09:16:53.047Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 42
+  },
+  "titulo": "Record of Ragnarok Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+  "score": "8.461",
+  "audio": "Dublado",
+  "ano": "2021",
+  "publicadoEm": "Jun. 17, 2021",
+  "url": "https://meusanimes.blog/a/record-of-ragnarok-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg",
+  "temporadas": 3,
+  "descricao": "Record of Ragnarok Online , Antes de erradicar a humanidade do mundo, os deuses dão a eles uma última chance de provar que são dignos de sobreviver. Que as batalhas do Ragnarok comecem."
+}

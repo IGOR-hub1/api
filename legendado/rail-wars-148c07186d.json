@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "rail-wars",
+  "capturadoEm": "2026-10-22T09:51:04.651Z",
+  "atualizadoEm": "2026-10-22T09:51:04.651Z",
+  "catalogo": {
+    "slug": "a/rail-wars",
+    "titulo": "Rail Wars!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/atlRfopvtMPdu4eLuh4kIXXODXF.jpg",
+    "info": "Legendado • Jul. 04, 2014",
+    "audio": "Legendado",
+    "score": "5.737",
+    "ano": "2014",
+    "publicadoEm": "Jul. 04, 2014",
+    "url": "https://meusanimes.blog/a/rail-wars/",
+    "postId": "61620"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      27
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Rail Wars!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/atlRfopvtMPdu4eLuh4kIXXODXF.jpg",
+  "score": "5.737",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jul. 04, 2014",
+  "url": "https://meusanimes.blog/a/rail-wars/"
+}

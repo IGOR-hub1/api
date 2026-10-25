@@ -1,0 +1,2703 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "rezero-kara-hajimeru-isekai-seikatsu",
+  "capturadoEm": "2026-10-22T09:47:45.803Z",
+  "atualizadoEm": "2026-10-22T21:40:12.771Z",
+  "catalogo": {
+    "slug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+    "titulo": "Re:ZERO Kara Hajimeru Isekai Seikatsu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
+    "info": "Legendado • Apr. 04, 2016",
+    "audio": "Legendado",
+    "score": "7.817",
+    "ano": "2016",
+    "publicadoEm": "Apr. 04, 2016",
+    "url": "https://meusanimes.blog/a/rezero-kara-hajimeru-isekai-seikatsu/",
+    "postId": "53538"
+  },
+  "detalhes": {
+    "slug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+    "titulo": "Re:ZERO Kara Hajimeru Isekai Seikatsu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
+    "sinopse": "Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional… e, por fim, a morte. Subaru promete derrotar qualquer inimigo, qualquer destino, tudo para protegê-la. E assim, o pobre garoto sem poder algum obtém o “Retorno da Morte”, uma habilidade única que permite ao usuário voltar no tempo ao morrer. Usando esse poder, o passado é perdido e as memórias são reescritas.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Drama",
+      "Fantasia",
+      "Ficção científica",
+      "Suspense"
+    ],
+    "score": "6",
+    "audio": "Legendado",
+    "ano": "2016",
+    "publicadoEm": "Apr. 04, 2016",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/rezero-kara-hajimeru-isekai-seikatsu/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/4t07rKWcAEjV08nHRUXFnkP7PER.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 1 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-2",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-2/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:40:12.771Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/4ylSynAX5K8Wz5GvmxPGSJHQhQR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 2 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-1",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-1/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-3",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-3/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:40:08.682Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 18, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/niDOnDau8oTa9PpXPJOdIbhBRoI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 3 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-2",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-2/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-4",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-4/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:40:04.614Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 25, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/727cwDQrkzpx2XoFTBsTSRMAEnr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 4 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-3",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-3/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-5",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-5/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:40:00.484Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 02, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/yX9GgwxRHFPZUbsUXYKcxEHsnr0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 5 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-4",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-4/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-6",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-6/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:56.383Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 09, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/cELlH8Oda3U5JYd1vsa3oRAOCTr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 6 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-5",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-5/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-7",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-7/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:52.245Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 16, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/fb2ZSWUnc4JiRWqVJLjRTjYz4z2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 7 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-6",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-6/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-8",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-8/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:48.076Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 23, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/yPbigieNZ5BYXpuiPuelIWvIr54.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 8 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-7",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-7/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-9",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-9/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:43.972Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 30, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/pn8E0BWhsdMfvftHqAyI89FQ7Le.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 9 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-8",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-8/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-10",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-10/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:39.839Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 06, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/axHoU0FGDmeFBM3YyZwVW0Lpnjg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 10 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-9",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-9/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-11",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-11/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:35.656Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 13, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/b68FUUavbuz1biWRizhfdTUNTaK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 11 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-10",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-10/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-12",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-12/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:31.524Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 20, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hWfNLTRet0fr72vRAtAkWWW77Z8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 12 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-11",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-11/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-13",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-13/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:27.075Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 27, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9pCau2MNoKdtoAEyjt4H5XgdkMG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 13 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-12",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-12/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-14",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-14/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:22.928Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 04, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/uvZBiKv0TnmKv5DsC9zoYSDcB1G.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 14 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-13",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-13/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-15",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-15/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:18.731Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 11, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/80T61OnEm3ZrCeuZwyVyypIpIBg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 15 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-14",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-14/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-16",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-16/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:14.537Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 18, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/jcDPfVhJcOISIhQcvXBSOFiOynP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 16 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-15",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-15/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-17",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-17/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:10.382Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 25, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ud112QQ0PLvdYhnuSYwy9RL8hWH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 17 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-16",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-16/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-18",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-18/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:06.173Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 01, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/glOKMiNcuMpme1HAAJTIatWps6d.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 18 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-17",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-17/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-19",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-19/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:39:02.054Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 08, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hzTmqZEshNVIFkQfa9DQpevGfJI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 19 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-18",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-18/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-20",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-20/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:57.912Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 15, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/3fHfgh8vHxo4DACVbF0P33WYewC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 20 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-19",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-19/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-21",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-21/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:53.815Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 22, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/xuqXqkfurMAcEGzlm3oKfk9fiGD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 21 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-20",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-20/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-22",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-22/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:49.658Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 29, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/cQPU3GoOEoxGBgknNSEjoqpEzFm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 22 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-21",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-21/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-23",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-23/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:45.579Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 05, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/s7ZZ812Fgsk7nk0bhony8nATPxB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 23 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-22",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-22/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-24",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-24/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:41.509Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 12, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2MxuHIzxxZ0jLk0CcBqRJhY8LZD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 24 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-23",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-23/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-25",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-25/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:37.387Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 19, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/8WPUoiykJJEmXS7Skz9bZeJRw2m.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 25 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-24",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-24/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-26",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-26/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:33.125Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Jul. 08, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hwXba8aHTZvXnoSB7XTs6b121h6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 1 Episodio 26 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/rezero-starting-life-in-another-world-1-episodio-25",
+          "link": "https://meusanimes.blog/e/rezero-starting-life-in-another-world-1-episodio-25/",
+          "nome": "Re:ZERO -Starting Life in Another World- 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:28.878Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 15, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/wLkroCtInxYA8md87iRba0RN1VZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 1 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-2",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-2/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:24.638Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 22, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/chFfUkElUediuD9WlAUXz1yIJu7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 2 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-1",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-1/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-3",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-3/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:20.504Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 29, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/2LrOgEfPzYISpvVakXPjNxBvHt7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 3 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-2",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-2/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-4",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-4/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:16.347Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 05, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qsGmBmSsc1ztWTDGZMSz6jtuGWf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 4 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-3",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-3/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-5",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-5/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:12.177Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 12, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/zC0lAx1HQikGkrFCImsovKRI18k.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 5 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-4",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-4/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-6",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-6/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:08.085Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 19, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/7QBssCJLNzCqgZ6eo0nwK6t9C0G.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 6 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-5",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-5/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-7",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-7/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:38:03.522Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 26, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/s3q0TkIDaHGsDVPYDzW7SXQzN4r.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 7 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-6",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-6/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-8",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-8/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:59.196Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 02, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/33ZirLo6Y4hTPCDTEBAmLnHs0Wq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 8 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-7",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-7/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-9",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-9/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:55.019Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 09, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/zHFYutWDxN0cw7KpXojS67J46ve.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 9 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-8",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-8/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-10",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-10/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:50.005Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 16, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/82bL8dBmUtQYO8fBFyCILEOaQ1s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 10 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-9",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-9/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-11",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-11/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:45.744Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 23, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/bbmT8M0txsiaW3YOcjoeYg1dKzO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 11 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-10",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-10/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-12",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-12/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:41.430Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 30, 2020",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/sN6MlPYeQTFtO2C15381Ml1W42m.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 12 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-11",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-11/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-13",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-13/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:37.241Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 06, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/lsSSRqp9mHIiSVOpT5Yop3awxF2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 13 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-12",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-12/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-14",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-14/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:33.099Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 13, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/c7spMEhbhNSY89JRGKkDgrf67mf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 14 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-13",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-13/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-15",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-15/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:28.952Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 20, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9VLUCMXozL9yjcRzE60Kkr5j3XZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 15 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-14",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-14/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-16",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-16/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:24.723Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 27, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/htFZzxh2FSxCO4IPCZuGNk2R9Bf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 16 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-15",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-15/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-17",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-17/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:20.591Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 03, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/uCX8GhqRafTIjkQgswc5khWIGTK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 17 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-16",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-16/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-18",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-18/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:16.167Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-18/",
+      "numero": 18,
+      "temporada": 2,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 10, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/pFoEwUqaVVdrW555Hb8THNM16vs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 18 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-17",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-17/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-19",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-19/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:11.872Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-19/",
+      "numero": 19,
+      "temporada": 2,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/lydrQyG86OYm3Flh8CCHZvAFoFi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 19 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-18",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-18/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-20",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-20/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:07.652Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-20/",
+      "numero": 20,
+      "temporada": 2,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 24, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/nNL1ZO9NnIc77JDbe5QSsg8VWEV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 20 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-19",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-19/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-21",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-21/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:37:03.340Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-21/",
+      "numero": 21,
+      "temporada": 2,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 03, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/tqggLcfQMu2tdTXATUl01jH1eGP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 21 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-20",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-20/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-22",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-22/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:59.165Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-22/",
+      "numero": 22,
+      "temporada": 2,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 10, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/eLqGkjfvEVsXzbhxinaTs8XC0rP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 22 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-21",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-21/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-23",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-23/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:54.979Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-23/",
+      "numero": 23,
+      "temporada": 2,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/gEaBLYZYl2CHYRyT78GF6hdO84C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 23 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-22",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-22/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-24",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-24/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:50.496Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-24/",
+      "numero": 24,
+      "temporada": 2,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 24, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/uO8kSKQCiSKGds5M89aQpVUrKfG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 24 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-23",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-23/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-25",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-25/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:46.239Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-25/",
+      "numero": 25,
+      "temporada": 2,
+      "nome": "Episódio 25",
+      "descricao": "Oct. 02, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/iu7ErnYe1zYGn8T1cGoGgGtCyj9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 2 Episodio 25 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-24",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-2-episodio-24/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 2 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/2/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:42.059Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/2/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/2/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 09, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/jhu9DiB5fFgJmlj4BTj74MV9bUQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 1 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-2",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-2/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:37.426Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 16, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qE8lAhLiWHo8xS9nsSZMKrv9VGv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 2 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-1",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-1/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-3",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-3/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:33.314Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 23, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/tKjR5NULh27CCzLIWjzn6KvnzD8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 3 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-2",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-2/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-4",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-4/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:28.868Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 30, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/6MGvrGcPlJGwuaDp1jlaRCc70o3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 4 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-3",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-3/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-5",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-5/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:24.559Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 06, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/aYoKoKN0EYO9pNm0GNHqHtcZfqw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 5 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-4",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-4/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-6",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-6/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:20.460Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 13, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/mUfnn4ABVrL0JohAQIKJvtk4PZj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 6 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-5",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-5/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-7",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-7/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:16.296Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 20, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/lu6j9DcxieL4v1VZji3osFA12nD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 7 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-6",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-6/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-8",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-8/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:12.165Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/qLyUPEFYwwnTVrX1kTObvzHLTmP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 8 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-7",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-7/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-9",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-9/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:07.929Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Feb. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/q60vVu4cxaAWzzK3GPZzVp9oeJB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 9 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-8",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-8/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-10",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-10/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:36:03.591Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Feb. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/yVTQiA6VGg0k46xnobSP1K1PnX2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 10 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-9",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-9/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-11",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-11/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:58.883Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Feb. 26, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/utufqXK2VbaOGETZHLbgf0GfpCM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 11 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-10",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-10/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-12",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-12/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:54.563Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/8bCHBD7zCA3W0IZ5iGnfRCsj4C0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 12 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-11",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-11/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-13",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-13/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:50.268Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-13/",
+      "numero": 13,
+      "temporada": 3,
+      "nome": "Episódio 13",
+      "descricao": "Mar. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/AmNeCTnphoQNRnJzQVNqFucZbzR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 13 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-12",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-12/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-14",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-14/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:45.906Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-14/",
+      "numero": 14,
+      "temporada": 3,
+      "nome": "Episódio 14",
+      "descricao": "Mar. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/bcELBm7OumRuSoXCXCFm7hreeD6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 14 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-13",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-13/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-15",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-15/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:41.843Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-15/",
+      "numero": 15,
+      "temporada": 3,
+      "nome": "Episódio 15",
+      "descricao": "Mar. 26, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/1z1vjT8I7Zez82hoBq49KkpOKfF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 15 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-14",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-14/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-16",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-16/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:37.687Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-16/",
+      "numero": 16,
+      "temporada": 3,
+      "nome": "Episódio 16",
+      "descricao": "Apr. 01, 2016",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/sutNDU0VrkgXh9Hy2j2l1WQTSfb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 3 Episodio 16 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-15",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-3-episodio-15/",
+          "nome": "Re:ZERO Kara Hajimeru Isekai Seikatsu 3 Episodio 15"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/3/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:33.434Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/3/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/3/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/myiyBwQXmJShAf5tZs5T1nOiVzC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 1 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-2",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-2/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:29.127Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 2 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-1",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-1/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-3",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-3/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:24.959Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/evQKvu6BJ09TJLlOigj8JggJFuo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 3 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-2",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-2/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-4",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-4/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:19.995Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3x8LgVhB4zNWSUoZVlPwxH04Bog.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 4 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-3",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-3/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-5",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-5/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:15.786Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "May. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/tUSJpyxFEY9vdMtk5ttTrz9FSYQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 5 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-4",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-4/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-6",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-6/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:11.733Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "May. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/mN08ocx5MUaIyL1gU6A19zfWHvj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 6 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-5",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-5/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-7",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-7/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:07.490Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "May. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/we9soTjPFjbqjmsOeaVbYdlHF24.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 7 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-6",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-6/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-8",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-8/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:35:03.303Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "May. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/vldNpxljVv6yCkIiXUblR0eGekd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 8 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-7",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-7/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-9",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-9/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:59.052Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/wjgYuffa6PwImsbtoTZjUL1H8kV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 9 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-8",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-8/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-10",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-10/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:54.928Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/lprSNQJT0Yoajx0c4LV9sfzf3nX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 10 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-9",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-9/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-11",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-11/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:50.791Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/c1zwaBh8219SMXsK9e4SV4LC5b2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 11 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-10",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-10/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-12",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-12/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:46.661Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Aug. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/wFKAXsdhYGEDOiprthHoUaXNYLW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 12 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-11",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-11/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-13",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-13/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:42.459Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-13/",
+      "numero": 13,
+      "temporada": 4,
+      "nome": "Episódio 13",
+      "descricao": "Aug. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/nmP9hCl3F9YnrziLaH4wUVYrKdK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 13 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-12",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-12/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-14",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-14/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:38.136Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-14/",
+      "numero": 14,
+      "temporada": 4,
+      "nome": "Episódio 14",
+      "descricao": "Aug. 26, 0296",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/162JGuSfeVQ4U5WBAuajk4AjKbF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 14 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-13",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-13/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-15",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-15/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:33.988Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-15/",
+      "numero": 15,
+      "temporada": 4,
+      "nome": "Episódio 15",
+      "descricao": "Sep. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/j2OyD6xIr3uynv7u8VqMvLbfOKW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 15 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-14",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-14/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-16",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-16/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:29.890Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-16/",
+      "numero": 16,
+      "temporada": 4,
+      "nome": "Episódio 16",
+      "descricao": "Sep. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/dy6GvxGaNYDqxNGkwMm8AUhfrNv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 16 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-15",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-15/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-17",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-17/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:25.667Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-17/",
+      "numero": 17,
+      "temporada": 4,
+      "nome": "Episódio 17",
+      "descricao": "Sep. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/24x8ktfZUarxQM2esxizwDRUABh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 17 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-16",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-16/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-18",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-18/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:21.498Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-18/",
+      "numero": 18,
+      "temporada": 4,
+      "nome": "Episódio 18",
+      "descricao": "Sep. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/kySMyUn1OINx6dr3xZPb7tVcTbx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 18 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-17",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-17/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-19",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-19/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:17.378Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-19/",
+      "numero": 19,
+      "temporada": 4,
+      "nome": "Episódio 19",
+      "descricao": "Sep. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/5b8QDysmq3gZzLwRkk34RMhbi7H.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Re:ZERO Kara Hajimeru Isekai Seikatsu: 4 Episodio 19 Online",
+        "animeSlug": "a/rezero-kara-hajimeru-isekai-seikatsu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-18",
+          "link": "https://meusanimes.blog/e/rezero-kara-hajimeru-isekai-seikatsu-4-episodio-18/",
+          "nome": "Re:Zero kara Hajimeru Isekai Seikatsu 4 Episodio 18"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/65942/4/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:34:13.176Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/65942/4/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/65942/4/19/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      13
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 86,
+    "totalEpisodios": 86,
+    "midiasColetadas": 0,
+    "iframesColetados": 86,
+    "detalhesColetadosEm": "2026-10-22T21:34:04.064Z"
+  },
+  "titulo": "Re:ZERO Kara Hajimeru Isekai Seikatsu",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
+  "score": "6",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 04, 2016",
+  "url": "https://meusanimes.blog/a/rezero-kara-hajimeru-isekai-seikatsu/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/10/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
+  "temporadas": 4,
+  "descricao": "Natsuki Subaru, um adolescente comum, conhece uma linda garota de cabelos prateados vinda de outro mundo. Subaru quer ficar ao lado dela, mas o fardo que ela carrega é maior do que Subaru pode imaginar. Eles enfrentam o feroz ataque de monstros, traições, violência irracional… e, por fim, a morte. Subaru promete derrotar qualquer inimigo, qualquer destino, tudo para protegê-la. E assim, o pobre garoto sem poder algum obtém o “Retorno da Morte”, uma habilidade única que permite ao usuário voltar no tempo ao morrer. Usando esse poder, o passado é perdido e as memórias são reescritas."
+}

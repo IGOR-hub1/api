@@ -1,0 +1,795 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tsue-to-tsurugi-no-wistoria",
+  "capturadoEm": "2026-10-22T09:47:27.799Z",
+  "atualizadoEm": "2026-10-22T21:03:35.080Z",
+  "catalogo": {
+    "slug": "a/tsue-to-tsurugi-no-wistoria",
+    "titulo": "Tsue to Tsurugi no Wistoria",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+    "info": "Legendado • Jul. 07, 2024",
+    "audio": "Legendado",
+    "score": "7.7",
+    "ano": "2024",
+    "publicadoEm": "Jul. 07, 2024",
+    "url": "https://meusanimes.blog/a/tsue-to-tsurugi-no-wistoria/",
+    "postId": "5090"
+  },
+  "detalhes": {
+    "slug": "a/tsue-to-tsurugi-no-wistoria",
+    "titulo": "Tsue to Tsurugi no Wistoria",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+    "sinopse": "Tsue to Tsurugi no Wistoria – Legendado: Um garoto esforçado chamado Will entra em uma academia de magia na esperança de se tornar um grande feiticeiro. Infelizmente, há uma falha fatal em seu plano: ele não tem a habilidade de usar magia. Em meio aos olhares frios de seus colegas de classe e instrutores, Will se sente desencorajado às vezes, mas ele continua avançando com uma determinação inabalável. Ele não pode usar uma varinha, mas pode empunhar uma espada em sua batalha para alcançar o topo de um mundo dominado pela magia! Ele só precisa acreditar em suas próprias forças únicas e se lembrar da promessa que fez a alguém muito precioso para ele…",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Escolar",
+      "Fantasia",
+      "Shounen"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2024",
+    "publicadoEm": "Jul. 07, 2024",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/tsue-to-tsurugi-no-wistoria/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 07, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/ieLlWMtF5bi7DlyJITf21k6Cu3P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 1 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-2",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-2/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:35.080Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 14, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/9LpMgZDv72ZJjuejWndwQWU1ILk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 2 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-1",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-1/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-3",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-3/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:30.879Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 21, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/7t1iPH7vjBBKTTpNKZi4hBDBEps.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 3 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-2",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-2/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-4",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-4/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:26.783Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 04, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/7oiqWAFQv4vlkuABNvBdz3FIUUu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 4 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-3",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-3/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-5",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-5/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:22.661Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 11, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/4QBbhrpCMm335ntCEpqZNI8cyxY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 5 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-4",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-4/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-6",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-6/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:18.571Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 18, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/hvZzyGam9CqZGO773jDkylmO6y2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 6 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-5",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-5/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-7",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-7/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:14.453Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 25, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/myPtGXeEHEtaaT0ZMt9UhDVyjmm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 7 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-6",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-6/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-8",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-8/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:10.352Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 01, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/rmVsK0myQRoRwTtXtA26wAa5diD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 8 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-7",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-7/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-9",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-9/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:06.231Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 08, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/p6wYSWB7BiIUi7WFFRagSAuNKTr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 9 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-8",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-8/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-10",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-10/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:03:01.925Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/8flSVODuQtO0UmkCPWbTGA1qAtL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 10 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-9",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-9/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-11",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-11/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:57.751Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 22, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/lEWHb3qmE040Wb5ncCvf3y2BCh2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 11 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-10",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-10/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-12",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-12/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:53.476Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 29, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/2fxclTqjg9gf2Bn4NxtpQGo6wsk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 1 Episodio 12 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/wistoria-wand-and-sword-1-episodio-11",
+          "link": "https://meusanimes.blog/e/wistoria-wand-and-sword-1-episodio-11/",
+          "nome": "Wistoria: Wand and Sword 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:49.291Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8wdsRr0OpzUFmJdICvhM5nbgGk4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 1 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-2",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-2/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:45.167Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/agHni8bXYgbfgubrY8CZOunuNNP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 2 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-1",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-1/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-3",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-3/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:40.747Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/sfBgO2EmJgmhVN21Qb83WFUvQtJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 3 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-2",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-2/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-4",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-4/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:36.569Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "May. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/pPKIKFj03Xbg91DY0gfZHzlyjnX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 4 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-3",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-3/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-5",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-5/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:32.415Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/uQ4JpkO41ep8y2qrTC2A35SQb8P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 5 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-4",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-4/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-6",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-6/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:28.268Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cQ3Oa83pQWkgJk0HSMf1UVl8jHy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 6 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-5",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-5/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-7",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-7/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:24.152Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/kKLkHtBpKVgTRgFeiYVRauUDkjy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 7 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-6",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-6/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-8",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-8/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:19.931Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/k7pERtJLcU3ifLx8y7dOYYht97Q.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 8 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-7",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-7/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-9",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-9/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:15.808Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/hDO24ixyCuHQ4huNPHibUW3N0WL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 9 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-8",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-8/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-10",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-10/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:11.353Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/8WdgT0FAh933MtMvXGpM8ZAMmra.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 10 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-9",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-9/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-11",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-11/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:07.267Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ytZ5o7GVQQjWWBdwNzSNyWpouiQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 11 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-10",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-10/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-12",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-12/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:02:03.165Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/vZln7Dxv81rTQ0lX5UgGSLBdfUv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tsue to Tsurugi no Wistoria: 2 Episodio 12 Online",
+        "animeSlug": "a/tsue-to-tsurugi-no-wistoria",
+        "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/tsue-to-tsurugi-no-wistoria-episodio-11",
+          "link": "https://meusanimes.blog/e/tsue-to-tsurugi-no-wistoria-episodio-11/",
+          "nome": "Tsue to Tsurugi no Wistoria Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/245842/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:01:59.019Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/245842/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/245842/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      11
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "midiasColetadas": 0,
+    "iframesColetados": 24,
+    "detalhesColetadosEm": "2026-10-22T21:01:53.709Z"
+  },
+  "titulo": "Tsue to Tsurugi no Wistoria",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2024",
+  "publicadoEm": "Jul. 07, 2024",
+  "url": "https://meusanimes.blog/a/tsue-to-tsurugi-no-wistoria/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg",
+  "temporadas": 2,
+  "descricao": "Tsue to Tsurugi no Wistoria – Legendado: Um garoto esforçado chamado Will entra em uma academia de magia na esperança de se tornar um grande feiticeiro. Infelizmente, há uma falha fatal em seu plano: ele não tem a habilidade de usar magia. Em meio aos olhares frios de seus colegas de classe e instrutores, Will se sente desencorajado às vezes, mas ele continua avançando com uma determinação inabalável. Ele não pode usar uma varinha, mas pode empunhar uma espada em sua batalha para alcançar o topo de um mundo dominado pela magia! Ele só precisa acreditar em suas próprias forças únicas e se lembrar da promessa que fez a alguém muito precioso para ele…"
+}

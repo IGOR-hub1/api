@@ -1,0 +1,616 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "moonrise",
+  "capturadoEm": "2026-10-22T09:45:57.477Z",
+  "atualizadoEm": "2026-10-22T17:27:41.063Z",
+  "catalogo": {
+    "slug": "a/moonrise",
+    "titulo": "Moonrise",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/n5F5kEvIQvSqOO3H3oxThP9DgN2.jpg",
+    "info": "Legendado • Apr. 10, 2025",
+    "audio": "Legendado",
+    "score": "7.06",
+    "ano": "2025",
+    "publicadoEm": "Apr. 10, 2025",
+    "url": "https://meusanimes.blog/a/moonrise/",
+    "postId": "94468"
+  },
+  "detalhes": {
+    "slug": "a/moonrise",
+    "titulo": "Moonrise",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/n5F5kEvIQvSqOO3H3oxThP9DgN2.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/n5F5kEvIQvSqOO3H3oxThP9DgN2.jpg",
+    "sinopse": "Quando a Terra é atacada por forças rebeldes, um herdeiro se torna o principal suspeito e entra em uma unidade militar especial que busca o verdadeiro responsável na Lua.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Apr. 10, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/moonrise/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/3WcGIlOFnc8b7tULfb5sDRHs8lD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 1 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-2",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-2/",
+          "nome": "Moonrise Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:41.063Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/qgP91LoDT0REgbT41r4l2uWhNa3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 2 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-1",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-1/",
+          "nome": "Moonrise Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-3",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-3/",
+          "nome": "Moonrise Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:36.965Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/wUTD9Fx6o2k3pyihBnCGnGYZIjf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 3 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-2",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-2/",
+          "nome": "Moonrise Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-4",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-4/",
+          "nome": "Moonrise Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:32.853Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ekMt2I4BXDrWZWBgmb4OyhC1Px2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 4 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-3",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-3/",
+          "nome": "Moonrise Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-5",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-5/",
+          "nome": "Moonrise Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:28.752Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/sgrYDFKrQFz8iZPUrVIKms0Fdc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 5 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-4",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-4/",
+          "nome": "Moonrise Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-6",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-6/",
+          "nome": "Moonrise Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:24.669Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/bn2Yt1HCRc9KvoACWjNJmQWNWvB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 6 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-5",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-5/",
+          "nome": "Moonrise Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-7",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-7/",
+          "nome": "Moonrise Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:20.514Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/qaJ8LoZcPm4phfu1Izx5E7bBxkM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 7 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-6",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-6/",
+          "nome": "Moonrise Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-8",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-8/",
+          "nome": "Moonrise Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:16.391Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/arx5nqL5XoLfUnF16M3lBhEycYg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 8 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-7",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-7/",
+          "nome": "Moonrise Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-9",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-9/",
+          "nome": "Moonrise Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:12.100Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/7PoGBykSideUHl23vnCts7fIrdS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 9 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-8",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-8/",
+          "nome": "Moonrise Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-10",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-10/",
+          "nome": "Moonrise Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:08.029Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/z00h3PltM07jIkyenRNlYK1NXOF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 10 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-9",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-9/",
+          "nome": "Moonrise Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-11",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-11/",
+          "nome": "Moonrise Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:27:03.810Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/9jfXJTOP32Sc4RP0vYdlQ2oQAb1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 11 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-10",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-10/",
+          "nome": "Moonrise Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-12",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-12/",
+          "nome": "Moonrise Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:26:59.734Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/t2Vjf1ctNEd3iO8GpoeJpjV0Qpq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 12 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-11",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-11/",
+          "nome": "Moonrise Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-13",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-13/",
+          "nome": "Moonrise Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:26:55.651Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/stKuwb7zb8WGc0KYMAoqRJ60nCK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 13 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-12",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-12/",
+          "nome": "Moonrise Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-14",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-14/",
+          "nome": "Moonrise Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:26:51.529Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/eJHLRC6WH2kMbmk7M8CUJObxjIy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 14 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-13",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-13/",
+          "nome": "Moonrise Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-15",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-15/",
+          "nome": "Moonrise Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:26:47.389Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/lreh4aeimsqv68zWVvcI86WCwoQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 15 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-14",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-14/",
+          "nome": "Moonrise Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-16",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-16/",
+          "nome": "Moonrise Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:26:43.296Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/k5H8GnJn5lum11Mwy4B8p3crAEo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 16 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-15",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-15/",
+          "nome": "Moonrise Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-17",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-17/",
+          "nome": "Moonrise Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:26:39.122Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/tlSjs4y1nJmr34DgX7NBQ8GnTeF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 17 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-16",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-16/",
+          "nome": "Moonrise Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/moonrise-episodio-18",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-18/",
+          "nome": "Moonrise Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:26:35.040Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moonrise-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/fUsjbdOume84wAFx9wfrHkFBTPz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moonrise: 1 Episodio 18 Online",
+        "animeSlug": "a/moonrise",
+        "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moonrise-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/moonrise-episodio-17",
+          "link": "https://meusanimes.blog/e/moonrise-episodio-17/",
+          "nome": "Moonrise Episodio 17"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/203740/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:26:30.877Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/203740/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/203740/1/18/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 18,
+    "totalEpisodios": 18,
+    "midiasColetadas": 0,
+    "iframesColetados": 18,
+    "detalhesColetadosEm": "2026-10-22T17:26:25.541Z"
+  },
+  "titulo": "Moonrise",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/n5F5kEvIQvSqOO3H3oxThP9DgN2.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Apr. 10, 2025",
+  "url": "https://meusanimes.blog/a/moonrise/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/n5F5kEvIQvSqOO3H3oxThP9DgN2.jpg",
+  "temporadas": 1,
+  "descricao": "Quando a Terra é atacada por forças rebeldes, um herdeiro se torna o principal suspeito e entra em uma unidade militar especial que busca o verdadeiro responsável na Lua."
+}

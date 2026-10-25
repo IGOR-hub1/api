@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "neon-genesis-evangelion",
+  "capturadoEm": "2026-10-22T09:53:08.884Z",
+  "atualizadoEm": "2026-10-22T09:53:08.884Z",
+  "catalogo": {
+    "slug": "a/neon-genesis-evangelion",
+    "titulo": "Neon Genesis Evangelion",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/7ngPPf8mdLANn267uuWK2iRAuTu.jpg",
+    "info": "Legendado • Oct. 04, 1995",
+    "audio": "Legendado",
+    "score": "8.6",
+    "ano": "1995",
+    "publicadoEm": "Oct. 04, 1995",
+    "url": "https://meusanimes.blog/a/neon-genesis-evangelion/",
+    "postId": "51966"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      36
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Neon Genesis Evangelion",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/7ngPPf8mdLANn267uuWK2iRAuTu.jpg",
+  "score": "8.6",
+  "audio": "Legendado",
+  "ano": "1995",
+  "publicadoEm": "Oct. 04, 1995",
+  "url": "https://meusanimes.blog/a/neon-genesis-evangelion/"
+}

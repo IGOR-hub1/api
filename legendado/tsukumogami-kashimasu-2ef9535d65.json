@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tsukumogami-kashimasu",
+  "capturadoEm": "2026-10-22T09:55:15.446Z",
+  "atualizadoEm": "2026-10-22T09:55:15.446Z",
+  "catalogo": {
+    "slug": "a/tsukumogami-kashimasu",
+    "titulo": "Tsukumogami Kashimasu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3Rw4AnXBQlVgzIULCenUFYrDmzs.jpg",
+    "info": "Legendado • Jul. 19, 2018",
+    "audio": "Legendado",
+    "score": "7.25",
+    "ano": "2018",
+    "publicadoEm": "Jul. 19, 2018",
+    "url": "https://meusanimes.blog/a/tsukumogami-kashimasu/",
+    "postId": "39067"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      46
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Tsukumogami Kashimasu",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3Rw4AnXBQlVgzIULCenUFYrDmzs.jpg",
+  "score": "7.25",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jul. 19, 2018",
+  "url": "https://meusanimes.blog/a/tsukumogami-kashimasu/"
+}

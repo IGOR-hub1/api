@@ -1,0 +1,431 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "kemono-jihen-dublado",
+  "capturadoEm": "2026-10-21T23:23:33.863Z",
+  "atualizadoEm": "2026-10-22T09:40:49.633Z",
+  "catalogo": {
+    "slug": "a/kemono-jihen-dublado",
+    "titulo": "Kemono Jihen Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1ON3UrcmyECZAMug7htkszoNoMC.jpg",
+    "info": "Dublado • Jan. 10, 2021",
+    "audio": "Dublado",
+    "score": "7.667",
+    "ano": "2021",
+    "publicadoEm": "Jan. 10, 2021",
+    "url": "https://meusanimes.blog/a/kemono-jihen-dublado/",
+    "postId": "93800"
+  },
+  "detalhes": {
+    "slug": "a/kemono-jihen-dublado",
+    "titulo": "Kemono Jihen Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1ON3UrcmyECZAMug7htkszoNoMC.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/1ON3UrcmyECZAMug7htkszoNoMC.jpg",
+    "sinopse": "O detetive especial Inugami Kohachi é enviado a uma vila remota para investigar misteriosos cadáveres de animais. Lá, ele conhece um garoto enigmático que o ajuda na investigação. Conforme avançam, Inugami descobre que forças sobrenaturais estão por trás dos eventos e que o menino pode esconder uma natureza não humana. A verdade por trás dos assassinatos se revela mais sombria do que ele imaginava.",
+    "generos": [
+      "Ação",
+      "Fantasia",
+      "Mistério",
+      "Shounen",
+      "Sobrenatural"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2021",
+    "publicadoEm": "Jan. 10, 2021",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/kemono-jihen-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 10, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/96PGx7mw4jgG3eQP6nLcM2c2z6i.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-2/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:24:23.551Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/d8aOX9dAr9ZDo1VcQlbVi5ALIah.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-1/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-3/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:24:19.304Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 24, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/845Dxshy1aTNZQjwzre8cdvcUTB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-2/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-4/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:24:15.234Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 31, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/AkigIe6vSCNyfrOrwihfjZFsSJT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-3/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-5/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:24:11.182Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 07, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/kTwEO6Zg41gtXdD89Gg9IFQnXn7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-4/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-6/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:24:07.076Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 14, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3JPst9L5ipwW1oBsSuURevybSpD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-5/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-7/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:24:02.975Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 21, 0221",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/7SpAjo5KPLoBpZIiF0SvEs9S5Lg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-6/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-8/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:23:58.909Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 28, 0021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/hBGRe6GxN6GWFp6SmzVux7wT3gd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-7/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-9/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:23:54.841Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 07, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/zqokMcEQk72cEoPUd9hrsivYvOD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-8/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-10/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:23:50.717Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 14, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/unhKtUe3JMoSzCoRaVNzbSjFqzy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-9/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-11/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:23:46.412Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 21, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/z5fQDkMsnoXWiN7QQgTEyAF1vgo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-10/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-12/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:23:42.308Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 28, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/l3O2CCDunvrMiEPIoyjXyJzG8DO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Kemono Jihen Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/kemono-jihen-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kemono-jihen-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/kemono-jihen-dublado-1-episodio-11/",
+          "nome": "Kemono Jihen Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1000221/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:23:38.173Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1000221/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1000221/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-21T23:23:33.863Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Kemono Jihen Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1ON3UrcmyECZAMug7htkszoNoMC.jpg",
+  "score": "7.667",
+  "audio": "Dublado",
+  "ano": "2021",
+  "publicadoEm": "Jan. 10, 2021",
+  "url": "https://meusanimes.blog/a/kemono-jihen-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/1ON3UrcmyECZAMug7htkszoNoMC.jpg",
+  "temporadas": 1,
+  "descricao": "O detetive especial Inugami Kohachi é enviado a uma vila remota para investigar misteriosos cadáveres de animais. Lá, ele conhece um garoto enigmático que o ajuda na investigação. Conforme avançam, Inugami descobre que forças sobrenaturais estão por trás dos eventos e que o menino pode esconder uma natureza não humana. A verdade por trás dos assassinatos se revela mais sombria do que ele imaginava."
+}

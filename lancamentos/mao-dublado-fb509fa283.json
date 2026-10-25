@@ -1,0 +1,464 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "mao-dublado",
+  "capturadoEm": "2026-10-22T09:45:24.770Z",
+  "atualizadoEm": "2026-10-22T14:43:23.536Z",
+  "catalogo": {
+    "slug": "a/mao-dublado",
+    "titulo": "Mao Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+    "info": "Dublado • Em lançamento • Apr. 04, 2026",
+    "audio": "Dublado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Apr. 04, 2026",
+    "url": "https://meusanimes.blog/a/mao-dublado/",
+    "postId": "96568"
+  },
+  "detalhes": {
+    "slug": "a/mao-dublado",
+    "titulo": "Mao Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+    "sinopse": "Nanoka é a única sobrevivente de um acidente em que perdeu sua família quando tinha apenas sete anos de idade. Oito anos depois, quando ela retorna à cena, ela se vê atirada de volta no tempo à era Taisho! Lá, ela conhece Mao, um jovem que luta contra demônios em busca da criatura que o amaldiçoou. Um destino extraordinário parece comandar estes encontros, na encruzilhada de dois mundos…",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Mistério",
+      "Sobrenatural"
+    ],
+    "score": "9",
+    "status": "Em lançamento",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 04, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/mao-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wPPSHRtDYvA3yhHg8kpJGO8Po2Y.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-2/",
+          "nome": "Mao Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:43:23.536Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/o9Cmq70wcfG6LoDgRsKmCmkWokH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-1/",
+          "nome": "Mao Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-3/",
+          "nome": "Mao Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:43:19.490Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/egU9Eweht6S7LeYHIG9wfFOVI5b.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-2/",
+          "nome": "Mao Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-4/",
+          "nome": "Mao Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:43:15.114Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3fyhj8xdn1O6oR665kh2FS367cr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-3/",
+          "nome": "Mao Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-5/",
+          "nome": "Mao Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:43:10.905Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/Afd8SJN4MvOlc3JmLx0KvFzCISQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-4/",
+          "nome": "Mao Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-6/",
+          "nome": "Mao Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:43:06.908Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/9ER9qZ64x2D1xUoMjnW2IncJDxM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-5/",
+          "nome": "Mao Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-7/",
+          "nome": "Mao Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:43:02.882Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/qbh6dqfTA4CsdPnM0FDxfvR9vJr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-6/",
+          "nome": "Mao Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-8/",
+          "nome": "Mao Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:42:58.859Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/nmcSWCJSBVBuuQysbtMj9ZA4Tas.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-7/",
+          "nome": "Mao Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-9/",
+          "nome": "Mao Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:42:54.868Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/gxS1rlxBB3YDupJD7wrn6xQ0pA1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-8/",
+          "nome": "Mao Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-10/",
+          "nome": "Mao Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:42:50.831Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/5oBLmJmLoAnM9tQuqHybwhBIDWq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-9/",
+          "nome": "Mao Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-11/",
+          "nome": "Mao Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:42:46.812Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ys1SiaPDiVhojNqjvusmKowBnaD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-10/",
+          "nome": "Mao Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-12/",
+          "nome": "Mao Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:42:42.778Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/5ENdyrLdj26XziYhDkZIXRStq0B.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-11/",
+          "nome": "Mao Dublado Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-dublado-episodio-13",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-13/",
+          "nome": "Mao Dublado Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:42:38.444Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-dublado-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/fdlHcIDkrZjoQLWZy0x27JPPbUl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Mao Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/mao-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/mao-dublado-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/mao-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/mao-dublado-episodio-12/",
+          "nome": "Mao Dublado Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2959991/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T14:42:34.423Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2959991/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2959991/1/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 13,
+    "totalEpisodios": 13,
+    "midiasColetadas": 0,
+    "iframesColetados": 13,
+    "detalhesColetadosEm": "2026-10-22T14:42:29.178Z"
+  },
+  "titulo": "Mao Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+  "status": "Em lançamento",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 04, 2026",
+  "url": "https://meusanimes.blog/a/mao-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Nanoka é a única sobrevivente de um acidente em que perdeu sua família quando tinha apenas sete anos de idade. Oito anos depois, quando ela retorna à cena, ela se vê atirada de volta no tempo à era Taisho! Lá, ela conhece Mao, um jovem que luta contra demônios em busca da criatura que o amaldiçoou. Um destino extraordinário parece comandar estes encontros, na encruzilhada de dois mundos…"
+}

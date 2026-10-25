@@ -1,0 +1,431 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "nyaight-of-the-living-cat",
+  "capturadoEm": "2026-10-22T09:44:10.083Z",
+  "atualizadoEm": "2026-10-22T12:22:18.166Z",
+  "catalogo": {
+    "slug": "a/nyaight-of-the-living-cat",
+    "titulo": "Nyaight of the Living Cat",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xLWJiLrdEU8r1yJhTV8ISULxVub.jpg",
+    "info": "Legendado • Jul. 08, 2025",
+    "audio": "Legendado",
+    "score": "7.5",
+    "ano": "2025",
+    "publicadoEm": "Jul. 08, 2025",
+    "url": "https://meusanimes.blog/a/nyaight-of-the-living-cat/",
+    "postId": "100611"
+  },
+  "detalhes": {
+    "slug": "a/nyaight-of-the-living-cat",
+    "titulo": "Nyaight of the Living Cat",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xLWJiLrdEU8r1yJhTV8ISULxVub.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/xLWJiLrdEU8r1yJhTV8ISULxVub.jpg",
+    "sinopse": "Em 20XX, o mundo é dominado por gatos. Um vírus que transforma qualquer pessoa que toque em um gato em outro gato se espalhou, criando uma “gatástrofe” mundial. Os gatos se esfregam nas pessoas, transformando elas em gatos também! Será que a humanidade conseguirá resistir à vontade de acariciar esses felinos para sobreviver num mundo tomado por gatos?",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Ficção científica",
+      "Suspense",
+      "Terror"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Jul. 08, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/nyaight-of-the-living-cat/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/yba4YrE9rvv1NQ7rvl8PijxkmTx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 1 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-2",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-2/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:22:18.166Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 15, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/zZiEfOUcpLHlwjDculx30lOcnLy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 2 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-1",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-1/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-3",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-3/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:22:14.058Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 22, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/btN43tRHXP4tQhLIg1nItBHNmzg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 3 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-2",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-2/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-4",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-4/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:22:09.054Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 29, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/wXLvZXdtuvWFkQAXqujM8sIu18B.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 4 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-3",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-3/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-5",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-5/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:22:04.245Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/cxyCwC7Gg1tPK8bve8LqeLrcReY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 5 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-4",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-4/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-6",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-6/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:59.976Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/iCnWqCaLM7SAweH42tHvuNAgg8q.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 6 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-5",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-5/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-7",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-7/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:55.936Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/bglHsIjfL12dLSiV8cwnHKvYrPu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 7 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-6",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-6/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-8",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-8/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:51.797Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 26, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/pRid0FfVdFKvzeC6synCgnm9oeJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 8 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-7",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-7/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-9",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-9/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:47.568Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 02, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/dqFCGm5xmS8gI7RZ62vgLP6I7sH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 9 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-8",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-8/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-10",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-10/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:43.442Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 09, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/7O7jCBBbkhcQdhztpSHpsL0ncrD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 10 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-9",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-9/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-11",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-11/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:39.403Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 16, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/kzWqWiTqGgB5pTKpoHJobRyGVMB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 11 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-10",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-10/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-12",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-12/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:35.251Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 23, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/j1F8uuyxMBn9I3kmXUPSsTGm3sf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nyaight of the Living Cat: 1 Episodio 12 Online",
+        "animeSlug": "a/nyaight-of-the-living-cat",
+        "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/nyaight-of-the-living-cat-1-episodio-11",
+          "link": "https://meusanimes.blog/e/nyaight-of-the-living-cat-1-episodio-11/",
+          "nome": "Nyaight of the Living Cat 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/247045/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:31.154Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/247045/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/247045/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T12:21:26.110Z"
+  },
+  "titulo": "Nyaight of the Living Cat",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xLWJiLrdEU8r1yJhTV8ISULxVub.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Jul. 08, 2025",
+  "url": "https://meusanimes.blog/a/nyaight-of-the-living-cat/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/xLWJiLrdEU8r1yJhTV8ISULxVub.jpg",
+  "temporadas": 1,
+  "descricao": "Em 20XX, o mundo é dominado por gatos. Um vírus que transforma qualquer pessoa que toque em um gato em outro gato se espalhou, criando uma “gatástrofe” mundial. Os gatos se esfregam nas pessoas, transformando elas em gatos também! Será que a humanidade conseguirá resistir à vontade de acariciar esses felinos para sobreviver num mundo tomado por gatos?"
+}

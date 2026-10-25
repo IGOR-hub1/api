@@ -1,0 +1,615 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "b-king",
+  "capturadoEm": "2026-10-22T09:48:34.077Z",
+  "atualizadoEm": "2026-10-23T00:07:54.217Z",
+  "catalogo": {
+    "slug": "a/b-king",
+    "titulo": "B.King",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk.jpg",
+    "info": "Legendado • Feb. 26, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Feb. 26, 2026",
+    "url": "https://meusanimes.blog/a/b-king/",
+    "postId": "78205"
+  },
+  "detalhes": {
+    "slug": "a/b-king",
+    "titulo": "B.King",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk.jpg",
+    "sinopse": "Esta é a história de um animador que alcança a fama com seu anime “B.King”. Mas, muitos anos depois, ele se encontra em um momento de desespero e precisa chamar a atenção, abandonando seus personagens de anime. Um dia, uma misteriosa ligação o transporta para o Mundo de B.King, onde ele se torna um personagem de anime chamado Wang Xiaoming. Assim, com o conhecimento do “Criador”, Wang Xiaoming embarca em uma jornada fantástica ao lado de seus outros personagens de anime. Este é um atalho para a imortalidade.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Donghua",
+      "Fantasia"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Feb. 26, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/b-king/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Feb. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/r1i9lTzIyIl06zyPmDLqmHBEfI9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 1 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/b-king-episodio-2",
+          "link": "https://meusanimes.blog/e/b-king-episodio-2/",
+          "nome": "B.King Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:54.217Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Feb. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pMJSCom8k5Tf2bVy8tlYfywchJZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 2 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/b-king-episodio-1",
+          "link": "https://meusanimes.blog/e/b-king-episodio-1/",
+          "nome": "B.King Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-episodio-3",
+          "link": "https://meusanimes.blog/e/b-king-episodio-3/",
+          "nome": "B.King Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:50.067Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Feb. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bzIrFifH1Z4uBLupskCkipeLRU9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 3 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/b-king-episodio-2",
+          "link": "https://meusanimes.blog/e/b-king-episodio-2/",
+          "nome": "B.King Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-episodio-4",
+          "link": "https://meusanimes.blog/e/b-king-episodio-4/",
+          "nome": "B.King Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:45.904Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Mar. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hfdq0xu3Jwb3im9Fb1KsiYpBIJg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 4 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/b-king-episodio-3",
+          "link": "https://meusanimes.blog/e/b-king-episodio-3/",
+          "nome": "B.King Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-episodio-5",
+          "link": "https://meusanimes.blog/e/b-king-episodio-5/",
+          "nome": "B.King Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:41.658Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Mar. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rDwW0fTYYaYoUqUu1nfvo5eIakp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 5 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/b-king-episodio-4",
+          "link": "https://meusanimes.blog/e/b-king-episodio-4/",
+          "nome": "B.King Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-episodio-6",
+          "link": "https://meusanimes.blog/e/b-king-episodio-6/",
+          "nome": "B.King Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:37.518Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qBTUHNsMYzmwH1WE6XEsbLRSpuM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 6 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/b-king-episodio-5",
+          "link": "https://meusanimes.blog/e/b-king-episodio-5/",
+          "nome": "B.King Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-episodio-7",
+          "link": "https://meusanimes.blog/e/b-king-episodio-7/",
+          "nome": "B.King Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:33.386Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/a0x8kCwzOCPLMSyDENad3XEBsPw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 7 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/b-king-episodio-6",
+          "link": "https://meusanimes.blog/e/b-king-episodio-6/",
+          "nome": "B.King Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-8",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-8/",
+          "nome": "B.King 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:29.208Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Apr. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/2ngKGc0D61e6wnFnW0u0iiySEXA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 8 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/b-king-episodio-7",
+          "link": "https://meusanimes.blog/e/b-king-episodio-7/",
+          "nome": "B.King Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-9",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-9/",
+          "nome": "B.King 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:25.008Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Apr. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/aXjKKzdic9HKQugbvDT1FyrlgwK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 9 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-8",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-8/",
+          "nome": "B.King 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-10",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-10/",
+          "nome": "B.King 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:20.735Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Apr. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ba6M7kGFxQbY8qphfTpSBRwdOag.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 10 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-9",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-9/",
+          "nome": "B.King 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-11",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-11/",
+          "nome": "B.King 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:16.210Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Apr. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wi8YP89cUawQZ0AiQcXTdW96VXv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 11 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-10",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-10/",
+          "nome": "B.King 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-12",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-12/",
+          "nome": "B.King 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:12.019Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Apr. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/sklMAl8kVz9wFZJ8eOgcGTyZ4B3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 12 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-11",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-11/",
+          "nome": "B.King 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-13",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-13/",
+          "nome": "B.King 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:07.744Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "May. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/cN5R8AE93ACaGhqkxXPBqcHGqQf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 13 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-12",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-12/",
+          "nome": "B.King 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-14",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-14/",
+          "nome": "B.King 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:07:03.375Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "May. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/7ZjxhMnb5Tay1WWQAE99rxhphc5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 14 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-13",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-13/",
+          "nome": "B.King 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-15",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-15/",
+          "nome": "B.King 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:06:59.190Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "May. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/wgSSpjFWjsuNoyS4vgoScy7xEJP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 15 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-14",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-14/",
+          "nome": "B.King 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-16",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-16/",
+          "nome": "B.King 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:06:54.903Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "May. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/hmrisSnA4tCHCpORLOdbSutcasf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 16 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-15",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-15/",
+          "nome": "B.King 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-17",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-17/",
+          "nome": "B.King 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:06:50.706Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jun. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/wlt0RuVdqAlaTxwHR6aJ59GZIKw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 17 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-16",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-16/",
+          "nome": "B.King 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/b-king-1-episodio-18",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-18/",
+          "nome": "B.King 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:06:46.438Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-king-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Jun. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/j3u15Yq9BtkRQNlfdNPnDJMgs1h.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "B.King: 1 Episodio 18 Online",
+        "animeSlug": "a/b-king",
+        "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/b-king-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/b-king-1-episodio-17",
+          "link": "https://meusanimes.blog/e/b-king-1-episodio-17/",
+          "nome": "B.King 1 Episodio 17"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/280095/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:06:42.160Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/280095/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/280095/1/18/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 18,
+    "totalEpisodios": 18,
+    "midiasColetadas": 0,
+    "iframesColetados": 18,
+    "detalhesColetadosEm": "2026-10-23T00:06:37.181Z"
+  },
+  "titulo": "B.King",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Feb. 26, 2026",
+  "url": "https://meusanimes.blog/a/b-king/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/cAWdKu5VOE3vSaEqcn79Kn0XXDk.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Esta é a história de um animador que alcança a fama com seu anime “B.King”. Mas, muitos anos depois, ele se encontra em um momento de desespero e precisa chamar a atenção, abandonando seus personagens de anime. Um dia, uma misteriosa ligação o transporta para o Mundo de B.King, onde ele se torna um personagem de anime chamado Wang Xiaoming. Assim, com o conhecimento do “Criador”, Wang Xiaoming embarca em uma jornada fantástica ao lado de seus outros personagens de anime. Este é um atalho para a imortalidade."
+}

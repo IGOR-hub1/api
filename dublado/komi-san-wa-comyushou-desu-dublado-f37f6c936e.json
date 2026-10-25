@@ -1,0 +1,793 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "komi-san-wa-comyushou-desu-dublado",
+  "capturadoEm": "2026-10-21T22:53:05.313Z",
+  "atualizadoEm": "2026-10-22T09:40:32.598Z",
+  "catalogo": {
+    "slug": "a/komi-san-wa-comyushou-desu-dublado",
+    "titulo": "Komi-san wa, Comyushou desu. Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oUwqMKwJ70MjtpZSq9YSTksKXhl.jpg",
+    "info": "Dublado • Oct. 07, 2021",
+    "audio": "Dublado",
+    "score": "8.372",
+    "ano": "2021",
+    "publicadoEm": "Oct. 07, 2021",
+    "url": "https://meusanimes.blog/a/komi-san-wa-comyushou-desu-dublado/",
+    "postId": "94870"
+  },
+  "detalhes": {
+    "slug": "a/komi-san-wa-comyushou-desu-dublado",
+    "titulo": "Komi-san wa, Comyushou desu. Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oUwqMKwJ70MjtpZSq9YSTksKXhl.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/oUwqMKwJ70MjtpZSq9YSTksKXhl.jpg",
+    "sinopse": "Komi é linda, mas é tímida e antissocial. Na escola, ela conta com a ajuda de Tadano para resolver esse problema e estabelece uma meta ambiciosa: fazer 100 amigos.",
+    "generos": [
+      "Comédia",
+      "Escolar",
+      "Shounen"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2021",
+    "publicadoEm": "Oct. 07, 2021",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/komi-san-wa-comyushou-desu-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 07, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/rBRMDB8WYTI3RF1KjReKYgk40H.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-2/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:43.853Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 14, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/imqSIHTsTBVX7ZlwHpev42Ivg3Q.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-1/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-3/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:39.819Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 21, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/1q7SZTP6gzqkvuT2WoV6KrD510l.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-2/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-4/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:35.554Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 28, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vqZy5GOiipAqeZ7DJRSN8omJvZb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-3/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-5/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:31.497Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hVofmRubhqc886SuTbbMNk5oIw3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-4/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-6/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:27.416Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/pKw16aEJXzWlzmjRnuCDcKpuTEe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-5/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-7/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:23.282Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fHEFkJPDEj1Aq9JaqCuMKAdtQe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-6/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-8/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:19.197Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9FQmKwu7XZuXVMQvFJPTctmi57a.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-7/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-9/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:15.170Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 02, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/y8m17VhT65YG0lQDrkaf0IcskjM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-8/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-10/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:11.133Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 09, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mG7lK0Pcpaww6RDwqc66fsgfp2E.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-9/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-11/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:07.058Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 16, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bfCHeHf9QSgUNsQqtYnrLaNz3RD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-10/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-12/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:54:03.043Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 23, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hrHB1vVSO9Cl3jxxetwPFCHPlCq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-episodio-11/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:58.971Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 07, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hgTOyosKWEDc7g51oDnEqu8Fpne.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-2/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:54.961Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 14, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/rEFQUUHD0VT0xmg79rxjOawRJh9.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-1/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-3/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:50.885Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 21, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/y9ndFXFotZh5bJhbpUZZR58pV7t.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-2/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-4/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:46.843Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 28, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fD6nGRnLEYieT6AFj1Sv6B4cCHQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-3/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-5/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:42.816Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 05, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3yc7UHuQWbKT10oSghYIy6uKf6G.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-4/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-6/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:38.756Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 12, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ilsC7apdAxXlyS7pxJLcEQc0KnL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-5/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-7/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:34.513Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 12, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ggeBPUx0lugKnbYaZKoXSYa35WM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-6/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-8/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:30.330Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 26, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hVKadDc4RhihbtzjBePX3ZtaQTS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-7/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-9/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:26.317Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 02, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/nLrVe2VBkArYDlvabfRHRwtAzU3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-8/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-10/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:22.160Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 09, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3GS2Ip9qXk4Fzjeo2thP3envBXq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-9/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-11/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:18.099Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 19, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/onjAtc2Oc1E58injbJ7KMcuYahF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-10/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-12/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:13.992Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 23, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/tqEI9img7H2hR1uREp9PUnmnpYi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Komi-san wa, Comyushou desu. Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/komi-san-wa-comyushou-desu-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/komi-san-wa-comyushou-desu-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/komi-san-wa-comyushou-desu-dublado-2-episodio-11/",
+          "nome": "Komi-san wa, Comyushou desu. Dublado 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1238761/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:53:09.943Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1238761/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1238761/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-21T22:53:05.313Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Komi-san wa, Comyushou desu. Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oUwqMKwJ70MjtpZSq9YSTksKXhl.jpg",
+  "score": "8.372",
+  "audio": "Dublado",
+  "ano": "2021",
+  "publicadoEm": "Oct. 07, 2021",
+  "url": "https://meusanimes.blog/a/komi-san-wa-comyushou-desu-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/oUwqMKwJ70MjtpZSq9YSTksKXhl.jpg",
+  "temporadas": 2,
+  "descricao": "Komi é linda, mas é tímida e antissocial. Na escola, ela conta com a ajuda de Tadano para resolver esse problema e estabelece uma meta ambiciosa: fazer 100 amigos."
+}

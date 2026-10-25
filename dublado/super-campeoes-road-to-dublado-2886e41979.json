@@ -1,0 +1,1669 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "super-campeoes-road-to-dublado",
+  "capturadoEm": "2026-10-22T05:52:34.463Z",
+  "atualizadoEm": "2026-10-22T09:42:55.533Z",
+  "catalogo": {
+    "slug": "a/super-campeoes-road-to-dublado",
+    "titulo": "Super Campeões Road to Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/2MAz5ZYSHme3AI4m0XaaB7m3d9L.jpg",
+    "info": "Dublado • Oct. 07, 2001",
+    "audio": "Dublado",
+    "score": "7.717",
+    "ano": "2001",
+    "publicadoEm": "Oct. 07, 2001",
+    "url": "https://meusanimes.blog/a/super-campeoes-road-to-dublado/",
+    "postId": "74105"
+  },
+  "detalhes": {
+    "slug": "a/super-campeoes-road-to-dublado",
+    "titulo": "Super Campeões Road to Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/2MAz5ZYSHme3AI4m0XaaB7m3d9L.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/02/2MAz5ZYSHme3AI4m0XaaB7m3d9L.jpg",
+    "sinopse": "Super Campeões: Rumo ao Sonho, Tsubasa se torna uma estrela entre os jogadores de futebol no Brasil. Agora ele planeja tocar na Europa. Em um importante jogo a vencer, com os fãs torcendo por ele, Tsubasa relembra os dias em que ele começou sua vida no futebol. Sua paixão por fazer gols e vencer o jogo é tão forte quanto durante sua infância. Ele lembra os jogos e momentos que tiveram um impacto decisivo em sua vida. Ele se lembra do goleiro Wakabayashi, do atacante Genius Hyuga, do generoso Misaki e do técnico Roberto. Ele ficou feliz em conhecê-los, gostou de brincar com eles e aprendeu muitas coisas com eles. O apito soa e o jogo começa. Tsubasa corre para a bola!",
+    "generos": [
+      "Aventura",
+      "Drama",
+      "Esporte"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2001",
+    "publicadoEm": "Oct. 07, 2001",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/super-campeoes-road-to-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 07, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-2",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-2/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:56:17.461Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 14, 2001",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/kOdXScKqjXjb22Rt6Nu6tWamWJW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-1",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-1/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-3",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-3/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:56:13.241Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 21, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-2",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-2/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-4",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-4/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:56:08.879Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 28, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-3",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-3/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-5",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-5/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:56:04.725Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 04, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-4",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-4/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-6",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-6/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:56:00.542Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 11, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-5",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-5/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-7",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-7/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:56.392Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 18, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-6",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-6/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-8",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-8/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:52.268Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 25, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-7",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-7/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-9",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-9/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:48.067Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 02, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-8",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-8/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-10",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-10/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:43.919Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 09, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-9",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-9/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-11",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-11/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:39.786Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 16, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-10",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-10/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-12",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-12/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:35.670Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 23, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-11",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-11/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-13",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-13/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:31.552Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 30, 2001",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-12",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-12/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-14",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-14/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:27.367Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 06, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-13",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-13/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-15",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-15/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:23.209Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 13, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-14",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-14/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-16",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-16/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:19.084Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 20, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-15",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-15/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-17",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-17/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:14.913Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jan. 27, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-16",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-16/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-18",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-18/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:10.724Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 03, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-17",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-17/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-19",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-19/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:06.560Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 10, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-18",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-18/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-20",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-20/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:55:02.411Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 17, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-19",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-19/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-21",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-21/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:58.227Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Feb. 24, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-20",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-20/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-22",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-22/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:54.083Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 03, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-21",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-21/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-23",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-23/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:49.924Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 10, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-22",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-22/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-24",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-24/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:45.783Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 17, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-23",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-23/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-25",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-25/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:41.641Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Mar. 24, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 25 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-24",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-24/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-26",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-26/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:37.501Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Mar. 31, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 26 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/26/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-25",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-25/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-27",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-27/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:33.337Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Apr. 07, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 27 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/27/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-26",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-26/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-28",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-28/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:29.172Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-28/",
+      "numero": 28,
+      "temporada": 1,
+      "nome": "Episódio 28",
+      "descricao": "Apr. 14, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 28 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/28/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-27",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-27/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 27"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-29",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-29/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 29"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:24.996Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/28/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-29/",
+      "numero": 29,
+      "temporada": 1,
+      "nome": "Episódio 29",
+      "descricao": "Apr. 21, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 29 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/29/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-29/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-28",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-28/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 28"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-30",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-30/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 30"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/29/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:20.826Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/29/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/29/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-30/",
+      "numero": 30,
+      "temporada": 1,
+      "nome": "Episódio 30",
+      "descricao": "Apr. 28, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 30 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/30/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-30/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-29",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-29/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 29"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-31",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-31/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 31"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/30/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:16.663Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/30/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/30/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-31/",
+      "numero": 31,
+      "temporada": 1,
+      "nome": "Episódio 31",
+      "descricao": "May. 05, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 31 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/31/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-31/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-30",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-30/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 30"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-32",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-32/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 32"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/31/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:12.495Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/31/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/31/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-32/",
+      "numero": 32,
+      "temporada": 1,
+      "nome": "Episódio 32",
+      "descricao": "May. 12, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 32 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/32/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-32/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-31",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-31/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 31"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-33",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-33/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 33"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/32/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:08.302Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/32/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/32/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-33/",
+      "numero": 33,
+      "temporada": 1,
+      "nome": "Episódio 33",
+      "descricao": "May. 19, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 33 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/33/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-33/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-32",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-32/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 32"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-34",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-34/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 34"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/33/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:54:04.159Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/33/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/33/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-34/",
+      "numero": 34,
+      "temporada": 1,
+      "nome": "Episódio 34",
+      "descricao": "Jun. 02, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 34 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/34/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-34/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-33",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-33/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 33"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-35",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-35/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 35"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/34/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:59.993Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/34/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/34/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-35/",
+      "numero": 35,
+      "temporada": 1,
+      "nome": "Episódio 35",
+      "descricao": "Jun. 09, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 35 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/35/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-35/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-34",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-34/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 34"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-36",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-36/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 36"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/35/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:55.831Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/35/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/35/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-36/",
+      "numero": 36,
+      "temporada": 1,
+      "nome": "Episódio 36",
+      "descricao": "Jun. 16, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 36 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/36/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-36/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-35",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-35/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 35"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-37",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-37/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 37"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/36/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:51.702Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/36/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/36/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-37/",
+      "numero": 37,
+      "temporada": 1,
+      "nome": "Episódio 37",
+      "descricao": "Jun. 23, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 37 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/37/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-37/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-36",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-36/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 36"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-38",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-38/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 38"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/37/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:47.522Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/37/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/37/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-38/",
+      "numero": 38,
+      "temporada": 1,
+      "nome": "Episódio 38",
+      "descricao": "Jun. 30, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 38 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/38/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-38/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-37",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-37/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 37"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-39",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-39/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 39"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/38/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:43.406Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/38/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/38/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-39/",
+      "numero": 39,
+      "temporada": 1,
+      "nome": "Episódio 39",
+      "descricao": "Jul. 07, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 39 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/39/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-39/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-38",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-38/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 38"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-40",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-40/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 40"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/39/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:39.256Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/39/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/39/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-40/",
+      "numero": 40,
+      "temporada": 1,
+      "nome": "Episódio 40",
+      "descricao": "Jul. 14, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 40 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/40/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-40/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-39",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-39/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 39"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-41",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-41/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 41"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/40/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:35.121Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/40/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/40/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-41/",
+      "numero": 41,
+      "temporada": 1,
+      "nome": "Episódio 41",
+      "descricao": "Jul. 21, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 41 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/41/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-41/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-40",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-40/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 40"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-42",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-42/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 42"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/41/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:30.974Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/41/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/41/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-42/",
+      "numero": 42,
+      "temporada": 1,
+      "nome": "Episódio 42",
+      "descricao": "Jul. 28, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 42 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/42/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-42/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-41",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-41/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 41"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-43",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-43/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 43"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/42/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:26.781Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/42/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/42/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-43/",
+      "numero": 43,
+      "temporada": 1,
+      "nome": "Episódio 43",
+      "descricao": "Aug. 04, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 43 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/43/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-43/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-42",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-42/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 42"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-44",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-44/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 44"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/43/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:22.577Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/43/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/43/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-44/",
+      "numero": 44,
+      "temporada": 1,
+      "nome": "Episódio 44",
+      "descricao": "Aug. 11, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 44 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/44/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-44/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-43",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-43/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 43"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-45",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-45/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 45"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/44/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:18.421Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/44/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/44/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-45/",
+      "numero": 45,
+      "temporada": 1,
+      "nome": "Episódio 45",
+      "descricao": "Aug. 18, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 45 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/45/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-45/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-44",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-44/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 44"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-46",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-46/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 46"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/45/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:14.263Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/45/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/45/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-46/",
+      "numero": 46,
+      "temporada": 1,
+      "nome": "Episódio 46",
+      "descricao": "Aug. 25, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 46 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/46/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-46/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-45",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-45/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 45"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-47",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-47/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 47"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/46/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:10.126Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/46/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/46/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-47/",
+      "numero": 47,
+      "temporada": 1,
+      "nome": "Episódio 47",
+      "descricao": "Sep. 01, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 47 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/47/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-47/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-46",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-46/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 46"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-48",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-48/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 48"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/47/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:05.971Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/47/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/47/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-48/",
+      "numero": 48,
+      "temporada": 1,
+      "nome": "Episódio 48",
+      "descricao": "Sep. 08, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 48 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/48/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-48/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-47",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-47/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 47"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-49",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-49/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 49"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/48/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:53:01.818Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/48/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/48/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-49/",
+      "numero": 49,
+      "temporada": 1,
+      "nome": "Episódio 49",
+      "descricao": "Sep. 15, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 49 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/49/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-49/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-48",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-48/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 48"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-50",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-50/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 50"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/49/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:52:57.597Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/49/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/49/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-50/",
+      "numero": 50,
+      "temporada": 1,
+      "nome": "Episódio 50",
+      "descricao": "Sep. 22, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 50 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/50/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-50/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-49",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-49/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 49"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-51",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-51/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 51"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/50/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:52:53.404Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/50/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/50/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-51/",
+      "numero": 51,
+      "temporada": 1,
+      "nome": "Episódio 51",
+      "descricao": "Sep. 29, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 51 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/51/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-51/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-50",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-50/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 50"
+        },
+        "nextEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-52",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-52/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 52"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/51/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:52:49.214Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/51/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/51/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-52/",
+      "numero": 52,
+      "temporada": 1,
+      "nome": "Episódio 52",
+      "descricao": "Oct. 06, 2002",
+      "capa": "https://meusanimes.blog/wp-content/themes/meusanimes/assets/img/no/dt_backdrop.png",
+      "audio": "Dublado",
+      "player": {
+        "title": "Super Campeões Road to Dublado: 1 Episodio 52 Online",
+        "animeSlug": "a/super-campeoes-road-to-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/52/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-52/",
+        "previousEpisode": {
+          "slug": "e/super-campeoes-rumo-ao-sonho-1-episodio-51",
+          "link": "https://meusanimes.blog/e/super-campeoes-rumo-ao-sonho-1-episodio-51/",
+          "nome": "Super Campeões: Rumo ao Sonho 1 Episodio 51"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24106/1/52/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:52:45.066Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24106/1/52/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24106/1/52/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      15
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 52,
+    "totalEpisodios": 52,
+    "detalhesColetadosEm": "2026-10-22T05:52:34.463Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 52
+  },
+  "titulo": "Super Campeões Road to Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/2MAz5ZYSHme3AI4m0XaaB7m3d9L.jpg",
+  "score": "7.717",
+  "audio": "Dublado",
+  "ano": "2001",
+  "publicadoEm": "Oct. 07, 2001",
+  "url": "https://meusanimes.blog/a/super-campeoes-road-to-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/02/2MAz5ZYSHme3AI4m0XaaB7m3d9L.jpg",
+  "temporadas": 1,
+  "descricao": "Super Campeões: Rumo ao Sonho, Tsubasa se torna uma estrela entre os jogadores de futebol no Brasil. Agora ele planeja tocar na Europa. Em um importante jogo a vencer, com os fãs torcendo por ele, Tsubasa relembra os dias em que ele começou sua vida no futebol. Sua paixão por fazer gols e vencer o jogo é tão forte quanto durante sua infância. Ele lembra os jogos e momentos que tiveram um impacto decisivo em sua vida. Ele se lembra do goleiro Wakabayashi, do atacante Genius Hyuga, do generoso Misaki e do técnico Roberto. Ele ficou feliz em conhecê-los, gostou de brincar com eles e aprendeu muitas coisas com eles. O apito soa e o jogo começa. Tsubasa corre para a bola!"
+}

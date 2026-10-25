@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "joker-game",
+  "capturadoEm": "2026-10-22T09:52:57.159Z",
+  "atualizadoEm": "2026-10-22T09:52:57.159Z",
+  "catalogo": {
+    "slug": "a/joker-game",
+    "titulo": "Joker Game",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9r9VdGsEqkz80fa47g1bcM485h3.jpg",
+    "info": "Legendado • Apr. 05, 2016",
+    "audio": "Legendado",
+    "score": "6.678",
+    "ano": "2016",
+    "publicadoEm": "Apr. 05, 2016",
+    "url": "https://meusanimes.blog/a/joker-game/",
+    "postId": "52921"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      36
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Joker Game",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/9r9VdGsEqkz80fa47g1bcM485h3.jpg",
+  "score": "6.678",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 05, 2016",
+  "url": "https://meusanimes.blog/a/joker-game/"
+}

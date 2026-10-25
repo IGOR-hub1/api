@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shichisei-no-subaru",
+  "capturadoEm": "2026-10-22T09:56:01.324Z",
+  "atualizadoEm": "2026-10-22T09:56:01.324Z",
+  "catalogo": {
+    "slug": "a/shichisei-no-subaru",
+    "titulo": "Shichisei no Subaru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3GrX1YsKlyvR2I5k3byAtRVu8KU.jpg",
+    "info": "Legendado • Jul. 05, 2018",
+    "audio": "Legendado",
+    "score": "6.389",
+    "ano": "2018",
+    "publicadoEm": "Jul. 05, 2018",
+    "url": "https://meusanimes.blog/a/shichisei-no-subaru/",
+    "postId": "35429"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      49
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Shichisei no Subaru",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3GrX1YsKlyvR2I5k3byAtRVu8KU.jpg",
+  "score": "6.389",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jul. 05, 2018",
+  "url": "https://meusanimes.blog/a/shichisei-no-subaru/"
+}

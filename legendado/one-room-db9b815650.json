@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "one-room",
+  "capturadoEm": "2026-10-22T09:53:19.068Z",
+  "atualizadoEm": "2026-10-22T09:53:19.068Z",
+  "catalogo": {
+    "slug": "a/one-room",
+    "titulo": "One Room",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/mANzjpm9YGabJMxIddGZvUlmtfr.jpg",
+    "info": "Legendado • Jan. 11, 2017",
+    "audio": "Legendado",
+    "score": "5.7",
+    "ano": "2017",
+    "publicadoEm": "Jan. 11, 2017",
+    "url": "https://meusanimes.blog/a/one-room/",
+    "postId": "50982"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      37
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "One Room",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/mANzjpm9YGabJMxIddGZvUlmtfr.jpg",
+  "score": "5.7",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jan. 11, 2017",
+  "url": "https://meusanimes.blog/a/one-room/"
+}

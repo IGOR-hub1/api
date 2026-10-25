@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "dorei-ku-the-animation",
+  "capturadoEm": "2026-10-22T09:55:18.178Z",
+  "atualizadoEm": "2026-10-22T09:55:18.178Z",
+  "catalogo": {
+    "slug": "a/dorei-ku-the-animation",
+    "titulo": "Dorei-ku The Animation",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/zNVz4OMER51g6TQzy7cgQZymn70.jpg",
+    "info": "Legendado • Apr. 13, 2018",
+    "audio": "Legendado",
+    "score": "6.4",
+    "ano": "2018",
+    "publicadoEm": "Apr. 13, 2018",
+    "url": "https://meusanimes.blog/a/dorei-ku-the-animation/",
+    "postId": "38756"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      46
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Dorei-ku The Animation",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/zNVz4OMER51g6TQzy7cgQZymn70.jpg",
+  "score": "6.4",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Apr. 13, 2018",
+  "url": "https://meusanimes.blog/a/dorei-ku-the-animation/"
+}

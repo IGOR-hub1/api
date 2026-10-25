@@ -1,0 +1,491 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "above-myriads",
+  "capturadoEm": "2026-10-22T09:46:48.798Z",
+  "atualizadoEm": "2026-10-22T19:27:25.989Z",
+  "catalogo": {
+    "slug": "a/above-myriads",
+    "titulo": "Above Myriads",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ztRhZ9Tw6SYGUv68m4XRpSwwio.jpg",
+    "info": "Legendado • Jun. 09, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jun. 09, 2026",
+    "url": "https://meusanimes.blog/a/above-myriads/",
+    "postId": "91365"
+  },
+  "detalhes": {
+    "slug": "a/above-myriads",
+    "titulo": "Above Myriads",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ztRhZ9Tw6SYGUv68m4XRpSwwio.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/06/ztRhZ9Tw6SYGUv68m4XRpSwwio.jpg",
+    "sinopse": "Acompanha Yi Feng, um homem que é transportado para um mundo de cultivadores e descobre que nasceu sem a capacidade de cultivar energia espiritual. Acreditando ser apenas uma pessoa comum, ele vive usando habilidades básicas concedidas por um sistema misterioso. O que ele não sabe é que, aos olhos dos grandes mestres, seus atos e habilidades são divinos e capazes de influenciar o destino de todo o continente. A história mistura fantasia, ação e bastante comédia, com um protagonista absurdamente poderoso que não percebe a própria força.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Donghua",
+      "Fantasia"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jun. 09, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/above-myriads/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/952IqQhhRuavBA4wXkURMKduGNB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 1 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-2",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-2/",
+          "nome": "Above Myriads Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:27:25.989Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jun. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/lJj3G6P9bqJz0Kj33E8a3p5bLK7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 2 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-1",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-1/",
+          "nome": "Above Myriads Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-3",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-3/",
+          "nome": "Above Myriads Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:27:21.736Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jun. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/3vwtN6yZutJXYVDmKEDbwtwsHJ2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 3 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-2",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-2/",
+          "nome": "Above Myriads Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-4",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-4/",
+          "nome": "Above Myriads Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:27:17.581Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jun. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/qqqtW9Og2uCtyEDjjh8Ud2KuAE3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 4 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-3",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-3/",
+          "nome": "Above Myriads Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-5",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-5/",
+          "nome": "Above Myriads Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:27:13.390Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jun. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/dnRUPbeveBwy3HIz07RfA51OtE4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 5 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-4",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-4/",
+          "nome": "Above Myriads Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-6",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-6/",
+          "nome": "Above Myriads Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:27:09.301Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Jun. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/kOSpwecCH7mgnlOSDIiPUNToch5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 6 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-5",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-5/",
+          "nome": "Above Myriads Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-7",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-7/",
+          "nome": "Above Myriads Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:27:04.694Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Jul. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/wzhm19ZAeB9MnPdUJWdpnoKkbSK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 7 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-6",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-6/",
+          "nome": "Above Myriads Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-8",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-8/",
+          "nome": "Above Myriads Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:27:00.582Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Jul. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/iX2ipr7G3gwQyHMbLHowGwA9PJt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 8 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-7",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-7/",
+          "nome": "Above Myriads Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-9",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-9/",
+          "nome": "Above Myriads Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:26:56.343Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jul. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/mZUMyQP2I6Rvli8ut8xI0UZZbQv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 9 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-8",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-8/",
+          "nome": "Above Myriads Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-10",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-10/",
+          "nome": "Above Myriads Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:26:52.171Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jul. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/952IqQhhRuavBA4wXkURMKduGNB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 10 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-9",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-9/",
+          "nome": "Above Myriads Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-11",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-11/",
+          "nome": "Above Myriads Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:26:48.051Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Aug. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/qqqtW9Og2uCtyEDjjh8Ud2KuAE3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 11 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-10",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-10/",
+          "nome": "Above Myriads Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-12",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-12/",
+          "nome": "Above Myriads Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:26:43.840Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Aug. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/dnRUPbeveBwy3HIz07RfA51OtE4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 12 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-11",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-11/",
+          "nome": "Above Myriads Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-13",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-13/",
+          "nome": "Above Myriads Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:26:39.384Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Aug. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/lJj3G6P9bqJz0Kj33E8a3p5bLK7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 13 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-12",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-12/",
+          "nome": "Above Myriads Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/above-myriads-episodio-14",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-14/",
+          "nome": "Above Myriads Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:26:35.276Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/above-myriads-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Aug. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/3vwtN6yZutJXYVDmKEDbwtwsHJ2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Above Myriads: 1 Episodio 14 Online",
+        "animeSlug": "a/above-myriads",
+        "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/above-myriads-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/above-myriads-episodio-13",
+          "link": "https://meusanimes.blog/e/above-myriads-episodio-13/",
+          "nome": "Above Myriads Episodio 13"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/325040/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:26:31.068Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/325040/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/325040/1/14/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      8
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 14,
+    "totalEpisodios": 14,
+    "midiasColetadas": 0,
+    "iframesColetados": 14,
+    "detalhesColetadosEm": "2026-10-22T19:26:26.047Z"
+  },
+  "titulo": "Above Myriads",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ztRhZ9Tw6SYGUv68m4XRpSwwio.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jun. 09, 2026",
+  "url": "https://meusanimes.blog/a/above-myriads/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/06/ztRhZ9Tw6SYGUv68m4XRpSwwio.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "Acompanha Yi Feng, um homem que é transportado para um mundo de cultivadores e descobre que nasceu sem a capacidade de cultivar energia espiritual. Acreditando ser apenas uma pessoa comum, ele vive usando habilidades básicas concedidas por um sistema misterioso. O que ele não sabe é que, aos olhos dos grandes mestres, seus atos e habilidades são divinos e capazes de influenciar o destino de todo o continente. A história mistura fantasia, ação e bastante comédia, com um protagonista absurdamente poderoso que não percebe a própria força."
+}

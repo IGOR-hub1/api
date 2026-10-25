@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "haigakura",
+  "capturadoEm": "2026-10-22T09:54:32.668Z",
+  "atualizadoEm": "2026-10-22T09:54:32.668Z",
+  "catalogo": {
+    "slug": "a/haigakura",
+    "titulo": "Haigakura",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
+    "info": "Legendado • Oct. 07, 2024",
+    "audio": "Legendado",
+    "score": "8.2",
+    "ano": "2024",
+    "publicadoEm": "Oct. 07, 2024",
+    "url": "https://meusanimes.blog/a/haigakura/",
+    "postId": "42920"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      42
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Haigakura",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg",
+  "score": "8.2",
+  "audio": "Legendado",
+  "ano": "2024",
+  "publicadoEm": "Oct. 07, 2024",
+  "url": "https://meusanimes.blog/a/haigakura/"
+}

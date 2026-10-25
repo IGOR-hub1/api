@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "dna%c2%b2-dublado",
+  "capturadoEm": "2026-10-22T04:06:57.604Z",
+  "atualizadoEm": "2026-10-22T09:42:10.464Z",
+  "catalogo": {
+    "slug": "a/dna%c2%b2-dublado",
+    "titulo": "Dna² Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
+    "info": "Dublado • Oct. 07, 1994",
+    "audio": "Dublado",
+    "score": "7.822",
+    "ano": "1994",
+    "publicadoEm": "Oct. 07, 1994",
+    "url": "https://meusanimes.blog/a/dna%c2%b2-dublado/",
+    "postId": "78667"
+  },
+  "detalhes": {
+    "slug": "a/dna%c2%b2-dublado",
+    "titulo": "Dna² Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
+    "sinopse": "No futuro, a Terra sofre com a superpopulação causada pelos Mega-Playboys, homens com um tipo especial de DNA que os tornavam irresistíveis às mulheres, a ponto de cada um deles ter cem filhos com mulheres diferentes e todos os filhos dos Mega-Playboys também se tornam Mega-Playboys. Em três gerações, eles transformaram a sociedade em um verdadeiro caos! Basicamente, a história gira em torno de Junta Momonari, um jovem adolescente japonês que é como muitos outros garotos, com exceção de que tem alergia a mulheres. Toda vez que ocorre algo muito íntimo, ele acaba vomitando e que, possivelmente, é um Mega-Playboy.",
+    "generos": [
+      "Comédia",
+      "Ficção científica",
+      "Shounen",
+      "Slice Of Life"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "1994",
+    "publicadoEm": "Oct. 07, 1994",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/dna%c2%b2-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 07, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/67hxDxAxSGhR5LRNLRMFHenphvZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-2/",
+          "nome": "Dna² Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:49.045Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 14, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/8on9ZyMXUVZZFFYjW7i4Mp5hzN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-1/",
+          "nome": "Dna² Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-3/",
+          "nome": "Dna² Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:44.849Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 21, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hkr3OPaipYXyx6XVcieAaqSIXyN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-2/",
+          "nome": "Dna² Dublado Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-4/",
+          "nome": "Dna² Dublado Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:40.705Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 28, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/RAWjr6uCPkGUn8HQdOTeYvh1y6.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-3/",
+          "nome": "Dna² Dublado Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-5/",
+          "nome": "Dna² Dublado Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:36.599Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 04, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rUczght7RmOcOWVEfaP69aD5iSN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-4/",
+          "nome": "Dna² Dublado Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-6/",
+          "nome": "Dna² Dublado Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:32.258Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 11, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9LOt7OBVbkOw3p6gG6iYATLmVgp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-5/",
+          "nome": "Dna² Dublado Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-7/",
+          "nome": "Dna² Dublado Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:28.075Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 18, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hhioEgxamG0bQAHwH4alNJpyUei.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-6/",
+          "nome": "Dna² Dublado Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-8/",
+          "nome": "Dna² Dublado Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:23.905Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 25, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/AapM20JXLAzNDyGpaibhqF6pcsO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-7/",
+          "nome": "Dna² Dublado Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-9/",
+          "nome": "Dna² Dublado Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:19.763Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 02, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/iJfw7rCX4pO6i41dAeNW8my9q9P.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-8/",
+          "nome": "Dna² Dublado Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-10/",
+          "nome": "Dna² Dublado Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:15.679Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 09, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2RhNtsC7AcRaGmmbC8hfg5zaw3N.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-9/",
+          "nome": "Dna² Dublado Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-11/",
+          "nome": "Dna² Dublado Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:11.535Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 16, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vgmTSO2Zqifo4vnmvlCOSWJhUsq.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-10/",
+          "nome": "Dna² Dublado Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-12/",
+          "nome": "Dna² Dublado Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:07.355Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 23, 1994",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/byoxPjt3oRo6FuRkyVOYbzuzAjA.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Dna² Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/dna%c2%b2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dna%c2%b2-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/dna%c2%b2-dublado-episodio-11/",
+          "nome": "Dna² Dublado Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43384/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:07:03.187Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43384/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43384/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      11
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T04:06:57.604Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Dna² Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
+  "score": "7.822",
+  "audio": "Dublado",
+  "ano": "1994",
+  "publicadoEm": "Oct. 07, 1994",
+  "url": "https://meusanimes.blog/a/dna%c2%b2-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/6JFx2Tzio2BId8ZUBdFlQpZUY2w.jpg",
+  "temporadas": 1,
+  "descricao": "No futuro, a Terra sofre com a superpopulação causada pelos Mega-Playboys, homens com um tipo especial de DNA que os tornavam irresistíveis às mulheres, a ponto de cada um deles ter cem filhos com mulheres diferentes e todos os filhos dos Mega-Playboys também se tornam Mega-Playboys. Em três gerações, eles transformaram a sociedade em um verdadeiro caos! Basicamente, a história gira em torno de Junta Momonari, um jovem adolescente japonês que é como muitos outros garotos, com exceção de que tem alergia a mulheres. Toda vez que ocorre algo muito íntimo, ele acaba vomitando e que, possivelmente, é um Mega-Playboy."
+}

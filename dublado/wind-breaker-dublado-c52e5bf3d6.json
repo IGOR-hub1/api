@@ -1,0 +1,823 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "wind-breaker-dublado",
+  "capturadoEm": "2026-10-22T06:50:01.536Z",
+  "atualizadoEm": "2026-10-22T09:43:14.153Z",
+  "catalogo": {
+    "slug": "a/wind-breaker-dublado",
+    "titulo": "Wind Breaker Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg",
+    "info": "Dublado • Apr. 05, 2024",
+    "audio": "Dublado",
+    "score": "8.2",
+    "ano": "2024",
+    "publicadoEm": "Apr. 05, 2024",
+    "url": "https://meusanimes.blog/a/wind-breaker-dublado/",
+    "postId": "69488"
+  },
+  "detalhes": {
+    "slug": "a/wind-breaker-dublado",
+    "titulo": "Wind Breaker Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/04/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg",
+    "sinopse": "Aqui as médias de notas são mais baixas, mas as lutas são as mais intensas! A Escola Furin é conhecida como uma superescola de delinquentes! Haruka Sakura, um estudante do primeiro ano do ensino médio, veio de fora da cidade pronto para lutar até o topo… No entanto, a Escola Furin acabou se tornando um grupo que protege a cidade! É aqui que a lenda heroica do delinquente Sakura no ensino médio começa!",
+    "generos": [
+      "Ação",
+      "Escolar"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2024",
+    "publicadoEm": "Apr. 05, 2024",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/wind-breaker-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 05, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/g84xbY09pycSbUHIf37ehvtruoL.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-2/",
+          "nome": "Wind Breaker Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:49.882Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 12, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/9Ld4WJiU31CZKn4kj3iiajlVMg3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-1/",
+          "nome": "Wind Breaker Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-3/",
+          "nome": "Wind Breaker Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:45.662Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 19, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/jDCzX14ewVMUDKeE0lNkUGWUaer.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-2/",
+          "nome": "Wind Breaker Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-4/",
+          "nome": "Wind Breaker Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:41.396Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 26, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/zkegatnupvc45ilhARSSaH8ghbC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-3/",
+          "nome": "Wind Breaker Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-5/",
+          "nome": "Wind Breaker Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:37.154Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 03, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/qSVvOx05fLB0YuuCvz5wkQEMcup.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-4/",
+          "nome": "Wind Breaker Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-6/",
+          "nome": "Wind Breaker Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:32.961Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/AjByIqC431kE3r4XXAxogyvPOwg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-5/",
+          "nome": "Wind Breaker Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-7/",
+          "nome": "Wind Breaker Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:28.750Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 17, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/nceIP73rvOb8v2suNmmJGmNcYGe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-6/",
+          "nome": "Wind Breaker Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-8/",
+          "nome": "Wind Breaker Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:24.501Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 24, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/7azHDs1BZFgDhQcdMCZ1MCJFU47.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-7/",
+          "nome": "Wind Breaker Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-9/",
+          "nome": "Wind Breaker Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:20.291Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 31, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/h3A3Ak6aSnVM3R5Bntlt8p1nNXw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-8/",
+          "nome": "Wind Breaker Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-10/",
+          "nome": "Wind Breaker Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:16.097Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 07, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/biWhvQJFdMDtWESbtPjeVPibF0n.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-9/",
+          "nome": "Wind Breaker Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-11/",
+          "nome": "Wind Breaker Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:11.893Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 13, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/2okNdGHLbTzb5KdY9kNWkEV19GE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-10/",
+          "nome": "Wind Breaker Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-12/",
+          "nome": "Wind Breaker Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:07.703Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 21, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/ayihh6LIUKJgHPmSZFu04C3Fbto.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-11/",
+          "nome": "Wind Breaker Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-13/",
+          "nome": "Wind Breaker Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:51:03.489Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 28, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/rNIv35v842nTpwUiOSHePaCRwOO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-1-episodio-12/",
+          "nome": "Wind Breaker Dublado 1 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:59.365Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 03, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/sd1T0e2H87wRpnH8C0dOLaELTbQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-2/",
+          "nome": "Wind Breaker Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:55.109Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/pZuQph3xsWGtqjynb6iUxT7YWHB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-1/",
+          "nome": "Wind Breaker Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-3/",
+          "nome": "Wind Breaker Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:50.917Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 17, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/gGMOleYebbe8hZyWae3EFo4yjug.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-2/",
+          "nome": "Wind Breaker Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-4/",
+          "nome": "Wind Breaker Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:46.679Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 24, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/sdvk6PWRyvF7h6uWBoiIAwiDMLi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-3/",
+          "nome": "Wind Breaker Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-5/",
+          "nome": "Wind Breaker Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:42.472Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "May. 01, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/bFgl2FV4AU2NCqQok1B1cMA4MAJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-4/",
+          "nome": "Wind Breaker Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-6/",
+          "nome": "Wind Breaker Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:38.290Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "May. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/oRJKkp4y4We878RCa3EV0eA4T5W.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-5/",
+          "nome": "Wind Breaker Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-7/",
+          "nome": "Wind Breaker Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:34.083Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "May. 15, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/XIULhbbn7ytt4jY5GDpN1zvdTm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-6/",
+          "nome": "Wind Breaker Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-8/",
+          "nome": "Wind Breaker Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:29.909Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "May. 22, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/uyQggtFjfCYyekrxxoQ92YoO1nu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-7/",
+          "nome": "Wind Breaker Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-9/",
+          "nome": "Wind Breaker Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:25.650Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "May. 30, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/rGh7lUZM788l2uVpMYpAbSc7YDK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-8/",
+          "nome": "Wind Breaker Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-10/",
+          "nome": "Wind Breaker Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:21.426Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/48kSuyL2pfGTB2ja3u0zNeFMeXo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-9/",
+          "nome": "Wind Breaker Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-11/",
+          "nome": "Wind Breaker Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:17.225Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fotMjtILhZvloKw6YinWP07G6Vl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-10/",
+          "nome": "Wind Breaker Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-12/",
+          "nome": "Wind Breaker Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:13.021Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/67AlyrrzRSi1BQdPxLaPNdP5xfy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Wind Breaker Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/wind-breaker-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/wind-breaker-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/wind-breaker-dublado-2-episodio-11/",
+          "nome": "Wind Breaker Dublado 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2235001/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T06:50:08.790Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2235001/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2235001/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 25,
+    "totalEpisodios": 25,
+    "detalhesColetadosEm": "2026-10-22T06:50:01.536Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 25
+  },
+  "titulo": "Wind Breaker Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/04/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg",
+  "score": "8.2",
+  "audio": "Dublado",
+  "ano": "2024",
+  "publicadoEm": "Apr. 05, 2024",
+  "url": "https://meusanimes.blog/a/wind-breaker-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/04/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg",
+  "temporadas": 2,
+  "descricao": "Aqui as médias de notas são mais baixas, mas as lutas são as mais intensas! A Escola Furin é conhecida como uma superescola de delinquentes! Haruka Sakura, um estudante do primeiro ano do ensino médio, veio de fora da cidade pronto para lutar até o topo… No entanto, a Escola Furin acabou se tornando um grupo que protege a cidade! É aqui que a lenda heroica do delinquente Sakura no ensino médio começa!"
+}

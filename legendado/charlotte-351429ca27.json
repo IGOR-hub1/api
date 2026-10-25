@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "charlotte",
+  "capturadoEm": "2026-10-22T09:51:47.471Z",
+  "atualizadoEm": "2026-10-22T09:51:47.471Z",
+  "catalogo": {
+    "slug": "a/charlotte",
+    "titulo": "Charlotte",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/rMOGHPGfuywDViL9Oc0tA29oxtA.jpg",
+    "info": "Legendado • Jul. 05, 2015",
+    "audio": "Legendado",
+    "score": "8.278",
+    "ano": "2015",
+    "publicadoEm": "Jul. 05, 2015",
+    "url": "https://meusanimes.blog/a/charlotte/",
+    "postId": "57591"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      30
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Charlotte",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/rMOGHPGfuywDViL9Oc0tA29oxtA.jpg",
+  "score": "8.278",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jul. 05, 2015",
+  "url": "https://meusanimes.blog/a/charlotte/"
+}

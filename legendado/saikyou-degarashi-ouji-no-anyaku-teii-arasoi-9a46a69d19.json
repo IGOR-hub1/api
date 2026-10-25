@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+  "capturadoEm": "2026-10-22T09:46:21.443Z",
+  "atualizadoEm": "2026-10-22T18:40:28.265Z",
+  "catalogo": {
+    "slug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+    "titulo": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+    "info": "Legendado • Jul. 06, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 06, 2026",
+    "url": "https://meusanimes.blog/a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi/",
+    "postId": "92522"
+  },
+  "detalhes": {
+    "slug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+    "titulo": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+    "sinopse": "Príncipe Arnold é considerado uma grande piada, inepto e ofuscado por seu irmão gêmeo mais talentoso, Leonard. Mas, em segredo, Arnold opera como Silver, um dos cinco aventureiros de nível SS capazes de usar magia no continente. Conforme a sangrenta batalha pelo trono se intensifica após a morte do príncipe herdeiro, Arnold manipula os bastidores para coroar seu irmão, em benefício próprio.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 06, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rAeXjfL8dbKXpmzBg78s1GDQCY8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 1 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-2",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-2/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:40:28.265Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/Amg6Y0oxNCnCKb9amE1zDxELOMc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 2 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-1",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-1/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-3",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-3/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:40:24.169Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/9AX2AIPnZiJNEdvSn9uCf3dWyIM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 3 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-2",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-2/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-4",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-4/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:40:19.270Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/jqA9XP2ZLHOC1m0J45lUyBLd5iT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 4 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-3",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-3/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-5",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-5/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:40:15.125Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/5Nm9pG1U41qWXB8ZgLvOaRsuqm4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 5 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-4",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-4/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-6",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-6/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:40:11.016Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/rubIa1ppnyWjN9Xy90Krt0IzHmU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 6 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-5",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-5/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-7",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-7/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:40:06.933Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/5lBGgdNelxKPhQEqlH1nP0sKCv1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 7 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-6",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-6/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-8",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-8/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:40:02.682Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/zKFYShwyovKq5vEbt6dmtVAVgVq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 8 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-7",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-7/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-9",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-9/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:39:58.575Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/fC8Gxq91DWo6jZtKMjayThVY9Fc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 9 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-8",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-8/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-10",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-10/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:39:54.401Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/uGVsIY4dwPKyS0NrmSarEZgBGxd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 10 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-9",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-9/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-11",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-11/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:39:49.202Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/mI8NTskJXywGHNgcI5Gl7NGcGlR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 11 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-10",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-10/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-12",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-12/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:39:44.624Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/gVt27cuIoNtD5YgxokQkJyYpFAd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: 1 Episodio 12 Online",
+        "animeSlug": "a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi",
+        "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-11",
+          "link": "https://meusanimes.blog/e/saikyou-degarashi-ouji-no-anyaku-teii-arasoi-episodio-11/",
+          "nome": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/284581/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:39:40.419Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/284581/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/284581/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      6
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T18:39:35.669Z"
+  },
+  "titulo": "Saikyou Degarashi Ouji no Anyaku Teii Arasoi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 06, 2026",
+  "url": "https://meusanimes.blog/a/saikyou-degarashi-ouji-no-anyaku-teii-arasoi/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "Príncipe Arnold é considerado uma grande piada, inepto e ofuscado por seu irmão gêmeo mais talentoso, Leonard. Mas, em segredo, Arnold opera como Silver, um dos cinco aventureiros de nível SS capazes de usar magia no continente. Conforme a sangrenta batalha pelo trono se intensifica após a morte do príncipe herdeiro, Arnold manipula os bastidores para coroar seu irmão, em benefício próprio."
+}

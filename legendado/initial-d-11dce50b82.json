@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "initial-d",
+  "capturadoEm": "2026-10-22T09:49:38.882Z",
+  "atualizadoEm": "2026-10-22T09:49:38.882Z",
+  "catalogo": {
+    "slug": "a/initial-d",
+    "titulo": "Initial D",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/kJz1um5xlSxZYIns4wMWREcyD44.jpg",
+    "info": "Legendado • Apr. 18, 1998",
+    "audio": "Legendado",
+    "score": "7.971",
+    "ano": "1998",
+    "publicadoEm": "Apr. 18, 1998",
+    "url": "https://meusanimes.blog/a/initial-d/",
+    "postId": "68267"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Initial D",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/kJz1um5xlSxZYIns4wMWREcyD44.jpg",
+  "score": "7.971",
+  "audio": "Legendado",
+  "ano": "1998",
+  "publicadoEm": "Apr. 18, 1998",
+  "url": "https://meusanimes.blog/a/initial-d/"
+}

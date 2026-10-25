@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "himouto-umaru-chan",
+  "capturadoEm": "2026-10-22T09:51:53.648Z",
+  "atualizadoEm": "2026-10-22T09:51:53.648Z",
+  "catalogo": {
+    "slug": "a/himouto-umaru-chan",
+    "titulo": "Himouto! Umaru-chan",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/61rrzAiVLKW5sJ5x0qdOmSrW5Gt.jpg",
+    "info": "Legendado • Jul. 09, 2015",
+    "audio": "Legendado",
+    "score": "8.271",
+    "ano": "2015",
+    "publicadoEm": "Jul. 09, 2015",
+    "url": "https://meusanimes.blog/a/himouto-umaru-chan/",
+    "postId": "57116"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Himouto! Umaru-chan",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/61rrzAiVLKW5sJ5x0qdOmSrW5Gt.jpg",
+  "score": "8.271",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jul. 09, 2015",
+  "url": "https://meusanimes.blog/a/himouto-umaru-chan/"
+}

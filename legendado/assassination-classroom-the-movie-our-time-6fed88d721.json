@@ -1,0 +1,94 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "assassination-classroom-the-movie-our-time",
+  "capturadoEm": "2026-10-22T09:45:58.792Z",
+  "atualizadoEm": "2026-10-22T17:28:37.801Z",
+  "catalogo": {
+    "slug": "a/assassination-classroom-the-movie-our-time",
+    "titulo": "Assassination Classroom the Movie: Our Time",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/cxhK5CMc9PIDgKH0MHK3RMRwsVW.jpg",
+    "info": "Legendado • Jul. 23, 2026",
+    "audio": "Legendado",
+    "score": "8.898",
+    "ano": "2026",
+    "publicadoEm": "Jul. 23, 2026",
+    "formato": "Filme",
+    "url": "https://meusanimes.blog/a/assassination-classroom-the-movie-our-time/",
+    "postId": "94005"
+  },
+  "detalhes": {
+    "slug": "a/assassination-classroom-the-movie-our-time",
+    "titulo": "Assassination Classroom the Movie: Our Time",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/cxhK5CMc9PIDgKH0MHK3RMRwsVW.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/cxhK5CMc9PIDgKH0MHK3RMRwsVW.jpg",
+    "sinopse": "Retrata os alunos da turma 3-E relembrando seu ano letivo com o professor Korosensei, misturando momentos nostálgicos da convivência escolar com uma história inédita em que Korosensei lida com assassinos e salva uma dona de lanchonete endividada",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Escolar",
+      "Fantasia",
+      "Ficção científica",
+      "Shounen"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 23, 2026",
+    "temporadas": 1,
+    "formato": "Filme",
+    "url": "https://meusanimes.blog/a/assassination-classroom-the-movie-our-time/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/assassination-classroom-the-movie-our-time/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/AlNExlouMMfMRufQKiqlSoQqAyQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Assassination Classroom the Movie: Our Time: 1 Episodio 1 Online",
+        "animeSlug": "a/assassination-classroom-the-movie-our-time",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1542877/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/assassination-classroom-the-movie-our-time/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1542877/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:28:37.801Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1542877/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1542877/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "midiasColetadas": 0,
+    "iframesColetados": 1,
+    "detalhesColetadosEm": "2026-10-22T17:28:33.684Z"
+  },
+  "titulo": "Assassination Classroom the Movie: Our Time",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/cxhK5CMc9PIDgKH0MHK3RMRwsVW.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 23, 2026",
+  "formato": "Filme",
+  "url": "https://meusanimes.blog/a/assassination-classroom-the-movie-our-time/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/cxhK5CMc9PIDgKH0MHK3RMRwsVW.jpg",
+  "temporadas": 1,
+  "descricao": "Retrata os alunos da turma 3-E relembrando seu ano letivo com o professor Korosensei, misturando momentos nostálgicos da convivência escolar com uma história inédita em que Korosensei lida com assassinos e salva uma dona de lanchonete endividada"
+}

@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "lv999-no-murabito",
+  "capturadoEm": "2026-10-22T09:46:44.781Z",
+  "atualizadoEm": "2026-10-22T19:22:52.984Z",
+  "catalogo": {
+    "slug": "a/lv999-no-murabito",
+    "titulo": "Lv999 no Murabito",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
+    "info": "Legendado • Jul. 02, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 02, 2026",
+    "url": "https://meusanimes.blog/a/lv999-no-murabito/",
+    "postId": "92131"
+  },
+  "detalhes": {
+    "slug": "a/lv999-no-murabito",
+    "titulo": "Lv999 no Murabito",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
+    "sinopse": "Em Earthclear, todos nascem com um papel predefinido, e os aldeões são os mais fracos de todos. A maioria nunca passa do Nível 5 — exceto Koji Kagami, que é Nível… 999?! Em uma caçada a monstros, ele encontra Alice, a filha do Rei Demônio, e descobre que compartilham um sonho impossível: a coexistência entre humanos e demônios.",
+    "generos": [
+      "Ação",
+      "Aventura"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 02, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/lv999-no-murabito/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/z7lSMYbkFAuGTvnYRDM9ssekqTe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 1 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-2",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-2/",
+          "nome": "Lv999 no Murabito Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:52.984Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/3TPUvhMRyuP1L0AZMMGvkKNJf0C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 2 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-1",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-1/",
+          "nome": "Lv999 no Murabito Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-3",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-3/",
+          "nome": "Lv999 no Murabito Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:48.881Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/jXLgZAI9ddAfnwX2i4lT7PZUtyz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 3 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-2",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-2/",
+          "nome": "Lv999 no Murabito Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-4",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-4/",
+          "nome": "Lv999 no Murabito Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:44.757Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8GOBcam8C9uUgN6T4IYJ6gwb9sN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 4 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-3",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-3/",
+          "nome": "Lv999 no Murabito Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-5",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-5/",
+          "nome": "Lv999 no Murabito Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:40.619Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/uOTCoUyokT0DrLcRxio8kMfJ8GP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 5 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-4",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-4/",
+          "nome": "Lv999 no Murabito Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-6",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-6/",
+          "nome": "Lv999 no Murabito Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:36.460Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7DEf0mRph0DqUaY63yORhJ8AfkZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 6 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-5",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-5/",
+          "nome": "Lv999 no Murabito Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-7",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-7/",
+          "nome": "Lv999 no Murabito Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:32.373Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/z4gI6q0wFzTmx47FLUqtPpIxR9k.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 7 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-6",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-6/",
+          "nome": "Lv999 no Murabito Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-8",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-8/",
+          "nome": "Lv999 no Murabito Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:28.295Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/waSKPWQuIYetOyX2rI8iwCJQ15m.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 8 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-7",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-7/",
+          "nome": "Lv999 no Murabito Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-9",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-9/",
+          "nome": "Lv999 no Murabito Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:24.200Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/t6dCBJ9RQJCtpAuEplpfUvHj18S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 9 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-8",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-8/",
+          "nome": "Lv999 no Murabito Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-10",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-10/",
+          "nome": "Lv999 no Murabito Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:20.066Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/lygvar8TCn8s0qt0tcKvfwIogD5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 10 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-9",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-9/",
+          "nome": "Lv999 no Murabito Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-11",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-11/",
+          "nome": "Lv999 no Murabito Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:15.937Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/8orn0GbQIY3asl45H3YDnvORsIO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 11 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-10",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-10/",
+          "nome": "Lv999 no Murabito Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-12",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-12/",
+          "nome": "Lv999 no Murabito Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:11.831Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/lv999-no-murabito-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/86GN9bpIPAsePsjTD4PAPmWejPd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Lv999 no Murabito: 1 Episodio 12 Online",
+        "animeSlug": "a/lv999-no-murabito",
+        "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/lv999-no-murabito-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/lv999-no-murabito-episodio-11",
+          "link": "https://meusanimes.blog/e/lv999-no-murabito-episodio-11/",
+          "nome": "Lv999 no Murabito Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/298994/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:22:07.739Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/298994/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/298994/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      8
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T19:22:02.906Z"
+  },
+  "titulo": "Lv999 no Murabito",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 02, 2026",
+  "url": "https://meusanimes.blog/a/lv999-no-murabito/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/pXnQuQyt7LUb62ZF9J6vDAcymIW.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "Em Earthclear, todos nascem com um papel predefinido, e os aldeões são os mais fracos de todos. A maioria nunca passa do Nível 5 — exceto Koji Kagami, que é Nível… 999?! Em uma caçada a monstros, ele encontra Alice, a filha do Rei Demônio, e descobre que compartilham um sonho impossível: a coexistência entre humanos e demônios."
+}

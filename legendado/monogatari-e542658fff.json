@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "monogatari",
+  "capturadoEm": "2026-10-22T09:49:37.508Z",
+  "atualizadoEm": "2026-10-22T09:49:37.508Z",
+  "catalogo": {
+    "slug": "a/monogatari",
+    "titulo": "Monogatari",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
+    "info": "Legendado • Jul. 03, 2009",
+    "audio": "Legendado",
+    "score": "8.1",
+    "ano": "2009",
+    "publicadoEm": "Jul. 03, 2009",
+    "url": "https://meusanimes.blog/a/monogatari/",
+    "postId": "68470"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Monogatari",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg",
+  "score": "8.1",
+  "audio": "Legendado",
+  "ano": "2009",
+  "publicadoEm": "Jul. 03, 2009",
+  "url": "https://meusanimes.blog/a/monogatari/"
+}

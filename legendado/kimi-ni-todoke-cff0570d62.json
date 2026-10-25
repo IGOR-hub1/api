@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kimi-ni-todoke",
+  "capturadoEm": "2026-10-22T09:49:25.253Z",
+  "atualizadoEm": "2026-10-22T09:49:25.253Z",
+  "catalogo": {
+    "slug": "a/kimi-ni-todoke",
+    "titulo": "Kimi ni Todoke",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
+    "info": "Legendado • Oct. 07, 2009",
+    "audio": "Legendado",
+    "score": "8.358",
+    "ano": "2009",
+    "publicadoEm": "Oct. 07, 2009",
+    "url": "https://meusanimes.blog/a/kimi-ni-todoke/",
+    "postId": "69552"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kimi ni Todoke",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/swGezgkBg5kQDoc2i3i5PhLqQyM.jpg",
+  "score": "8.358",
+  "audio": "Legendado",
+  "ano": "2009",
+  "publicadoEm": "Oct. 07, 2009",
+  "url": "https://meusanimes.blog/a/kimi-ni-todoke/"
+}

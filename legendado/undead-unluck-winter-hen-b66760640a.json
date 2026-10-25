@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "undead-unluck-winter-hen",
+  "capturadoEm": "2026-10-22T09:50:40.234Z",
+  "atualizadoEm": "2026-10-22T09:50:40.234Z",
+  "catalogo": {
+    "slug": "a/undead-unluck-winter-hen",
+    "titulo": "Undead Unluck: Winter-hen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/tTbM0Gnp1yaHxNsbnIoYwBxnASY.png",
+    "info": "Legendado • Dec. 30, 2025",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Dec. 30, 2025",
+    "url": "https://meusanimes.blog/a/undead-unluck-winter-hen/",
+    "postId": "63472"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      25
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Undead Unluck: Winter-hen",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/tTbM0Gnp1yaHxNsbnIoYwBxnASY.png",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Dec. 30, 2025",
+  "url": "https://meusanimes.blog/a/undead-unluck-winter-hen/"
+}

@@ -1,0 +1,1160 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "final-space",
+  "capturadoEm": "2026-10-22T08:59:41.064Z",
+  "atualizadoEm": "2026-10-22T09:43:47.532Z",
+  "catalogo": {
+    "slug": "a/final-space",
+    "titulo": "Final Space",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cf4chvwB40cEpsagSrRaEIqBFoG.jpg",
+    "info": "Dublado • Feb. 26, 2018",
+    "audio": "Dublado",
+    "score": "8.391",
+    "ano": "2018",
+    "publicadoEm": "Feb. 26, 2018",
+    "url": "https://meusanimes.blog/a/final-space/",
+    "postId": "36715"
+  },
+  "detalhes": {
+    "slug": "a/final-space",
+    "titulo": "Final Space",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cf4chvwB40cEpsagSrRaEIqBFoG.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/cf4chvwB40cEpsagSrRaEIqBFoG.jpg",
+    "sinopse": "Um humano prisioneiro no espaço e um incrível alienígena destruidor de planetas partem em uma aventura interestelar para salvar o universo.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Drama",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2018",
+    "publicadoEm": "Feb. 26, 2018",
+    "temporadas": 3,
+    "url": "https://meusanimes.blog/a/final-space/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Feb. 26, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3BUiQSNdu9ZkRvCTAdwG34dZRC4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 1 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/final-space-1-episodio-2",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-2/",
+          "nome": "Final Space 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:13.384Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Mar. 05, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/fCZuBKhggEu9jxkhc8AtZjwnD8h.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 2 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/final-space-1-episodio-1",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-1/",
+          "nome": "Final Space 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-1-episodio-3",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-3/",
+          "nome": "Final Space 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:09.348Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Mar. 12, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/2z7obqX1m9kFEwcVxH6xBWXMb7o.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 3 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/final-space-1-episodio-2",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-2/",
+          "nome": "Final Space 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-1-episodio-4",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-4/",
+          "nome": "Final Space 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:05.247Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Mar. 19, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/8cdmllhAPE2nPCcfNWU5cDBL0Kr.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 4 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/final-space-1-episodio-3",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-3/",
+          "nome": "Final Space 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-1-episodio-5",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-5/",
+          "nome": "Final Space 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:02:01.217Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Mar. 26, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rXskH2ggFAuO82yukecVFfTF2Pn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 5 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/final-space-1-episodio-4",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-4/",
+          "nome": "Final Space 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-1-episodio-6",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-6/",
+          "nome": "Final Space 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:57.164Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Apr. 09, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/zh81wzCkYtr9CL9RXPpMEn7Jsp4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 6 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/final-space-1-episodio-5",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-5/",
+          "nome": "Final Space 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-1-episodio-7",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-7/",
+          "nome": "Final Space 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:53.163Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Apr. 16, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/9d1tA3oDBblbMrK1uNENDgogx4X.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 7 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/final-space-1-episodio-6",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-6/",
+          "nome": "Final Space 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-1-episodio-8",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-8/",
+          "nome": "Final Space 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:49.085Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Apr. 23, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xzNClnqOb9ye6u3646Q9isT7aTE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 8 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/final-space-1-episodio-7",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-7/",
+          "nome": "Final Space 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-1-episodio-9",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-9/",
+          "nome": "Final Space 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:45.090Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Apr. 30, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pw65G2In7ggftqNB3Z5hRhrR8HB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 9 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/final-space-1-episodio-8",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-8/",
+          "nome": "Final Space 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-1-episodio-10",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-10/",
+          "nome": "Final Space 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:41.093Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "May. 07, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/2bRGY46pYBx8EBgZ1F0mClr1n5k.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 1 Episodio 10 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/final-space-1-episodio-9",
+          "link": "https://meusanimes.blog/e/final-space-1-episodio-9/",
+          "nome": "Final Space 1 Episodio 9"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:37.065Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 24, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5n9gbEYgB5g3Oedp4ZAVTiRz3PT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 1 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-2",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-2/",
+          "nome": "Final Space 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:32.748Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 01, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ms0CMJMlWOQEVUvzgkB0X48Wahm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 2 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-1",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-1/",
+          "nome": "Final Space 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-3",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-3/",
+          "nome": "Final Space 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:28.710Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 08, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/lHEzkNslNTM3xazuPvr18wwbHg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 3 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-2",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-2/",
+          "nome": "Final Space 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-4",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-4/",
+          "nome": "Final Space 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:24.651Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 15, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/lpeSrsY0AMnUBYmOsOXltexLJ0R.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 4 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-3",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-3/",
+          "nome": "Final Space 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-5",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-5/",
+          "nome": "Final Space 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:20.617Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 22, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/68o2nWxQZk1KA9ccj5YYnh1yGcu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 5 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-4",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-4/",
+          "nome": "Final Space 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-6",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-6/",
+          "nome": "Final Space 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:16.533Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Jul. 29, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/wK4vyl2hSP97rin6oCrmkvW0aSy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 6 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-5",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-5/",
+          "nome": "Final Space 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-7",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-7/",
+          "nome": "Final Space 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:12.219Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 05, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/d7Ojv3rrOaEa0dqNZcL1mzFCU32.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 7 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-6",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-6/",
+          "nome": "Final Space 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-8",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-8/",
+          "nome": "Final Space 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:08.199Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 12, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/7cCw0CMtGRvhrlOf9CCRT3DPFiK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 8 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-7",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-7/",
+          "nome": "Final Space 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-9",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-9/",
+          "nome": "Final Space 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:04.161Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 19, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/c5PudLifGrgIxSWCNQG2AzGB1B4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 9 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-8",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-8/",
+          "nome": "Final Space 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-10",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-10/",
+          "nome": "Final Space 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:01:00.120Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Aug. 26, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/j9v22clhZaHCMmT8ANfEXM5Q2zZ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 10 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-9",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-9/",
+          "nome": "Final Space 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-11",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-11/",
+          "nome": "Final Space 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:56.116Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 09, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/zXfjxKvqOwJWrthBhtn0g1fdI1d.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 11 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-10",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-10/",
+          "nome": "Final Space 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-12",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-12/",
+          "nome": "Final Space 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:52.120Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 16, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/wbUq5KldRQqXEWCMQPPfySV4fl2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 12 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-11",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-11/",
+          "nome": "Final Space 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-2-episodio-13",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-13/",
+          "nome": "Final Space 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:48.071Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 23, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3m41c71tt7MtecrI0ZnQzFXZMQn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 2 Episodio 13 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/final-space-2-episodio-12",
+          "link": "https://meusanimes.blog/e/final-space-2-episodio-12/",
+          "nome": "Final Space 2 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:44.011Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Mar. 20, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/7EFfpTPKsiRh1kmYMJQad0n9mHo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 1 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-2",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-2/",
+          "nome": "Final Space 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:39.427Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Mar. 27, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/s0qKA8Exd043OkxxNVM3JGeDMZs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 2 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-1",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-1/",
+          "nome": "Final Space 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-3",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-3/",
+          "nome": "Final Space 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:35.405Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 03, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/7CzNs5g1d0Kq2nKVA1TAs8mqYBs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 3 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-2",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-2/",
+          "nome": "Final Space 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-4",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-4/",
+          "nome": "Final Space 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:31.311Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 10, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/jvD46PX2jTGXLc0mDJCwrE0mNGh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 4 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-3",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-3/",
+          "nome": "Final Space 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-5",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-5/",
+          "nome": "Final Space 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:27.247Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Apr. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xcT2BJUNFLAqdBsWTCRbYiwwmjc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 5 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-4",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-4/",
+          "nome": "Final Space 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-6",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-6/",
+          "nome": "Final Space 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:23.179Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Apr. 24, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xTJx3eBSyTI3fk8Zpq9mO3sRg0V.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 6 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-5",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-5/",
+          "nome": "Final Space 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-7",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-7/",
+          "nome": "Final Space 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:19.152Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "May. 01, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ftbZNldFbOpJed7iYpeYZ5qM9c4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 7 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-6",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-6/",
+          "nome": "Final Space 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-8",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-8/",
+          "nome": "Final Space 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:15.126Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "May. 08, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/qFWmqWImOpsc5QZlitQhTRHq9Xb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 8 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-7",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-7/",
+          "nome": "Final Space 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-9",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-9/",
+          "nome": "Final Space 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:11.020Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "May. 15, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/zV7jh8dtXLBHs3B0bTnkBpVFYZD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 9 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-8",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-8/",
+          "nome": "Final Space 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-10",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-10/",
+          "nome": "Final Space 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:06.529Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "May. 22, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/uTqdS5nZ0nhNk6ubNgt1jGTOonv.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 10 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-9",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-9/",
+          "nome": "Final Space 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-11",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-11/",
+          "nome": "Final Space 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:00:02.216Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "May. 29, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/fhQZufZWAiDG0uYNJkl8Iy8vI8I.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 11 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-10",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-10/",
+          "nome": "Final Space 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-12",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-12/",
+          "nome": "Final Space 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:58.169Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 07, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/d0FH33zIC0VDkl8L1O5ceAkoH4c.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 12 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-11",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-11/",
+          "nome": "Final Space 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/final-space-3-episodio-13",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-13/",
+          "nome": "Final Space 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:54.086Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/final-space-3-episodio-13/",
+      "numero": 13,
+      "temporada": 3,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 14, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/atJPjAKxnaqayGvxEJWm72ckKbp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Final Space: 3 Episodio 13 Online",
+        "animeSlug": "a/final-space",
+        "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/final-space-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/final-space-3-episodio-12",
+          "link": "https://meusanimes.blog/e/final-space-3-episodio-12/",
+          "nome": "Final Space 3 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/74387/3/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:59:49.721Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/74387/3/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/74387/3/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 36,
+    "totalEpisodios": 36,
+    "detalhesColetadosEm": "2026-10-22T08:59:41.064Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 36
+  },
+  "titulo": "Final Space",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cf4chvwB40cEpsagSrRaEIqBFoG.jpg",
+  "score": "8.391",
+  "audio": "Dublado",
+  "ano": "2018",
+  "publicadoEm": "Feb. 26, 2018",
+  "url": "https://meusanimes.blog/a/final-space/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/cf4chvwB40cEpsagSrRaEIqBFoG.jpg",
+  "temporadas": 3,
+  "descricao": "Um humano prisioneiro no espaço e um incrível alienígena destruidor de planetas partem em uma aventura interestelar para salvar o universo."
+}

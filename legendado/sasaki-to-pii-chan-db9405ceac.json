@@ -1,0 +1,516 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sasaki-to-pii-chan",
+  "capturadoEm": "2026-10-22T09:44:36.551Z",
+  "atualizadoEm": "2026-10-22T12:52:35.213Z",
+  "catalogo": {
+    "slug": "a/sasaki-to-pii-chan",
+    "titulo": "Sasaki to Pii-chan",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg",
+    "info": "Legendado • Jan. 05, 2024",
+    "audio": "Legendado",
+    "score": "6.9",
+    "ano": "2024",
+    "publicadoEm": "Jan. 05, 2024",
+    "url": "https://meusanimes.blog/a/sasaki-to-pii-chan/",
+    "postId": "7512"
+  },
+  "detalhes": {
+    "slug": "a/sasaki-to-pii-chan",
+    "titulo": "Sasaki to Pii-chan",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg",
+    "sinopse": "Sasaki to Pii-chan – Legendado: Sasaki é um funcionário de escritório de meia-idade que vive no Japão. Sentindo-se esgotado pelo enfadonho mundo corporativo, ele vai a um pet shop em busca de um novo companheiro. Lá, ele encontra um adorável pássaro chamado “Peeps” e decide levá-lo para casa. Mas Sasaki percebe rapidamente que Peeps não é um pássaro comum… ele é um mago poderoso de outro mundo! Juntos, eles embarcam em uma aventura mágica cheia de espadas e feitiçaria.",
+    "generos": [
+      "Aventura",
+      "Comédia",
+      "Fantasia"
+    ],
+    "score": "7",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2024",
+    "publicadoEm": "Jan. 05, 2024",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/sasaki-to-pii-chan/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 05, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/wieOzsGCLDaxZLJ3sIx1uLsmjj9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 1 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-2",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-2/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:35.213Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 12, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/avld1DbKFy72Jl6roIyFJik49tH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 2 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-1",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-1/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-3",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-3/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:31.533Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 19, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/l7aERvSE6mI7VRQFlIUWOtASjPO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 3 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-2",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-2/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-4",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-4/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:27.789Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 26, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/vPhhlvFnzrfCUQxDQhlsjRbVgMV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 4 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-3",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-3/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-5",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-5/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:24.057Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 02, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/sgaoNxU0kJe5SJSFxjj7i9cwH5Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 5 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-4",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-4/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-6",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-6/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:20.285Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 09, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/egIOnR73uPhCv04xBnXTnGY48AP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 6 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-5",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-5/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-7",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-7/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:16.585Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 13, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/u4pGiIcVZN7OASkJSoFuQpwVVct.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 7 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-6",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-6/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-8",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-8/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:12.878Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 23, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/vqhzxePHjF5EfQwsz7LF9W86gJF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 8 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-7",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-7/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-9",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-9/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:09.131Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 01, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/q1rgkoSwN4epVcYk8kiD9vmO0ef.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 9 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-8",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-8/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-10",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-10/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:05.392Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 08, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/jHyaKPU1QpgtpRw91x5KLMpwrc4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 10 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-9",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-9/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-11",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-11/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:52:01.667Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/cos0Y7VmhxYBoxauVljxhM5cDIU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 11 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-10",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-10/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-12",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-12/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:51:57.947Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 22, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/opnKolPR0aH83yKfa6AvC92FOb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 1 Episodio 12 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-1-episodio-11",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-1-episodio-11/",
+          "nome": "Sasaki to Pii-chan 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:51:54.195Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/g98fE1I7bgwCVb966PkeqQxKkpk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 2 Episodio 1 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-2-episodio-2",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-2/",
+          "nome": "Sasaki to Pii-chan 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:51:50.507Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/umHA5DIbrPPDPTxggNRV0JhS4oD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 2 Episodio 2 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-2-episodio-1",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-1/",
+          "nome": "Sasaki to Pii-chan 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/sasaki-to-pii-chan-2-episodio-3",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-3/",
+          "nome": "Sasaki to Pii-chan 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:51:46.795Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/k5ziwXk4EyQaXjgOTaJYG3Qu2Qc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sasaki to Pii-chan: 2 Episodio 3 Online",
+        "animeSlug": "a/sasaki-to-pii-chan",
+        "iframe": "https://serv01.meusdoramas.club/#/video/206630/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/sasaki-to-pii-chan-2-episodio-2",
+          "link": "https://meusanimes.blog/e/sasaki-to-pii-chan-2-episodio-2/",
+          "nome": "Sasaki to Pii-chan 2 Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/206630/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:51:43.047Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/206630/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/206630/2/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 15,
+    "totalEpisodios": 15,
+    "midiasColetadas": 0,
+    "iframesColetados": 15,
+    "detalhesColetadosEm": "2026-10-22T12:51:38.150Z"
+  },
+  "titulo": "Sasaki to Pii-chan",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2024",
+  "publicadoEm": "Jan. 05, 2024",
+  "url": "https://meusanimes.blog/a/sasaki-to-pii-chan/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg",
+  "status": "Em lançamento",
+  "temporadas": 2,
+  "descricao": "Sasaki to Pii-chan – Legendado: Sasaki é um funcionário de escritório de meia-idade que vive no Japão. Sentindo-se esgotado pelo enfadonho mundo corporativo, ele vai a um pet shop em busca de um novo companheiro. Lá, ele encontra um adorável pássaro chamado “Peeps” e decide levá-lo para casa. Mas Sasaki percebe rapidamente que Peeps não é um pássaro comum… ele é um mago poderoso de outro mundo! Juntos, eles embarcam em uma aventura mágica cheia de espadas e feitiçaria."
+}

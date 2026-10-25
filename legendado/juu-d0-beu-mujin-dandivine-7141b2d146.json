@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "juu%d0%beu-mujin-dandivine",
+  "capturadoEm": "2026-10-22T09:44:35.199Z",
+  "atualizadoEm": "2026-10-22T12:50:32.671Z",
+  "catalogo": {
+    "slug": "a/juu%d0%beu-mujin-dandivine",
+    "titulo": "Juuоu Mujin Dandivine",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/3ex0tMaSieRhuoRh8hRnshgyooq.jpg",
+    "info": "Legendado • Oct. 08, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 08, 2026",
+    "url": "https://meusanimes.blog/a/juu%d0%beu-mujin-dandivine/",
+    "postId": "100300"
+  },
+  "detalhes": {
+    "slug": "a/juu%d0%beu-mujin-dandivine",
+    "titulo": "Juuоu Mujin Dandivine",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/3ex0tMaSieRhuoRh8hRnshgyooq.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/3ex0tMaSieRhuoRh8hRnshgyooq.jpg",
+    "sinopse": "20 anos se passaram desde que o robô Dandivine derrotou os misteriosos invasores conhecidos como Aposdoll. A empresa de brinquedos Kasuga decidiu celebrar a vitória transformando Dandivine em uma popular linha de brinquedos, mas a má gestão e a dependência na linha Dandivine está quase levando a empresa à falência. Isso faz o presidente, Kirei Shijima, desejar o retorno de Dandivine, mesmo que pra isso seja necessário perturbar a paz do mundo. De repente, como se estivessem respondendo ao desejo de Genjuro, os Aposdoll reaparecem em Tóquio, fazendo a população entrar em pânico. Para salvar o mundo, o jovem Gekiha Shijima decide pilotar o Dandivine por pedidos de seu tio, Yusaku Kuroiwa, o antigo piloto do Dandivine. Por que os Aposdoll voltaram? Kasuga voltará a reinar na indústria de brinquedos?",
+    "generos": [
+      "Ação",
+      "Ficção científica"
+    ],
+    "score": "7",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 08, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/juu%d0%beu-mujin-dandivine/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/otpSGGTlB32D9QoWdBa5lSqzwoP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Juuоu Mujin Dandivine: 1 Episodio 1 Online",
+        "animeSlug": "a/juu%d0%beu-mujin-dandivine",
+        "iframe": "https://serv01.meusdoramas.club/#/video/323937/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/juu%d0%beu-mujin-dandivine-episodio-2",
+          "link": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-2/",
+          "nome": "Juuоu Mujin Dandivine Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/323937/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:50:32.671Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/323937/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/323937/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/8n7atwoobbnA3HezINZakEPYAKC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Juuоu Mujin Dandivine: 1 Episodio 2 Online",
+        "animeSlug": "a/juu%d0%beu-mujin-dandivine",
+        "iframe": "https://serv01.meusdoramas.club/#/video/323937/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/juu%d0%beu-mujin-dandivine-episodio-1",
+          "link": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-1/",
+          "nome": "Juuоu Mujin Dandivine Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/juu%d0%beu-mujin-dandivine-episodio-3",
+          "link": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-3/",
+          "nome": "Juuоu Mujin Dandivine Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/323937/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:50:28.573Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/323937/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/323937/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/keu8hJx75RUZ9Woh8kTcmxsMXXr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Juuоu Mujin Dandivine: 1 Episodio 3 Online",
+        "animeSlug": "a/juu%d0%beu-mujin-dandivine",
+        "iframe": "https://serv01.meusdoramas.club/#/video/323937/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/juu%d0%beu-mujin-dandivine-episodio-2",
+          "link": "https://meusanimes.blog/e/juu%d0%beu-mujin-dandivine-episodio-2/",
+          "nome": "Juuоu Mujin Dandivine Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/323937/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:50:24.508Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/323937/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/323937/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T12:50:20.183Z"
+  },
+  "titulo": "Juuоu Mujin Dandivine",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/3ex0tMaSieRhuoRh8hRnshgyooq.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 08, 2026",
+  "url": "https://meusanimes.blog/a/juu%d0%beu-mujin-dandivine/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/3ex0tMaSieRhuoRh8hRnshgyooq.jpg",
+  "score": "7",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "20 anos se passaram desde que o robô Dandivine derrotou os misteriosos invasores conhecidos como Aposdoll. A empresa de brinquedos Kasuga decidiu celebrar a vitória transformando Dandivine em uma popular linha de brinquedos, mas a má gestão e a dependência na linha Dandivine está quase levando a empresa à falência. Isso faz o presidente, Kirei Shijima, desejar o retorno de Dandivine, mesmo que pra isso seja necessário perturbar a paz do mundo. De repente, como se estivessem respondendo ao desejo de Genjuro, os Aposdoll reaparecem em Tóquio, fazendo a população entrar em pânico. Para salvar o mundo, o jovem Gekiha Shijima decide pilotar o Dandivine por pedidos de seu tio, Yusaku Kuroiwa, o antigo piloto do Dandivine. Por que os Aposdoll voltaram? Kasuga voltará a reinar na indústria de brinquedos?"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "seiren",
+  "capturadoEm": "2026-10-22T09:53:17.672Z",
+  "atualizadoEm": "2026-10-22T09:53:17.672Z",
+  "catalogo": {
+    "slug": "a/seiren",
+    "titulo": "Seiren",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/8OIypScBcXYXjFYnhOyCEmVg0nW.jpg",
+    "info": "Legendado • Jan. 06, 2017",
+    "audio": "Legendado",
+    "score": "7.9",
+    "ano": "2017",
+    "publicadoEm": "Jan. 06, 2017",
+    "url": "https://meusanimes.blog/a/seiren/",
+    "postId": "51091"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      37
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Seiren",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/8OIypScBcXYXjFYnhOyCEmVg0nW.jpg",
+  "score": "7.9",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jan. 06, 2017",
+  "url": "https://meusanimes.blog/a/seiren/"
+}

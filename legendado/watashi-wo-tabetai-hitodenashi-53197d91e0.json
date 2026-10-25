@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "watashi-wo-tabetai-hitodenashi",
+  "capturadoEm": "2026-10-22T09:54:01.595Z",
+  "atualizadoEm": "2026-10-22T09:54:01.595Z",
+  "catalogo": {
+    "slug": "a/watashi-wo-tabetai-hitodenashi",
+    "titulo": "Watashi wo Tabetai, Hitodenashi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/2FPfswdvih5tnseWAzgbiWb0JuR.jpg",
+    "info": "Legendado • Oct. 02, 2025",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 02, 2025",
+    "url": "https://meusanimes.blog/a/watashi-wo-tabetai-hitodenashi/",
+    "postId": "44685"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      40
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Watashi wo Tabetai, Hitodenashi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/2FPfswdvih5tnseWAzgbiWb0JuR.jpg",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 02, 2025",
+  "url": "https://meusanimes.blog/a/watashi-wo-tabetai-hitodenashi/"
+}

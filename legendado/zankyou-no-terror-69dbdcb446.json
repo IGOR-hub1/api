@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "zankyou-no-terror",
+  "capturadoEm": "2026-10-22T09:49:31.412Z",
+  "atualizadoEm": "2026-10-22T09:49:31.412Z",
+  "catalogo": {
+    "slug": "a/zankyou-no-terror",
+    "titulo": "Zankyou no Terror",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/iQratRwoIhys2faomgsoj1E4P1g.jpg",
+    "info": "Legendado • Jul. 11, 2014",
+    "audio": "Legendado",
+    "score": "7.8",
+    "ano": "2014",
+    "publicadoEm": "Jul. 11, 2014",
+    "url": "https://meusanimes.blog/a/zankyou-no-terror/",
+    "postId": "68990"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Zankyou no Terror",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/iQratRwoIhys2faomgsoj1E4P1g.jpg",
+  "score": "7.8",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jul. 11, 2014",
+  "url": "https://meusanimes.blog/a/zankyou-no-terror/"
+}

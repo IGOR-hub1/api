@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "medalist",
+  "capturadoEm": "2026-10-22T09:49:18.529Z",
+  "atualizadoEm": "2026-10-22T09:49:18.529Z",
+  "catalogo": {
+    "slug": "a/medalist",
+    "titulo": "Medalist",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/7DXsDnyOTTlqcj1fKrNQz8Ftxco.jpg",
+    "info": "Legendado • Jan. 05, 2025",
+    "audio": "Legendado",
+    "score": "8.297",
+    "ano": "2025",
+    "publicadoEm": "Jan. 05, 2025",
+    "url": "https://meusanimes.blog/a/medalist/",
+    "postId": "58200"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Medalist",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/7DXsDnyOTTlqcj1fKrNQz8Ftxco.jpg",
+  "score": "8.297",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Jan. 05, 2025",
+  "url": "https://meusanimes.blog/a/medalist/"
+}

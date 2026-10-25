@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "inuyashiki",
+  "capturadoEm": "2026-10-22T09:54:16.786Z",
+  "atualizadoEm": "2026-10-22T09:54:16.786Z",
+  "catalogo": {
+    "slug": "a/inuyashiki",
+    "titulo": "Inuyashiki",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/5zqngLZU6PBblfzOqu4TmejcFp2.jpg",
+    "info": "Legendado • Oct. 12, 2017",
+    "audio": "Legendado",
+    "score": "8.1",
+    "ano": "2017",
+    "publicadoEm": "Oct. 12, 2017",
+    "url": "https://meusanimes.blog/a/inuyashiki/",
+    "postId": "44068"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      41
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Inuyashiki",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/5zqngLZU6PBblfzOqu4TmejcFp2.jpg",
+  "score": "8.1",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Oct. 12, 2017",
+  "url": "https://meusanimes.blog/a/inuyashiki/"
+}

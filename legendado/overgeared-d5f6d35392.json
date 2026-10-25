@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "overgeared",
+  "capturadoEm": "2026-10-22T09:45:32.084Z",
+  "atualizadoEm": "2026-10-22T15:10:08.059Z",
+  "catalogo": {
+    "slug": "a/overgeared",
+    "titulo": "Overgeared",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/xdNWKjr0Qtzhk384aje4YV9rBrp.jpg",
+    "info": "Legendado • Oct. 02, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 02, 2026",
+    "url": "https://meusanimes.blog/a/overgeared/",
+    "postId": "99123"
+  },
+  "detalhes": {
+    "slug": "a/overgeared",
+    "titulo": "Overgeared",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/xdNWKjr0Qtzhk384aje4YV9rBrp.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/09/xdNWKjr0Qtzhk384aje4YV9rBrp.jpg",
+    "sinopse": "Youngwoo Shin é um fracassado na vida real, fazendo bicos para mal conseguir pagar suas dívidas. Até sua família o considera um viciado em videogame sem esperança. Mas quando ele entra no popularíssimo jogo de realidade virtual Satisfy, Youngwoo se transforma em Grid, o Guerreiro… que também é terrivelmente medíocre. Tudo muda quando ele encontra um tomo contendo o conhecimento perdido de um ferreiro lendário. O problema é que usá-lo reinicia todos os seus níveis! Para sobreviver depois de ser forçado a recomeçar do zero, Grid precisará aprimorar suas habilidades e reunir aliados confiáveis… ou não! Quem precisa disso quando se tem equipamentos divinos?!",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 02, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/overgeared/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/overgeared-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/nVSPG0qrFHKoQys0pmJHl0wH3Vq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Overgeared: 1 Episodio 1 Online",
+        "animeSlug": "a/overgeared",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324502/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/overgeared-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/overgeared-episodio-2",
+          "link": "https://meusanimes.blog/e/overgeared-episodio-2/",
+          "nome": "Overgeared Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324502/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:10:08.059Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324502/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324502/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/overgeared-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/2aT5Nj4I5HQqh01nShth4tBpVqF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Overgeared: 1 Episodio 2 Online",
+        "animeSlug": "a/overgeared",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324502/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/overgeared-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/overgeared-episodio-1",
+          "link": "https://meusanimes.blog/e/overgeared-episodio-1/",
+          "nome": "Overgeared Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/overgeared-episodio-3",
+          "link": "https://meusanimes.blog/e/overgeared-episodio-3/",
+          "nome": "Overgeared Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324502/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:10:03.918Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324502/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324502/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/overgeared-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/jCihvtTSgkSoEOoyPOYp6NOf7tt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Overgeared: 1 Episodio 3 Online",
+        "animeSlug": "a/overgeared",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324502/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/overgeared-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/overgeared-episodio-2",
+          "link": "https://meusanimes.blog/e/overgeared-episodio-2/",
+          "nome": "Overgeared Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/overgeared-episodio-4",
+          "link": "https://meusanimes.blog/e/overgeared-episodio-4/",
+          "nome": "Overgeared Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324502/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:59.826Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324502/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324502/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/overgeared-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/qlCP7ZjYhYa8wPfyeWuUDWRVies.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Overgeared: 1 Episodio 4 Online",
+        "animeSlug": "a/overgeared",
+        "iframe": "https://serv01.meusdoramas.club/#/video/324502/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/overgeared-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/overgeared-episodio-3",
+          "link": "https://meusanimes.blog/e/overgeared-episodio-3/",
+          "nome": "Overgeared Episodio 3"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/324502/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:55.725Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/324502/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/324502/1/4/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 4,
+    "totalEpisodios": 4,
+    "midiasColetadas": 0,
+    "iframesColetados": 4,
+    "detalhesColetadosEm": "2026-10-22T15:09:51.435Z"
+  },
+  "titulo": "Overgeared",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/xdNWKjr0Qtzhk384aje4YV9rBrp.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 02, 2026",
+  "url": "https://meusanimes.blog/a/overgeared/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/09/xdNWKjr0Qtzhk384aje4YV9rBrp.jpg",
+  "score": "6",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Youngwoo Shin é um fracassado na vida real, fazendo bicos para mal conseguir pagar suas dívidas. Até sua família o considera um viciado em videogame sem esperança. Mas quando ele entra no popularíssimo jogo de realidade virtual Satisfy, Youngwoo se transforma em Grid, o Guerreiro… que também é terrivelmente medíocre. Tudo muda quando ele encontra um tomo contendo o conhecimento perdido de um ferreiro lendário. O problema é que usá-lo reinicia todos os seus níveis! Para sobreviver depois de ser forçado a recomeçar do zero, Grid precisará aprimorar suas habilidades e reunir aliados confiáveis… ou não! Quem precisa disso quando se tem equipamentos divinos?!"
+}

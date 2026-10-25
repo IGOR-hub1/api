@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "firefly-wedding",
+  "capturadoEm": "2026-10-22T09:44:18.062Z",
+  "atualizadoEm": "2026-10-22T12:41:09.858Z",
+  "catalogo": {
+    "slug": "a/firefly-wedding",
+    "titulo": "Firefly Wedding",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
+    "info": "Legendado • Oct. 09, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 09, 2026",
+    "url": "https://meusanimes.blog/a/firefly-wedding/",
+    "postId": "100411"
+  },
+  "detalhes": {
+    "slug": "a/firefly-wedding",
+    "titulo": "Firefly Wedding",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
+    "sinopse": "Estamos na era Meiji. Abençoada com uma herança familiar e beleza, Satoko tem como único desejo se casar pelo bem da família. Mas, de repente, um misterioso assassino vem atrás dela?! Para conseguir sair viva daquela situação, Satoko faz uma “proposta” ao assassino…",
+    "generos": [
+      "Ação",
+      "Drama",
+      "Histórico",
+      "Romance"
+    ],
+    "score": "7",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 09, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/firefly-wedding/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/firefly-wedding-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/5eeSPZOaK7tBHzIyHqFITdLEaEN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Firefly Wedding: 1 Episodio 1 Online",
+        "animeSlug": "a/firefly-wedding",
+        "iframe": "https://serv01.meusdoramas.club/#/video/320909/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/firefly-wedding-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/firefly-wedding-episodio-2",
+          "link": "https://meusanimes.blog/e/firefly-wedding-episodio-2/",
+          "nome": "Firefly Wedding Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/320909/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:41:09.858Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/320909/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/320909/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/firefly-wedding-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/dSzYsg5GXnGUXgeV5t71v6cb604.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Firefly Wedding: 1 Episodio 2 Online",
+        "animeSlug": "a/firefly-wedding",
+        "iframe": "https://serv01.meusdoramas.club/#/video/320909/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/firefly-wedding-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/firefly-wedding-episodio-1",
+          "link": "https://meusanimes.blog/e/firefly-wedding-episodio-1/",
+          "nome": "Firefly Wedding Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/320909/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:41:05.906Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/320909/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/320909/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T12:41:02.007Z"
+  },
+  "titulo": "Firefly Wedding",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 09, 2026",
+  "url": "https://meusanimes.blog/a/firefly-wedding/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/1RXEvHmis1oKTAWtKOrzJqenpb6.jpg",
+  "score": "7",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Estamos na era Meiji. Abençoada com uma herança familiar e beleza, Satoko tem como único desejo se casar pelo bem da família. Mas, de repente, um misterioso assassino vem atrás dela?! Para conseguir sair viva daquela situação, Satoko faz uma “proposta” ao assassino…"
+}

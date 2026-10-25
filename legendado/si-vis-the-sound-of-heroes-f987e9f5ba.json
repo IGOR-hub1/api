@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "si-vis-the-sound-of-heroes",
+  "capturadoEm": "2026-10-22T09:53:59.501Z",
+  "atualizadoEm": "2026-10-22T09:53:59.501Z",
+  "catalogo": {
+    "slug": "a/si-vis-the-sound-of-heroes",
+    "titulo": "SI-VIS: The Sound of Heroes",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/kFFQu047m2HGGlxcm4kAgqXt7j1.jpg",
+    "info": "Legendado • Oct. 05, 2025",
+    "audio": "Legendado",
+    "ano": "2025",
+    "publicadoEm": "Oct. 05, 2025",
+    "url": "https://meusanimes.blog/a/si-vis-the-sound-of-heroes/",
+    "postId": "44767"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      40
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "SI-VIS: The Sound of Heroes",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/kFFQu047m2HGGlxcm4kAgqXt7j1.jpg",
+  "audio": "Legendado",
+  "ano": "2025",
+  "publicadoEm": "Oct. 05, 2025",
+  "url": "https://meusanimes.blog/a/si-vis-the-sound-of-heroes/"
+}

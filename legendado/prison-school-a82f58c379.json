@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "prison-school",
+  "capturadoEm": "2026-10-22T09:52:02.469Z",
+  "atualizadoEm": "2026-10-22T09:52:02.469Z",
+  "catalogo": {
+    "slug": "a/prison-school",
+    "titulo": "Prison School",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/50eY9B9JtWcG0KuY5SS1X7E9wQb.jpg",
+    "info": "Legendado • Jul. 11, 2015",
+    "audio": "Legendado",
+    "score": "8.1",
+    "ano": "2015",
+    "publicadoEm": "Jul. 11, 2015",
+    "url": "https://meusanimes.blog/a/prison-school/",
+    "postId": "56540"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      32
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Prison School",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/50eY9B9JtWcG0KuY5SS1X7E9wQb.jpg",
+  "score": "8.1",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jul. 11, 2015",
+  "url": "https://meusanimes.blog/a/prison-school/"
+}

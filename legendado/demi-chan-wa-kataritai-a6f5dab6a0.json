@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "demi-chan-wa-kataritai",
+  "capturadoEm": "2026-10-22T09:53:27.293Z",
+  "atualizadoEm": "2026-10-22T09:53:27.293Z",
+  "catalogo": {
+    "slug": "a/demi-chan-wa-kataritai",
+    "titulo": "Demi-Chan Wa Kataritai",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/eupiPrergE2WXxkRrIV3XAc8h0q.jpg",
+    "info": "Legendado • Jan. 08, 2017",
+    "audio": "Legendado",
+    "score": "7.3",
+    "ano": "2017",
+    "publicadoEm": "Jan. 08, 2017",
+    "url": "https://meusanimes.blog/a/demi-chan-wa-kataritai/",
+    "postId": "50422"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      38
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Demi-Chan Wa Kataritai",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/eupiPrergE2WXxkRrIV3XAc8h0q.jpg",
+  "score": "7.3",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jan. 08, 2017",
+  "url": "https://meusanimes.blog/a/demi-chan-wa-kataritai/"
+}

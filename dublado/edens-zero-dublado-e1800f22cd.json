@@ -1,0 +1,834 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "edens-zero-dublado",
+  "capturadoEm": "2026-10-22T00:40:50.500Z",
+  "atualizadoEm": "2026-10-22T09:41:24.240Z",
+  "catalogo": {
+    "slug": "a/edens-zero-dublado",
+    "titulo": "Edens Zero Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+    "info": "Dublado • Apr. 11, 2021",
+    "audio": "Dublado",
+    "score": "7.7",
+    "ano": "2021",
+    "publicadoEm": "Apr. 11, 2021",
+    "url": "https://meusanimes.blog/a/edens-zero-dublado/",
+    "postId": "89515"
+  },
+  "detalhes": {
+    "slug": "a/edens-zero-dublado",
+    "titulo": "Edens Zero Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+    "sinopse": "Ano X492 da Era Cósmica. Uma época em que inúmeras pessoas viajam para o espaço, explorando as estrelas. Rebecca é uma B-Cuber, uma streamer de vídeos online que mora em Granbell, um planeta habitado por robôs. É lá que ela conhece Shiki, um jovem capaz de controlar a gravidade, e que segue os ensinamentos de seu guardião, o robô Ziggy. Juntos, Rebecca e Shiki formam uma amizade e partem numa aventura pelo espaço, deixando pra trás o único planeta que conheciam, em busca de novos planetas, novas pessoas e tudo mais que houver de novo!",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2021",
+    "publicadoEm": "Apr. 11, 2021",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/edens-zero-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/qwKYWcy5mmtaz6KV5J8Pkqfg4Z8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-2/",
+          "nome": "Edens Zero Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:43:01.685Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/t4sHDCQnWTdgzOhZQY76r5HZE5i.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-1/",
+          "nome": "Edens Zero Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-3/",
+          "nome": "Edens Zero Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:42:57.545Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/vz766s2yRxcHV6lClsC2pTsED79.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-2/",
+          "nome": "Edens Zero Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-4/",
+          "nome": "Edens Zero Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:42:30.014Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "May. 02, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/rlt1SOz4PPztFY59uUqEsEc6xMg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-3/",
+          "nome": "Edens Zero Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-5/",
+          "nome": "Edens Zero Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:42:24.201Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 09, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/65bP4LJGzxUECNLqg7bhQgAiZDh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-4/",
+          "nome": "Edens Zero Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-6/",
+          "nome": "Edens Zero Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:42:19.595Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 16, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pYkV7NnTRoBuNGNGsmwZa2T029L.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-5/",
+          "nome": "Edens Zero Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-7/",
+          "nome": "Edens Zero Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:42:14.670Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 23, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/eC4x46hgTsOSXUqrPZs2peO7Gww.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-6/",
+          "nome": "Edens Zero Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-8/",
+          "nome": "Edens Zero Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:42:09.471Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 30, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/7kEhyFgdD98VS6YxopEVeZSIGSi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-7/",
+          "nome": "Edens Zero Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-9/",
+          "nome": "Edens Zero Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:42:05.012Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 06, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/q65uOQmXlJEByv7xn5QrqP338WH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-8/",
+          "nome": "Edens Zero Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-10/",
+          "nome": "Edens Zero Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:42:00.727Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 13, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/7Zf2PgmES8WssmtGvWG3NTyvrke.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-9/",
+          "nome": "Edens Zero Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-11/",
+          "nome": "Edens Zero Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:56.641Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 20, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ubqeKJZdrntqgrgzcgBcOlLZXyj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-10/",
+          "nome": "Edens Zero Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-12/",
+          "nome": "Edens Zero Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:52.556Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 27, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/vJafjQmws074rXLAxbha6DDH5DH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-11/",
+          "nome": "Edens Zero Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-13/",
+          "nome": "Edens Zero Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:48.463Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/gKXJQCGTtPJMseE8lexc4azaAFu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-12/",
+          "nome": "Edens Zero Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-14/",
+          "nome": "Edens Zero Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:44.360Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/h8T7AdfFSyQoqQHodJrxSPWJrDT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-13/",
+          "nome": "Edens Zero Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-15/",
+          "nome": "Edens Zero Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:40.306Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/hjPT1nwBXt62GwWhO0xJ2z5PD4a.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-14/",
+          "nome": "Edens Zero Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-16/",
+          "nome": "Edens Zero Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:36.223Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/lkelvoxCFLrfbpo12TlWJ0Eixmb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-15/",
+          "nome": "Edens Zero Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-17/",
+          "nome": "Edens Zero Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:32.144Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 01, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/jlJzEdG7wWtiT6Eoqk2ApfjqHBF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-16/",
+          "nome": "Edens Zero Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-18/",
+          "nome": "Edens Zero Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:28.017Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 07, 2001",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nZvobblvi6GROQLL8Dn89psrN4e.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-17/",
+          "nome": "Edens Zero Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-19/",
+          "nome": "Edens Zero Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:23.915Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 15, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nVFHVMkiKltWUUEWGJvB3uE3ddP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-18/",
+          "nome": "Edens Zero Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-20/",
+          "nome": "Edens Zero Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:19.823Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 29, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/jaUsXdTPv99lhOaGDbvTPgA7ya5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-19/",
+          "nome": "Edens Zero Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-21/",
+          "nome": "Edens Zero Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:15.553Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 05, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/xAMyjNbtEDWOA3R7XQXz8aoX7V8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-20/",
+          "nome": "Edens Zero Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-22/",
+          "nome": "Edens Zero Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:11.368Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 12, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ji5fF2bNc7ISiWV54dbl9Z9jH6E.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-21/",
+          "nome": "Edens Zero Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-23/",
+          "nome": "Edens Zero Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:07.228Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 19, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ceQ5Ed2Oej2hlXO4T276fqGCbe4.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-22/",
+          "nome": "Edens Zero Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-24/",
+          "nome": "Edens Zero Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:41:03.191Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 26, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/e4n2MRwrB6DrbkIXs7RMxclHUMF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-23/",
+          "nome": "Edens Zero Dublado 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-25/",
+          "nome": "Edens Zero Dublado 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:40:59.051Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Oct. 03, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/iBMMoXepXQp3HFz2N01GlUhs1iN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Edens Zero Dublado: 1 Episodio 25 Online",
+        "animeSlug": "a/edens-zero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/edens-zero-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/edens-zero-dublado-1-episodio-24/",
+          "nome": "Edens Zero Dublado 1 Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1047111/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:40:54.973Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1047111/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1047111/1/25/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      8
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 25,
+    "totalEpisodios": 25,
+    "detalhesColetadosEm": "2026-10-22T00:40:50.500Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 25
+  },
+  "titulo": "Edens Zero Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+  "score": "7.7",
+  "audio": "Dublado",
+  "ano": "2021",
+  "publicadoEm": "Apr. 11, 2021",
+  "url": "https://meusanimes.blog/a/edens-zero-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/2sJPpcEd83mILobIlDG1Jexu9bj.jpg",
+  "temporadas": 1,
+  "descricao": "Ano X492 da Era Cósmica. Uma época em que inúmeras pessoas viajam para o espaço, explorando as estrelas. Rebecca é uma B-Cuber, uma streamer de vídeos online que mora em Granbell, um planeta habitado por robôs. É lá que ela conhece Shiki, um jovem capaz de controlar a gravidade, e que segue os ensinamentos de seu guardião, o robô Ziggy. Juntos, Rebecca e Shiki formam uma amizade e partem numa aventura pelo espaço, deixando pra trás o único planeta que conheciam, em busca de novos planetas, novas pessoas e tudo mais que houver de novo!"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hoozuki-no-reitetsu",
+  "capturadoEm": "2026-10-22T09:49:17.885Z",
+  "atualizadoEm": "2026-10-22T09:49:17.885Z",
+  "catalogo": {
+    "slug": "a/hoozuki-no-reitetsu",
+    "titulo": "Hoozuki no Reitetsu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/vYof5epEN19SouuoTAqazgbQiBl.jpg",
+    "info": "Legendado • Jan. 10, 2014",
+    "audio": "Legendado",
+    "score": "7.1",
+    "ano": "2014",
+    "publicadoEm": "Jan. 10, 2014",
+    "url": "https://meusanimes.blog/a/hoozuki-no-reitetsu/",
+    "postId": "70771"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Hoozuki no Reitetsu",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/vYof5epEN19SouuoTAqazgbQiBl.jpg",
+  "score": "7.1",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jan. 10, 2014",
+  "url": "https://meusanimes.blog/a/hoozuki-no-reitetsu/"
+}

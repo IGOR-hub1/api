@@ -1,0 +1,864 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "mao",
+  "capturadoEm": "2026-10-22T09:48:01.538Z",
+  "atualizadoEm": "2026-10-22T22:18:19.961Z",
+  "catalogo": {
+    "slug": "a/mao",
+    "titulo": "Mao",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+    "info": "Legendado • Apr. 04, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 04, 2026",
+    "url": "https://meusanimes.blog/a/mao/",
+    "postId": "81536"
+  },
+  "detalhes": {
+    "slug": "a/mao",
+    "titulo": "Mao",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+    "sinopse": "Nanoka é a única sobrevivente de um acidente em que perdeu sua família quando tinha apenas sete anos de idade. Oito anos depois, quando ela retorna à cena, ela se vê atirada de volta no tempo à era Taisho! Lá, ela conhece Mao, um jovem que luta contra demônios em busca da criatura que o amaldiçoou. Um destino extraordinário parece comandar estes encontros, na encruzilhada de dois mundos…",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Fantasia",
+      "Mistério",
+      "Sobrenatural"
+    ],
+    "score": "8",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 04, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/mao/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wPPSHRtDYvA3yhHg8kpJGO8Po2Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 1 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/mao-episodio-2",
+          "link": "https://meusanimes.blog/e/mao-episodio-2/",
+          "nome": "Mao Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:19.961Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/o9Cmq70wcfG6LoDgRsKmCmkWokH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 2 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-1",
+          "link": "https://meusanimes.blog/e/mao-episodio-1/",
+          "nome": "Mao Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-3",
+          "link": "https://meusanimes.blog/e/mao-episodio-3/",
+          "nome": "Mao Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:15.878Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/egU9Eweht6S7LeYHIG9wfFOVI5b.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 3 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-2",
+          "link": "https://meusanimes.blog/e/mao-episodio-2/",
+          "nome": "Mao Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-4",
+          "link": "https://meusanimes.blog/e/mao-episodio-4/",
+          "nome": "Mao Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:11.618Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3fyhj8xdn1O6oR665kh2FS367cr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 4 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-3",
+          "link": "https://meusanimes.blog/e/mao-episodio-3/",
+          "nome": "Mao Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-5",
+          "link": "https://meusanimes.blog/e/mao-episodio-5/",
+          "nome": "Mao Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:07.442Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/Afd8SJN4MvOlc3JmLx0KvFzCISQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 5 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-4",
+          "link": "https://meusanimes.blog/e/mao-episodio-4/",
+          "nome": "Mao Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-6",
+          "link": "https://meusanimes.blog/e/mao-episodio-6/",
+          "nome": "Mao Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:03.344Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/9ER9qZ64x2D1xUoMjnW2IncJDxM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 6 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-5",
+          "link": "https://meusanimes.blog/e/mao-episodio-5/",
+          "nome": "Mao Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-7",
+          "link": "https://meusanimes.blog/e/mao-episodio-7/",
+          "nome": "Mao Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:59.127Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/qbh6dqfTA4CsdPnM0FDxfvR9vJr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 7 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-6",
+          "link": "https://meusanimes.blog/e/mao-episodio-6/",
+          "nome": "Mao Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-8",
+          "link": "https://meusanimes.blog/e/mao-episodio-8/",
+          "nome": "Mao Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:54.973Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/nmcSWCJSBVBuuQysbtMj9ZA4Tas.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 8 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-7",
+          "link": "https://meusanimes.blog/e/mao-episodio-7/",
+          "nome": "Mao Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-9",
+          "link": "https://meusanimes.blog/e/mao-episodio-9/",
+          "nome": "Mao Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:50.712Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/gxS1rlxBB3YDupJD7wrn6xQ0pA1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 9 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-8",
+          "link": "https://meusanimes.blog/e/mao-episodio-8/",
+          "nome": "Mao Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-10",
+          "link": "https://meusanimes.blog/e/mao-episodio-10/",
+          "nome": "Mao Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:46.451Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/5oBLmJmLoAnM9tQuqHybwhBIDWq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 10 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-9",
+          "link": "https://meusanimes.blog/e/mao-episodio-9/",
+          "nome": "Mao Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-11",
+          "link": "https://meusanimes.blog/e/mao-episodio-11/",
+          "nome": "Mao Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:42.289Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/ys1SiaPDiVhojNqjvusmKowBnaD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 11 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-10",
+          "link": "https://meusanimes.blog/e/mao-episodio-10/",
+          "nome": "Mao Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-12",
+          "link": "https://meusanimes.blog/e/mao-episodio-12/",
+          "nome": "Mao Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:38.017Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/5ENdyrLdj26XziYhDkZIXRStq0B.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 12 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-11",
+          "link": "https://meusanimes.blog/e/mao-episodio-11/",
+          "nome": "Mao Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-13",
+          "link": "https://meusanimes.blog/e/mao-episodio-13/",
+          "nome": "Mao Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:33.842Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/fdlHcIDkrZjoQLWZy0x27JPPbUl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 13 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-12",
+          "link": "https://meusanimes.blog/e/mao-episodio-12/",
+          "nome": "Mao Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-14",
+          "link": "https://meusanimes.blog/e/mao-episodio-14/",
+          "nome": "Mao Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:29.618Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lUsAlARDDlHY6gTtofq1B8RXUG9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 14 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-13",
+          "link": "https://meusanimes.blog/e/mao-episodio-13/",
+          "nome": "Mao Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-15",
+          "link": "https://meusanimes.blog/e/mao-episodio-15/",
+          "nome": "Mao Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:25.393Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/yfFnkcDTvwcIlOq7v8ejrpGUG2k.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 15 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-14",
+          "link": "https://meusanimes.blog/e/mao-episodio-14/",
+          "nome": "Mao Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-16",
+          "link": "https://meusanimes.blog/e/mao-episodio-16/",
+          "nome": "Mao Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:21.182Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/n6P56ErM6ZgZcYzPuVGX8TZx1V4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 16 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-15",
+          "link": "https://meusanimes.blog/e/mao-episodio-15/",
+          "nome": "Mao Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-17",
+          "link": "https://meusanimes.blog/e/mao-episodio-17/",
+          "nome": "Mao Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:17.018Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jul. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/3cfEkPAgC3QqPcdpxTMOBTzr6mh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 17 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-16",
+          "link": "https://meusanimes.blog/e/mao-episodio-16/",
+          "nome": "Mao Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-18",
+          "link": "https://meusanimes.blog/e/mao-episodio-18/",
+          "nome": "Mao Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:12.791Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/e5QJFfzi1iRoPS4F2fabz3KmOFr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 18 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-17",
+          "link": "https://meusanimes.blog/e/mao-episodio-17/",
+          "nome": "Mao Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-19",
+          "link": "https://meusanimes.blog/e/mao-episodio-19/",
+          "nome": "Mao Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:08.647Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/8DqbEvHtO6PJoq68w4sfFq3ZyYX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 19 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-18",
+          "link": "https://meusanimes.blog/e/mao-episodio-18/",
+          "nome": "Mao Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-20",
+          "link": "https://meusanimes.blog/e/mao-episodio-20/",
+          "nome": "Mao Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:04.533Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/50d1YaU6t3P4CUamLVgeY4mB3s3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 20 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-19",
+          "link": "https://meusanimes.blog/e/mao-episodio-19/",
+          "nome": "Mao Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-21",
+          "link": "https://meusanimes.blog/e/mao-episodio-21/",
+          "nome": "Mao Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:17:00.329Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/aWATEMWmSqeMFy5UmETaMkzRbca.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 21 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-20",
+          "link": "https://meusanimes.blog/e/mao-episodio-20/",
+          "nome": "Mao Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-22",
+          "link": "https://meusanimes.blog/e/mao-episodio-22/",
+          "nome": "Mao Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:16:56.144Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/6imaTbMEP97w8mQnmu4OLyaXQa2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 22 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-21",
+          "link": "https://meusanimes.blog/e/mao-episodio-21/",
+          "nome": "Mao Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-23",
+          "link": "https://meusanimes.blog/e/mao-episodio-23/",
+          "nome": "Mao Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:16:51.928Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/xfvAeInXjX0fC2gZ4WTnqbkxQZX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 23 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-22",
+          "link": "https://meusanimes.blog/e/mao-episodio-22/",
+          "nome": "Mao Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-24",
+          "link": "https://meusanimes.blog/e/mao-episodio-24/",
+          "nome": "Mao Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:16:47.818Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/o7uKbl9gWWny8RpGnmDj7uVkx0z.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 24 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-23",
+          "link": "https://meusanimes.blog/e/mao-episodio-23/",
+          "nome": "Mao Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-25",
+          "link": "https://meusanimes.blog/e/mao-episodio-25/",
+          "nome": "Mao Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:16:43.635Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/gjrpetkEOxenhkAZOCPyvSEwRuc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 25 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-24",
+          "link": "https://meusanimes.blog/e/mao-episodio-24/",
+          "nome": "Mao Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/mao-episodio-26",
+          "link": "https://meusanimes.blog/e/mao-episodio-26/",
+          "nome": "Mao Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:16:39.483Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/mao-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Sep. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/hmUkygyNLFWGzYQ9Z2O3OJyZCAq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Mao: 1 Episodio 26 Online",
+        "animeSlug": "a/mao",
+        "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/mao-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/mao-episodio-25",
+          "link": "https://meusanimes.blog/e/mao-episodio-25/",
+          "nome": "Mao Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/295999/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:16:35.285Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/295999/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/295999/1/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      14
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 26,
+    "totalEpisodios": 26,
+    "midiasColetadas": 0,
+    "iframesColetados": 26,
+    "detalhesColetadosEm": "2026-10-22T22:16:29.259Z"
+  },
+  "titulo": "Mao",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 04, 2026",
+  "url": "https://meusanimes.blog/a/mao/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/bsHBLOnqKQOMvEABImItJFxouN8.jpg",
+  "score": "8",
+  "temporadas": 1,
+  "descricao": "Nanoka é a única sobrevivente de um acidente em que perdeu sua família quando tinha apenas sete anos de idade. Oito anos depois, quando ela retorna à cena, ela se vê atirada de volta no tempo à era Taisho! Lá, ela conhece Mao, um jovem que luta contra demônios em busca da criatura que o amaldiçoou. Um destino extraordinário parece comandar estes encontros, na encruzilhada de dois mundos…"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "d4dj",
+  "capturadoEm": "2026-10-22T09:48:41.493Z",
+  "atualizadoEm": "2026-10-22T09:48:41.493Z",
+  "catalogo": {
+    "slug": "a/d4dj",
+    "titulo": "D4DJ",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cdwGRZbx3bf1HPGINlztepouVAV.jpg",
+    "info": "Legendado • Oct. 30, 2020",
+    "audio": "Legendado",
+    "score": "5",
+    "ano": "2020",
+    "publicadoEm": "Oct. 30, 2020",
+    "url": "https://meusanimes.blog/a/d4dj/",
+    "postId": "76616"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "D4DJ",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cdwGRZbx3bf1HPGINlztepouVAV.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2020",
+  "publicadoEm": "Oct. 30, 2020",
+  "url": "https://meusanimes.blog/a/d4dj/"
+}

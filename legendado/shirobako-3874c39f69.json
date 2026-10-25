@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shirobako",
+  "capturadoEm": "2026-10-22T09:51:05.979Z",
+  "atualizadoEm": "2026-10-22T09:51:05.979Z",
+  "catalogo": {
+    "slug": "a/shirobako",
+    "titulo": "Shirobako",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/boxBWiZ1NxVLLkoCPbP2NKdv1WT.jpg",
+    "info": "Legendado • Oct. 09, 2014",
+    "audio": "Legendado",
+    "score": "7.8",
+    "ano": "2014",
+    "publicadoEm": "Oct. 09, 2014",
+    "url": "https://meusanimes.blog/a/shirobako/",
+    "postId": "61537"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      27
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Shirobako",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/boxBWiZ1NxVLLkoCPbP2NKdv1WT.jpg",
+  "score": "7.8",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Oct. 09, 2014",
+  "url": "https://meusanimes.blog/a/shirobako/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "slow-start",
+  "capturadoEm": "2026-10-22T09:55:59.254Z",
+  "atualizadoEm": "2026-10-22T09:55:59.254Z",
+  "catalogo": {
+    "slug": "a/slow-start",
+    "titulo": "Slow Start",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pGafUtMOIqJmyoFWukpDn7on4pP.jpg",
+    "info": "Legendado • Jan. 07, 2018",
+    "audio": "Legendado",
+    "score": "5.8",
+    "ano": "2018",
+    "publicadoEm": "Jan. 07, 2018",
+    "url": "https://meusanimes.blog/a/slow-start/",
+    "postId": "35516"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      49
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Slow Start",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pGafUtMOIqJmyoFWukpDn7on4pP.jpg",
+  "score": "5.8",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Jan. 07, 2018",
+  "url": "https://meusanimes.blog/a/slow-start/"
+}

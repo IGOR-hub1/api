@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "plastic-memories",
+  "capturadoEm": "2026-10-22T09:49:22.567Z",
+  "atualizadoEm": "2026-10-22T09:49:22.567Z",
+  "catalogo": {
+    "slug": "a/plastic-memories",
+    "titulo": "Plastic Memories",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/x0uScsfjjIiZCPPojvZcWkn5hSi.jpg",
+    "info": "Legendado • Apr. 05, 2015",
+    "audio": "Legendado",
+    "score": "8.231",
+    "ano": "2015",
+    "publicadoEm": "Apr. 05, 2015",
+    "url": "https://meusanimes.blog/a/plastic-memories/",
+    "postId": "70235"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Plastic Memories",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/x0uScsfjjIiZCPPojvZcWkn5hSi.jpg",
+  "score": "8.231",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 05, 2015",
+  "url": "https://meusanimes.blog/a/plastic-memories/"
+}

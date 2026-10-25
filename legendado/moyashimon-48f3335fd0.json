@@ -1,0 +1,732 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "moyashimon",
+  "capturadoEm": "2026-10-22T09:48:22.336Z",
+  "atualizadoEm": "2026-10-22T23:18:05.805Z",
+  "catalogo": {
+    "slug": "a/moyashimon",
+    "titulo": "Moyashimon",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/A8swodH66BGLr8vLRFdZ4mQQvEN.jpg",
+    "info": "Legendado • Oct. 12, 2007",
+    "audio": "Legendado",
+    "score": "5.6",
+    "ano": "2007",
+    "publicadoEm": "Oct. 12, 2007",
+    "url": "https://meusanimes.blog/a/moyashimon/",
+    "postId": "80947"
+  },
+  "detalhes": {
+    "slug": "a/moyashimon",
+    "titulo": "Moyashimon",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/A8swodH66BGLr8vLRFdZ4mQQvEN.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/A8swodH66BGLr8vLRFdZ4mQQvEN.jpg",
+    "sinopse": "Tadayasu Sawaki é um garoto com uma habilidade incomum: ele consegue ver e falar com microrganismos, os quais aparecem para eles como entidades bonitinhas. Filho de um produtor de kouji e calouro do curso de Agricultura numa universidade em Tóquio, Tadayasu se lembra dos apertos que já passou em sua terra natal por conta de seu talento bizarro e sabe que precisa manter segredo quanto a isto. A única pessoa que conhece suas habilidades de antemão é o amigo de infância Kei Yuuki, filho de um produtor de saquê. Tadayasu é aconselhado pelo avô a visitar o Prof. Itsuki Keisou, uma personalidade pra lá de estranha e que estuda a fundo a fermentação dos alimentos. O Prof. Itsuki já conhece a fama do garoto e sabe da importância de se manter segredo absoluto em relação ao talento do rapaz, uma mina de ouro em potencial. E este mesmo talento gera raiva e ciúmes em Hasegawa Haruka, doutoranda gostosíssima, muito temperamental e que não aceita o fato de um garoto saber tanto sobre microrganismos.",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Ficção científica",
+      "Slice Of Life"
+    ],
+    "score": "8",
+    "audio": "Legendado",
+    "ano": "2007",
+    "publicadoEm": "Oct. 12, 2007",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/moyashimon/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 12, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bomBwxrkPxt35k0dXKKnZ5InBKv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 1 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-2",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-2/",
+          "nome": "Moyashimon 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:18:05.805Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 19, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/3JPA4Y6kT6GHXvUs76NItUXDBU7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 2 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-1",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-1/",
+          "nome": "Moyashimon 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-3",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-3/",
+          "nome": "Moyashimon 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:18:01.398Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 26, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/mgdYe8DU0sMsXKzMDUPAGYbVAdP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 3 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-2",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-2/",
+          "nome": "Moyashimon 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-4",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-4/",
+          "nome": "Moyashimon 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:56.888Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Nov. 02, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/iWf1LiobIPA9FvjPIVMNUIbNysP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 4 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-3",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-3/",
+          "nome": "Moyashimon 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-5",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-5/",
+          "nome": "Moyashimon 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:52.638Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 09, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dYsyyRUzyROVrbu60TYynrtvLz9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 5 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-4",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-4/",
+          "nome": "Moyashimon 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-6",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-6/",
+          "nome": "Moyashimon 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:48.420Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 16, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cqP8uPM2GbaxTvzA6XPrPnyojYt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 6 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-5",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-5/",
+          "nome": "Moyashimon 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-7",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-7/",
+          "nome": "Moyashimon 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:43.878Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 23, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1cpFtfVLG5oaXxNWhmzFEJv4k9i.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 7 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-6",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-6/",
+          "nome": "Moyashimon 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-8",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-8/",
+          "nome": "Moyashimon 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:39.640Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 30, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9qLtDeyaVvRB0MzVCI29hIBWCCA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 8 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-7",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-7/",
+          "nome": "Moyashimon 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-9",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-9/",
+          "nome": "Moyashimon 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:35.394Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 07, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/mQwFCLB5VPxFmJDYBZfSNfuPbiE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 9 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-8",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-8/",
+          "nome": "Moyashimon 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-10",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-10/",
+          "nome": "Moyashimon 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:31.285Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 14, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/fQbb2Vh67AcEcydZCMb7mbgFsV6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 10 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-9",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-9/",
+          "nome": "Moyashimon 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-1-episodio-11",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-11/",
+          "nome": "Moyashimon 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:26.985Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 21, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ks3p1R6VSPj5kxM4I7SCvE0JUUL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 1 Episodio 11 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-1-episodio-10",
+          "link": "https://meusanimes.blog/e/moyashimon-1-episodio-10/",
+          "nome": "Moyashimon 1 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:22.542Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 06, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7voAyVL7A33KPfBW61DFuObonF4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 1 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-2",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-2/",
+          "nome": "Moyashimon 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:18.113Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 13, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6vmW7PZXmQd7vFwWdOwQosNppcd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 2 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-1",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-1/",
+          "nome": "Moyashimon 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-3",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-3/",
+          "nome": "Moyashimon 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:13.936Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 20, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/k7pHTVHdx3Wawu0kuOM6D7aEGFw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 3 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-2",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-2/",
+          "nome": "Moyashimon 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-4",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-4/",
+          "nome": "Moyashimon 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:09.820Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 27, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/v7TyIOvVI3wvz5FEeDAU2YI7UIL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 4 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-3",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-3/",
+          "nome": "Moyashimon 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-5",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-5/",
+          "nome": "Moyashimon 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:05.242Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 03, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kmpdZQGXw4h1kbQd1RCCpGR31Zp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 5 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-4",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-4/",
+          "nome": "Moyashimon 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-6",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-6/",
+          "nome": "Moyashimon 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:17:00.978Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 10, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7HWSahWhblDSywRAJM8FHBl54i5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 6 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-5",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-5/",
+          "nome": "Moyashimon 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-7",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-7/",
+          "nome": "Moyashimon 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:16:56.850Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 17, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2Y6TD3NDxhTd1Wwx4T9xXIk19DS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 7 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-6",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-6/",
+          "nome": "Moyashimon 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-8",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-8/",
+          "nome": "Moyashimon 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:16:52.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 24, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tUxwrU2IoR2jJdTpyVPyWslOgz0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 8 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-7",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-7/",
+          "nome": "Moyashimon 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-9",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-9/",
+          "nome": "Moyashimon 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:16:48.441Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 31, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/jNwixBillrWvcr1dnUkYiI35GJO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 9 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-8",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-8/",
+          "nome": "Moyashimon 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-10",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-10/",
+          "nome": "Moyashimon 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:16:44.357Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 07, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/8xSOGYbJBDwthfKTqH5WcRLNOUo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 10 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-9",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-9/",
+          "nome": "Moyashimon 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/moyashimon-2-episodio-11",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-11/",
+          "nome": "Moyashimon 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:16:40.246Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/moyashimon-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 14, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/eJsEQPQYOoVHwYUf9H51x1F8MO6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Moyashimon: 2 Episodio 11 Online",
+        "animeSlug": "a/moyashimon",
+        "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/moyashimon-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/moyashimon-2-episodio-10",
+          "link": "https://meusanimes.blog/e/moyashimon-2-episodio-10/",
+          "nome": "Moyashimon 2 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/27977/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:16:35.644Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/27977/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/27977/2/11/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      15
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 22,
+    "totalEpisodios": 22,
+    "midiasColetadas": 0,
+    "iframesColetados": 22,
+    "detalhesColetadosEm": "2026-10-22T23:16:29.900Z"
+  },
+  "titulo": "Moyashimon",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/A8swodH66BGLr8vLRFdZ4mQQvEN.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2007",
+  "publicadoEm": "Oct. 12, 2007",
+  "url": "https://meusanimes.blog/a/moyashimon/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/A8swodH66BGLr8vLRFdZ4mQQvEN.jpg",
+  "temporadas": 2,
+  "descricao": "Tadayasu Sawaki é um garoto com uma habilidade incomum: ele consegue ver e falar com microrganismos, os quais aparecem para eles como entidades bonitinhas. Filho de um produtor de kouji e calouro do curso de Agricultura numa universidade em Tóquio, Tadayasu se lembra dos apertos que já passou em sua terra natal por conta de seu talento bizarro e sabe que precisa manter segredo quanto a isto. A única pessoa que conhece suas habilidades de antemão é o amigo de infância Kei Yuuki, filho de um produtor de saquê. Tadayasu é aconselhado pelo avô a visitar o Prof. Itsuki Keisou, uma personalidade pra lá de estranha e que estuda a fundo a fermentação dos alimentos. O Prof. Itsuki já conhece a fama do garoto e sabe da importância de se manter segredo absoluto em relação ao talento do rapaz, uma mina de ouro em potencial. E este mesmo talento gera raiva e ciúmes em Hasegawa Haruka, doutoranda gostosíssima, muito temperamental e que não aceita o fato de um garoto saber tanto sobre microrganismos."
+}

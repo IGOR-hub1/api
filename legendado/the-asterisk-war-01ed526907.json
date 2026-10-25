@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "the-asterisk-war",
+  "capturadoEm": "2026-10-22T09:52:00.465Z",
+  "atualizadoEm": "2026-10-22T09:52:00.465Z",
+  "catalogo": {
+    "slug": "a/the-asterisk-war",
+    "titulo": "The Asterisk War",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/yNVuWH4DqzHqQUy8Qy07A5VyOXH.jpg",
+    "info": "Legendado • Oct. 03, 2015",
+    "audio": "Legendado",
+    "score": "7.717",
+    "ano": "2015",
+    "publicadoEm": "Oct. 03, 2015",
+    "url": "https://meusanimes.blog/a/the-asterisk-war/",
+    "postId": "56632"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "The Asterisk War",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/yNVuWH4DqzHqQUy8Qy07A5VyOXH.jpg",
+  "score": "7.717",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Oct. 03, 2015",
+  "url": "https://meusanimes.blog/a/the-asterisk-war/"
+}

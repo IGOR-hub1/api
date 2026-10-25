@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "triage-x",
+  "capturadoEm": "2026-10-22T09:51:30.411Z",
+  "atualizadoEm": "2026-10-22T09:51:30.411Z",
+  "catalogo": {
+    "slug": "a/triage-x",
+    "titulo": "Triage X",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/9m7KqsLYnyRakIF7sEF6dHAD3Ll.jpg",
+    "info": "Legendado • Apr. 09, 2015",
+    "audio": "Legendado",
+    "score": "7.876",
+    "ano": "2015",
+    "publicadoEm": "Apr. 09, 2015",
+    "url": "https://meusanimes.blog/a/triage-x/",
+    "postId": "59686"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      29
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Triage X",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/9m7KqsLYnyRakIF7sEF6dHAD3Ll.jpg",
+  "score": "7.876",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 09, 2015",
+  "url": "https://meusanimes.blog/a/triage-x/"
+}

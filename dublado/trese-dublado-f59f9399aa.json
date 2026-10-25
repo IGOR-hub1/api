@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "trese-dublado",
+  "capturadoEm": "2026-10-22T05:45:38.993Z",
+  "atualizadoEm": "2026-10-22T09:42:51.819Z",
+  "catalogo": {
+    "slug": "a/trese-dublado",
+    "titulo": "Trese Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/zNYPSo9nhrLyy453s5SsC0MCTuz.jpg",
+    "info": "Dublado • Jun. 11, 2021",
+    "audio": "Dublado",
+    "score": "7.239",
+    "ano": "2021",
+    "publicadoEm": "Jun. 11, 2021",
+    "url": "https://meusanimes.blog/a/trese-dublado/",
+    "postId": "74340"
+  },
+  "detalhes": {
+    "slug": "a/trese-dublado",
+    "titulo": "Trese Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/zNYPSo9nhrLyy453s5SsC0MCTuz.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/02/zNYPSo9nhrLyy453s5SsC0MCTuz.jpg",
+    "sinopse": "Alexandra Trese faz de tudo para proteger Manila contra ameaças sobrenaturais e manter a paz, mas vem encrenca grande por aí.",
+    "generos": [
+      "Ação",
+      "Crime",
+      "Fantasia",
+      "Mistério",
+      "Terror"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2021",
+    "publicadoEm": "Jun. 11, 2021",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/trese-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/trese-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/bB9SzKcdfo745kqtn8I5cuLBOEU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Trese Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/trese-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/trese-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/trese-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-2/",
+          "nome": "Trese Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/949241/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:46:04.541Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/949241/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/trese-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jun. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/mBEczZ6eTuZBau6EGceb0p2dxoW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Trese Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/trese-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/trese-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/trese-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-1/",
+          "nome": "Trese Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/trese-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-3/",
+          "nome": "Trese Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/949241/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:46:00.420Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/949241/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/trese-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jun. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/qm7pYfdNcad5IF9G8ZmfbZ5mB7Z.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Trese Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/trese-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/trese-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/trese-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-2/",
+          "nome": "Trese Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/trese-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-4/",
+          "nome": "Trese Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/949241/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:45:56.301Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/949241/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/trese-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jun. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/tIz5u41ZuAKTir14bqz4ZSfgtLB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Trese Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/trese-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/trese-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/trese-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-3/",
+          "nome": "Trese Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/trese-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-5/",
+          "nome": "Trese Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/949241/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:45:52.165Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/949241/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/trese-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jun. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/gVho1Xvs39T1TGMLRfSCCbccFv8.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Trese Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/trese-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/trese-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/trese-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-4/",
+          "nome": "Trese Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/trese-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-6/",
+          "nome": "Trese Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/949241/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:45:47.967Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/949241/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/trese-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Jun. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/x557b8WGV07HaXW3408FUxTMIgY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Trese Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/trese-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/trese-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/trese-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/trese-dublado-1-episodio-5/",
+          "nome": "Trese Dublado 1 Episodio 5"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/949241/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:45:43.820Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/949241/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/949241/1/6/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      15
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 6,
+    "totalEpisodios": 6,
+    "detalhesColetadosEm": "2026-10-22T05:45:38.993Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 6
+  },
+  "titulo": "Trese Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/zNYPSo9nhrLyy453s5SsC0MCTuz.jpg",
+  "score": "7.239",
+  "audio": "Dublado",
+  "ano": "2021",
+  "publicadoEm": "Jun. 11, 2021",
+  "url": "https://meusanimes.blog/a/trese-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/02/zNYPSo9nhrLyy453s5SsC0MCTuz.jpg",
+  "temporadas": 1,
+  "descricao": "Alexandra Trese faz de tudo para proteger Manila contra ameaças sobrenaturais e manter a paz, mas vem encrenca grande por aí."
+}

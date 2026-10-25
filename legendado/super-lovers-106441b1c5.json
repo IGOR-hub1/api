@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "super-lovers",
+  "capturadoEm": "2026-10-22T09:52:49.130Z",
+  "atualizadoEm": "2026-10-22T09:52:49.130Z",
+  "catalogo": {
+    "slug": "a/super-lovers",
+    "titulo": "Super Lovers",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/cQ8LfYIN0pTUZ3JkjdGkQ9crSGq.jpg",
+    "info": "Legendado • Apr. 06, 2016",
+    "audio": "Legendado",
+    "score": "6.527",
+    "ano": "2016",
+    "publicadoEm": "Apr. 06, 2016",
+    "url": "https://meusanimes.blog/a/super-lovers/",
+    "postId": "53414"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Super Lovers",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/cQ8LfYIN0pTUZ3JkjdGkQ9crSGq.jpg",
+  "score": "6.527",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 06, 2016",
+  "url": "https://meusanimes.blog/a/super-lovers/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "paradise-kiss",
+  "capturadoEm": "2026-10-22T09:49:15.227Z",
+  "atualizadoEm": "2026-10-22T09:49:15.227Z",
+  "catalogo": {
+    "slug": "a/paradise-kiss",
+    "titulo": "Paradise Kiss",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/cnPYecp5Hw2IBCW0SZCe0bG1Wux.jpg",
+    "info": "Legendado • Oct. 14, 2005",
+    "audio": "Legendado",
+    "score": "7.152",
+    "ano": "2005",
+    "publicadoEm": "Oct. 14, 2005",
+    "url": "https://meusanimes.blog/a/paradise-kiss/",
+    "postId": "70949"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Paradise Kiss",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/cnPYecp5Hw2IBCW0SZCe0bG1Wux.jpg",
+  "score": "7.152",
+  "audio": "Legendado",
+  "ano": "2005",
+  "publicadoEm": "Oct. 14, 2005",
+  "url": "https://meusanimes.blog/a/paradise-kiss/"
+}

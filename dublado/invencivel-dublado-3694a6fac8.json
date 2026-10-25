@@ -1,0 +1,1030 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "invencivel-dublado",
+  "capturadoEm": "2026-10-22T04:23:12.293Z",
+  "atualizadoEm": "2026-10-22T09:42:17.481Z",
+  "catalogo": {
+    "slug": "a/invencivel-dublado",
+    "titulo": "Invencível Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+    "info": "Dublado • Mar. 25, 2021",
+    "audio": "Dublado",
+    "score": "8.6",
+    "ano": "2021",
+    "publicadoEm": "Mar. 25, 2021",
+    "url": "https://meusanimes.blog/a/invencivel-dublado/",
+    "postId": "78240"
+  },
+  "detalhes": {
+    "slug": "a/invencivel-dublado",
+    "titulo": "Invencível Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+    "sinopse": "Invincible, Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Drama",
+      "Fantasia",
+      "Ficção científica",
+      "Suspense",
+      "Terror"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2021",
+    "publicadoEm": "Mar. 25, 2021",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/invencivel-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Mar. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7S9RDiSixGe2miORi1fakQwZhjS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-2/",
+          "nome": "Invencível Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:25:29.144Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Mar. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pkxbaf98mNpxyoZAiNmJo8vHoDD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-1/",
+          "nome": "Invencível Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-3/",
+          "nome": "Invencível Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:25:24.982Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Mar. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/h6rJcoDs7tFjLT79RRM3q2ImAuQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-2/",
+          "nome": "Invencível Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-4/",
+          "nome": "Invencível Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:25:20.914Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 01, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6gaE4O5tWAkUbjJlGQ8DVyG6q8h.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-3/",
+          "nome": "Invencível Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-5/",
+          "nome": "Invencível Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:25:16.789Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Apr. 08, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1v9aBIzrSwCVzp8SlNBpVqR4K4N.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-4/",
+          "nome": "Invencível Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-6/",
+          "nome": "Invencível Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:25:12.670Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Apr. 15, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2FtdRhVTJsdS3pWoIYx9w4yD29F.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-5/",
+          "nome": "Invencível Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-7/",
+          "nome": "Invencível Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:25:08.532Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Apr. 22, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qP3FnggFKbJSeSRMxKkYM8hWymc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-6/",
+          "nome": "Invencível Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-8/",
+          "nome": "Invencível Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:25:04.379Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Apr. 29, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ijDV8Z23iR5B2ftx0WggiXbfqGi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-1-episodio-7/",
+          "nome": "Invencível Dublado 1 Episodio 7"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:25:00.272Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Nov. 02, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/w8Cza2vsS3dcNBd62Ig8htU7JzK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-2/",
+          "nome": "Invencível Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:56.116Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Nov. 09, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/86LzgXATHHPbJkQKGZWLKXPHQfY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-1/",
+          "nome": "Invencível Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-3/",
+          "nome": "Invencível Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:51.954Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Nov. 16, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hhuAU2n6j5Z5VIQLZh3LjexezRu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-2/",
+          "nome": "Invencível Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-4/",
+          "nome": "Invencível Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:47.816Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Nov. 23, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2MK8MEVaWcMqsQCF8WojDs6A6vi.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-3/",
+          "nome": "Invencível Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-5/",
+          "nome": "Invencível Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:43.650Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Mar. 14, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7gVrb31GptKLDLR4fzR0Mc3tnJU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-4/",
+          "nome": "Invencível Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-6/",
+          "nome": "Invencível Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:39.384Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 21, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5eXJeZqfEKP8kggTEaPA9CGU7cF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-5/",
+          "nome": "Invencível Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-7/",
+          "nome": "Invencível Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:35.232Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 28, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sIRJxPcVU5QaDXGseBlg44wBDwx.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-6/",
+          "nome": "Invencível Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-8/",
+          "nome": "Invencível Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:31.078Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Apr. 04, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/yasOqypIHTH1ioss7T12LjcIcnG.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-2-episodio-7/",
+          "nome": "Invencível Dublado 2 Episodio 7"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:26.964Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Feb. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/z4Hy6lntZDS6sGJGPCjhJ5bcCO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 3 Episodio 1 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-2",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-2/",
+          "nome": "Invencível Dublado 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:22.817Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Feb. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/v21YbRKZvEBp84bOb30bSPt6fIX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 3 Episodio 2 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-1",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-1/",
+          "nome": "Invencível Dublado 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-3",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-3/",
+          "nome": "Invencível Dublado 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:18.614Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Feb. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/jzOMmcSbr3YzFe90mK5uFYhb220.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 3 Episodio 3 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-2",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-2/",
+          "nome": "Invencível Dublado 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-4",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-4/",
+          "nome": "Invencível Dublado 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:14.476Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/FWIBME33cC9qRoS6Y2qui0QaWC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 3 Episodio 4 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-3",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-3/",
+          "nome": "Invencível Dublado 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-5",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-5/",
+          "nome": "Invencível Dublado 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:10.222Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/21Eov71SQJV3MESVBityTPVITLc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 3 Episodio 5 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-4",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-4/",
+          "nome": "Invencível Dublado 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-6",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-6/",
+          "nome": "Invencível Dublado 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:06.113Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5NMW2Q21EOINDHcFeJvzm1i73xW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 3 Episodio 6 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-5",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-5/",
+          "nome": "Invencível Dublado 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-7",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-7/",
+          "nome": "Invencível Dublado 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:24:01.941Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ydn7SFlgi8fUP6jQcjr1zJGtVMa.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 3 Episodio 7 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-6",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-6/",
+          "nome": "Invencível Dublado 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-8",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-8/",
+          "nome": "Invencível Dublado 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:57.807Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/6HqCGRpP4BfbPoQ3rQ71ViuWwXk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 3 Episodio 8 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-3-episodio-7",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-3-episodio-7/",
+          "nome": "Invencível Dublado 3 Episodio 7"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:53.700Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Mar. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uJXlwnJCp9BuAhW2y8SjbvCcRct.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 4 Episodio 1 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-2",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-2/",
+          "nome": "Invencível Dublado 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:49.527Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Mar. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/eZljaDBUuBrKQjm0sRKfKorNFmk.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 4 Episodio 2 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-1",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-1/",
+          "nome": "Invencível Dublado 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-3",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-3/",
+          "nome": "Invencível Dublado 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:45.395Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Mar. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/feqa4Ct3uOpMvwWfJkvQet6w1yP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 4 Episodio 3 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-2",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-2/",
+          "nome": "Invencível Dublado 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-4",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-4/",
+          "nome": "Invencível Dublado 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:41.237Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Mar. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/jAgbFn1AEBxgUksM1mHuaEBDmAS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 4 Episodio 4 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-3",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-3/",
+          "nome": "Invencível Dublado 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-5",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-5/",
+          "nome": "Invencível Dublado 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:37.087Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "Apr. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kfKYVUHavccgKKrmzaHgkkSQGq5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 4 Episodio 5 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-4",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-4/",
+          "nome": "Invencível Dublado 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-6",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-6/",
+          "nome": "Invencível Dublado 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:32.979Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "Apr. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gp26af6g6E08Dg8avIKDQwoSmkV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 4 Episodio 6 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-5",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-5/",
+          "nome": "Invencível Dublado 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-7",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-7/",
+          "nome": "Invencível Dublado 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:28.795Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "Apr. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ku5RSF7vPYtANT3n5Nv8y7PlHVN.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 4 Episodio 7 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-6",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-6/",
+          "nome": "Invencível Dublado 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-8",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-8/",
+          "nome": "Invencível Dublado 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:24.608Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Apr. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/a103TuPbdItnmw4d4yDFQngJywu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Invencível Dublado: 4 Episodio 8 Online",
+        "animeSlug": "a/invencivel-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/invencivel-dublado-4-episodio-7",
+          "link": "https://meusanimes.blog/e/invencivel-dublado-4-episodio-7/",
+          "nome": "Invencível Dublado 4 Episodio 7"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/95557/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T04:23:20.315Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/95557/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/95557/4/8/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      12
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 32,
+    "totalEpisodios": 32,
+    "detalhesColetadosEm": "2026-10-22T04:23:12.293Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 32
+  },
+  "titulo": "Invencível Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+  "score": "8.6",
+  "audio": "Dublado",
+  "ano": "2021",
+  "publicadoEm": "Mar. 25, 2021",
+  "url": "https://meusanimes.blog/a/invencivel-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/qhb7RWU9ad9a5m3HbeRRXzjaMXf.jpg",
+  "temporadas": 4,
+  "descricao": "Invincible, Uma animação de super-heróis para adultos e conta a história de Mark Grayson, de 17 anos, um cara como qualquer outro de sua idade, exceto que seu pai é o super-herói mais poderoso do planeta, Omni-Man. Porém, à medida que Mark desenvolve seus próprios poderes, ele descobre que o legado de seu pai pode não ser tão heroico quanto parece."
+}

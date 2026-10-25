@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "golden-kamuy",
+  "capturadoEm": "2026-10-22T09:50:22.060Z",
+  "atualizadoEm": "2026-10-22T09:50:22.060Z",
+  "catalogo": {
+    "slug": "a/golden-kamuy",
+    "titulo": "Golden Kamuy",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rVRpYvsyPgUUsuK0kQbya67ROPZ.jpg",
+    "info": "Legendado • Apr. 09, 2018",
+    "audio": "Legendado",
+    "score": "7.6",
+    "ano": "2018",
+    "publicadoEm": "Apr. 09, 2018",
+    "url": "https://meusanimes.blog/a/golden-kamuy/",
+    "postId": "33812"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      24
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Golden Kamuy",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rVRpYvsyPgUUsuK0kQbya67ROPZ.jpg",
+  "score": "7.6",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Apr. 09, 2018",
+  "url": "https://meusanimes.blog/a/golden-kamuy/"
+}

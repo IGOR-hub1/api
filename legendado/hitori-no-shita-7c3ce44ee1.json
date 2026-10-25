@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hitori-no-shita",
+  "capturadoEm": "2026-10-22T09:49:41.562Z",
+  "atualizadoEm": "2026-10-22T09:49:41.562Z",
+  "catalogo": {
+    "slug": "a/hitori-no-shita",
+    "titulo": "Hitori No Shita",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg",
+    "info": "Legendado • Jul. 09, 2016",
+    "audio": "Legendado",
+    "score": "6.9",
+    "ano": "2016",
+    "publicadoEm": "Jul. 09, 2016",
+    "url": "https://meusanimes.blog/a/hitori-no-shita/",
+    "postId": "67851"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Hitori No Shita",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg",
+  "score": "6.9",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 09, 2016",
+  "url": "https://meusanimes.blog/a/hitori-no-shita/"
+}

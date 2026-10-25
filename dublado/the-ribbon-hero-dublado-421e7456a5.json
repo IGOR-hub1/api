@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "the-ribbon-hero-dublado",
+  "capturadoEm": "2026-10-21T22:56:25.535Z",
+  "atualizadoEm": "2026-10-22T09:40:33.860Z",
+  "catalogo": {
+    "slug": "a/the-ribbon-hero-dublado",
+    "titulo": "The Ribbon Hero Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/vDelA1vVkta2FAWuaJ9hIXbuUlS.jpg",
+    "info": "Dublado • Aug. 08, 2026",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Aug. 08, 2026",
+    "url": "https://meusanimes.blog/a/the-ribbon-hero-dublado/",
+    "postId": "94761"
+  },
+  "detalhes": {
+    "slug": "a/the-ribbon-hero-dublado",
+    "titulo": "The Ribbon Hero Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/vDelA1vVkta2FAWuaJ9hIXbuUlS.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/vDelA1vVkta2FAWuaJ9hIXbuUlS.jpg",
+    "sinopse": "Depois da destruição causada pelo monstruoso Nergal, Safira desperta seus poderes como a Princesa Cavaleira e decide lutar para salvar seu novo lar.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Drama",
+      "Fantasia"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Aug. 08, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/the-ribbon-hero-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/the-ribbon-hero-dublado/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Aug. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/bh1NYYw8kv8beltLksCGdoDuCwl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "The Ribbon Hero Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/the-ribbon-hero-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/16797301/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/the-ribbon-hero-dublado/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/16797301/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T22:56:29.579Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/16797301/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/16797301/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "detalhesColetadosEm": "2026-10-21T22:56:25.535Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 1
+  },
+  "titulo": "The Ribbon Hero Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/vDelA1vVkta2FAWuaJ9hIXbuUlS.jpg",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Aug. 08, 2026",
+  "url": "https://meusanimes.blog/a/the-ribbon-hero-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/vDelA1vVkta2FAWuaJ9hIXbuUlS.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Depois da destruição causada pelo monstruoso Nergal, Safira desperta seus poderes como a Princesa Cavaleira e decide lutar para salvar seu novo lar."
+}

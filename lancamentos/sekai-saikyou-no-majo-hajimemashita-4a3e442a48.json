@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "sekai-saikyou-no-majo-hajimemashita",
+  "capturadoEm": "2026-10-22T09:44:22.724Z",
+  "atualizadoEm": "2026-10-22T12:45:21.348Z",
+  "catalogo": {
+    "slug": "a/sekai-saikyou-no-majo-hajimemashita",
+    "titulo": "Sekai Saikyou no Majo, Hajimemashita",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/6acw8p01u15XDQsIcfJns3nyqq1.jpg",
+    "info": "Legendado • Em lançamento • Oct. 07, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Oct. 07, 2026",
+    "url": "https://meusanimes.blog/a/sekai-saikyou-no-majo-hajimemashita/",
+    "postId": "100280"
+  },
+  "detalhes": {
+    "slug": "a/sekai-saikyou-no-majo-hajimemashita",
+    "titulo": "Sekai Saikyou no Majo, Hajimemashita",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/6acw8p01u15XDQsIcfJns3nyqq1.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/6acw8p01u15XDQsIcfJns3nyqq1.jpg",
+    "sinopse": "Depois de manifestar uma habilidade completamente inútil, Lorna se torna a vergonha de sua família e é expulsa de casa. Agora, sem ter onde cair morta, ela alcança o fundo do poço. No entanto, ela descobre como usar sua habilidade de rank SSS, chamada “Internet”. O poder lhe fornece capacidade de conseguir uma quantidade ilimitada de itens valiosos e de facilmente adquirir equipamentos raros. Armada com um conhecimento divino, Lorna pode fazer o que bem quiser. Se pelo menos ela conseguisse descobrir o que “KKKKKKKKK” significa…",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Fantasia"
+    ],
+    "score": "5",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 07, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/sekai-saikyou-no-majo-hajimemashita/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/qTblrDpbYGvX4UdCL4mqtAnb3ir.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sekai Saikyou no Majo, Hajimemashita: 1 Episodio 1 Online",
+        "animeSlug": "a/sekai-saikyou-no-majo-hajimemashita",
+        "iframe": "https://serv01.meusdoramas.club/#/video/321518/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/sekai-saikyou-no-majo-hajimemashita-episodio-2",
+          "link": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-2/",
+          "nome": "Sekai Saikyou no Majo, Hajimemashita Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/321518/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:45:21.348Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/321518/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/321518/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/86d4P88zjGku5LNGWvFOLJEHLPg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sekai Saikyou no Majo, Hajimemashita: 1 Episodio 2 Online",
+        "animeSlug": "a/sekai-saikyou-no-majo-hajimemashita",
+        "iframe": "https://serv01.meusdoramas.club/#/video/321518/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/sekai-saikyou-no-majo-hajimemashita-episodio-1",
+          "link": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-1/",
+          "nome": "Sekai Saikyou no Majo, Hajimemashita Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/sekai-saikyou-no-majo-hajimemashita-episodio-3",
+          "link": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-3/",
+          "nome": "Sekai Saikyou no Majo, Hajimemashita Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/321518/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:45:17.311Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/321518/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/321518/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/vPmL2aNh7ryiHKM6Gy4z3wKTBPO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Sekai Saikyou no Majo, Hajimemashita: 1 Episodio 3 Online",
+        "animeSlug": "a/sekai-saikyou-no-majo-hajimemashita",
+        "iframe": "https://serv01.meusdoramas.club/#/video/321518/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/sekai-saikyou-no-majo-hajimemashita-episodio-2",
+          "link": "https://meusanimes.blog/e/sekai-saikyou-no-majo-hajimemashita-episodio-2/",
+          "nome": "Sekai Saikyou no Majo, Hajimemashita Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/321518/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:45:13.300Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/321518/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/321518/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T12:45:09.037Z"
+  },
+  "titulo": "Sekai Saikyou no Majo, Hajimemashita",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/6acw8p01u15XDQsIcfJns3nyqq1.jpg",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 07, 2026",
+  "url": "https://meusanimes.blog/a/sekai-saikyou-no-majo-hajimemashita/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/6acw8p01u15XDQsIcfJns3nyqq1.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "Depois de manifestar uma habilidade completamente inútil, Lorna se torna a vergonha de sua família e é expulsa de casa. Agora, sem ter onde cair morta, ela alcança o fundo do poço. No entanto, ela descobre como usar sua habilidade de rank SSS, chamada “Internet”. O poder lhe fornece capacidade de conseguir uma quantidade ilimitada de itens valiosos e de facilmente adquirir equipamentos raros. Armada com um conhecimento divino, Lorna pode fazer o que bem quiser. Se pelo menos ela conseguisse descobrir o que “KKKKKKKKK” significa…"
+}

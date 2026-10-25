@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "romelia-senki",
+  "capturadoEm": "2026-10-22T09:45:09.645Z",
+  "atualizadoEm": "2026-10-22T13:41:35.804Z",
+  "catalogo": {
+    "slug": "a/romelia-senki",
+    "titulo": "Romelia Senki",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+    "info": "Legendado • Oct. 05, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 05, 2026",
+    "url": "https://meusanimes.blog/a/romelia-senki/",
+    "postId": "99925"
+  },
+  "detalhes": {
+    "slug": "a/romelia-senki",
+    "titulo": "Romelia Senki",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+    "sinopse": "Romelia e seu grupo conseguem derrotar o Rei Demônio Zelgis, embora a investida imprudente do Príncipe Henri os tenha forçado a uma batalha exaustiva. Após o conflito, Romelia é rotulada de “peso morto” por não ter lutado diretamente, e o príncipe rompe unilateralmente o noivado. Privada de participar das comemorações da vitória, Romelia volta para casa, apenas para ser recebida com fria indiferença por sua família e pela sociedade. No entanto, ela se recusa a desistir. Ela já traçou o caminho que tem pela frente.",
+    "generos": [
+      "Ação",
+      "Fantasia",
+      "Militar"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/romelia-senki/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/romelia-senki-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/oAXYm7vERoGnzIWLIoBgnCpsaUG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Romelia Senki: 1 Episodio 1 Online",
+        "animeSlug": "a/romelia-senki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305313/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/romelia-senki-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/romelia-senki-episodio-2",
+          "link": "https://meusanimes.blog/e/romelia-senki-episodio-2/",
+          "nome": "Romelia Senki Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305313/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:41:35.804Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305313/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305313/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/romelia-senki-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/zYxI7Rrkplry8EdpldvmEbhzhBF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Romelia Senki: 1 Episodio 2 Online",
+        "animeSlug": "a/romelia-senki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305313/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/romelia-senki-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/romelia-senki-episodio-1",
+          "link": "https://meusanimes.blog/e/romelia-senki-episodio-1/",
+          "nome": "Romelia Senki Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/romelia-senki-episodio-3",
+          "link": "https://meusanimes.blog/e/romelia-senki-episodio-3/",
+          "nome": "Romelia Senki Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305313/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:41:31.970Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305313/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305313/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/romelia-senki-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/7YgpgvmDjklY3mMdy7M9wxGuEX4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Romelia Senki: 1 Episodio 3 Online",
+        "animeSlug": "a/romelia-senki",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305313/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/romelia-senki-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/romelia-senki-episodio-2",
+          "link": "https://meusanimes.blog/e/romelia-senki-episodio-2/",
+          "nome": "Romelia Senki Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305313/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:41:28.275Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305313/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305313/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T13:41:24.367Z"
+  },
+  "titulo": "Romelia Senki",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 05, 2026",
+  "url": "https://meusanimes.blog/a/romelia-senki/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+  "score": "6",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Romelia e seu grupo conseguem derrotar o Rei Demônio Zelgis, embora a investida imprudente do Príncipe Henri os tenha forçado a uma batalha exaustiva. Após o conflito, Romelia é rotulada de “peso morto” por não ter lutado diretamente, e o príncipe rompe unilateralmente o noivado. Privada de participar das comemorações da vitória, Romelia volta para casa, apenas para ser recebida com fria indiferença por sua família e pela sociedade. No entanto, ela se recusa a desistir. Ela já traçou o caminho que tem pela frente."
+}

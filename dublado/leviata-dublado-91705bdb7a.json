@@ -1,0 +1,430 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "leviata-dublado",
+  "capturadoEm": "2026-10-22T09:34:49.813Z",
+  "atualizadoEm": "2026-10-22T09:40:25.058Z",
+  "catalogo": {
+    "slug": "a/leviata-dublado",
+    "titulo": "Leviatã Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ea52vd4cxbd7R2vSSkwLcrltAGA.jpg",
+    "info": "Dublado • Jul. 10, 2025",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Jul. 10, 2025",
+    "url": "https://meusanimes.blog/a/leviata-dublado/",
+    "postId": "24225"
+  },
+  "detalhes": {
+    "slug": "a/leviata-dublado",
+    "titulo": "Leviatã Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ea52vd4cxbd7R2vSSkwLcrltAGA.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/ea52vd4cxbd7R2vSSkwLcrltAGA.jpg",
+    "sinopse": "Leviatã Online , Em um passado steampunk alternativo, um príncipe austríaco perseguido e um aviador escocês disfarçado embarcam numa jornada inesperada para evitar uma guerra mundial.",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Drama",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "score": "5",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Jul. 10, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/leviata-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-2/",
+          "nome": "Leviatã Dublado Episódio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:40.217Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-1/",
+          "nome": "Leviatã Dublado Episódio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-3/",
+          "nome": "Leviatã Dublado Episódio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:36.071Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-2/",
+          "nome": "Leviatã Dublado Episódio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-4/",
+          "nome": "Leviatã Dublado Episódio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:31.996Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-3/",
+          "nome": "Leviatã Dublado Episódio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-5/",
+          "nome": "Leviatã Dublado Episódio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:27.823Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-4/",
+          "nome": "Leviatã Dublado Episódio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-6/",
+          "nome": "Leviatã Dublado Episódio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:23.766Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-5/",
+          "nome": "Leviatã Dublado Episódio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-7/",
+          "nome": "Leviatã Dublado Episódio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:19.658Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-6/",
+          "nome": "Leviatã Dublado Episódio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-8/",
+          "nome": "Leviatã Dublado Episódio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:15.530Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-7/",
+          "nome": "Leviatã Dublado Episódio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-9/",
+          "nome": "Leviatã Dublado Episódio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:11.413Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-8/",
+          "nome": "Leviatã Dublado Episódio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-10/",
+          "nome": "Leviatã Dublado Episódio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:07.347Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-9/",
+          "nome": "Leviatã Dublado Episódio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-11/",
+          "nome": "Leviatã Dublado Episódio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:35:03.271Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-10/",
+          "nome": "Leviatã Dublado Episódio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/leviata-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-12/",
+          "nome": "Leviatã Dublado Episódio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:34:59.222Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/leviata-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVkh35Zu1J6tEiybGpbmu7Z1utE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Leviatã Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/leviata-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/leviata-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/leviata-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/leviata-dublado-episodio-11/",
+          "nome": "Leviatã Dublado Episódio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2563231/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T09:34:55.029Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2563231/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2563231/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T09:34:49.813Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Leviatã Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ea52vd4cxbd7R2vSSkwLcrltAGA.jpg",
+  "audio": "Dublado",
+  "ano": "2025",
+  "publicadoEm": "Jul. 10, 2025",
+  "url": "https://meusanimes.blog/a/leviata-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/ea52vd4cxbd7R2vSSkwLcrltAGA.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "Leviatã Online , Em um passado steampunk alternativo, um príncipe austríaco perseguido e um aviador escocês disfarçado embarcam numa jornada inesperada para evitar uma guerra mundial."
+}

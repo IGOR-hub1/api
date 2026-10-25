@@ -1,0 +1,427 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "perfect-addiction",
+  "capturadoEm": "2026-10-22T09:46:05.472Z",
+  "atualizadoEm": "2026-10-22T17:43:51.235Z",
+  "catalogo": {
+    "slug": "a/perfect-addiction",
+    "titulo": "Perfect Addiction",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/Aal2qmznvyG7zUHAeZI5cOHHO1e.jpg",
+    "info": "Legendado • Jul. 08, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 08, 2026",
+    "url": "https://meusanimes.blog/a/perfect-addiction/",
+    "postId": "92786"
+  },
+  "detalhes": {
+    "slug": "a/perfect-addiction",
+    "titulo": "Perfect Addiction",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/Aal2qmznvyG7zUHAeZI5cOHHO1e.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/Aal2qmznvyG7zUHAeZI5cOHHO1e.jpg",
+    "sinopse": "Akihito é um estudante universitário obcecado por boa aparência e prazer carnal, mas não suporta o bonito, mas distante, Sae.As coisas chegam ao auge quando Akihito é abatido em uma reunião de solteiros por uma garota que tem uma visão romântica de Sae.Furioso, ele segue Sae até o bairro hoteleiro, onde descobre o segredo de Sae: ele é gay e está tendo problemas para se divertir no quarto.Romper as barreiras mentais de Sae é exatamente o desafio sexy que Akihito precisava.Desperta algo em ambos.Será que algum dia eles serão capazes de se controlar novamente?",
+    "generos": [
+      "Comédia",
+      "Romance"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 08, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/perfect-addiction/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/dnV15VPTkwHNM3hgSKRXvNuZzYd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 1 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-2",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-2/",
+          "nome": "Perfect Addiction Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:51.235Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lwe1WLNlyBLktr6HxNhuew2LoJL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 2 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-1",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-1/",
+          "nome": "Perfect Addiction Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-3",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-3/",
+          "nome": "Perfect Addiction Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:47.103Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fUrKGPa1hmZEgQna34b0dEmngr2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 3 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-2",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-2/",
+          "nome": "Perfect Addiction Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-4",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-4/",
+          "nome": "Perfect Addiction Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:42.995Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/f6IRG607vZhs9Ho4H6M04ATc5w1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 4 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-3",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-3/",
+          "nome": "Perfect Addiction Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-5",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-5/",
+          "nome": "Perfect Addiction Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:38.874Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/dnV15VPTkwHNM3hgSKRXvNuZzYd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 5 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-4",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-4/",
+          "nome": "Perfect Addiction Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-6",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-6/",
+          "nome": "Perfect Addiction Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:34.744Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lwe1WLNlyBLktr6HxNhuew2LoJL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 6 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-5",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-5/",
+          "nome": "Perfect Addiction Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-7",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-7/",
+          "nome": "Perfect Addiction Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:30.594Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/f6IRG607vZhs9Ho4H6M04ATc5w1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 7 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-6",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-6/",
+          "nome": "Perfect Addiction Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-8",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-8/",
+          "nome": "Perfect Addiction Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:26.497Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fUrKGPa1hmZEgQna34b0dEmngr2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 8 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-7",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-7/",
+          "nome": "Perfect Addiction Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-9",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-9/",
+          "nome": "Perfect Addiction Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:22.417Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/zJoPkZ3FRtBYQ82DPVkY8rjnBAw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 9 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-8",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-8/",
+          "nome": "Perfect Addiction Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-10",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-10/",
+          "nome": "Perfect Addiction Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:18.233Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/alEluJrTe41UgPFbLh1wkT8PJ4r.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 10 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-9",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-9/",
+          "nome": "Perfect Addiction Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-11",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-11/",
+          "nome": "Perfect Addiction Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:14.047Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lwe1WLNlyBLktr6HxNhuew2LoJL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 11 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-10",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-10/",
+          "nome": "Perfect Addiction Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/perfect-addiction-episodio-12",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-12/",
+          "nome": "Perfect Addiction Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:09.948Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/perfect-addiction-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/dnV15VPTkwHNM3hgSKRXvNuZzYd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Perfect Addiction: 1 Episodio 12 Online",
+        "animeSlug": "a/perfect-addiction",
+        "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/perfect-addiction-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/perfect-addiction-episodio-11",
+          "link": "https://meusanimes.blog/e/perfect-addiction-episodio-11/",
+          "nome": "Perfect Addiction Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/314561/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:43:05.514Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/314561/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/314561/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T17:43:00.708Z"
+  },
+  "titulo": "Perfect Addiction",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/Aal2qmznvyG7zUHAeZI5cOHHO1e.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 08, 2026",
+  "url": "https://meusanimes.blog/a/perfect-addiction/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/Aal2qmznvyG7zUHAeZI5cOHHO1e.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "Akihito é um estudante universitário obcecado por boa aparência e prazer carnal, mas não suporta o bonito, mas distante, Sae.As coisas chegam ao auge quando Akihito é abatido em uma reunião de solteiros por uma garota que tem uma visão romântica de Sae.Furioso, ele segue Sae até o bairro hoteleiro, onde descobre o segredo de Sae: ele é gay e está tendo problemas para se divertir no quarto.Romper as barreiras mentais de Sae é exatamente o desafio sexy que Akihito precisava.Desperta algo em ambos.Será que algum dia eles serão capazes de se controlar novamente?"
+}

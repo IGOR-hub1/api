@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "ace-attorney",
+  "capturadoEm": "2026-10-22T09:52:59.910Z",
+  "atualizadoEm": "2026-10-22T09:52:59.910Z",
+  "catalogo": {
+    "slug": "a/ace-attorney",
+    "titulo": "Ace Attorney",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ykBxH5jDVNprP5dcfLa32pTLW5h.jpg",
+    "info": "Legendado • Apr. 02, 2016",
+    "audio": "Legendado",
+    "score": "6.9",
+    "ano": "2016",
+    "publicadoEm": "Apr. 02, 2016",
+    "url": "https://meusanimes.blog/a/ace-attorney/",
+    "postId": "52645"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      36
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Ace Attorney",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ykBxH5jDVNprP5dcfLa32pTLW5h.jpg",
+  "score": "6.9",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 02, 2016",
+  "url": "https://meusanimes.blog/a/ace-attorney/"
+}

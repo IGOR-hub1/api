@@ -1,0 +1,1661 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "ghost-in-the-shell-stand-alone-complex",
+  "capturadoEm": "2026-10-22T09:47:55.351Z",
+  "atualizadoEm": "2026-10-22T22:05:16.098Z",
+  "catalogo": {
+    "slug": "a/ghost-in-the-shell-stand-alone-complex",
+    "titulo": "Ghost in the Shell: Stand Alone Complex",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r6jNekGWEPgFIZuqcUV5m8p6AIX.jpg",
+    "info": "Legendado • Oct. 01, 2002",
+    "audio": "Legendado",
+    "score": "8.197",
+    "ano": "2002",
+    "publicadoEm": "Oct. 01, 2002",
+    "url": "https://meusanimes.blog/a/ghost-in-the-shell-stand-alone-complex/",
+    "postId": "82132"
+  },
+  "detalhes": {
+    "slug": "a/ghost-in-the-shell-stand-alone-complex",
+    "titulo": "Ghost in the Shell: Stand Alone Complex",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r6jNekGWEPgFIZuqcUV5m8p6AIX.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/r6jNekGWEPgFIZuqcUV5m8p6AIX.jpg",
+    "sinopse": "A ciborgue Major Motoko Kusanagi e seus colegas da Seção 9 enfrentam diversos criminosos, tanto no mundo real quanto no virtual. Ao longo de suas missões, Kusanagi e sua equipe lidam com situações que vão desde crises com reféns até a perseguição de máquinas de matar de última geração que saíram do controle.",
+    "generos": [
+      "Ação",
+      "Crime",
+      "Ficção científica"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2002",
+    "publicadoEm": "Oct. 01, 2002",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/ghost-in-the-shell-stand-alone-complex/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 01, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tFi2OjRJsuBQZOc3b9inksy8Bv8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 1 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-2/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:16.098Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 01, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/lMUBpNj50g5XRlhKD6UHX9ZTFI4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 2 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-1",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-1/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-3/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:12.012Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Nov. 01, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/v476ukFJQeV9OSkUJkv7GkkqxNi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 3 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-2/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-4/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:07.870Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Nov. 01, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qAH9l6KLM8xQBkjQyXRAoP9Gp4C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 4 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-3/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-5/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:05:03.798Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Dec. 01, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/1iqrj6efbPGTGMKmFGg0L7fbJZQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 5 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-4/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-6/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:59.653Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Dec. 01, 2002",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/30zrqjTNu6NI9PpWMaYwxTVZZ9x.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 6 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-5/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-7/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:55.578Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Jan. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9ZWNOtl10TaIzuAIbPwDy2Kmyse.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 7 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-6/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-8/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:51.147Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Jan. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/6GPCmbYuCy1jUWBwVsaCtKUnO6g.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 8 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-7/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-9/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:47.084Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Feb. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fxEhGc8wF7mvdbsPcCBnISrI5OT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 9 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-8/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-10/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:42.948Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Feb. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/s7DX8Um1qVM8iuyBTK4cLn6n5kV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 10 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-9/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-11/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:38.741Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/yhPeL6piLQO8yhZLXnrow5hLrD6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 11 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-10/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-12",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-12/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:34.521Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/s9Quy12TakW4Roxqmk6sOgKPin3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 12 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-11/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-13",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-13/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:30.382Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Apr. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pHyKGWhqY5zMBCrjgGbb1aaqSGS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 13 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-12",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-12/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-14",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-14/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:26.349Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Apr. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/cIs5eELone0N7M3vN1pSH9PLUcD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 14 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-13",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-13/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-15",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-15/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:22.271Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "May. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/654R6GK9eyzAbp33vhWU1UaLRvI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 15 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-14",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-14/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-16",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-16/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:18.202Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "May. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ibsUmH1V276J0Sz0lGfgdU6JS4l.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 16 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-15",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-15/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-17",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-17/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:14.035Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Jun. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/nTLS073HPmL1ZFZBBfixSIwE5rE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 17 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-16",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-16/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-18",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-18/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:09.963Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Jun. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7sG5M7jLmMbzQIr4OzIjcyAVQ3y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 18 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-17",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-17/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-19",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-19/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:05.799Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Jul. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/6b7Bd4WfJP7evwPEsXVXIPaoQ0g.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 19 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-18",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-18/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-20",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-20/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:04:01.635Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Jul. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/yH6i6SNmJOwExMDzzLh5EGZpisZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 20 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-19",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-19/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-21",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-21/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:57.546Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Aug. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/ukHLowOGcVtEFAc927rfKLE6DUo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 21 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-20",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-20/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-22",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-22/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:53.469Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Aug. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/3mGCNZlA0jnpXY16QttrrZYwtfD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 22 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-21",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-21/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-23",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-23/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:49.252Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/yyvDoMxke4B7BmYe9U6rkyKIm8w.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 23 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-22",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-22/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-24",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-24/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:45.122Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/enxd97KfAHIholSAzqVITwN66fX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 24 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-23",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-23/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-25",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-25/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:40.998Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Oct. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/h2joNhmkGLCP4KJASbKvJVeQal7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 25 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-24",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-24/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-26",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-26/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:36.925Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Oct. 01, 2003",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tVLqrAB7ZaKAVT3wfYFbgXYoaw1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 1 Episodio 26 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-1-episodio-25",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-1-episodio-25/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:32.755Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 01, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/25srjvrkrE3RQJB17zfcU72bxKK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 1 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-2",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-2/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:28.519Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 01, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/diwyfcLnmwxPnJU42tPf9GTvGCL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 2 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-1",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-1/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-3",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-3/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:24.396Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Feb. 07, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bvhxwyeuRe5RboVp1OFscJOVrPO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 3 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-2",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-2/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-4",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-4/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:20.351Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 07, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/m7P62FbqV9D2keeuXCL7KJLHkG6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 4 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-3",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-3/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-5",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-5/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:16.298Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Mar. 06, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/15momlurGKSXSwqqiuhHqYOmlwl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 5 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-4",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-4/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-6",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-6/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:12.259Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 06, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/pkJEreDZ8iuvz7nbguSHgmS9KTH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 6 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-5",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-5/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-7",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-7/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:07.885Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Apr. 03, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/wjsN3188DxknFZ4RevMSCbHDT7R.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 7 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-6",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-6/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-8",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-8/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:03:03.754Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Apr. 03, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/hXMCVEmlsFtDxMkjBCbATTt0Iw2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 8 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-7",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-7/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-9",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-9/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:59.695Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "May. 08, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jRNu6YSLST4WeIs2P2Jim2NW68x.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 9 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-8",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-8/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-10",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-10/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:55.581Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "May. 08, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7QiqbeHkrhtjXonNcAHpnuyN2aM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 10 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-9",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-9/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-11",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-11/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:51.442Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 05, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/xyIpdYw96AviH31BX4ZYOGPsuxO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 11 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-10",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-10/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-12",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-12/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:47.323Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 05, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/opsnIx3L3xYnb2PGOYQTsfmgFOy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 12 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-11",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-11/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-13",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-13/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:43.274Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 03, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bZqnXb1ihviE1Ir70L2OsBILF4w.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 13 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-12",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-12/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-14",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-14/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:39.166Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 03, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8DDHkzgQnM4llWX08xegrGyv15V.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 14 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-13",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-13/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-15",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-15/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:35.055Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Aug. 07, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/sVKFFlgB8BU7o7Snn6a5BY5Et43.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 15 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-14",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-14/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-16",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-16/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:30.964Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Aug. 07, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/178gKYVRrWSNFPe6xVuvSGUBmwh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 16 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-15",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-15/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-17",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-17/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:26.894Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Sep. 04, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/gwFyJiMld1NW3oWKDEGVT9hmPh1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 17 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-16",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-16/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-18",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-18/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:22.760Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-18/",
+      "numero": 18,
+      "temporada": 2,
+      "nome": "Episódio 18",
+      "descricao": "Sep. 04, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/f7GmEp0pryXGCarOyGROwwBlq8b.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 18 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-17",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-17/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-19",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-19/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:16.073Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-19/",
+      "numero": 19,
+      "temporada": 2,
+      "nome": "Episódio 19",
+      "descricao": "Oct. 02, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/rFcWsdJSSEMgMKKrFj2R7OrN499.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 19 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-18",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-18/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-20",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-20/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:11.980Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-20/",
+      "numero": 20,
+      "temporada": 2,
+      "nome": "Episódio 20",
+      "descricao": "Oct. 02, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/bxBnYNzCeEhN0IpB9MxjTJ3ArK5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 20 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-19",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-19/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-21",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-21/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:07.710Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-21/",
+      "numero": 21,
+      "temporada": 2,
+      "nome": "Episódio 21",
+      "descricao": "Nov. 06, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/5ZDqOAUkQCWXyMMK6UVhxw2McH3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 21 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-20",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-20/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-22",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-22/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:02:03.683Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-22/",
+      "numero": 22,
+      "temporada": 2,
+      "nome": "Episódio 22",
+      "descricao": "Nov. 06, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/5uY7UxZuNxwleQUXBZngi8JI929.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 22 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-21",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-21/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-23",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-23/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:59.498Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-23/",
+      "numero": 23,
+      "temporada": 2,
+      "nome": "Episódio 23",
+      "descricao": "Dec. 04, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/4M8jaEeGvnr04FpKVpRDVSf2NL2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 23 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-22",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-22/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-24",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-24/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:55.406Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-24/",
+      "numero": 24,
+      "temporada": 2,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 04, 2004",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/28z3oB43IqkZapq2oW4Yecnrm4R.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 24 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-23",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-23/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-25",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-25/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:51.417Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-25/",
+      "numero": 25,
+      "temporada": 2,
+      "nome": "Episódio 25",
+      "descricao": "Jan. 08, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/sVR3y8LztTgjZfgevBSc2zjwVBk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 25 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-24",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-24/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-26",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-26/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:47.426Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-26/",
+      "numero": 26,
+      "temporada": 2,
+      "nome": "Episódio 26",
+      "descricao": "Jan. 08, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jBJliLvZa6KdKn3krsQMGVyz9JA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ghost in the Shell: Stand Alone Complex: 2 Episodio 26 Online",
+        "animeSlug": "a/ghost-in-the-shell-stand-alone-complex",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/ghost-in-the-shell-stand-alone-complex-2-episodio-25",
+          "link": "https://meusanimes.blog/e/ghost-in-the-shell-stand-alone-complex-2-episodio-25/",
+          "nome": "Ghost in the Shell: Stand Alone Complex 2 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1095/2/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:01:43.299Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1095/2/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1095/2/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      13
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 52,
+    "totalEpisodios": 52,
+    "midiasColetadas": 0,
+    "iframesColetados": 52,
+    "detalhesColetadosEm": "2026-10-22T22:01:36.238Z"
+  },
+  "titulo": "Ghost in the Shell: Stand Alone Complex",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/r6jNekGWEPgFIZuqcUV5m8p6AIX.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2002",
+  "publicadoEm": "Oct. 01, 2002",
+  "url": "https://meusanimes.blog/a/ghost-in-the-shell-stand-alone-complex/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/r6jNekGWEPgFIZuqcUV5m8p6AIX.jpg",
+  "temporadas": 2,
+  "descricao": "A ciborgue Major Motoko Kusanagi e seus colegas da Seção 9 enfrentam diversos criminosos, tanto no mundo real quanto no virtual. Ao longo de suas missões, Kusanagi e sua equipe lidam com situações que vão desde crises com reféns até a perseguição de máquinas de matar de última geração que saíram do controle."
+}

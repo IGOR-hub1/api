@@ -1,0 +1,460 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "needy-girl-overdose",
+  "capturadoEm": "2026-10-22T09:48:02.228Z",
+  "atualizadoEm": "2026-10-22T22:19:16.720Z",
+  "catalogo": {
+    "slug": "a/needy-girl-overdose",
+    "titulo": "Needy Girl Overdose",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jl79CIc8yL0m5VKR2X1qkoAsre0.jpg",
+    "info": "Legendado • Apr. 05, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 05, 2026",
+    "url": "https://meusanimes.blog/a/needy-girl-overdose/",
+    "postId": "81524"
+  },
+  "detalhes": {
+    "slug": "a/needy-girl-overdose",
+    "titulo": "Needy Girl Overdose",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jl79CIc8yL0m5VKR2X1qkoAsre0.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/jl79CIc8yL0m5VKR2X1qkoAsre0.jpg",
+    "sinopse": "Conta o cotidiano da streamer “OMGkawaiiAngel”, uma jovem com uma grande necessidade de aprovação que está tentando se tornar a melhor “Anjo da Internet”. Trabalhe com OMGkawaiiAngel para conseguir seguidores enquanto a ajuda a lidar com o estresse e situações um tanto perturbadoras. Experimente todos os altos e baixos e descubra por si mesmo se esta história é ao menos capaz de ter um final feliz.",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Suspense",
+      "Terror"
+    ],
+    "score": "6",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/needy-girl-overdose/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/1IiHhe0xpSAiVb2sZYFbB8Hq6qm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 1 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-2",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-2/",
+          "nome": "Needy Girl Overdose Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:16.720Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zD2NAzmhgKRHQW1NmuGkYeX72Lu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 2 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-1",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-1/",
+          "nome": "Needy Girl Overdose Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-3",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-3/",
+          "nome": "Needy Girl Overdose Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:12.566Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/hdPPHV9F746TsGLRGmUAOc04cQ8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 3 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-2",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-2/",
+          "nome": "Needy Girl Overdose Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-4",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-4/",
+          "nome": "Needy Girl Overdose Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:08.452Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/elXvdoXLR0siY8mv6TztNBbr2EZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 4 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-3",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-3/",
+          "nome": "Needy Girl Overdose Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-5",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-5/",
+          "nome": "Needy Girl Overdose Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:04.017Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/eDYu3KaoP05ySZ13bLc8ufxx8J3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 5 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-4",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-4/",
+          "nome": "Needy Girl Overdose Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-6",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-6/",
+          "nome": "Needy Girl Overdose Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:59.819Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/yKzc5Fbs9YtplankcUMN2syGHhv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 6 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-5",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-5/",
+          "nome": "Needy Girl Overdose Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-7",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-7/",
+          "nome": "Needy Girl Overdose Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:55.693Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/8ZZTLQ2RJSIergj3gUdvhaLRxUq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 7 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-6",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-6/",
+          "nome": "Needy Girl Overdose Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-8",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-8/",
+          "nome": "Needy Girl Overdose Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:51.515Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/qG2DT4pMAp9UO6EQxdQtOSSVuvF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 8 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-7",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-7/",
+          "nome": "Needy Girl Overdose Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-9",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-9/",
+          "nome": "Needy Girl Overdose Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:47.404Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/7kblSDpmteYEAZq73oehcN6jOeu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 9 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-8",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-8/",
+          "nome": "Needy Girl Overdose Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-10",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-10/",
+          "nome": "Needy Girl Overdose Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:43.293Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/rfM18Ij0wbBhzaAJtGHmfpPFBRk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 10 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-9",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-9/",
+          "nome": "Needy Girl Overdose Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-11",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-11/",
+          "nome": "Needy Girl Overdose Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:39.103Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/o7Qo4Dpb6L6ZbGv8iJpMftnbxAw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 11 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-10",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-10/",
+          "nome": "Needy Girl Overdose Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-12",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-12/",
+          "nome": "Needy Girl Overdose Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:34.778Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/xOxbO3O3n8xxNhRZITRq6LZ7crO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 12 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-11",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-11/",
+          "nome": "Needy Girl Overdose Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-13",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-13/",
+          "nome": "Needy Girl Overdose Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:30.635Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/needy-girl-overdose-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jun. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/gXSAezbP8OAQ7l1vOGV5djCP6St.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Needy Girl Overdose: 1 Episodio 13 Online",
+        "animeSlug": "a/needy-girl-overdose",
+        "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/needy-girl-overdose-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/needy-girl-overdose-episodio-12",
+          "link": "https://meusanimes.blog/e/needy-girl-overdose-episodio-12/",
+          "nome": "Needy Girl Overdose Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/305329/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:18:26.435Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/305329/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/305329/1/13/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      14
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 13,
+    "totalEpisodios": 13,
+    "midiasColetadas": 0,
+    "iframesColetados": 13,
+    "detalhesColetadosEm": "2026-10-22T22:18:21.047Z"
+  },
+  "titulo": "Needy Girl Overdose",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/jl79CIc8yL0m5VKR2X1qkoAsre0.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 05, 2026",
+  "url": "https://meusanimes.blog/a/needy-girl-overdose/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/jl79CIc8yL0m5VKR2X1qkoAsre0.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Conta o cotidiano da streamer “OMGkawaiiAngel”, uma jovem com uma grande necessidade de aprovação que está tentando se tornar a melhor “Anjo da Internet”. Trabalhe com OMGkawaiiAngel para conseguir seguidores enquanto a ajuda a lidar com o estresse e situações um tanto perturbadoras. Experimente todos os altos e baixos e descubra por si mesmo se esta história é ao menos capaz de ter um final feliz."
+}

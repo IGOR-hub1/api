@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "avatar-aang-the-last-airbender-2026-dublado",
+  "capturadoEm": "2026-10-21T23:15:43.387Z",
+  "atualizadoEm": "2026-10-22T09:40:46.502Z",
+  "catalogo": {
+    "slug": "a/avatar-aang-the-last-airbender-2026-dublado",
+    "titulo": "Avatar: Aang The Last Airbender (2026) Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+    "info": "Dublado • Jun. 30, 2026",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Jun. 30, 2026",
+    "url": "https://meusanimes.blog/a/avatar-aang-the-last-airbender-2026-dublado/",
+    "postId": "94012"
+  },
+  "detalhes": {
+    "slug": "a/avatar-aang-the-last-airbender-2026-dublado",
+    "titulo": "Avatar: Aang The Last Airbender (2026) Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+    "sinopse": "acompanha Aang, Katara, Sokka, Zuko e Toph na fase adulta, entre os 20 e 30 anos. A história aborda o amadurecimento do grupo enquanto Aang busca proteger seu legado e restaurar a cultura dos Nômades do Ar em um mundo em constante mudança",
+    "generos": [
+      "Ação",
+      "Família",
+      "Fantasia",
+      "Ficção científica",
+      "Shounen",
+      "Super Poderes"
+    ],
+    "score": "8",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Jun. 30, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/avatar-aang-the-last-airbender-2026-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/avatar-aang-the-last-airbender-2026-dublado/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jun. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/1hB9bjScqsfy7vdR1Jh6sVqdyqP.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Avatar: Aang The Last Airbender (2026) Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/avatar-aang-the-last-airbender-2026-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/16698091/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/avatar-aang-the-last-airbender-2026-dublado/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/16698091/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-21T23:15:47.432Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/16698091/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/16698091/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "detalhesColetadosEm": "2026-10-21T23:15:43.387Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 1
+  },
+  "titulo": "Avatar: Aang The Last Airbender (2026) Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Jun. 30, 2026",
+  "url": "https://meusanimes.blog/a/avatar-aang-the-last-airbender-2026-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/xbQiSFw4jWe5g29KbjrJL1oX1Hz.jpg",
+  "score": "8",
+  "temporadas": 1,
+  "descricao": "acompanha Aang, Katara, Sokka, Zuko e Toph na fase adulta, entre os 20 e 30 anos. A história aborda o amadurecimento do grupo enquanto Aang busca proteger seu legado e restaurar a cultura dos Nômades do Ar em um mundo em constante mudança"
+}

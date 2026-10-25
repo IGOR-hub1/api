@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "amagi-brilliant-park",
+  "capturadoEm": "2026-10-22T09:50:44.233Z",
+  "atualizadoEm": "2026-10-22T09:50:44.233Z",
+  "catalogo": {
+    "slug": "a/amagi-brilliant-park",
+    "titulo": "Amagi Brilliant Park",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/menCOx2SGRg3cHAfEHOeJIXG9RL.jpg",
+    "info": "Legendado • Oct. 07, 2014",
+    "audio": "Legendado",
+    "score": "7.2",
+    "ano": "2014",
+    "publicadoEm": "Oct. 07, 2014",
+    "url": "https://meusanimes.blog/a/amagi-brilliant-park/",
+    "postId": "62966"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      26
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Amagi Brilliant Park",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/menCOx2SGRg3cHAfEHOeJIXG9RL.jpg",
+  "score": "7.2",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Oct. 07, 2014",
+  "url": "https://meusanimes.blog/a/amagi-brilliant-park/"
+}

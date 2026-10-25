@@ -1,0 +1,433 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "ano-natsu-de-matteru",
+  "capturadoEm": "2026-10-22T09:47:08.897Z",
+  "atualizadoEm": "2026-10-22T20:15:20.788Z",
+  "catalogo": {
+    "slug": "a/ano-natsu-de-matteru",
+    "titulo": "Ano Natsu de Matteru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4FPljZMzFHbPkEZ8kmcVrPFepas.jpg",
+    "info": "Legendado • Jan. 10, 2012",
+    "audio": "Legendado",
+    "score": "7.588",
+    "ano": "2012",
+    "publicadoEm": "Jan. 10, 2012",
+    "url": "https://meusanimes.blog/a/ano-natsu-de-matteru/",
+    "postId": "87517"
+  },
+  "detalhes": {
+    "slug": "a/ano-natsu-de-matteru",
+    "titulo": "Ano Natsu de Matteru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4FPljZMzFHbPkEZ8kmcVrPFepas.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/4FPljZMzFHbPkEZ8kmcVrPFepas.jpg",
+    "sinopse": "Um grupo de amigos decide gravar um filme, enquanto estão de férias. Enquanto eles gravam o filme, eles vão aprendendo mais sobre o mundo do cinema e conhecendo melhor tanto os amigos que estão ali, quanto eles mesmos. O que começa como uma forma simples de evitar o mau humor do verão, rapidamente se transforma em algo muito mais complexo, intimidador e revelador. Mas, há algo misterioso por traz de tudo isso.",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Ficção científica",
+      "Romance",
+      "Slice Of Life"
+    ],
+    "score": "6",
+    "audio": "Legendado",
+    "ano": "2012",
+    "publicadoEm": "Jan. 10, 2012",
+    "temporadas": 1,
+    "formato": "Filme",
+    "url": "https://meusanimes.blog/a/ano-natsu-de-matteru/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 10, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/j2a9ZSOHbEcw2UdY09YcHQFcmGd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 1 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-2/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:15:20.788Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 17, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/nVNh06F6lu0OTmSPV6KsgDV2hs7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 2 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-1",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-1/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-3/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:15:16.671Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 24, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/rMzjueSpsJuz3sWeCyZ0FRBtGxf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 3 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-2/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-4/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:15:12.533Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 31, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/7Z22Erpeuj0VLTkcGv3Cq1KKwaK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 4 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-3/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-5/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:15:08.422Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 07, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/6SNs6Py6VvfnCMjQsrmJpCEHmwf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 5 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-4/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-6/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:15:04.060Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 14, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/xr9aRBiD85sEDRSaiaQVouezlWn.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 6 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-5/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-7/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:14:59.877Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 21, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/hbPoPtXlkM5bg189UKsFSqKrnFl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 7 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-6/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-8/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:14:55.736Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 28, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/m9ZthYqKK7dyq4T8LnmzMQLwgy1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 8 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-7/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-9/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:14:51.585Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 06, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/gsQCofk6sxq1CExvBxPUHQ5DGHM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 9 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-8/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-10/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:14:47.355Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 13, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/xAKfwTLj2Eu9sY22au4P8PIG6Yx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 10 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-9/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-11/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:14:42.948Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 20, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/hYprjzWeFNapmLTT9DMiaF3ARq8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 11 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-10/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-12",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-12/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:14:38.826Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 27, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/lg4rMOKU2yskTHerveHuuebUUV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Ano Natsu de Matteru: 1 Episodio 12 Online",
+        "animeSlug": "a/ano-natsu-de-matteru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/ano-natsu-de-matteru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/ano-natsu-de-matteru-1-episodio-11/",
+          "nome": "Ano Natsu de Matteru 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/42499/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T20:14:34.749Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/42499/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/42499/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      10
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T20:14:30.056Z"
+  },
+  "titulo": "Ano Natsu de Matteru",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/4FPljZMzFHbPkEZ8kmcVrPFepas.jpg",
+  "score": "6",
+  "audio": "Legendado",
+  "ano": "2012",
+  "publicadoEm": "Jan. 10, 2012",
+  "url": "https://meusanimes.blog/a/ano-natsu-de-matteru/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/05/4FPljZMzFHbPkEZ8kmcVrPFepas.jpg",
+  "temporadas": 1,
+  "formato": "Filme",
+  "descricao": "Um grupo de amigos decide gravar um filme, enquanto estão de férias. Enquanto eles gravam o filme, eles vão aprendendo mais sobre o mundo do cinema e conhecendo melhor tanto os amigos que estão ali, quanto eles mesmos. O que começa como uma forma simples de evitar o mau humor do verão, rapidamente se transforma em algo muito mais complexo, intimidador e revelador. Mas, há algo misterioso por traz de tudo isso."
+}

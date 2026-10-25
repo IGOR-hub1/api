@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "jian-wangchao",
+  "capturadoEm": "2026-10-22T09:54:49.987Z",
+  "atualizadoEm": "2026-10-22T09:54:49.987Z",
+  "catalogo": {
+    "slug": "a/jian-wangchao",
+    "titulo": "Jian Wangchao",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/9xZB3Vytryl6bensq5BioV65iwR.jpg",
+    "info": "Legendado • Apr. 26, 2017",
+    "audio": "Legendado",
+    "ano": "2017",
+    "publicadoEm": "Apr. 26, 2017",
+    "url": "https://meusanimes.blog/a/jian-wangchao/",
+    "postId": "40889"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      44
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Jian Wangchao",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/9xZB3Vytryl6bensq5BioV65iwR.jpg",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Apr. 26, 2017",
+  "url": "https://meusanimes.blog/a/jian-wangchao/"
+}

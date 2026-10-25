@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shounen-maid",
+  "capturadoEm": "2026-10-22T09:52:49.820Z",
+  "atualizadoEm": "2026-10-22T09:52:49.820Z",
+  "catalogo": {
+    "slug": "a/shounen-maid",
+    "titulo": "Shounen Maid",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/cievImlHJWkED35lYzOh35UGIsV.jpg",
+    "info": "Legendado • Apr. 08, 2016",
+    "audio": "Legendado",
+    "score": "5.6",
+    "ano": "2016",
+    "publicadoEm": "Apr. 08, 2016",
+    "url": "https://meusanimes.blog/a/shounen-maid/",
+    "postId": "53397"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      35
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Shounen Maid",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/cievImlHJWkED35lYzOh35UGIsV.jpg",
+  "score": "5.6",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 08, 2016",
+  "url": "https://meusanimes.blog/a/shounen-maid/"
+}

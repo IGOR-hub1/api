@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "gintama-yoshiwara-em-chamas",
+  "capturadoEm": "2026-10-22T09:45:37.347Z",
+  "atualizadoEm": "2026-10-22T15:19:16.177Z",
+  "catalogo": {
+    "slug": "a/gintama-yoshiwara-em-chamas",
+    "titulo": "Gintama: Yoshiwara em Chamas",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ih3mFlEZzsN9uQT7P4Zvaq4GkSm.jpg",
+    "info": "Legendado • Aug. 27, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Aug. 27, 2026",
+    "url": "https://meusanimes.blog/a/gintama-yoshiwara-em-chamas/",
+    "postId": "97489"
+  },
+  "detalhes": {
+    "slug": "a/gintama-yoshiwara-em-chamas",
+    "titulo": "Gintama: Yoshiwara em Chamas",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ih3mFlEZzsN9uQT7P4Zvaq4GkSm.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/ih3mFlEZzsN9uQT7P4Zvaq4GkSm.jpg",
+    "sinopse": "Gintoki e sua turma em uma jornAcompanhaada perigosa para ajudar um jovem batedor de carteiras a reencontrar sua mãe em um distrito subterrâneo dominado por um tirano",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Drama",
+      "Ficção científica"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Aug. 27, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/gintama-yoshiwara-em-chamas/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/gintama-yoshiwara-em-chamas/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Aug. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/sS8kgDkLWAi0Mx57DauMI5ZIZuu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Gintama: Yoshiwara em Chamas: 1 Episodio 1 Online",
+        "animeSlug": "a/gintama-yoshiwara-em-chamas",
+        "iframe": "https://serv01.meusdoramas.club/#/video/15309411/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/gintama-yoshiwara-em-chamas/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/15309411/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:19:16.177Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/15309411/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/15309411/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "midiasColetadas": 0,
+    "iframesColetados": 1,
+    "detalhesColetadosEm": "2026-10-22T15:19:12.095Z"
+  },
+  "titulo": "Gintama: Yoshiwara em Chamas",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/ih3mFlEZzsN9uQT7P4Zvaq4GkSm.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Aug. 27, 2026",
+  "url": "https://meusanimes.blog/a/gintama-yoshiwara-em-chamas/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/08/ih3mFlEZzsN9uQT7P4Zvaq4GkSm.jpg",
+  "score": "5",
+  "temporadas": 1,
+  "descricao": "Gintoki e sua turma em uma jornAcompanhaada perigosa para ajudar um jovem batedor de carteiras a reencontrar sua mãe em um distrito subterrâneo dominado por um tirano"
+}

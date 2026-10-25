@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "bucchigiri-dublado",
+  "capturadoEm": "2026-10-22T00:57:59.553Z",
+  "atualizadoEm": "2026-10-22T09:41:31.159Z",
+  "catalogo": {
+    "slug": "a/bucchigiri-dublado",
+    "titulo": "Bucchigiri?! Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/6WNDshG1wTRyqzDxw6HijqqBiWk.jpg",
+    "info": "Dublado • Jan. 13, 2024",
+    "audio": "Dublado",
+    "score": "7.893",
+    "ano": "2024",
+    "publicadoEm": "Jan. 13, 2024",
+    "url": "https://meusanimes.blog/a/bucchigiri-dublado/",
+    "postId": "88653"
+  },
+  "detalhes": {
+    "slug": "a/bucchigiri-dublado",
+    "titulo": "Bucchigiri?! Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/6WNDshG1wTRyqzDxw6HijqqBiWk.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/6WNDshG1wTRyqzDxw6HijqqBiWk.jpg",
+    "sinopse": "O reencontro de Arajin Tomoshibi com seu antigo amigo Matakara Asamine toma um rumo inesperado quando eles se envolvem em uma briga com os caras mais durões da cidade. E quando pensamos que as coisas não poderiam ficar mais esquisitas, um gigantesco gênio decide aparecer. Prepare-se para o confronto final. É a colisão entre o estilo e a magia!",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2024",
+    "publicadoEm": "Jan. 13, 2024",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/bucchigiri-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 13, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/pE1zPEUsc6N1XhhNRoJkGJdEbxI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-2/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:49.204Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 20, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/6Hcmpg8g1azlbaK3FGMHpqIY3ho.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-1/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-3/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:45.109Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 27, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/5qAO51ogDxKG8mtxsbHmnBx33H3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-2/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-4/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:40.970Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 03, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/8DFWAtxJqOz0MgNaIJCHyiVQdvb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-3/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-5/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:36.830Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/dJjhJlA9MyI51KLy2PYMKivJfsO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-4/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-6/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:32.781Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 17, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/rofoNh84n3mOrs4QPD3JWABmMGl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-5/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-7/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:28.699Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 02, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/t2BV6UVMkJy1JNq7bEIQRPPID8j.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-6/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-8/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:24.491Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 09, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/kPWq2mf7IcvDaa8G6tJgCh5FHRh.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-7/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-9/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:20.331Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 16, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/6h8L9LNIb9WJZOqOh6ST7H6dttd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-8/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-10/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:16.235Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 23, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/9oKai5MEkEnNwV5sxQ6pXPXRqGH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-9/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-11/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:12.123Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 30, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/rMSlEYyz8Otir6d9nBuI1zd8so3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-10/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-12/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:08.004Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Apr. 06, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/9UiyBjxxJiYTxRubOMfIbMFuX4N.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Bucchigiri?! Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/bucchigiri-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/bucchigiri-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/bucchigiri-dublado-1-episodio-11/",
+          "nome": "Bucchigiri?! Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2269051/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:58:03.868Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2269051/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2269051/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      8
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "detalhesColetadosEm": "2026-10-22T00:57:59.553Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 12
+  },
+  "titulo": "Bucchigiri?! Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/6WNDshG1wTRyqzDxw6HijqqBiWk.jpg",
+  "score": "7.893",
+  "audio": "Dublado",
+  "ano": "2024",
+  "publicadoEm": "Jan. 13, 2024",
+  "url": "https://meusanimes.blog/a/bucchigiri-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/6WNDshG1wTRyqzDxw6HijqqBiWk.jpg",
+  "temporadas": 1,
+  "descricao": "O reencontro de Arajin Tomoshibi com seu antigo amigo Matakara Asamine toma um rumo inesperado quando eles se envolvem em uma briga com os caras mais durões da cidade. E quando pensamos que as coisas não poderiam ficar mais esquisitas, um gigantesco gênio decide aparecer. Prepare-se para o confronto final. É a colisão entre o estilo e a magia!"
+}

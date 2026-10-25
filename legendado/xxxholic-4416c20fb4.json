@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "xxxholic",
+  "capturadoEm": "2026-10-22T09:49:54.408Z",
+  "atualizadoEm": "2026-10-22T09:49:54.408Z",
+  "catalogo": {
+    "slug": "a/xxxholic",
+    "titulo": "xxxHOLiC",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/k9HSk7qw3j7k6Yhuzhmr5SiglXR.jpg",
+    "info": "Legendado • Apr. 06, 2006",
+    "audio": "Legendado",
+    "score": "7.2",
+    "ano": "2006",
+    "publicadoEm": "Apr. 06, 2006",
+    "url": "https://meusanimes.blog/a/xxxholic/",
+    "postId": "67186"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      22
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "xxxHOLiC",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/k9HSk7qw3j7k6Yhuzhmr5SiglXR.jpg",
+  "score": "7.2",
+  "audio": "Legendado",
+  "ano": "2006",
+  "publicadoEm": "Apr. 06, 2006",
+  "url": "https://meusanimes.blog/a/xxxholic/"
+}

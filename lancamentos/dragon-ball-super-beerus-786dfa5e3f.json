@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "dragon-ball-super-beerus",
+  "capturadoEm": "2026-10-22T09:43:58.772Z",
+  "atualizadoEm": "2026-10-22T12:01:11.941Z",
+  "catalogo": {
+    "slug": "a/dragon-ball-super-beerus",
+    "titulo": "Dragon Ball Super: Beerus",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/57CiOXaO6OoUF96pBWXJxw19OGs.jpg",
+    "info": "Legendado • Em lançamento • Oct. 11, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Oct. 11, 2026",
+    "url": "https://meusanimes.blog/a/dragon-ball-super-beerus/",
+    "postId": "100496"
+  },
+  "detalhes": {
+    "slug": "a/dragon-ball-super-beerus",
+    "titulo": "Dragon Ball Super: Beerus",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/57CiOXaO6OoUF96pBWXJxw19OGs.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/57CiOXaO6OoUF96pBWXJxw19OGs.jpg",
+    "sinopse": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e seus amigos enfrentam uma batalha épica para impedi-lo de destruir a Terra. Versão remasterizada e reeditada de Dragon Ball Super.",
+    "generos": [
+      "Ação",
+      "Artes Marciais",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Shounen"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 11, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/dragon-ball-super-beerus/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-beerus-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/4uv8G3HYu0mEl2nTonUdkfkh3ZU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dragon Ball Super: Beerus: 1 Episodio 1 Online",
+        "animeSlug": "a/dragon-ball-super-beerus",
+        "iframe": "https://serv01.meusdoramas.club/#/video/312359/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-beerus-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dragon-ball-super-beerus-episodio-2",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-beerus-episodio-2/",
+          "nome": "Dragon Ball Super: Beerus Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/312359/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:01:11.941Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/312359/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/312359/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dragon-ball-super-beerus-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/rt17gQIFXmMteKyV1TXBfErj1rL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dragon Ball Super: Beerus: 1 Episodio 2 Online",
+        "animeSlug": "a/dragon-ball-super-beerus",
+        "iframe": "https://serv01.meusdoramas.club/#/video/312359/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dragon-ball-super-beerus-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dragon-ball-super-beerus-episodio-1",
+          "link": "https://meusanimes.blog/e/dragon-ball-super-beerus-episodio-1/",
+          "nome": "Dragon Ball Super: Beerus Episodio 1"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/312359/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:01:07.652Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/312359/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/312359/1/2/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 2,
+    "totalEpisodios": 2,
+    "midiasColetadas": 0,
+    "iframesColetados": 2,
+    "detalhesColetadosEm": "2026-10-22T12:01:02.750Z"
+  },
+  "titulo": "Dragon Ball Super: Beerus",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/57CiOXaO6OoUF96pBWXJxw19OGs.jpg",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 11, 2026",
+  "url": "https://meusanimes.blog/a/dragon-ball-super-beerus/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/57CiOXaO6OoUF96pBWXJxw19OGs.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e seus amigos enfrentam uma batalha épica para impedi-lo de destruir a Terra. Versão remasterizada e reeditada de Dragon Ball Super."
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "higashi-no-eden",
+  "capturadoEm": "2026-10-22T09:49:07.819Z",
+  "atualizadoEm": "2026-10-22T09:49:07.819Z",
+  "catalogo": {
+    "slug": "a/higashi-no-eden",
+    "titulo": "Higashi No Eden",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/sMUPkCG1Y1Z6dHcw7QOXuVsW6dr.jpg",
+    "info": "Legendado • Apr. 09, 2009",
+    "audio": "Legendado",
+    "score": "7",
+    "ano": "2009",
+    "publicadoEm": "Apr. 09, 2009",
+    "url": "https://meusanimes.blog/a/higashi-no-eden/",
+    "postId": "71616"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Higashi No Eden",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/sMUPkCG1Y1Z6dHcw7QOXuVsW6dr.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2009",
+  "publicadoEm": "Apr. 09, 2009",
+  "url": "https://meusanimes.blog/a/higashi-no-eden/"
+}

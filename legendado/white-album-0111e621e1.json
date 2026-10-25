@@ -1,0 +1,863 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "white-album",
+  "capturadoEm": "2026-10-22T09:48:38.780Z",
+  "atualizadoEm": "2026-10-23T00:21:27.710Z",
+  "catalogo": {
+    "slug": "a/white-album",
+    "titulo": "White Album",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/u9ydHEkkutF3K93rqMtfrma1KUt.jpg",
+    "info": "Legendado • Jan. 04, 2009",
+    "audio": "Legendado",
+    "score": "6.8",
+    "ano": "2009",
+    "publicadoEm": "Jan. 04, 2009",
+    "url": "https://meusanimes.blog/a/white-album/",
+    "postId": "76906"
+  },
+  "detalhes": {
+    "slug": "a/white-album",
+    "titulo": "White Album",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/u9ydHEkkutF3K93rqMtfrma1KUt.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/u9ydHEkkutF3K93rqMtfrma1KUt.jpg",
+    "sinopse": "Touya Fuji, um estudante universitário, está namorando uma estrela em ascensão chamada Yuki Morikawa. Vários desafios irão aparecer entre o casal, conturbando sua relação, vindos de outras pessoas, seja pelos amigos de Fuji, pelo trabalho de Morikawa ou vindos de outros lugares.",
+    "generos": [
+      "Drama",
+      "Romance",
+      "Slice Of Life"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2009",
+    "publicadoEm": "Jan. 04, 2009",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/white-album/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 04, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/az6soiQgD4j9eJN3QDgbeQcEVJk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 1 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-2",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-2/",
+          "nome": "White Album 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:27.710Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 11, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rn7oIBLREdtKvat9ncaWp443rwf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 2 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-1",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-1/",
+          "nome": "White Album 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-3",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-3/",
+          "nome": "White Album 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:23.368Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 18, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/fmb8qiIXf7APZ6IVGw3PWcOWngB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 3 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-2",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-2/",
+          "nome": "White Album 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-4",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-4/",
+          "nome": "White Album 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:19.096Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 25, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/xDc3kmQ5pJQd1V8ZW8ws69D5czw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 4 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-3",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-3/",
+          "nome": "White Album 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-5",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-5/",
+          "nome": "White Album 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:14.919Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 01, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sL0IqQ2Det3w8qnugrh6bg7tIVS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 5 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-4",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-4/",
+          "nome": "White Album 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-6",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-6/",
+          "nome": "White Album 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:10.703Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 08, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/uGW51wo1qhj8dHExNZkFAC73jHH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 6 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-5",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-5/",
+          "nome": "White Album 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-7",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-7/",
+          "nome": "White Album 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:06.550Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 15, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/heVlKvNCOH09Lk5EgvdorS3DfOI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 7 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-6",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-6/",
+          "nome": "White Album 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-8",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-8/",
+          "nome": "White Album 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:21:02.384Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 22, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/tsqYh84k6lg1u2zvzZIptKhze5C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 8 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-7",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-7/",
+          "nome": "White Album 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-9",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-9/",
+          "nome": "White Album 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:58.111Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 01, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/3OJA2wPpPNNQyZuIcs3Y0iwcbpQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 9 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-8",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-8/",
+          "nome": "White Album 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-10",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-10/",
+          "nome": "White Album 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:53.786Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 08, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hr8Weqx3R5Le6UVzslccr1AYbVA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 10 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-9",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-9/",
+          "nome": "White Album 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-11",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-11/",
+          "nome": "White Album 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:49.515Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 15, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/mAsl1yalTWIKjLWhCYSB7qgNauK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 11 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-10",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-10/",
+          "nome": "White Album 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-12",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-12/",
+          "nome": "White Album 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:45.034Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 22, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vUrrhsFBAvhhuHFeavfuSQ1R7fh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 12 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-11",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-11/",
+          "nome": "White Album 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-13",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-13/",
+          "nome": "White Album 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:40.823Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Mar. 29, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/z01WxAZ7ZIlhTcVKcj223X9WPTx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 13 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-12",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-12/",
+          "nome": "White Album 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-14",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-14/",
+          "nome": "White Album 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:36.684Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 04, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/p0Lni3xnN2tN7nGZxu4XqEsUk2i.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 14 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-13",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-13/",
+          "nome": "White Album 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-15",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-15/",
+          "nome": "White Album 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:32.337Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 11, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dRqeH09UKXKuoGRTTKAtunAVTA2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 15 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-14",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-14/",
+          "nome": "White Album 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-16",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-16/",
+          "nome": "White Album 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:28.171Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 18, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/k97nuYcf0FhY8joJSR18QlRroq0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 16 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-15",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-15/",
+          "nome": "White Album 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-17",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-17/",
+          "nome": "White Album 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:24.065Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 25, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/aVcOAcKik1h1WnqaXBZLIheg6e7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 17 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-16",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-16/",
+          "nome": "White Album 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-18",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-18/",
+          "nome": "White Album 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:19.872Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Nov. 01, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2FWn4xmgsRGn8sv59V1otSY3Is1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 18 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-17",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-17/",
+          "nome": "White Album 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-19",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-19/",
+          "nome": "White Album 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:15.548Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 08, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/fPyfpgEgvXFnTmMvmOTumnMfZrj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 19 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-18",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-18/",
+          "nome": "White Album 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-20",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-20/",
+          "nome": "White Album 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:11.435Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Nov. 15, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/9wFDlmvukgE5ZSJy2qBYlkO9Ebg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 20 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-19",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-19/",
+          "nome": "White Album 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-21",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-21/",
+          "nome": "White Album 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:07.272Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Nov. 22, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/8HJJ79bmJqUCdVPpCIcvO8YFwsQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 21 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-20",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-20/",
+          "nome": "White Album 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-22",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-22/",
+          "nome": "White Album 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:20:03.063Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Nov. 29, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/isTdgThVNLApUFYmROSPK76Uo99.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 22 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-21",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-21/",
+          "nome": "White Album 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-23",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-23/",
+          "nome": "White Album 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:19:58.918Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Dec. 06, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5TT7tgzwC6nGGJABbyYlCMF1phd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 23 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-22",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-22/",
+          "nome": "White Album 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-24",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-24/",
+          "nome": "White Album 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:19:54.781Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 13, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2IT4v7KIdCfsf0REK0ZGw90La70.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 24 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-23",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-23/",
+          "nome": "White Album 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-25",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-25/",
+          "nome": "White Album 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:19:50.598Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Dec. 20, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pBpgGf2yytJdZW6kS1GHqLZJTqZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 25 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-24",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-24/",
+          "nome": "White Album 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/white-album-1-episodio-26",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-26/",
+          "nome": "White Album 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:19:46.443Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/white-album-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Dec. 27, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cTAuXkc3GXPnnW7INjX1w1UHo0b.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "White Album: 1 Episodio 26 Online",
+        "animeSlug": "a/white-album",
+        "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/white-album-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/white-album-1-episodio-25",
+          "link": "https://meusanimes.blog/e/white-album-1-episodio-25/",
+          "nome": "White Album 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/28502/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-23T00:19:42.301Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/28502/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/28502/1/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 26,
+    "totalEpisodios": 26,
+    "midiasColetadas": 0,
+    "iframesColetados": 26,
+    "detalhesColetadosEm": "2026-10-23T00:19:36.750Z"
+  },
+  "titulo": "White Album",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/u9ydHEkkutF3K93rqMtfrma1KUt.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2009",
+  "publicadoEm": "Jan. 04, 2009",
+  "url": "https://meusanimes.blog/a/white-album/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/u9ydHEkkutF3K93rqMtfrma1KUt.jpg",
+  "temporadas": 1,
+  "descricao": "Touya Fuji, um estudante universitário, está namorando uma estrela em ascensão chamada Yuki Morikawa. Vários desafios irão aparecer entre o casal, conturbando sua relação, vindos de outras pessoas, seja pelos amigos de Fuji, pelo trabalho de Morikawa ou vindos de outros lugares."
+}

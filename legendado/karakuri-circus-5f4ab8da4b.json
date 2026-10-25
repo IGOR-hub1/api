@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "karakuri-circus",
+  "capturadoEm": "2026-10-22T09:55:38.346Z",
+  "atualizadoEm": "2026-10-22T09:55:38.346Z",
+  "catalogo": {
+    "slug": "a/karakuri-circus",
+    "titulo": "Karakuri Circus",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pUhEiAZXI6OqlUnIbUjlANzY8V9.jpg",
+    "info": "Legendado • Oct. 11, 2018",
+    "audio": "Legendado",
+    "score": "8.14",
+    "ano": "2018",
+    "publicadoEm": "Oct. 11, 2018",
+    "url": "https://meusanimes.blog/a/karakuri-circus/",
+    "postId": "36892"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      47
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Karakuri Circus",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pUhEiAZXI6OqlUnIbUjlANzY8V9.jpg",
+  "score": "8.14",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Oct. 11, 2018",
+  "url": "https://meusanimes.blog/a/karakuri-circus/"
+}

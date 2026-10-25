@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "dimension-w",
+  "capturadoEm": "2026-10-22T09:52:20.441Z",
+  "atualizadoEm": "2026-10-22T09:52:20.441Z",
+  "catalogo": {
+    "slug": "a/dimension-w",
+    "titulo": "Dimension W",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/b27bg0rMBUdRbJjP72k0V2ToTyE.jpg",
+    "info": "Legendado • Jan. 10, 2016",
+    "audio": "Legendado",
+    "score": "6.782",
+    "ano": "2016",
+    "publicadoEm": "Jan. 10, 2016",
+    "url": "https://meusanimes.blog/a/dimension-w/",
+    "postId": "55656"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      33
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Dimension W",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/b27bg0rMBUdRbJjP72k0V2ToTyE.jpg",
+  "score": "6.782",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jan. 10, 2016",
+  "url": "https://meusanimes.blog/a/dimension-w/"
+}

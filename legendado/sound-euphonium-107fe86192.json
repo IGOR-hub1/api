@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sound-euphonium",
+  "capturadoEm": "2026-10-22T09:49:59.112Z",
+  "atualizadoEm": "2026-10-22T09:49:59.112Z",
+  "catalogo": {
+    "slug": "a/sound-euphonium",
+    "titulo": "Sound! Euphonium",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/5PwD9F9ot5z3CUvb95qXtk3PGsf.jpg",
+    "info": "Legendado • Apr. 08, 2015",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2015",
+    "publicadoEm": "Apr. 08, 2015",
+    "url": "https://meusanimes.blog/a/sound-euphonium/",
+    "postId": "66825"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      22
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sound! Euphonium",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/5PwD9F9ot5z3CUvb95qXtk3PGsf.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 08, 2015",
+  "url": "https://meusanimes.blog/a/sound-euphonium/"
+}

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "my-girlfriends-friend",
+  "capturadoEm": "2026-10-22T09:44:46.505Z",
+  "atualizadoEm": "2026-10-22T12:55:37.588Z",
+  "catalogo": {
+    "slug": "a/my-girlfriends-friend",
+    "titulo": "My Girlfriend’s Friend",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/rT7WxYIaecmLPzbelYcij27E1Nj.jpg",
+    "info": "Legendado • Oct. 05, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 05, 2026",
+    "url": "https://meusanimes.blog/a/my-girlfriends-friend/",
+    "postId": "100069"
+  },
+  "detalhes": {
+    "slug": "a/my-girlfriends-friend",
+    "titulo": "My Girlfriend’s Friend",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/rT7WxYIaecmLPzbelYcij27E1Nj.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/rT7WxYIaecmLPzbelYcij27E1Nj.jpg",
+    "sinopse": "Um garoto começa a namorar uma garota, mas acaba se envolvendo com a melhor amiga dela. A situação vira um complicado triângulo amoroso, cheio de atração, ciúmes, segredos e risco de traição.",
+    "generos": [
+      "Drama",
+      "Ecchi",
+      "Romance",
+      "Seinen"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/my-girlfriends-friend/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/w2CJ68bdrbAyUV1w64HjP7CE0iX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "My Girlfriend’s Friend: 1 Episodio 1 Online",
+        "animeSlug": "a/my-girlfriends-friend",
+        "iframe": "https://serv01.meusdoramas.club/#/video/336654/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/my-girlfriends-friend-episodio-2",
+          "link": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-2/",
+          "nome": "My Girlfriend’s Friend Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/336654/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:55:37.588Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/336654/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/336654/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/tRlAPYRvZOriGqow3J2BxZTXE3U.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "My Girlfriend’s Friend: 1 Episodio 2 Online",
+        "animeSlug": "a/my-girlfriends-friend",
+        "iframe": "https://serv01.meusdoramas.club/#/video/336654/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/my-girlfriends-friend-episodio-1",
+          "link": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-1/",
+          "nome": "My Girlfriend’s Friend Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/my-girlfriends-friend-episodio-3",
+          "link": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-3/",
+          "nome": "My Girlfriend’s Friend Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/336654/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:55:33.819Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/336654/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/336654/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/txj4xB0W7Yf2ncPLYM4X2j7iE1d.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "My Girlfriend’s Friend: 1 Episodio 3 Online",
+        "animeSlug": "a/my-girlfriends-friend",
+        "iframe": "https://serv01.meusdoramas.club/#/video/336654/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/my-girlfriends-friend-episodio-2",
+          "link": "https://meusanimes.blog/e/my-girlfriends-friend-episodio-2/",
+          "nome": "My Girlfriend’s Friend Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/336654/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:55:30.104Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/336654/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/336654/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T12:55:26.158Z"
+  },
+  "titulo": "My Girlfriend’s Friend",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/rT7WxYIaecmLPzbelYcij27E1Nj.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 05, 2026",
+  "url": "https://meusanimes.blog/a/my-girlfriends-friend/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/rT7WxYIaecmLPzbelYcij27E1Nj.jpg",
+  "score": "6",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Um garoto começa a namorar uma garota, mas acaba se envolvendo com a melhor amiga dela. A situação vira um complicado triângulo amoroso, cheio de atração, ciúmes, segredos e risco de traição."
+}

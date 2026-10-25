@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "nyanko-days",
+  "capturadoEm": "2026-10-22T09:54:33.367Z",
+  "atualizadoEm": "2026-10-22T09:54:33.367Z",
+  "catalogo": {
+    "slug": "a/nyanko-days",
+    "titulo": "Nyanko Days",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/rSW9hSkVvhUSxe8okCO7Vm2wD0p.jpg",
+    "info": "Legendado • Jan. 08, 2017",
+    "audio": "Legendado",
+    "score": "6.5",
+    "ano": "2017",
+    "publicadoEm": "Jan. 08, 2017",
+    "url": "https://meusanimes.blog/a/nyanko-days/",
+    "postId": "41774"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      43
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Nyanko Days",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/rSW9hSkVvhUSxe8okCO7Vm2wD0p.jpg",
+  "score": "6.5",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jan. 08, 2017",
+  "url": "https://meusanimes.blog/a/nyanko-days/"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "rabbithub-anime-catalog-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API privada de catálogo de animes para Vercel.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/build-catalog-index.js",
+    "test": "node --test tests/*.test.js"
+  }
+}

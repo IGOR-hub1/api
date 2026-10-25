@@ -1,0 +1,800 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "futari-solo-camp-dublado",
+  "capturadoEm": "2026-10-22T00:29:10.331Z",
+  "atualizadoEm": "2026-10-22T09:41:19.818Z",
+  "catalogo": {
+    "slug": "a/futari-solo-camp-dublado",
+    "titulo": "Futari Solo Camp Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/gP7rdhoejxIwZUzB6vpnlsQsdOB.jpg",
+    "info": "Dublado • Jul. 11, 2025",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Jul. 11, 2025",
+    "url": "https://meusanimes.blog/a/futari-solo-camp-dublado/",
+    "postId": "89965"
+  },
+  "detalhes": {
+    "slug": "a/futari-solo-camp-dublado",
+    "titulo": "Futari Solo Camp Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/gP7rdhoejxIwZUzB6vpnlsQsdOB.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/gP7rdhoejxIwZUzB6vpnlsQsdOB.jpg",
+    "sinopse": "Gen Kinokura, 34 anos. Gen, um cara que gosta de acampar sozinho, estava curtindo sua solidão como sempre… Mas, em uma reviravolta inesperada, ele tem um encontro casual com uma super novata em acampamentos, Shizuku Kusano, e a contragosto deixa ela se juntar a ele em seu acampamento solo? O que acontecerá com a vida tranquila de acampamento de Gen?",
+    "generos": [
+      "Comédia",
+      "Seinen",
+      "Slice Of Life"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Jul. 11, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/futari-solo-camp-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 11, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3OCBSf4O2Q5fQEOpYZ4rYPZqW89.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-2/",
+          "nome": "Futari Solo Camp Dublado Episódio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:50.308Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 18, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/8cJsZf5UmMAoGbxwfdFCGNHMry1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-1/",
+          "nome": "Futari Solo Camp Dublado Episódio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-3/",
+          "nome": "Futari Solo Camp Dublado Episódio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:46.217Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 25, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/eecQZiILVEaz5IFd1DcvH9I5nPz.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-2/",
+          "nome": "Futari Solo Camp Dublado Episódio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-4/",
+          "nome": "Futari Solo Camp Dublado Episódio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:42.038Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 01, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cCfEz6G7YK3kfzuDsIbpDgqpKKX.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-3/",
+          "nome": "Futari Solo Camp Dublado Episódio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-5/",
+          "nome": "Futari Solo Camp Dublado Episódio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:37.915Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 08, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/u73C5m1FD1OqdNDQqrUBSaxU0Bj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-4",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-4/",
+          "nome": "Futari Solo Camp Dublado Episódio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-6/",
+          "nome": "Futari Solo Camp Dublado Episódio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:33.763Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 15, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/rxmgPWnH0ttXllaUYE4EgKt7O5o.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-5",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-5/",
+          "nome": "Futari Solo Camp Dublado Episódio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-7/",
+          "nome": "Futari Solo Camp Dublado Episódio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:29.653Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 22, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/mv9P20qsqR5LfQpc8SOZqv6PZUj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-6",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-6/",
+          "nome": "Futari Solo Camp Dublado Episódio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-8/",
+          "nome": "Futari Solo Camp Dublado Episódio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:25.490Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 29, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/PlBoW1u7vtSrZl0UMJVnTnwiW2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-7",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-7/",
+          "nome": "Futari Solo Camp Dublado Episódio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-9/",
+          "nome": "Futari Solo Camp Dublado Episódio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:21.359Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/sIg1A2Qo1NAv7sg9ktT5kZ3QIKJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-8",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-8/",
+          "nome": "Futari Solo Camp Dublado Episódio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-10/",
+          "nome": "Futari Solo Camp Dublado Episódio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:17.195Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/pHThZQmHbdlRs8Y2QGusuOiyW8E.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-9",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-9/",
+          "nome": "Futari Solo Camp Dublado Episódio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-11/",
+          "nome": "Futari Solo Camp Dublado Episódio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:13.071Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/rWApHFH7NwGWZ0HdWSXFWmix57i.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-10",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-10/",
+          "nome": "Futari Solo Camp Dublado Episódio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-12/",
+          "nome": "Futari Solo Camp Dublado Episódio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:08.929Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 26, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/i7PLuiuzySHXtlnlROMjUPbeLgY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-11",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-11/",
+          "nome": "Futari Solo Camp Dublado Episódio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-13",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-13/",
+          "nome": "Futari Solo Camp Dublado Episódio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:04.813Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 03, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/yHfNiRUc5nGZzrkIVvzE2JpM30e.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-12",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-12/",
+          "nome": "Futari Solo Camp Dublado Episódio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-14",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-14/",
+          "nome": "Futari Solo Camp Dublado Episódio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:30:00.719Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ckimWEZ2HQIJhAHCyV4KSZVLk93.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-13",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-13/",
+          "nome": "Futari Solo Camp Dublado Episódio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-15",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-15/",
+          "nome": "Futari Solo Camp Dublado Episódio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:56.646Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 17, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/4ZAAaalZ8Mnwinj7S9ShZWMJ2bC.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-14",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-14/",
+          "nome": "Futari Solo Camp Dublado Episódio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-16",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-16/",
+          "nome": "Futari Solo Camp Dublado Episódio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:52.460Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 24, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/eeFCmKRSOFX570paOwHD9SMOorK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-15",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-15/",
+          "nome": "Futari Solo Camp Dublado Episódio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-17",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-17/",
+          "nome": "Futari Solo Camp Dublado Episódio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:48.315Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 31, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/oefzllIRbvGr5ExSZwXKKiJwy99.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-16",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-16/",
+          "nome": "Futari Solo Camp Dublado Episódio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-18",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-18/",
+          "nome": "Futari Solo Camp Dublado Episódio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:44.241Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Nov. 07, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/7YGVmzdJCG9B7fM4o0qqNMu35SF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-17",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-17/",
+          "nome": "Futari Solo Camp Dublado Episódio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-19",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-19/",
+          "nome": "Futari Solo Camp Dublado Episódio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:40.129Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 14, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/5JG6RxHbgtoeNvshOCZzhYSclGB.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-18",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-18/",
+          "nome": "Futari Solo Camp Dublado Episódio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-20",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-20/",
+          "nome": "Futari Solo Camp Dublado Episódio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:35.567Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Nov. 21, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/o4faorBkT9rQkOrcMN6TctHUKQw.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-19",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-19/",
+          "nome": "Futari Solo Camp Dublado Episódio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-21",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-21/",
+          "nome": "Futari Solo Camp Dublado Episódio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:31.457Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Nov. 28, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/nzYO8KUrRk1lI6sDOPiZSvBukqm.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-20",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-20/",
+          "nome": "Futari Solo Camp Dublado Episódio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-22",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-22/",
+          "nome": "Futari Solo Camp Dublado Episódio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:27.377Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Dec. 05, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/p1AuC1glEttX8CD5ZzghOhOIg6m.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-21",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-21/",
+          "nome": "Futari Solo Camp Dublado Episódio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-23",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-23/",
+          "nome": "Futari Solo Camp Dublado Episódio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:23.268Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Dec. 12, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/lxqGbbxR9NiHKCB2HZo0ehB3DEo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-22",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-22/",
+          "nome": "Futari Solo Camp Dublado Episódio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-24",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-24/",
+          "nome": "Futari Solo Camp Dublado Episódio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:19.177Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 19, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/w7ivUAgbmdomBgECG6XMB0vFhBs.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Futari Solo Camp Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/futari-solo-camp-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/futari-solo-camp-dublado-episodio-23",
+          "link": "https://meusanimes.blog/e/futari-solo-camp-dublado-episodio-23/",
+          "nome": "Futari Solo Camp Dublado Episódio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/2810441/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T00:29:14.904Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/2810441/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/2810441/1/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      7
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T00:29:10.331Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Futari Solo Camp Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/gP7rdhoejxIwZUzB6vpnlsQsdOB.jpg",
+  "audio": "Dublado",
+  "ano": "2025",
+  "publicadoEm": "Jul. 11, 2025",
+  "url": "https://meusanimes.blog/a/futari-solo-camp-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/gP7rdhoejxIwZUzB6vpnlsQsdOB.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Gen Kinokura, 34 anos. Gen, um cara que gosta de acampar sozinho, estava curtindo sua solidão como sempre… Mas, em uma reviravolta inesperada, ele tem um encontro casual com uma super novata em acampamentos, Shizuku Kusano, e a contragosto deixa ela se juntar a ele em seu acampamento solo? O que acontecerá com a vida tranquila de acampamento de Gen?"
+}

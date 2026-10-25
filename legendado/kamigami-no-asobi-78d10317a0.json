@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kamigami-no-asobi",
+  "capturadoEm": "2026-10-22T09:50:49.671Z",
+  "atualizadoEm": "2026-10-22T09:50:49.671Z",
+  "catalogo": {
+    "slug": "a/kamigami-no-asobi",
+    "titulo": "Kamigami no Asobi",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/eGyHddc7V6DRrnMg55RYAirIZDC.jpg",
+    "info": "Legendado • Apr. 05, 2014",
+    "audio": "Legendado",
+    "score": "5.6",
+    "ano": "2014",
+    "publicadoEm": "Apr. 05, 2014",
+    "url": "https://meusanimes.blog/a/kamigami-no-asobi/",
+    "postId": "62585"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      26
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kamigami no Asobi",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/eGyHddc7V6DRrnMg55RYAirIZDC.jpg",
+  "score": "5.6",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Apr. 05, 2014",
+  "url": "https://meusanimes.blog/a/kamigami-no-asobi/"
+}

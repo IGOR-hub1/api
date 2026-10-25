@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "juuni-taisen",
+  "capturadoEm": "2026-10-22T09:54:51.358Z",
+  "atualizadoEm": "2026-10-22T09:54:51.358Z",
+  "catalogo": {
+    "slug": "a/juuni-taisen",
+    "titulo": "Juuni Taisen",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/lWFatAjB2vjn2lKlELWFUi0MU33.jpg",
+    "info": "Legendado • Oct. 02, 2017",
+    "audio": "Legendado",
+    "score": "7.6",
+    "ano": "2017",
+    "publicadoEm": "Oct. 02, 2017",
+    "url": "https://meusanimes.blog/a/juuni-taisen/",
+    "postId": "40802"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      44
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Juuni Taisen",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/lWFatAjB2vjn2lKlELWFUi0MU33.jpg",
+  "score": "7.6",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Oct. 02, 2017",
+  "url": "https://meusanimes.blog/a/juuni-taisen/"
+}

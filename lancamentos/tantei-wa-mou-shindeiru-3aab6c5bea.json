@@ -1,0 +1,518 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "tantei-wa-mou-shindeiru",
+  "capturadoEm": "2026-10-22T09:44:08.041Z",
+  "atualizadoEm": "2026-10-22T12:21:15.152Z",
+  "catalogo": {
+    "slug": "a/tantei-wa-mou-shindeiru",
+    "titulo": "Tantei wa Mou, Shindeiru.",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5NXO5acrIa2hkDxIqFyKcVW6vca.jpg",
+    "info": "Legendado • Em lançamento • Jul. 04, 2021",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "score": "5.7",
+    "ano": "2021",
+    "publicadoEm": "Jul. 04, 2021",
+    "url": "https://meusanimes.blog/a/tantei-wa-mou-shindeiru/",
+    "postId": "19304"
+  },
+  "detalhes": {
+    "slug": "a/tantei-wa-mou-shindeiru",
+    "titulo": "Tantei wa Mou, Shindeiru.",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5NXO5acrIa2hkDxIqFyKcVW6vca.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/5NXO5acrIa2hkDxIqFyKcVW6vca.jpg",
+    "sinopse": "Tantei wa Mou, Shindeiru. Online , Kimihiko Kimizuka teve sua vida mudada quando se tornou assistente de um misterioso detetive conhecido como “Siesta”. Após alguns anos de missões e casos alucinantes sendo resolvidos junto a ela como seu assistente, Siesta subitamente morreu, deixando para traz Kimihiko, que voltou a sua vida tediosa de estudante. Agora no ensino médio, Kimihiko precisa aprender a lidar com o seu dia a dia sem as agitações das investigações, mesmo que seu passado com Siesta fique voltando para o provoca-lo, muito graças a irmã mais nova da detetive.",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Mistério",
+      "Romance"
+    ],
+    "score": "7",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2021",
+    "publicadoEm": "Jul. 04, 2021",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/tantei-wa-mou-shindeiru/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/4U0Lb64I4lGXyyQP19PUfDVaBgV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 1 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-2/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:15.152Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uoZCpVllytLBtWlqyTIyQuHfD2L.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 2 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-1",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-1/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-3/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:11.138Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/wVUAlAILQvHFeh5foZfdmREYa7s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 3 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-2/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-4/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:07.097Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/jsY7YEYEgkG82CkWiAjJ3f7jQZB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 4 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-3/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-5/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:21:03.057Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 01, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uNdeu9Nh0IhERVJdYq7eYNfwqH8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 5 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-4/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-6/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:59.027Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 08, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/eNkyxxqsXqg0v8ccUiIk7LGQI8r.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 6 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-5/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-7/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:54.996Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 15, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/eP775j9UTqhUeeTYs12n691sqKp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 7 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-6/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-8/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:50.926Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 22, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/jJ26IoU7QzBE5TVfdKSq2JWZGwe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 8 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-7/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-9/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:46.144Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 29, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/vQOi24lDqKfKT6IjFHi4S9lHRkC.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 9 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-8/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-10/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:42.072Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 05, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/c6e7gDgzPNzri2rz0Ao08vBae7c.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 10 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-9/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-11/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:38.034Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 12, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/6hAOJxoS0iTtZUkHWydYPAbKdIw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 11 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-10/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-12",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-12/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:34.017Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 19, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ylhT0Q7wjlnmNHTOVHOBA23AGXA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 1 Episodio 12 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-1-episodio-11/",
+          "nome": "Tantei wa Mou, Shindeiru. 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:29.976Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/cReGind6wgOqWbKv1vrWbOhXaPU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 2 Episodio 1 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-2-episodio-2",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-2/",
+          "nome": "Tantei wa Mou, Shindeiru. 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:25.898Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/7nY4snj9mPlWTTcGjSTMkDuKDVa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 2 Episodio 2 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-2-episodio-1",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-1/",
+          "nome": "Tantei wa Mou, Shindeiru. 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-2-episodio-3",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-3/",
+          "nome": "Tantei wa Mou, Shindeiru. 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:21.865Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/gnAOTqcBqWSeqVwDBwBnKBlWiwA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tantei wa Mou, Shindeiru.: 2 Episodio 3 Online",
+        "animeSlug": "a/tantei-wa-mou-shindeiru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/117061/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/tantei-wa-mou-shindeiru-2-episodio-2",
+          "link": "https://meusanimes.blog/e/tantei-wa-mou-shindeiru-2-episodio-2/",
+          "nome": "Tantei wa Mou, Shindeiru. 2 Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/117061/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:20:17.810Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/117061/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/117061/2/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      1
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 15,
+    "totalEpisodios": 15,
+    "midiasColetadas": 0,
+    "iframesColetados": 15,
+    "detalhesColetadosEm": "2026-10-22T12:20:12.562Z"
+  },
+  "titulo": "Tantei wa Mou, Shindeiru.",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/5NXO5acrIa2hkDxIqFyKcVW6vca.jpg",
+  "score": "7",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2021",
+  "publicadoEm": "Jul. 04, 2021",
+  "url": "https://meusanimes.blog/a/tantei-wa-mou-shindeiru/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/5NXO5acrIa2hkDxIqFyKcVW6vca.jpg",
+  "temporadas": 2,
+  "descricao": "Tantei wa Mou, Shindeiru. Online , Kimihiko Kimizuka teve sua vida mudada quando se tornou assistente de um misterioso detetive conhecido como “Siesta”. Após alguns anos de missões e casos alucinantes sendo resolvidos junto a ela como seu assistente, Siesta subitamente morreu, deixando para traz Kimihiko, que voltou a sua vida tediosa de estudante. Agora no ensino médio, Kimihiko precisa aprender a lidar com o seu dia a dia sem as agitações das investigações, mesmo que seu passado com Siesta fique voltando para o provoca-lo, muito graças a irmã mais nova da detetive."
+}

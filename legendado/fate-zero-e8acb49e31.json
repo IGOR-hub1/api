@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "fate-zero",
+  "capturadoEm": "2026-10-22T09:49:55.721Z",
+  "atualizadoEm": "2026-10-22T09:49:55.721Z",
+  "catalogo": {
+    "slug": "a/fate-zero",
+    "titulo": "Fate/Zero",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/hfTEDISVpFMqmp6uOGylsSakyXZ.jpg",
+    "info": "Legendado • Oct. 02, 2011",
+    "audio": "Legendado",
+    "score": "8",
+    "ano": "2011",
+    "publicadoEm": "Oct. 02, 2011",
+    "url": "https://meusanimes.blog/a/fate-zero/",
+    "postId": "66962"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      22
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Fate/Zero",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/hfTEDISVpFMqmp6uOGylsSakyXZ.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Oct. 02, 2011",
+  "url": "https://meusanimes.blog/a/fate-zero/"
+}

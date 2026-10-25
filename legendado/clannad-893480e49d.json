@@ -1,0 +1,1600 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "clannad",
+  "capturadoEm": "2026-10-22T09:48:32.702Z",
+  "atualizadoEm": "2026-10-22T23:54:24.922Z",
+  "catalogo": {
+    "slug": "a/clannad",
+    "titulo": "Clannad",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
+    "info": "Legendado • Oct. 05, 2007",
+    "audio": "Legendado",
+    "score": "8.3",
+    "ano": "2007",
+    "publicadoEm": "Oct. 05, 2007",
+    "url": "https://meusanimes.blog/a/clannad/",
+    "postId": "78893"
+  },
+  "detalhes": {
+    "slug": "a/clannad",
+    "titulo": "Clannad",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
+    "sinopse": "Tomoya é um estudante amargurado do terceiro ano do ensino médio. Sua mãe faleceu, o que levou seu pai a se refugiar no álcool e no jogo. Tomoya se afastou do pai e se tornou um delinquente nos anos que se seguiram à morte da mãe. A caminho da escola, ele conhece Nagisa Furukawa, que é um ano mais velha, mas está repetindo a série devido a uma doença. Ela está sozinha, já que a maioria de seus amigos seguiu em frente. Os dois começam a sair juntos e, com o passar do tempo, Tomoya percebe que sua vida está tomando um novo rumo.",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Fantasia",
+      "Romance"
+    ],
+    "score": "8",
+    "audio": "Legendado",
+    "ano": "2007",
+    "publicadoEm": "Oct. 05, 2007",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/clannad/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 05, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/adGNMycbeegvsGRpMMvhR1ON3Pg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 1 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-2",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-2/",
+          "nome": "Clannad 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:54:24.922Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 12, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ilosaDbXJAr6fH6xmEQQqJchDYd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 2 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-1",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-1/",
+          "nome": "Clannad 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-3",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-3/",
+          "nome": "Clannad 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:54:20.677Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 19, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/4LNH1bQwFBcYRLxatU3qkRcAyAJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 3 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-2",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-2/",
+          "nome": "Clannad 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-4",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-4/",
+          "nome": "Clannad 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:54:16.260Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 26, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/aCHcO7OZLsP7h4ZE8VWpuabiuBR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 4 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-3",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-3/",
+          "nome": "Clannad 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-5",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-5/",
+          "nome": "Clannad 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:54:11.990Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 02, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/24wZSrDveV2gJ7oLDODoSeWoLwE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 5 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-4",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-4/",
+          "nome": "Clannad 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-6",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-6/",
+          "nome": "Clannad 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:54:07.688Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 09, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ny0TfrpMHEys5ilHPJeREQdqhBl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 6 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-5",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-5/",
+          "nome": "Clannad 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-7",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-7/",
+          "nome": "Clannad 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:54:03.494Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 16, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/f0aLH3h5j0ZDGdzaxDwA6zlUp0f.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 7 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-6",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-6/",
+          "nome": "Clannad 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-8",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-8/",
+          "nome": "Clannad 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:59.328Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 23, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/c6SUn29Njkc4EUCpjLH190nG3I8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 8 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-7",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-7/",
+          "nome": "Clannad 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-9",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-9/",
+          "nome": "Clannad 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:55.226Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 30, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/q15BThOIZXjGA75cyRy04wd9V3l.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 9 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-8",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-8/",
+          "nome": "Clannad 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-10",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-10/",
+          "nome": "Clannad 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:51.053Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 07, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/sCwoMa8XPzTWGlelZb9OUTw5iBr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 10 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-9",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-9/",
+          "nome": "Clannad 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-11",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-11/",
+          "nome": "Clannad 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:46.913Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 14, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/qFaS9GHcbeXs9jCSkpmI9SMI1np.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 11 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-10",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-10/",
+          "nome": "Clannad 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-12",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-12/",
+          "nome": "Clannad 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:42.774Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 21, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/znKPYdKw9igBDeHPKMI5zC6Wq8D.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 12 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-11",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-11/",
+          "nome": "Clannad 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-13",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-13/",
+          "nome": "Clannad 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:38.663Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 11, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/f0Pc2tA8tILJ94WLTZj19w2yZpQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 13 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-12",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-12/",
+          "nome": "Clannad 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-14",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-14/",
+          "nome": "Clannad 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:34.521Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 18, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/trlFzpLQJpKhIQo3J4tdjKHPWYH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 14 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-13",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-13/",
+          "nome": "Clannad 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-15",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-15/",
+          "nome": "Clannad 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:30.371Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 25, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/wwfNHZXEibIGguXeeO9ikyR6jUI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 15 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-14",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-14/",
+          "nome": "Clannad 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-16",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-16/",
+          "nome": "Clannad 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:26.263Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Feb. 01, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/5KBW1Wjk5pbZEn17FFdfuwH74TK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 16 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-15",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-15/",
+          "nome": "Clannad 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-17",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-17/",
+          "nome": "Clannad 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:22.138Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 08, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/pHKvt9rlwpKWrcsVjpUGxtAlpbL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 17 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-16",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-16/",
+          "nome": "Clannad 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-18",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-18/",
+          "nome": "Clannad 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:18.013Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 15, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/lf5ydMheBB9jzl9hj2gUpXwQkvN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 18 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-17",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-17/",
+          "nome": "Clannad 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-19",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-19/",
+          "nome": "Clannad 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:13.702Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 29, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/d0MWhNPsVvooBUqvOasnfVykR7H.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 19 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-18",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-18/",
+          "nome": "Clannad 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-20",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-20/",
+          "nome": "Clannad 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:09.567Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Mar. 07, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dgTl2brzibvM60OuOkgYjNYha84.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 20 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-19",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-19/",
+          "nome": "Clannad 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-21",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-21/",
+          "nome": "Clannad 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:05.467Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 14, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/655tJrUJkEiaotkU5gxWHLWoEAf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 21 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-20",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-20/",
+          "nome": "Clannad 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-22",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-22/",
+          "nome": "Clannad 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:53:01.302Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 21, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dxdHyRn6TVbmJ1DhpvJaz8bUL3s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 22 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-21",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-21/",
+          "nome": "Clannad 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-23",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-23/",
+          "nome": "Clannad 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:57.142Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 28, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dxdHyRn6TVbmJ1DhpvJaz8bUL3s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 23 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-22",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-22/",
+          "nome": "Clannad 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-24",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-24/",
+          "nome": "Clannad 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:53.040Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Apr. 05, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dxdHyRn6TVbmJ1DhpvJaz8bUL3s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 24 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-23",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-23/",
+          "nome": "Clannad 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-25",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-25/",
+          "nome": "Clannad 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:48.964Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Apr. 11, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dxdHyRn6TVbmJ1DhpvJaz8bUL3s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 25 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-24",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-24/",
+          "nome": "Clannad 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-1-episodio-26",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-26/",
+          "nome": "Clannad 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:44.837Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Apr. 18, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/dxdHyRn6TVbmJ1DhpvJaz8bUL3s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 1 Episodio 26 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/clannad-1-episodio-25",
+          "link": "https://meusanimes.blog/e/clannad-1-episodio-25/",
+          "nome": "Clannad 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:40.698Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 03, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/oLZ0F6XGDZzJTx28AcwckISilq3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 1 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-2",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-2/",
+          "nome": "Clannad 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:36.593Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 10, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/lO7L3fPC8jpmLhNamewfVthxzTr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 2 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-1",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-1/",
+          "nome": "Clannad 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-3",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-3/",
+          "nome": "Clannad 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:32.472Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 17, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/At4WiY819uQRlBUHgX3BUOOcGt2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 3 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-2",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-2/",
+          "nome": "Clannad 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-4",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-4/",
+          "nome": "Clannad 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:28.342Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 24, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/nr9a8CPdaV2FAK4o7gpi8U7sZlG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 4 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-3",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-3/",
+          "nome": "Clannad 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-5",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-5/",
+          "nome": "Clannad 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:24.245Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Oct. 31, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/w4Eno5zQzZxwwCgc8oA4tnHTziW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 5 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-4",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-4/",
+          "nome": "Clannad 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-6",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-6/",
+          "nome": "Clannad 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:20.116Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 07, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/1rQRzYSaFZ7RtbQ2bOgcaeYuz7S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 6 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-5",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-5/",
+          "nome": "Clannad 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-7",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-7/",
+          "nome": "Clannad 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:16.020Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 14, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ukAxEjcRBMprjMJXkL9jk5Nq7Ou.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 7 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-6",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-6/",
+          "nome": "Clannad 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-8",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-8/",
+          "nome": "Clannad 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:11.834Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 21, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/h6j0HgHTEXG7LQV0J06AqpIKogp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 8 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-7",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-7/",
+          "nome": "Clannad 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-9",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-9/",
+          "nome": "Clannad 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:07.723Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 28, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/c9oXTRPDTyU6DkB3SS71pFN00X8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 9 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-8",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-8/",
+          "nome": "Clannad 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-10",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-10/",
+          "nome": "Clannad 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:52:03.652Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 05, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/30Mdodo0LEjiIoNwqLuM3iNIsAt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 10 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-9",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-9/",
+          "nome": "Clannad 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-11",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-11/",
+          "nome": "Clannad 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:59.502Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 12, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/fjJfEqWJLxHijsxsaWWM57cj7jf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 11 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-10",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-10/",
+          "nome": "Clannad 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-12",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-12/",
+          "nome": "Clannad 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:55.352Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 19, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/ol86uqp1zm1z0kM1yEvygyA9D44.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 12 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-11",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-11/",
+          "nome": "Clannad 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-13",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-13/",
+          "nome": "Clannad 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:51.263Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 09, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/kAltddIXxUoFXZrTFHzqvwmg8jy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 13 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-12",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-12/",
+          "nome": "Clannad 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-14",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-14/",
+          "nome": "Clannad 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:47.072Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 16, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/2xchoU4mBRjPyoHhbU21cZQOyBP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 14 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-13",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-13/",
+          "nome": "Clannad 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-15",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-15/",
+          "nome": "Clannad 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:42.974Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 23, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/vCzvRIr56fajrlxquGtqezJ01C2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 15 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-14",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-14/",
+          "nome": "Clannad 2 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-16",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-16/",
+          "nome": "Clannad 2 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:38.817Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 30, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/7DuKscCDPOH2uxVmjvPeLxonNx2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 16 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-15",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-15/",
+          "nome": "Clannad 2 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-17",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-17/",
+          "nome": "Clannad 2 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:34.674Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 06, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/bKL3B4ih30zZYP9UXOeGYvVlYoz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 17 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-16",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-16/",
+          "nome": "Clannad 2 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-18",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-18/",
+          "nome": "Clannad 2 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:30.583Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-18/",
+      "numero": 18,
+      "temporada": 2,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 13, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/hlSga0GXKfIVhOobjVUnGodH44V.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 18 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-17",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-17/",
+          "nome": "Clannad 2 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-19",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-19/",
+          "nome": "Clannad 2 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:26.254Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-19/",
+      "numero": 19,
+      "temporada": 2,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 20, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/l6h4C82AsSuyoXPCd9AeJ4KWksB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 19 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-18",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-18/",
+          "nome": "Clannad 2 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-20",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-20/",
+          "nome": "Clannad 2 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:22.082Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-20/",
+      "numero": 20,
+      "temporada": 2,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 27, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/eEXyB8CfGmBWnxvzcQw62sOjbIB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 20 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-19",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-19/",
+          "nome": "Clannad 2 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-21",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-21/",
+          "nome": "Clannad 2 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:17.993Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-21/",
+      "numero": 21,
+      "temporada": 2,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 06, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/mzgcb41lgzdzz2HRTuCSn9U7Fuj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 21 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-20",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-20/",
+          "nome": "Clannad 2 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-22",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-22/",
+          "nome": "Clannad 2 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:13.889Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-22/",
+      "numero": 22,
+      "temporada": 2,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 13, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rffWtw3S4EhzyvjLTdDnxigMRRQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 22 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-21",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-21/",
+          "nome": "Clannad 2 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-23",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-23/",
+          "nome": "Clannad 2 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:09.801Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-23/",
+      "numero": 23,
+      "temporada": 2,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 20, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rffWtw3S4EhzyvjLTdDnxigMRRQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 23 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-22",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-22/",
+          "nome": "Clannad 2 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/clannad-2-episodio-24",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-24/",
+          "nome": "Clannad 2 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:05.250Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/clannad-2-episodio-24/",
+      "numero": 24,
+      "temporada": 2,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 27, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/rffWtw3S4EhzyvjLTdDnxigMRRQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Clannad: 2 Episodio 24 Online",
+        "animeSlug": "a/clannad",
+        "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/clannad-2-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/clannad-2-episodio-23",
+          "link": "https://meusanimes.blog/e/clannad-2-episodio-23/",
+          "nome": "Clannad 2 Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/24835/2/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:51:01.141Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/24835/2/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/24835/2/24/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      16
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 50,
+    "totalEpisodios": 50,
+    "midiasColetadas": 0,
+    "iframesColetados": 50,
+    "detalhesColetadosEm": "2026-10-22T23:50:54.470Z"
+  },
+  "titulo": "Clannad",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/03/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
+  "score": "8",
+  "audio": "Legendado",
+  "ano": "2007",
+  "publicadoEm": "Oct. 05, 2007",
+  "url": "https://meusanimes.blog/a/clannad/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/03/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg",
+  "temporadas": 2,
+  "descricao": "Tomoya é um estudante amargurado do terceiro ano do ensino médio. Sua mãe faleceu, o que levou seu pai a se refugiar no álcool e no jogo. Tomoya se afastou do pai e se tornou um delinquente nos anos que se seguiram à morte da mãe. A caminho da escola, ele conhece Nagisa Furukawa, que é um ano mais velha, mas está repetindo a série devido a uma doença. Ela está sozinha, já que a maioria de seus amigos seguiu em frente. Os dois começam a sair juntos e, com o passar do tempo, Tomoya percebe que sua vida está tomando um novo rumo."
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "re-kan",
+  "capturadoEm": "2026-10-22T09:52:03.169Z",
+  "atualizadoEm": "2026-10-22T09:52:03.169Z",
+  "catalogo": {
+    "slug": "a/re-kan",
+    "titulo": "Re-Kan!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/tulzlnY9wfKnAFHUuF8KEWIkTCA.jpg",
+    "info": "Legendado • Apr. 03, 2015",
+    "audio": "Legendado",
+    "score": "5.6",
+    "ano": "2015",
+    "publicadoEm": "Apr. 03, 2015",
+    "url": "https://meusanimes.blog/a/re-kan/",
+    "postId": "56510"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      32
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Re-Kan!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/tulzlnY9wfKnAFHUuF8KEWIkTCA.jpg",
+  "score": "5.6",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Apr. 03, 2015",
+  "url": "https://meusanimes.blog/a/re-kan/"
+}

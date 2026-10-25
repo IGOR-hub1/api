@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "nia-liston-the-merciless-maiden",
+  "capturadoEm": "2026-10-22T09:44:41.256Z",
+  "atualizadoEm": "2026-10-22T12:53:59.495Z",
+  "catalogo": {
+    "slug": "a/nia-liston-the-merciless-maiden",
+    "titulo": "Nia Liston: The Merciless Maiden",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+    "info": "Legendado • Oct. 06, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 06, 2026",
+    "url": "https://meusanimes.blog/a/nia-liston-the-merciless-maiden/",
+    "postId": "100133"
+  },
+  "detalhes": {
+    "slug": "a/nia-liston-the-merciless-maiden",
+    "titulo": "Nia Liston: The Merciless Maiden",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+    "sinopse": "Uma grande heroína jaz invicta em seu leito de morte, lamentando nunca ter encontrado um oponente capaz de derrotá-la. Ela jamais imaginou encontrar seu fim em outro lugar que não fosse o campo de batalha, e essa morte tranquila a faz desejar desesperadamente que tudo pudesse ter sido diferente… Mas, quando desperta subitamente no corpo da jovem e frágil Nia Liston, uma nova luta surge à sua frente. Nia é uma criança doente, o que significa que ainda tem um longo caminho a percorrer até alcançar a forma ideal de combate. Agora que recebeu uma segunda chance na vida, ela está determinada a conseguir o que deseja. Desta vez, ela vai viver (e morrer) pela batalha!",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Fantasia"
+    ],
+    "score": "5",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 06, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/nia-liston-the-merciless-maiden/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/kzSDXGQZAPhgf3SjCFi5kRo4B3C.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nia Liston: The Merciless Maiden: 1 Episodio 1 Online",
+        "animeSlug": "a/nia-liston-the-merciless-maiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/312850/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/nia-liston-the-merciless-maiden-episodio-2",
+          "link": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-2/",
+          "nome": "Nia Liston: The Merciless Maiden Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/312850/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:53:59.495Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/312850/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/312850/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/aIns3PNHoPmqTjeYRaWTy2l8MLK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nia Liston: The Merciless Maiden: 1 Episodio 2 Online",
+        "animeSlug": "a/nia-liston-the-merciless-maiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/312850/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/nia-liston-the-merciless-maiden-episodio-1",
+          "link": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-1/",
+          "nome": "Nia Liston: The Merciless Maiden Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/nia-liston-the-merciless-maiden-episodio-3",
+          "link": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-3/",
+          "nome": "Nia Liston: The Merciless Maiden Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/312850/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:53:55.764Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/312850/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/312850/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/nBuR9zJofrQ9qUZpjPntsL1zKiI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Nia Liston: The Merciless Maiden: 1 Episodio 3 Online",
+        "animeSlug": "a/nia-liston-the-merciless-maiden",
+        "iframe": "https://serv01.meusdoramas.club/#/video/312850/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/nia-liston-the-merciless-maiden-episodio-2",
+          "link": "https://meusanimes.blog/e/nia-liston-the-merciless-maiden-episodio-2/",
+          "nome": "Nia Liston: The Merciless Maiden Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/312850/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T12:53:52.048Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/312850/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/312850/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      2
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T12:53:48.073Z"
+  },
+  "titulo": "Nia Liston: The Merciless Maiden",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 06, 2026",
+  "url": "https://meusanimes.blog/a/nia-liston-the-merciless-maiden/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+  "score": "5",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Uma grande heroína jaz invicta em seu leito de morte, lamentando nunca ter encontrado um oponente capaz de derrotá-la. Ela jamais imaginou encontrar seu fim em outro lugar que não fosse o campo de batalha, e essa morte tranquila a faz desejar desesperadamente que tudo pudesse ter sido diferente… Mas, quando desperta subitamente no corpo da jovem e frágil Nia Liston, uma nova luta surge à sua frente. Nia é uma criança doente, o que significa que ainda tem um longo caminho a percorrer até alcançar a forma ideal de combate. Agora que recebeu uma segunda chance na vida, ela está determinada a conseguir o que deseja. Desta vez, ela vai viver (e morrer) pela batalha!"
+}

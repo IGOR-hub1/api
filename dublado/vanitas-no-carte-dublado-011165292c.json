@@ -1,0 +1,796 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "vanitas-no-carte-dublado",
+  "capturadoEm": "2026-10-22T05:46:58.154Z",
+  "atualizadoEm": "2026-10-22T09:42:53.060Z",
+  "catalogo": {
+    "slug": "a/vanitas-no-carte-dublado",
+    "titulo": "Vanitas no Carte Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/sja5f0YyKe7G6bVtSrpaXCvd9ia.jpg",
+    "info": "Dublado • Jul. 03, 2021",
+    "audio": "Dublado",
+    "score": "8.4",
+    "ano": "2021",
+    "publicadoEm": "Jul. 03, 2021",
+    "url": "https://meusanimes.blog/a/vanitas-no-carte-dublado/",
+    "postId": "74251"
+  },
+  "detalhes": {
+    "slug": "a/vanitas-no-carte-dublado",
+    "titulo": "Vanitas no Carte Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/sja5f0YyKe7G6bVtSrpaXCvd9ia.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/sja5f0YyKe7G6bVtSrpaXCvd9ia.jpg",
+    "sinopse": "É Paris, século XIX, e o jovem vampiro Noé caça o Livro de Vanitas. Atacado por um vampiro levado à loucura, um humano intercede, resgata Noé, e cura a criatura doente. Comandando o livro e chamando a si mesmo de Vanitas, este médico seduz Noé com uma louca cruzada para “curar” toda a raça vampira. Aliar-se a alguém que exerce tão facilmente o poder arcano pode ser perigoso, mas será que ele tem escolha?",
+    "generos": [
+      "Ação",
+      "Fantasia",
+      "Histórico",
+      "Mistério",
+      "Shounen",
+      "Sobrenatural"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2021",
+    "publicadoEm": "Jul. 03, 2021",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/vanitas-no-carte-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 03, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/blZJnJ8drDAJC8xTXRGpOuxjHVy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-2/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:41.309Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 10, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/vqhrR2nbdirOz2rVLs9hED8RAKj.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-1/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-3/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:37.076Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 17, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/94rM9faQkJZtCUengJ1plGvswpF.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-2/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-4/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:32.948Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 24, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/y0H2fdZ9Yu4hm3XcDsnGWADNoic.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-3/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-5/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:28.795Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 31, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3oO4ZLbADd5dep8VUrouiZKMkcQ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-4/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-6/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:24.622Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 07, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/atwQ3hZ6mWCQMrKtVzmbB3cYLdd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-5/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-7/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:20.443Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 14, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/A3CbiU6Mzomc0KOYyFEL3PT75YD.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-6/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-8/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:16.220Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 21, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/AbiTpk3dT831v3au4sdlqsz7YgE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-7/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-9/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:12.068Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 28, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/tHvvL3EQlMZ7xw2lGapns9L63dp.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-8/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-10/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:07.931Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pTjwAuz4kDajRPQPJSEmSly91Iy.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-9/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-11/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:48:03.654Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/lVzujCcQntQ6YbBBgDWx7r9uBmu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-10/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-12/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:59.484Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/tobG6djRnC7FhYYsrGr4y7XpWaS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-1-episodio-11/",
+          "nome": "Vanitas no Carte Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:55.280Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 15, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/lj9z8YrHWgrcDpK4khAxHxBEkDT.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-2/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:51.136Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 22, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/bIL5r9N6JWSFaWwzQWsKqvkE2Jt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-1/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-3/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:46.980Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 29, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/nS4u591auOSDHiK3SPo7Y24b2CR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-2/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-4/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:42.794Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 05, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uCl5fdUgFOU40WnOWei02Pi8g52.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-3/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-5/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:38.643Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 12, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/ru4M5cqadZsStG4PkAjaKR8kJ3N.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-4/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-6/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:34.492Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 19, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/l7jipo9aXtFwMo85yVEU5q9VLzM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-5/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-7/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:30.311Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 26, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/4GJYtBqNTm5NbiKopKvmjm3iPRg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 7 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-6/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-8/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:26.224Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 05, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/kjsbGBcStxqzVP4dsJ2gV2p2Oxd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 8 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-7",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-7/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-9/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:22.052Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 12, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1N57vjaTdT2X7m4Zb9eFuc8WpoE.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 9 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-8",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-8/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-10/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:17.861Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 19, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/o02gqNIsJgC0AaEc8hFZOYk9LJS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 10 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-9",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-9/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-11/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:13.616Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 26, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/v4GqUbwnaliDJ4ZJP9o4cF54xAO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 11 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-10",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-10/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-12",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-12/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:09.443Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Apr. 02, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/eXeA7F7DakLxr62DuYMtGjnQSy7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Vanitas no Carte Dublado: 2 Episodio 12 Online",
+        "animeSlug": "a/vanitas-no-carte-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/vanitas-no-carte-dublado-2-episodio-11",
+          "link": "https://meusanimes.blog/e/vanitas-no-carte-dublado-2-episodio-11/",
+          "nome": "Vanitas no Carte Dublado 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1219641/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:47:05.248Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1219641/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1219641/2/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      15
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 24,
+    "totalEpisodios": 24,
+    "detalhesColetadosEm": "2026-10-22T05:46:58.154Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 24
+  },
+  "titulo": "Vanitas no Carte Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/sja5f0YyKe7G6bVtSrpaXCvd9ia.jpg",
+  "score": "8.4",
+  "audio": "Dublado",
+  "ano": "2021",
+  "publicadoEm": "Jul. 03, 2021",
+  "url": "https://meusanimes.blog/a/vanitas-no-carte-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/sja5f0YyKe7G6bVtSrpaXCvd9ia.jpg",
+  "temporadas": 2,
+  "descricao": "É Paris, século XIX, e o jovem vampiro Noé caça o Livro de Vanitas. Atacado por um vampiro levado à loucura, um humano intercede, resgata Noé, e cura a criatura doente. Comandando o livro e chamando a si mesmo de Vanitas, este médico seduz Noé com uma louca cruzada para “curar” toda a raça vampira. Aliar-se a alguém que exerce tão facilmente o poder arcano pode ser perigoso, mas será que ele tem escolha?"
+}

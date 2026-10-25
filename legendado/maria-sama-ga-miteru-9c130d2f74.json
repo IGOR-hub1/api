@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "maria-sama-ga-miteru",
+  "capturadoEm": "2026-10-22T09:49:06.445Z",
+  "atualizadoEm": "2026-10-22T09:49:06.445Z",
+  "catalogo": {
+    "slug": "a/maria-sama-ga-miteru",
+    "titulo": "Maria-sama ga Miteru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/ySE0mr2h0rhn9ksybGo9UdhD5.jpg",
+    "info": "Legendado • Jan. 07, 2004",
+    "audio": "Legendado",
+    "score": "6",
+    "ano": "2004",
+    "publicadoEm": "Jan. 07, 2004",
+    "url": "https://meusanimes.blog/a/maria-sama-ga-miteru/",
+    "postId": "71780"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Maria-sama ga Miteru",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/ySE0mr2h0rhn9ksybGo9UdhD5.jpg",
+  "score": "6",
+  "audio": "Legendado",
+  "ano": "2004",
+  "publicadoEm": "Jan. 07, 2004",
+  "url": "https://meusanimes.blog/a/maria-sama-ga-miteru/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "eromanga-sensei",
+  "capturadoEm": "2026-10-22T09:53:39.045Z",
+  "atualizadoEm": "2026-10-22T09:53:39.045Z",
+  "catalogo": {
+    "slug": "a/eromanga-sensei",
+    "titulo": "Eromanga Sensei",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/fJZLob1SkfUQ7PXry6I345dIuVn.jpg",
+    "info": "Legendado • Apr. 09, 2017",
+    "audio": "Legendado",
+    "score": "6",
+    "ano": "2017",
+    "publicadoEm": "Apr. 09, 2017",
+    "url": "https://meusanimes.blog/a/eromanga-sensei/",
+    "postId": "45820"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      39
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Eromanga Sensei",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/fJZLob1SkfUQ7PXry6I345dIuVn.jpg",
+  "score": "6",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Apr. 09, 2017",
+  "url": "https://meusanimes.blog/a/eromanga-sensei/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "gabriel-dropout",
+  "capturadoEm": "2026-10-22T09:54:53.362Z",
+  "atualizadoEm": "2026-10-22T09:54:53.362Z",
+  "catalogo": {
+    "slug": "a/gabriel-dropout",
+    "titulo": "Gabriel DropOut",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/54RLULTycUjyIfsqjYwijDbO9C0.jpg",
+    "info": "Legendado • Jan. 09, 2017",
+    "audio": "Legendado",
+    "score": "6.455",
+    "ano": "2017",
+    "publicadoEm": "Jan. 09, 2017",
+    "url": "https://meusanimes.blog/a/gabriel-dropout/",
+    "postId": "40266"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      44
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Gabriel DropOut",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/54RLULTycUjyIfsqjYwijDbO9C0.jpg",
+  "score": "6.455",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jan. 09, 2017",
+  "url": "https://meusanimes.blog/a/gabriel-dropout/"
+}

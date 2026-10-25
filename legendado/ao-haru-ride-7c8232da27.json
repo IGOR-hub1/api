@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "ao-haru-ride",
+  "capturadoEm": "2026-10-22T09:53:49.234Z",
+  "atualizadoEm": "2026-10-22T09:53:49.234Z",
+  "catalogo": {
+    "slug": "a/ao-haru-ride",
+    "titulo": "Ao Haru Ride",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/t9F4O5llagb7TOi17tZN6F9ygiJ.jpg",
+    "info": "Legendado • Jul. 08, 2014",
+    "audio": "Legendado",
+    "score": "8.471",
+    "ano": "2014",
+    "publicadoEm": "Jul. 08, 2014",
+    "url": "https://meusanimes.blog/a/ao-haru-ride/",
+    "postId": "45028"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      39
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Ao Haru Ride",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/t9F4O5llagb7TOi17tZN6F9ygiJ.jpg",
+  "score": "8.471",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Jul. 08, 2014",
+  "url": "https://meusanimes.blog/a/ao-haru-ride/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "monster",
+  "capturadoEm": "2026-10-22T09:50:28.087Z",
+  "atualizadoEm": "2026-10-22T09:50:28.087Z",
+  "catalogo": {
+    "slug": "a/monster",
+    "titulo": "Monster",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
+    "info": "Legendado • Apr. 07, 2004",
+    "audio": "Legendado",
+    "score": "8.495",
+    "ano": "2004",
+    "publicadoEm": "Apr. 07, 2004",
+    "url": "https://meusanimes.blog/a/monster/",
+    "postId": "65031"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      25
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Monster",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/7ZhHyA0IIQOyz1hzCXpTilXg4Q2.jpg",
+  "score": "8.495",
+  "audio": "Legendado",
+  "ano": "2004",
+  "publicadoEm": "Apr. 07, 2004",
+  "url": "https://meusanimes.blog/a/monster/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "ef-a-tale-of-memories",
+  "capturadoEm": "2026-10-22T09:49:19.188Z",
+  "atualizadoEm": "2026-10-22T09:49:19.188Z",
+  "catalogo": {
+    "slug": "a/ef-a-tale-of-memories",
+    "titulo": "EF – A Tale of Memories",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/cx5A0on1ZXhdnJmOO08KcbXzKQj.jpg",
+    "info": "Legendado • Oct. 06, 2007",
+    "audio": "Legendado",
+    "score": "7.1",
+    "ano": "2007",
+    "publicadoEm": "Oct. 06, 2007",
+    "url": "https://meusanimes.blog/a/ef-a-tale-of-memories/",
+    "postId": "70593"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "EF – A Tale of Memories",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/cx5A0on1ZXhdnJmOO08KcbXzKQj.jpg",
+  "score": "7.1",
+  "audio": "Legendado",
+  "ano": "2007",
+  "publicadoEm": "Oct. 06, 2007",
+  "url": "https://meusanimes.blog/a/ef-a-tale-of-memories/"
+}

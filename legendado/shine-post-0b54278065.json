@@ -1,0 +1,431 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "shine-post",
+  "capturadoEm": "2026-10-22T09:48:15.570Z",
+  "atualizadoEm": "2026-10-22T23:01:42.870Z",
+  "catalogo": {
+    "slug": "a/shine-post",
+    "titulo": "Shine Post",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qz0CWswDNsSsBkHjkcT6a98zo2e.jpg",
+    "info": "Legendado • Jul. 13, 2022",
+    "audio": "Legendado",
+    "score": "8.6",
+    "ano": "2022",
+    "publicadoEm": "Jul. 13, 2022",
+    "url": "https://meusanimes.blog/a/shine-post/",
+    "postId": "81115"
+  },
+  "detalhes": {
+    "slug": "a/shine-post",
+    "titulo": "Shine Post",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qz0CWswDNsSsBkHjkcT6a98zo2e.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/qz0CWswDNsSsBkHjkcT6a98zo2e.jpg",
+    "sinopse": "A história acompanha o grupo de Idols TiNgS, que sonham em levar alegria e sorriso para todas as pessoas, mas para isso elas precisam do apoio do melhor empresário do mundo. Entretanto, o convite que parecia irrecusável acaba sendo prontamente ignorando, tornando o processo de se tornarem o maior grupo de Idols de todos os tempos algo mais complicado do que",
+    "generos": [
+      "Comédia",
+      "Drama",
+      "Musical",
+      "Slice Of Life",
+      "Sobrenatural"
+    ],
+    "score": "5",
+    "audio": "Legendado",
+    "ano": "2022",
+    "publicadoEm": "Jul. 13, 2022",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/shine-post/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 13, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fovl3svXgc5lhdyfJnI5CQKF7Ap.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 1 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-2",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-2/",
+          "nome": "Shine Post 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:42.870Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 20, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/1YubzDQFedUGUHwVM8FIfLSbK7j.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 2 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-1",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-1/",
+          "nome": "Shine Post 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-3",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-3/",
+          "nome": "Shine Post 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:38.590Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 27, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/eG82Q9JrgTswIg16X3vjIhXLXgD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 3 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-2",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-2/",
+          "nome": "Shine Post 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-4",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-4/",
+          "nome": "Shine Post 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:34.296Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 03, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fze1dZDbSDzQ4mLAOkqvIRhGiC9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 4 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-3",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-3/",
+          "nome": "Shine Post 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-5",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-5/",
+          "nome": "Shine Post 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:30.073Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 10, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/erbBeDUzBhHcfsRtqCQx75JtxuJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 5 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-4",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-4/",
+          "nome": "Shine Post 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-6",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-6/",
+          "nome": "Shine Post 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:25.938Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 17, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/luwQHh1emOefTabO3gPwT4ALXTN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 6 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-5",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-5/",
+          "nome": "Shine Post 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-7",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-7/",
+          "nome": "Shine Post 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:21.541Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 31, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/kHaIohFlNKK5CT2RbarMK9Tw2Ex.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 7 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-6",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-6/",
+          "nome": "Shine Post 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-8",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-8/",
+          "nome": "Shine Post 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:17.182Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 07, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/g3Nzwvjf9LPVHHrKOJ85TfBotPr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 8 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-7",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-7/",
+          "nome": "Shine Post 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-9",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-9/",
+          "nome": "Shine Post 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:12.789Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 14, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/s1Y2ws97aijWKMQuRxF6Z36s05J.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 9 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-8",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-8/",
+          "nome": "Shine Post 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-10",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-10/",
+          "nome": "Shine Post 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:08.189Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Oct. 05, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/yUTyVW8q3J27hgRhOUHkNZgqQLR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 10 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-9",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-9/",
+          "nome": "Shine Post 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-11",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-11/",
+          "nome": "Shine Post 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:01:04.007Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Oct. 12, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/27SaT2BN8mYljzOOcbadMybXTHI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 11 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-10",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-10/",
+          "nome": "Shine Post 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/shine-post-1-episodio-12",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-12/",
+          "nome": "Shine Post 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:00:59.620Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/shine-post-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Oct. 19, 2022",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/e3KoUi6iQnyZtwcHijMf2PvLwMM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Shine Post: 1 Episodio 12 Online",
+        "animeSlug": "a/shine-post",
+        "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/shine-post-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/shine-post-1-episodio-11",
+          "link": "https://meusanimes.blog/e/shine-post-1-episodio-11/",
+          "nome": "Shine Post 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/137194/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T23:00:55.508Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/137194/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/137194/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      15
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T23:00:50.735Z"
+  },
+  "titulo": "Shine Post",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/qz0CWswDNsSsBkHjkcT6a98zo2e.jpg",
+  "score": "5",
+  "audio": "Legendado",
+  "ano": "2022",
+  "publicadoEm": "Jul. 13, 2022",
+  "url": "https://meusanimes.blog/a/shine-post/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/qz0CWswDNsSsBkHjkcT6a98zo2e.jpg",
+  "temporadas": 1,
+  "descricao": "A história acompanha o grupo de Idols TiNgS, que sonham em levar alegria e sorriso para todas as pessoas, mas para isso elas precisam do apoio do melhor empresário do mundo. Entretanto, o convite que parecia irrecusável acaba sendo prontamente ignorando, tornando o processo de se tornarem o maior grupo de Idols de todos os tempos algo mais complicado do que"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "hunter-x-hunter-2011",
+  "capturadoEm": "2026-10-22T09:53:31.496Z",
+  "atualizadoEm": "2026-10-22T09:53:31.496Z",
+  "catalogo": {
+    "slug": "a/hunter-x-hunter-2011",
+    "titulo": "Hunter x Hunter (2011)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/p41QCmo3k6sGGeSlxfb6m2iI0bs.jpg",
+    "info": "Legendado • Oct. 02, 2011",
+    "audio": "Legendado",
+    "score": "8.7",
+    "ano": "2011",
+    "publicadoEm": "Oct. 02, 2011",
+    "url": "https://meusanimes.blog/a/hunter-x-hunter-2011/",
+    "postId": "47387"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      38
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Hunter x Hunter (2011)",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/p41QCmo3k6sGGeSlxfb6m2iI0bs.jpg",
+  "score": "8.7",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Oct. 02, 2011",
+  "url": "https://meusanimes.blog/a/hunter-x-hunter-2011/"
+}

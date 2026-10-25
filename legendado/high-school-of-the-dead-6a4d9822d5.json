@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "high-school-of-the-dead",
+  "capturadoEm": "2026-10-22T09:50:54.399Z",
+  "atualizadoEm": "2026-10-22T09:50:54.399Z",
+  "catalogo": {
+    "slug": "a/high-school-of-the-dead",
+    "titulo": "High School of the Dead",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/bKRK0jDz9jccNcqus2LP5mIhA24.jpg",
+    "info": "Legendado • Jul. 05, 2010",
+    "audio": "Legendado",
+    "score": "8.152",
+    "ano": "2010",
+    "publicadoEm": "Jul. 05, 2010",
+    "url": "https://meusanimes.blog/a/high-school-of-the-dead/",
+    "postId": "62271"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      27
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "High School of the Dead",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/bKRK0jDz9jccNcqus2LP5mIhA24.jpg",
+  "score": "8.152",
+  "audio": "Legendado",
+  "ano": "2010",
+  "publicadoEm": "Jul. 05, 2010",
+  "url": "https://meusanimes.blog/a/high-school-of-the-dead/"
+}

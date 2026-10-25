@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "steinsgate",
+  "capturadoEm": "2026-10-22T09:49:34.170Z",
+  "atualizadoEm": "2026-10-22T09:49:34.170Z",
+  "catalogo": {
+    "slug": "a/steinsgate",
+    "titulo": "Steins;Gate",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/5DZix6ggRiFEbsGqUeTAI1z2wtX.jpg",
+    "info": "Legendado • Apr. 06, 2011",
+    "audio": "Legendado",
+    "score": "8.438",
+    "ano": "2011",
+    "publicadoEm": "Apr. 06, 2011",
+    "url": "https://meusanimes.blog/a/steinsgate/",
+    "postId": "68825"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Steins;Gate",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/5DZix6ggRiFEbsGqUeTAI1z2wtX.jpg",
+  "score": "8.438",
+  "audio": "Legendado",
+  "ano": "2011",
+  "publicadoEm": "Apr. 06, 2011",
+  "url": "https://meusanimes.blog/a/steinsgate/"
+}

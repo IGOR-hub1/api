@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "love-live-sunshine",
+  "capturadoEm": "2026-10-22T09:49:08.516Z",
+  "atualizadoEm": "2026-10-22T09:49:08.516Z",
+  "catalogo": {
+    "slug": "a/love-live-sunshine",
+    "titulo": "Love Live! Sunshine!!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/3ZRYUZpHepxk50O5dLiYCBXbn3N.jpg",
+    "info": "Legendado • Jul. 02, 2016",
+    "audio": "Legendado",
+    "score": "6.5",
+    "ano": "2016",
+    "publicadoEm": "Jul. 02, 2016",
+    "url": "https://meusanimes.blog/a/love-live-sunshine/",
+    "postId": "71497"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Love Live! Sunshine!!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/3ZRYUZpHepxk50O5dLiYCBXbn3N.jpg",
+  "score": "6.5",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 02, 2016",
+  "url": "https://meusanimes.blog/a/love-live-sunshine/"
+}

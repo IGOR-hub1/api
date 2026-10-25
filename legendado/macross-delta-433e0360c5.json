@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "macross-delta",
+  "capturadoEm": "2026-10-22T09:52:40.144Z",
+  "atualizadoEm": "2026-10-22T09:52:40.144Z",
+  "catalogo": {
+    "slug": "a/macross-delta",
+    "titulo": "Macross Delta",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/rkhrKOtd6FqG37xGgOhZPTiohBS.jpg",
+    "info": "Legendado • Apr. 03, 2016",
+    "audio": "Legendado",
+    "score": "6.3",
+    "ano": "2016",
+    "publicadoEm": "Apr. 03, 2016",
+    "url": "https://meusanimes.blog/a/macross-delta/",
+    "postId": "54182"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      34
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Macross Delta",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/rkhrKOtd6FqG37xGgOhZPTiohBS.jpg",
+  "score": "6.3",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 03, 2016",
+  "url": "https://meusanimes.blog/a/macross-delta/"
+}

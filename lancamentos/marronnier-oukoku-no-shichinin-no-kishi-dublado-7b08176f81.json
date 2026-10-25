@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "marronnier-oukoku-no-shichinin-no-kishi-dublado",
+  "capturadoEm": "2026-10-22T09:44:55.799Z",
+  "atualizadoEm": "2026-10-22T13:04:39.465Z",
+  "catalogo": {
+    "slug": "a/marronnier-oukoku-no-shichinin-no-kishi-dublado",
+    "titulo": "Marronnier Oukoku no Shichinin no Kishi Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/csQMsKWVEXd5P7gOqY7liIhR4DR.jpg",
+    "info": "Dublado • Em lançamento • Oct. 03, 2026",
+    "audio": "Dublado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "url": "https://meusanimes.blog/a/marronnier-oukoku-no-shichinin-no-kishi-dublado/",
+    "postId": "99942"
+  },
+  "detalhes": {
+    "slug": "a/marronnier-oukoku-no-shichinin-no-kishi-dublado",
+    "titulo": "Marronnier Oukoku no Shichinin no Kishi Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/csQMsKWVEXd5P7gOqY7liIhR4DR.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/csQMsKWVEXd5P7gOqY7liIhR4DR.jpg",
+    "sinopse": "No coração de um continente com oito reinos, fica o Reino de Marronnier. Seu general, Baribara, tem sete filhos, e cada um possui um dom único e atua como capitão dos cavaleiros. Unidos pela nobre causa de salvar uma princesa de um jeito da hora, os irmãos partem para os sete reinos vizinhos como embaixadores da boa vontade. Que encontros, provações e sinas os aguardam?",
+    "generos": [
+      "Comédia",
+      "Fantasia"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Dublado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/marronnier-oukoku-no-shichinin-no-kishi-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/lIl8sGoWBoiLdfDDeiFeIkJwgXe.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Marronnier Oukoku no Shichinin no Kishi Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/marronnier-oukoku-no-shichinin-no-kishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3243261/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-2/",
+          "nome": "Marronnier Oukoku no Shichinin no Kishi Dublado Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3243261/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:04:39.465Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3243261/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3243261/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/4PFPfIkQKeaHeKLvtaYzXTr6rtO.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Marronnier Oukoku no Shichinin no Kishi Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/marronnier-oukoku-no-shichinin-no-kishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3243261/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-1",
+          "link": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-1/",
+          "nome": "Marronnier Oukoku no Shichinin no Kishi Dublado Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-3",
+          "link": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-3/",
+          "nome": "Marronnier Oukoku no Shichinin no Kishi Dublado Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3243261/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:04:35.401Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3243261/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3243261/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/6cC7rpr5AcQHC89P4QkgOAo8D5c.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Marronnier Oukoku no Shichinin no Kishi Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/marronnier-oukoku-no-shichinin-no-kishi-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/3243261/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-2",
+          "link": "https://meusanimes.blog/e/marronnier-oukoku-no-shichinin-no-kishi-dublado-episodio-2/",
+          "nome": "Marronnier Oukoku no Shichinin no Kishi Dublado Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/3243261/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:04:31.354Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/3243261/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/3243261/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T13:04:27.097Z"
+  },
+  "titulo": "Marronnier Oukoku no Shichinin no Kishi Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/csQMsKWVEXd5P7gOqY7liIhR4DR.jpg",
+  "status": "Em lançamento",
+  "audio": "Dublado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 03, 2026",
+  "url": "https://meusanimes.blog/a/marronnier-oukoku-no-shichinin-no-kishi-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/csQMsKWVEXd5P7gOqY7liIhR4DR.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "No coração de um continente com oito reinos, fica o Reino de Marronnier. Seu general, Baribara, tem sete filhos, e cada um possui um dom único e atua como capitão dos cavaleiros. Unidos pela nobre causa de salvar uma princesa de um jeito da hora, os irmãos partem para os sete reinos vizinhos como embaixadores da boa vontade. Que encontros, provações e sinas os aguardam?"
+}

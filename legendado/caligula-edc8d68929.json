@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "caligula",
+  "capturadoEm": "2026-10-22T09:55:51.548Z",
+  "atualizadoEm": "2026-10-22T09:55:51.548Z",
+  "catalogo": {
+    "slug": "a/caligula",
+    "titulo": "Caligula",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/x9yTT1euc432Efre6X85BBJkxek.jpg",
+    "info": "Legendado • Apr. 08, 2018",
+    "audio": "Legendado",
+    "score": "7.333",
+    "ano": "2018",
+    "publicadoEm": "Apr. 08, 2018",
+    "url": "https://meusanimes.blog/a/caligula/",
+    "postId": "36052"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      48
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Caligula",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/x9yTT1euc432Efre6X85BBJkxek.jpg",
+  "score": "7.333",
+  "audio": "Legendado",
+  "ano": "2018",
+  "publicadoEm": "Apr. 08, 2018",
+  "url": "https://meusanimes.blog/a/caligula/"
+}

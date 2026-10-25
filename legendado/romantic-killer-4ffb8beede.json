@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "romantic-killer",
+  "capturadoEm": "2026-10-22T09:49:35.503Z",
+  "atualizadoEm": "2026-10-22T09:49:35.503Z",
+  "catalogo": {
+    "slug": "a/romantic-killer",
+    "titulo": "Romantic Killer",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/b6nww3xaBSi9pQWfePBbKb5PTnj.jpg",
+    "info": "Legendado • Oct. 27, 2022",
+    "audio": "Legendado",
+    "score": "8.33",
+    "ano": "2022",
+    "publicadoEm": "Oct. 27, 2022",
+    "url": "https://meusanimes.blog/a/romantic-killer/",
+    "postId": "68759"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Romantic Killer",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/b6nww3xaBSi9pQWfePBbKb5PTnj.jpg",
+  "score": "8.33",
+  "audio": "Legendado",
+  "ano": "2022",
+  "publicadoEm": "Oct. 27, 2022",
+  "url": "https://meusanimes.blog/a/romantic-killer/"
+}

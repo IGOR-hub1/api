@@ -1,0 +1,862 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "scarlet-nexus-dublado",
+  "capturadoEm": "2026-10-22T05:24:25.227Z",
+  "atualizadoEm": "2026-10-22T09:42:43.085Z",
+  "catalogo": {
+    "slug": "a/scarlet-nexus-dublado",
+    "titulo": "Scarlet Nexus Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/lMNT7ayoBldk3Jz42SK5I1G2gf7.jpg",
+    "info": "Dublado • Jul. 01, 2021",
+    "audio": "Dublado",
+    "score": "7.4",
+    "ano": "2021",
+    "publicadoEm": "Jul. 01, 2021",
+    "url": "https://meusanimes.blog/a/scarlet-nexus-dublado/",
+    "postId": "74844"
+  },
+  "detalhes": {
+    "slug": "a/scarlet-nexus-dublado",
+    "titulo": "Scarlet Nexus Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/lMNT7ayoBldk3Jz42SK5I1G2gf7.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/lMNT7ayoBldk3Jz42SK5I1G2gf7.jpg",
+    "sinopse": "A história se passa em um mundo onde criaturas estranhas conhecidas como Others começaram a devorar pessoas. Como contramedida, um esquadrão especializado na supressão dessas criaturas foi formado. Yuito é um jovem psicocinético que treina constantemente para se tornar parte do esquadrão especial, após ter sido salvo por eles. Do outro lado, Kasane é uma talentosa garota que foi explorada por suas habilidades e acaba sendo conectada a Yuito em um destino inesperado.",
+    "generos": [
+      "Ação",
+      "Fantasia"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2021",
+    "publicadoEm": "Jul. 01, 2021",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/scarlet-nexus-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 01, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/uW7LhXdvMsBYX3jOu94KzOBDxsn.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-2/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:26:18.236Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 08, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/pnv0HMa7l52yTsuUgiz80OVHVtg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-1/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-3/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:26:14.100Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 15, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/o08IoTRQVS2qe4Vl0tEtLY8BCg.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-2/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-4/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:26:09.925Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 22, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/zojTC40SdUtLSEbi78zahCc34T0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-3/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-5/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:26:05.773Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 29, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/cVeJlkt8tHNZbZZAfqp45AGIgLR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-4/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-6/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:26:01.646Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 05, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/8yRNEcYlSUx4kNmIwLrvLVPjZse.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-5/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-7/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:57.484Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/4vgPg02NCFSTOGdURX3FQXw4pop.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-6/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-8/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:53.297Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 19, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/zURfEnD9EfvBTX3xKZf138Sk5jl.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-7/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-9/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:49.085Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 26, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/f33KM2U5FbVjqnFfHNRuCjQnApU.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-8/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-10/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:44.994Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 02, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/67cLCVYdW4oiAvKkyDAK3lpCys5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-9/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-11/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:40.848Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 09, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/9T0qrSIt9yKdkrLDnm5IuAVF2td.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-10/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-12/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:36.681Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 16, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1vw8vIZqRXbpeHtbAn6NuaqXfQS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-11/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-13/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:32.555Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 23, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/9DqgWw4C6mz48GtjmA0ypdDkjhR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 13 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/13/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-12/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-14/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:27.877Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Sep. 30, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/screaLaAjSMU1QVIS2RpHZ43qR1.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 14 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/14/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-13",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-13/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-15/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:23.712Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 07, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/sbFa3hfkc1bqdw8YXhGmj0rAKHV.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 15 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/15/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-14",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-14/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-16/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:19.550Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 14, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/tjdNJPtOrNF4uAuqywwFTnBRUgY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 16 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/16/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-15",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-15/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-17/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:15.392Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 21, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/mtJIGRYjuSR1NGwE9VSfYqwHH6s.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 17 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/17/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-16",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-16/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-18/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:11.233Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Oct. 28, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/67ghmFEJrceTkuS1Hfe5mvIop8O.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 18 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/18/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-17",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-17/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-19/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:07.100Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/3U0LXDX7ajP0uHBv42o1gwmK4Fc.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 19 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/19/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-18",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-18/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-20/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:25:02.934Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Nov. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/1jo0dUcLXrO9avSBkfWkZZC99WS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 20 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/20/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-19",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-19/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-21/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:24:58.711Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Nov. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/2gDrZFE2sk6xjs9tdwS6kREDkBW.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 21 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/21/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-20",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-20/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-22/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:24:54.050Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Nov. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/me5r1ZTFPPwI3xuDnKGiFobATko.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 22 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/22/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-21",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-21/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-23/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:24:49.887Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Dec. 02, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/4feEwt4hclfbY5E8if0NGmFivEt.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 23 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/23/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-22",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-22/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-24/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:24:45.707Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 09, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/h6spGtp0w32JDCfchRZCAuBGyW0.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 24 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/24/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-23",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-23/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-25/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:24:40.913Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Dec. 16, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/hpHAUozutytjLZcWBylsjgrckyo.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 25 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/25/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-24",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-24/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-26",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-26/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:24:36.745Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Dec. 23, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/rv89jbC0eagUGTTgqix4PGBAIMd.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Scarlet Nexus Dublado: 1 Episodio 26 Online",
+        "animeSlug": "a/scarlet-nexus-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/26/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/scarlet-nexus-dublado-1-episodio-25",
+          "link": "https://meusanimes.blog/e/scarlet-nexus-dublado-1-episodio-25/",
+          "nome": "Scarlet Nexus Dublado 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/1211311/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T05:24:32.573Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/1211311/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/1211311/1/26/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      14
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 26,
+    "totalEpisodios": 26,
+    "detalhesColetadosEm": "2026-10-22T05:24:25.227Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 26
+  },
+  "titulo": "Scarlet Nexus Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/lMNT7ayoBldk3Jz42SK5I1G2gf7.jpg",
+  "score": "7.4",
+  "audio": "Dublado",
+  "ano": "2021",
+  "publicadoEm": "Jul. 01, 2021",
+  "url": "https://meusanimes.blog/a/scarlet-nexus-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/07/lMNT7ayoBldk3Jz42SK5I1G2gf7.jpg",
+  "temporadas": 1,
+  "descricao": "A história se passa em um mundo onde criaturas estranhas conhecidas como Others começaram a devorar pessoas. Como contramedida, um esquadrão especializado na supressão dessas criaturas foi formado. Yuito é um jovem psicocinético que treina constantemente para se tornar parte do esquadrão especial, após ter sido salvo por eles. Do outro lado, Kasane é uma talentosa garota que foi explorada por suas habilidades e acaba sendo conectada a Yuito em um destino inesperado."
+}

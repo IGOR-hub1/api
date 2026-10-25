@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "sidonia-no-kishi",
+  "capturadoEm": "2026-10-22T09:51:08.018Z",
+  "atualizadoEm": "2026-10-22T09:51:08.018Z",
+  "catalogo": {
+    "slug": "a/sidonia-no-kishi",
+    "titulo": "Sidonia no Kishi (Knights of Sidonia)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/kzdYpEzyvDbxSLSaCxJhZQgksfJ.jpg",
+    "info": "Legendado • Apr. 11, 2014",
+    "audio": "Legendado",
+    "score": "7.7",
+    "ano": "2014",
+    "publicadoEm": "Apr. 11, 2014",
+    "url": "https://meusanimes.blog/a/sidonia-no-kishi/",
+    "postId": "61389"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      28
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Sidonia no Kishi (Knights of Sidonia)",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/kzdYpEzyvDbxSLSaCxJhZQgksfJ.jpg",
+  "score": "7.7",
+  "audio": "Legendado",
+  "ano": "2014",
+  "publicadoEm": "Apr. 11, 2014",
+  "url": "https://meusanimes.blog/a/sidonia-no-kishi/"
+}

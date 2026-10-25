@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kekkon-yubiwa-monogatari",
+  "capturadoEm": "2026-10-22T09:53:57.520Z",
+  "atualizadoEm": "2026-10-22T09:53:57.520Z",
+  "catalogo": {
+    "slug": "a/kekkon-yubiwa-monogatari",
+    "titulo": "Kekkon Yubiwa Monogatari",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/Ao0magelF5LRx1OIbgDdwXCoozf.jpg",
+    "info": "Legendado • Jan. 06, 2024",
+    "audio": "Legendado",
+    "ano": "2024",
+    "publicadoEm": "Jan. 06, 2024",
+    "url": "https://meusanimes.blog/a/kekkon-yubiwa-monogatari/",
+    "postId": "7363"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      40
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kekkon Yubiwa Monogatari",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/Ao0magelF5LRx1OIbgDdwXCoozf.jpg",
+  "audio": "Legendado",
+  "ano": "2024",
+  "publicadoEm": "Jan. 06, 2024",
+  "url": "https://meusanimes.blog/a/kekkon-yubiwa-monogatari/"
+}

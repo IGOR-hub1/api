@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "terror-man",
+  "capturadoEm": "2026-10-22T09:48:49.571Z",
+  "atualizadoEm": "2026-10-22T09:48:49.571Z",
+  "catalogo": {
+    "slug": "a/terror-man",
+    "titulo": "Terror Man",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/13izuyHXlQAAlt8Vy0H1apb3bty.jpg",
+    "info": "Legendado • Jan. 29, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jan. 29, 2026",
+    "url": "https://meusanimes.blog/a/terror-man/",
+    "postId": "74235"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      17
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Terror Man",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/13izuyHXlQAAlt8Vy0H1apb3bty.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jan. 29, 2026",
+  "url": "https://meusanimes.blog/a/terror-man/"
+}

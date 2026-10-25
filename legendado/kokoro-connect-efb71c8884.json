@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kokoro-connect",
+  "capturadoEm": "2026-10-22T09:49:03.736Z",
+  "atualizadoEm": "2026-10-22T09:49:03.736Z",
+  "catalogo": {
+    "slug": "a/kokoro-connect",
+    "titulo": "Kokoro Connect",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/7DeHGDMDKOfWP3aFuxDWSlt0DDf.jpg",
+    "info": "Legendado • Jul. 08, 2012",
+    "audio": "Legendado",
+    "score": "6.7",
+    "ano": "2012",
+    "publicadoEm": "Jul. 08, 2012",
+    "url": "https://meusanimes.blog/a/kokoro-connect/",
+    "postId": "72330"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kokoro Connect",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/7DeHGDMDKOfWP3aFuxDWSlt0DDf.jpg",
+  "score": "6.7",
+  "audio": "Legendado",
+  "ano": "2012",
+  "publicadoEm": "Jul. 08, 2012",
+  "url": "https://meusanimes.blog/a/kokoro-connect/"
+}

@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "zombie-sagashitemasu",
+  "capturadoEm": "2026-10-22T09:44:54.480Z",
+  "atualizadoEm": "2026-10-22T13:04:12.787Z",
+  "catalogo": {
+    "slug": "a/zombie-sagashitemasu",
+    "titulo": "Zombie Sagashitemasu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "info": "Legendado • Em lançamento • Oct. 03, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "url": "https://meusanimes.blog/a/zombie-sagashitemasu/",
+    "postId": "99954"
+  },
+  "detalhes": {
+    "slug": "a/zombie-sagashitemasu",
+    "titulo": "Zombie Sagashitemasu",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+    "sinopse": "Treze anos após o “Dia Vermelho”, quando 90% da humanidade foi infectada e morta por uma misteriosa doença infecciosa, os sobreviventes viviam em aldeias isoladas, longe das cidades. Aki, que faz parte de uma nova geração que não se lembra de nada do mundo antes de sua destruição, parte com seus amigos próximos Haru e Natsuki para deixar a vila em busca de seu pai desaparecido. O mundo exterior, infestado de zumbis, é vasto e belo! O que eles pretendem fazer nessa situação desesperadora?",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Sobrenatural"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/zombie-sagashitemasu/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/9ViNpdwhuypw5SjR5Zq7L2IJLxY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Zombie Sagashitemasu: 1 Episodio 1 Online",
+        "animeSlug": "a/zombie-sagashitemasu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/301139/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/zombie-sagashitemasu-episodio-2",
+          "link": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-2/",
+          "nome": "Zombie Sagashitemasu Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/301139/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:04:12.787Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/301139/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/301139/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xumCA4pVDIMC4qRrk94WoopGndN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Zombie Sagashitemasu: 1 Episodio 2 Online",
+        "animeSlug": "a/zombie-sagashitemasu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/301139/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/zombie-sagashitemasu-episodio-1",
+          "link": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-1/",
+          "nome": "Zombie Sagashitemasu Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/zombie-sagashitemasu-episodio-3",
+          "link": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-3/",
+          "nome": "Zombie Sagashitemasu Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/301139/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:04:08.743Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/301139/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/301139/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/yNkz6obKiU4P3bblyKq5r0YInoe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Zombie Sagashitemasu: 1 Episodio 3 Online",
+        "animeSlug": "a/zombie-sagashitemasu",
+        "iframe": "https://serv01.meusdoramas.club/#/video/301139/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/zombie-sagashitemasu-episodio-2",
+          "link": "https://meusanimes.blog/e/zombie-sagashitemasu-episodio-2/",
+          "nome": "Zombie Sagashitemasu Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/301139/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:04:04.656Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/301139/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/301139/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T13:04:00.378Z"
+  },
+  "titulo": "Zombie Sagashitemasu",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 03, 2026",
+  "url": "https://meusanimes.blog/a/zombie-sagashitemasu/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/zvek4B5QAjZorbRVXz34rK9PhtK.jpg",
+  "score": "6",
+  "temporadas": 1,
+  "descricao": "Treze anos após o “Dia Vermelho”, quando 90% da humanidade foi infectada e morta por uma misteriosa doença infecciosa, os sobreviventes viviam em aldeias isoladas, longe das cidades. Aki, que faz parte de uma nova geração que não se lembra de nada do mundo antes de sua destruição, parte com seus amigos próximos Haru e Natsuki para deixar a vila em busca de seu pai desaparecido. O mundo exterior, infestado de zumbis, é vasto e belo! O que eles pretendem fazer nessa situação desesperadora?"
+}

@@ -1,0 +1,88 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "ne-zha-2-dublado",
+  "capturadoEm": "2026-10-22T08:09:11.111Z",
+  "atualizadoEm": "2026-10-22T09:43:33.930Z",
+  "catalogo": {
+    "slug": "a/ne-zha-2-dublado",
+    "titulo": "Nezha Zhi Mo Tong Nao Hai (Ne Zha 2) Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+    "info": "Dublado • Sep. 25, 2025",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Sep. 25, 2025",
+    "url": "https://meusanimes.blog/a/ne-zha-2-dublado/",
+    "postId": "59551"
+  },
+  "detalhes": {
+    "slug": "a/ne-zha-2-dublado",
+    "titulo": "Nezha Zhi Mo Tong Nao Hai (Ne Zha 2) Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/12/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+    "sinopse": "Após a Tribulação, embora as almas de Ne Zha e Ao Bing tenham sido preservadas, os seus corpos físicos seriam em breve completamente destruídos. Tai Yi Zhen Ren planeia utilizar o Lótus de Sete Cores para remodelar as suas formas físicas. Mas no processo de remodelação, encontram inúmeras dificuldades. Para onde irá o destino de Ne Zha e Ao Bing?",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Comédia",
+      "Suspense"
+    ],
+    "score": "9",
+    "audio": "Dublado",
+    "ano": "2025",
+    "publicadoEm": "Sep. 25, 2025",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/ne-zha-2-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/ne-zha-2-dublado/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Sep. 25, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "Nezha Zhi Mo Tong Nao Hai (Ne Zha 2) Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/ne-zha-2-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/9804771/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/ne-zha-2-dublado/",
+        "previousEpisode": null,
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/9804771/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T08:09:15.317Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/9804771/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/9804771/1/1/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      18
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 1,
+    "totalEpisodios": 1,
+    "detalhesColetadosEm": "2026-10-22T08:09:11.111Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 1
+  },
+  "titulo": "Nezha Zhi Mo Tong Nao Hai (Ne Zha 2) Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+  "audio": "Dublado",
+  "ano": "2025",
+  "publicadoEm": "Sep. 25, 2025",
+  "url": "https://meusanimes.blog/a/ne-zha-2-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/12/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+  "score": "9",
+  "temporadas": 1,
+  "descricao": "Após a Tribulação, embora as almas de Ne Zha e Ao Bing tenham sido preservadas, os seus corpos físicos seriam em breve completamente destruídos. Tai Yi Zhen Ren planeia utilizar o Lótus de Sete Cores para remodelar as suas formas físicas. Mas no processo de remodelação, encontram inúmeras dificuldades. Para onde irá o destino de Ne Zha e Ao Bing?"
+}

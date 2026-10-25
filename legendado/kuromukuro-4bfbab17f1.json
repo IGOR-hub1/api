@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kuromukuro",
+  "capturadoEm": "2026-10-22T09:52:35.385Z",
+  "atualizadoEm": "2026-10-22T09:52:35.385Z",
+  "catalogo": {
+    "slug": "a/kuromukuro",
+    "titulo": "Kuromukuro",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg",
+    "info": "Legendado • Apr. 07, 2016",
+    "audio": "Legendado",
+    "score": "6.378",
+    "ano": "2016",
+    "publicadoEm": "Apr. 07, 2016",
+    "url": "https://meusanimes.blog/a/kuromukuro/",
+    "postId": "54408"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      34
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Kuromukuro",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg",
+  "score": "6.378",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Apr. 07, 2016",
+  "url": "https://meusanimes.blog/a/kuromukuro/"
+}

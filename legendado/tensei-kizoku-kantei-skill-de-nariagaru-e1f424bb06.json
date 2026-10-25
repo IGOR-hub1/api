@@ -1,0 +1,910 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tensei-kizoku-kantei-skill-de-nariagaru",
+  "capturadoEm": "2026-10-22T09:45:31.431Z",
+  "atualizadoEm": "2026-10-22T15:09:50.419Z",
+  "catalogo": {
+    "slug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+    "titulo": "Tensei Kizoku, Kantei Skill de Nariagaru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+    "info": "Legendado • Apr. 07, 2024",
+    "audio": "Legendado",
+    "score": "7.563",
+    "ano": "2024",
+    "publicadoEm": "Apr. 07, 2024",
+    "url": "https://meusanimes.blog/a/tensei-kizoku-kantei-skill-de-nariagaru/",
+    "postId": "6143"
+  },
+  "detalhes": {
+    "slug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+    "titulo": "Tensei Kizoku, Kantei Skill de Nariagaru",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+    "sinopse": "Tensei Kizoku, Kantei Skill de Nariagaru – Legendado: O protagonista, Ars Louvent, renasceu como o filho de um nobre que governa um pequeno domínio… Ars não era particularmente forte ou inteligente, mas nasceu com a “Habilidade de Avaliação”, que lhe permite enxergar as habilidades e status das pessoas. Com essa habilidade única, Ars embarca em uma jornada para identificar os talentos ocultos ao seu redor, com o objetivo de elevar seu fraco domínio a um novo patamar de excelência. Sua busca por transformação levará esse herdeiro a desbravar os limites do possível!",
+    "generos": [
+      "Fantasia",
+      "Aventura"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2024",
+    "publicadoEm": "Apr. 07, 2024",
+    "temporadas": 3,
+    "url": "https://meusanimes.blog/a/tensei-kizoku-kantei-skill-de-nariagaru/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 07, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/bqT6Yffx1gZkkUAPs8mE8mjW1cU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 1 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-2/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:50.419Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 14, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/a39jW1qSRxBN5fJKycBbKWkUHyw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 2 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-1",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-1/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-3/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:46.276Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 21, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/1g7nulEuCJ0aqI2xIVAokCXcjSz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 3 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-2",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-2/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-4/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:42.200Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 28, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/ezKspOjA0KhnvQ3qUdCSSkdEPGc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 4 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-3",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-3/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-5/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:38.100Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 05, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/dOzGS8ORpnarxzBTVpoXXs0yyVr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 5 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-4",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-4/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-6/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:34.023Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 12, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/tUpvx8nErabArphJ0r5ejvAygxf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 6 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-5",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-5/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-7/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:29.911Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 19, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/79EiTpqTQmjStXONjq7yPjqA66K.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 7 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-6",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-6/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-8/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:25.828Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 26, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/i5grx0y4jYzx64RO3HCJXKXoyIg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 8 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-7",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-7/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-9/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:21.747Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 02, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/6hpEnH4yiFkJWoRZStrDiB8SYn2.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 9 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-8",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-8/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-10/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:17.651Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 09, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/oq2m6Ts2Qq2jzLCATldGvRaROGB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 10 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-9",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-9/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-11/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:13.565Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 16, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/hWeXrbzT9IUZ0bih9e3rUdbONz8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 11 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-10",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-10/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-12",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-12/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:09.469Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 23, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/9G8dbozYQRdW60NO2HKImLMxZED.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 1 Episodio 12 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-11",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-1-episodio-11/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:05.375Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Sep. 29, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/6voVk4YCMHdqFda5jtInBeBdAPL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 1 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-2",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-2/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:09:01.247Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 06, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/1sxJp6QEPvLJqVwLHI2SOL15Yq6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 2 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-1",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-1/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-3",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-3/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:56.929Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 13, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/tBe8bYaFomrtN4mPijn34a9srxJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 3 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-2",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-2/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-4",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-4/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:52.817Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 20, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/1aiugXJxsDyJHbzwIctC5Zl2Cx9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 4 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-3",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-3/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-5",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-5/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:48.737Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 03, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/dpaetqiX1tjTxnapV1P860mbnk0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 5 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-4",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-4/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-6",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-6/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:44.657Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 10, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/e5GdXNMhmHd8dFJXFziAmCzrIO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 6 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-5",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-5/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-7",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-7/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:40.554Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 17, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/vdc5m20JuedBseMG5buxJepFYui.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 7 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-6",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-6/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-8",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-8/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:36.465Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 24, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/g07I7nRfZ14IJS5TGfNDe1y4oaN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 8 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-7",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-7/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-9",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-9/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:32.386Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 01, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/aI8aXikOmQVJNLONM4Zo2Hs0KMF.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 9 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-8",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-8/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-10",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-10/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:27.372Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 08, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/dgeE7cw1UIV6qhrVsjdMiNrnJy0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 10 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-9",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-9/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-11",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-11/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:23.224Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 15, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/nKVBw1qZW5iwG725mcy3Yq9cZlj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 11 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-10",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-10/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-12",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-12/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:19.167Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 22, 2024",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/k4munu54zJlTUWRtDK5w1N4rSU4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 2 Episodio 12 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-11",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-2-episodio-11/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 2 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:14.942Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Sep. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/l3SDfjBMLRtN4z2FB3tZzYZq1zT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 3 Episodio 1 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-2",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-2/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:10.867Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/79EiTpqTQmjStXONjq7yPjqA66K.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 3 Episodio 2 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-1",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-1/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-3",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-3/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:06.715Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/vH0hEop8EdKgx0fMg6VlkADm0Iw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 3 Episodio 3 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-2",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-2/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-4",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-4/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:08:02.605Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/kvabi9yzGmJwjZhsKCicezQy7Uk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Tensei Kizoku, Kantei Skill de Nariagaru: 3 Episodio 4 Online",
+        "animeSlug": "a/tensei-kizoku-kantei-skill-de-nariagaru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/237150/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-3",
+          "link": "https://meusanimes.blog/e/tensei-kizoku-kantei-skill-de-nariagaru-3-episodio-3/",
+          "nome": "Tensei Kizoku, Kantei Skill de Nariagaru 3 Episodio 3"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/237150/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T15:07:58.482Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/237150/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/237150/3/4/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      4
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 28,
+    "totalEpisodios": 28,
+    "midiasColetadas": 0,
+    "iframesColetados": 28,
+    "detalhesColetadosEm": "2026-10-22T15:07:52.404Z"
+  },
+  "titulo": "Tensei Kizoku, Kantei Skill de Nariagaru",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/05/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+  "score": "6",
+  "audio": "Legendado",
+  "ano": "2024",
+  "publicadoEm": "Apr. 07, 2024",
+  "url": "https://meusanimes.blog/a/tensei-kizoku-kantei-skill-de-nariagaru/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/05/pMLitK7uCKoF25dNn5Xai0RuFra.jpg",
+  "status": "Em lançamento",
+  "temporadas": 3,
+  "descricao": "Tensei Kizoku, Kantei Skill de Nariagaru – Legendado: O protagonista, Ars Louvent, renasceu como o filho de um nobre que governa um pequeno domínio… Ars não era particularmente forte ou inteligente, mas nasceu com a “Habilidade de Avaliação”, que lhe permite enxergar as habilidades e status das pessoas. Com essa habilidade única, Ars embarca em uma jornada para identificar os talentos ocultos ao seu redor, com o objetivo de elevar seu fraco domínio a um novo patamar de excelência. Sua busca por transformação levará esse herdeiro a desbravar os limites do possível!"
+}

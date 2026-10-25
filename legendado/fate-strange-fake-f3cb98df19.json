@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "fate-strange-fake",
+  "capturadoEm": "2026-10-22T09:50:28.752Z",
+  "atualizadoEm": "2026-10-22T09:50:28.752Z",
+  "catalogo": {
+    "slug": "a/fate-strange-fake",
+    "titulo": "Fate/Strange Fake",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/3hyh1skmlFKkuV2zNEDl0geH1hg-185x278-1.jpg",
+    "info": "Legendado • Jan. 03, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jan. 03, 2026",
+    "url": "https://meusanimes.blog/a/fate-strange-fake/",
+    "postId": "62252"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      25
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Fate/Strange Fake",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/12/3hyh1skmlFKkuV2zNEDl0geH1hg-185x278-1.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jan. 03, 2026",
+  "url": "https://meusanimes.blog/a/fate-strange-fake/"
+}

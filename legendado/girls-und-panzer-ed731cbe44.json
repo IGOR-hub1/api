@@ -1,0 +1,556 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "girls-und-panzer",
+  "capturadoEm": "2026-10-22T09:47:43.211Z",
+  "atualizadoEm": "2026-10-22T21:30:35.896Z",
+  "catalogo": {
+    "slug": "a/girls-und-panzer",
+    "titulo": "Girls und Panzer",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/kHJybK46xVtQ8EZYwAyAzVSEvWe.jpg",
+    "info": "Legendado • Oct. 09, 2012",
+    "audio": "Legendado",
+    "score": "6.772",
+    "ano": "2012",
+    "publicadoEm": "Oct. 09, 2012",
+    "url": "https://meusanimes.blog/a/girls-und-panzer/",
+    "postId": "82815"
+  },
+  "detalhes": {
+    "slug": "a/girls-und-panzer",
+    "titulo": "Girls und Panzer",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/kHJybK46xVtQ8EZYwAyAzVSEvWe.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/kHJybK46xVtQ8EZYwAyAzVSEvWe.jpg",
+    "sinopse": "Você pode ter ouvido de kung fu, mas as meninas da High School de Oarai prática arma-fu-muito, muito grande 75 milímetros arma-fu, na verdade. É chamado Sensha-do, e é a arte marcial de operar tanques blindados! Eles levam a sério demais, e desde que venceu o campeonato nacional Sensha-do é um negócio tão grande em Oarai, eles às vezes ir a extremos, a fim de obter os melhores alunos da classe Panzer para se inscrever. Que é como Miho Nishizumi, que odeia tanques operacionais, fica convocado para se juntar motorista impulsionado-apocalíptico Mako, artilheiro mesmo desencadeada Hana, operador de rádio altamente receptivo Saori e combustível tanque de fangirl e carregador Yukari como Anko equipe incomparável. Eles podem não estar na meia-pista para a fama e fortuna, e talvez alguns deles preferem comprar tops do que tornar-se tops em tanques, mas uma vez que seu foco está bloqueado e carregado, eles estão absolutamente conduzido.",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Escolar",
+      "Esporte",
+      "Militar",
+      "Slice Of Life"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2012",
+    "publicadoEm": "Oct. 09, 2012",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/girls-und-panzer/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 09, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/c1bocOMMEfNECNdpoFsHi8FxXGb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 1 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-2",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-2/",
+          "nome": "Girls und Panzer 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:30:35.896Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 16, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fksCujfdNJqCVbu8jlNSnPQlZAT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 2 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-1",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-1/",
+          "nome": "Girls und Panzer 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-3",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-3/",
+          "nome": "Girls und Panzer 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:30:31.761Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 23, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/aHkc9b4kRpH71fsCl6ElQ86FVdU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 3 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-2",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-2/",
+          "nome": "Girls und Panzer 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-4",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-4/",
+          "nome": "Girls und Panzer 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:30:27.714Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 30, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/hKwrtBct8oRYeyhXcSYxkIjOfpQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 4 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-3",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-3/",
+          "nome": "Girls und Panzer 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-5",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-5/",
+          "nome": "Girls und Panzer 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:30:23.639Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 06, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/euoakMJSqKd6lF7iDdtCj6QCt9Y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 5 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-4",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-4/",
+          "nome": "Girls und Panzer 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-6",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-6/",
+          "nome": "Girls und Panzer 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:30:19.552Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 20, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9VFwgJ4EugjTdCdBscER0whirhv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 6 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-5",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-5/",
+          "nome": "Girls und Panzer 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-7",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-7/",
+          "nome": "Girls und Panzer 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:30:15.476Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 27, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/yme5tsOt9poC27Obanl96eZbHqP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 7 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-6",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-6/",
+          "nome": "Girls und Panzer 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-8",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-8/",
+          "nome": "Girls und Panzer 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:30:11.375Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Dec. 04, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/9LJUN02hCmzmEsoGyFeClA61H6h.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 8 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-7",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-7/",
+          "nome": "Girls und Panzer 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-9",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-9/",
+          "nome": "Girls und Panzer 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:30:07.178Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 11, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/iSr6Ej0y3JEWHeQPNiJy38bJx1i.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 9 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-8",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-8/",
+          "nome": "Girls und Panzer 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-10",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-10/",
+          "nome": "Girls und Panzer 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:30:03.100Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 18, 2012",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/z5HV4fhY2Z9Z4lnKBiJfjaJqi04.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 10 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-9",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-9/",
+          "nome": "Girls und Panzer 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-11",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-11/",
+          "nome": "Girls und Panzer 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:29:58.945Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 18, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/mq38PTiu2KuLV3ErDtI6dzveTam.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 11 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-10",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-10/",
+          "nome": "Girls und Panzer 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-12",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-12/",
+          "nome": "Girls und Panzer 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:29:54.904Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 25, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/AoWHP3hWPobBi5xZgmFF8pFq6na.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 12 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-11",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-11/",
+          "nome": "Girls und Panzer 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-13",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-13/",
+          "nome": "Girls und Panzer 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:29:50.278Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Apr. 01, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/mq1Y1GEQqGSfjLFZyNmeE1P1cJb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 13 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-12",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-12/",
+          "nome": "Girls und Panzer 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-14",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-14/",
+          "nome": "Girls und Panzer 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:29:46.131Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Apr. 08, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fZQZIGDXDPwNBW52TlvBgJuX6sO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 14 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-13",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-13/",
+          "nome": "Girls und Panzer 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-15",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-15/",
+          "nome": "Girls und Panzer 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:29:42.011Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Apr. 15, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/zG52wMRddCRuQfa5VvFgQ5G0Cht.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 15 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-14",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-14/",
+          "nome": "Girls und Panzer 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-16",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-16/",
+          "nome": "Girls und Panzer 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:29:37.831Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Apr. 22, 2013",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/sFtx277s5GFWEw8XZy4czUhEAeE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Girls und Panzer: 1 Episodio 16 Online",
+        "animeSlug": "a/girls-und-panzer",
+        "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/girls-und-panzer-1-episodio-15",
+          "link": "https://meusanimes.blog/e/girls-und-panzer-1-episodio-15/",
+          "nome": "Girls und Panzer 1 Episodio 15"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/43967/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T21:29:33.728Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/43967/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/43967/1/16/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      12
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 16,
+    "totalEpisodios": 16,
+    "midiasColetadas": 0,
+    "iframesColetados": 16,
+    "detalhesColetadosEm": "2026-10-22T21:29:28.749Z"
+  },
+  "titulo": "Girls und Panzer",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/kHJybK46xVtQ8EZYwAyAzVSEvWe.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2012",
+  "publicadoEm": "Oct. 09, 2012",
+  "url": "https://meusanimes.blog/a/girls-und-panzer/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/kHJybK46xVtQ8EZYwAyAzVSEvWe.jpg",
+  "temporadas": 1,
+  "descricao": "Você pode ter ouvido de kung fu, mas as meninas da High School de Oarai prática arma-fu-muito, muito grande 75 milímetros arma-fu, na verdade. É chamado Sensha-do, e é a arte marcial de operar tanques blindados! Eles levam a sério demais, e desde que venceu o campeonato nacional Sensha-do é um negócio tão grande em Oarai, eles às vezes ir a extremos, a fim de obter os melhores alunos da classe Panzer para se inscrever. Que é como Miho Nishizumi, que odeia tanques operacionais, fica convocado para se juntar motorista impulsionado-apocalíptico Mako, artilheiro mesmo desencadeada Hana, operador de rádio altamente receptivo Saori e combustível tanque de fangirl e carregador Yukari como Anko equipe incomparável. Eles podem não estar na meia-pista para a fama e fortuna, e talvez alguns deles preferem comprar tops do que tornar-se tops em tanques, mas uma vez que seu foco está bloqueado e carregado, eles estão absolutamente conduzido."
+}

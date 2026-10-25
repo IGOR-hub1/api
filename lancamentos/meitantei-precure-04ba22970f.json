@@ -1,0 +1,1239 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "lancamentos",
+  "slug": "meitantei-precure",
+  "capturadoEm": "2026-10-22T09:46:08.814Z",
+  "atualizadoEm": "2026-10-22T18:00:52.729Z",
+  "catalogo": {
+    "slug": "a/meitantei-precure",
+    "titulo": "Meitantei Precure!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
+    "info": "Legendado • Em lançamento • Feb. 01, 2026",
+    "audio": "Legendado",
+    "status": "Em lançamento",
+    "score": "10",
+    "ano": "2026",
+    "publicadoEm": "Feb. 01, 2026",
+    "url": "https://meusanimes.blog/a/meitantei-precure/",
+    "postId": "72738"
+  },
+  "detalhes": {
+    "slug": "a/meitantei-precure",
+    "titulo": "Meitantei Precure!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/02/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
+    "sinopse": "!, Akechi Anna é uma estudante do segundo ano do ensino fundamental, de 14 anos, que mora na cidade de Makoto Mirai! Guiada pela fada Pochitan, que apareceu no seu aniversário, e pelo pingente em seu quarto,Viaje no tempo de 2027 para Makoto Mirai City em 1999! Lá ele conhece Kobayashi Mikuru, uma garota de 14 anos que sonha em se tornar uma grande detetive!As Detetives PreCure protegem o sorriso de todos com seu raciocínio dedutivo! “O mistério! A cura! Resolvido!” E será que Anna conseguirá retornar ao seu tempo original…?",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Kids",
+      "Mistério"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Feb. 01, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/meitantei-precure/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Feb. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/93AxeSRjgVyZ1EVWr8WWyTRiRqs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 1 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-2",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-2/",
+          "nome": "Meitantei Precure! Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:52.729Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Feb. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/nvTjCXPXwHUJdh80SiU99f0Iesc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 2 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-1",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-1/",
+          "nome": "Meitantei Precure! Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-3",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-3/",
+          "nome": "Meitantei Precure! Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:48.575Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Feb. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/A1vPCdnq0l1pTYVun5bLHj9iPTi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 3 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-2",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-2/",
+          "nome": "Meitantei Precure! Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-4",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-4/",
+          "nome": "Meitantei Precure! Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:44.080Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/k1xQCYDdjjaHs8LKj4ncP7ZjfhI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 4 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-3",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-3/",
+          "nome": "Meitantei Precure! Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-5",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-5/",
+          "nome": "Meitantei Precure! Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:39.820Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Mar. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/5gpwXcw60VYNOWf3EgkxtAP6Bhs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 5 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-4",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-4/",
+          "nome": "Meitantei Precure! Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-6",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-6/",
+          "nome": "Meitantei Precure! Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:35.752Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/21N4lZsiYg4RPljGjYJF5NR5wOV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 6 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-5",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-5/",
+          "nome": "Meitantei Precure! Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-7",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-7/",
+          "nome": "Meitantei Precure! Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:31.679Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/d8NSZMfrel1UqVYDZNw2VsoIA81.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 7 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-6",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-6/",
+          "nome": "Meitantei Precure! Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-8",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-8/",
+          "nome": "Meitantei Precure! Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:27.617Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 22, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/mPSvRA1OaoDSjoWgIWrLHF4zjD3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 8 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-7",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-7/",
+          "nome": "Meitantei Precure! Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-9",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-9/",
+          "nome": "Meitantei Precure! Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:23.527Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 29, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fxITz2YRC3g2yRctTPvWmBmQlrK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 9 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-8",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-8/",
+          "nome": "Meitantei Precure! Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-10",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-10/",
+          "nome": "Meitantei Precure! Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:19.407Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Apr. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/vjXMx1aNEyhrx0d4HBwH1nDBoo3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 10 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-9",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-9/",
+          "nome": "Meitantei Precure! Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-11",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-11/",
+          "nome": "Meitantei Precure! Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:15.287Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Apr. 12, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/hGGijUZXxbeFWIf25aTfEbqgL9d.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 11 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-10",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-10/",
+          "nome": "Meitantei Precure! Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-12",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-12/",
+          "nome": "Meitantei Precure! Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:11.016Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Apr. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/abBhiX0sXQABlTe1JqWdIyygMzP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 12 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-11",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-11/",
+          "nome": "Meitantei Precure! Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-13",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-13/",
+          "nome": "Meitantei Precure! Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:06.471Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Apr. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/1EPF0oWPclA7WYS7R2ZCsiHy3I6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 13 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-12",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-12/",
+          "nome": "Meitantei Precure! Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-14",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-14/",
+          "nome": "Meitantei Precure! Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T18:00:02.360Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "May. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/xMmjMxb754g3tNewntDqcgZGqmx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 14 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-13",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-13/",
+          "nome": "Meitantei Precure! Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-15",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-15/",
+          "nome": "Meitantei Precure! Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:58.225Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "May. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/6jOZQBgwFSEyGRl0C0oE80S3cqL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 15 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-14",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-14/",
+          "nome": "Meitantei Precure! Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-16",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-16/",
+          "nome": "Meitantei Precure! Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:54.125Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "May. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/a7TpCDNfhxWhf9OzZh6U3ARg2d0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 16 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-15",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-15/",
+          "nome": "Meitantei Precure! Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-17",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-17/",
+          "nome": "Meitantei Precure! Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:49.609Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/mPSvRA1OaoDSjoWgIWrLHF4zjD3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 17 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-16",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-16/",
+          "nome": "Meitantei Precure! Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-18",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-18/",
+          "nome": "Meitantei Precure! Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:45.552Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "May. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/wPjf1XkzEEUmqJQcHu8f3QCIdkf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 18 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-17",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-17/",
+          "nome": "Meitantei Precure! Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-19",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-19/",
+          "nome": "Meitantei Precure! Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:41.473Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Jun. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/rhyF3iwABbnb3s4BakVtjEDPdCd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 19 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-18",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-18/",
+          "nome": "Meitantei Precure! Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-20",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-20/",
+          "nome": "Meitantei Precure! Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:37.390Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Jun. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/1r1w2YPTg5EsD4PtzfiSr9z3nlD.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 20 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-19",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-19/",
+          "nome": "Meitantei Precure! Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-21",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-21/",
+          "nome": "Meitantei Precure! Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:33.289Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Jun. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/1tplJ50zM2jbmJeE7rgZdpMzSBG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 21 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-20",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-20/",
+          "nome": "Meitantei Precure! Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-22",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-22/",
+          "nome": "Meitantei Precure! Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:29.220Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Jun. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/bhJejdrUUHPZaEMSnL2DqEuWNSH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 22 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-21",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-21/",
+          "nome": "Meitantei Precure! Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-23",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-23/",
+          "nome": "Meitantei Precure! Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:25.082Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/z9tPB70M8a7XJkrIvun257h6pLz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 23 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-22",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-22/",
+          "nome": "Meitantei Precure! Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-24",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-24/",
+          "nome": "Meitantei Precure! Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:20.846Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Jul. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/uqoirFs1mKNnyeL4pWcX311Hz17.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 24 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-23",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-23/",
+          "nome": "Meitantei Precure! Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-25",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-25/",
+          "nome": "Meitantei Precure! Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:16.784Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Jul. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/pSwUbHqYjEtvoKBwPhL23rxZEj4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 25 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-24",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-24/",
+          "nome": "Meitantei Precure! Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-26",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-26/",
+          "nome": "Meitantei Precure! Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:12.722Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Jul. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/bgu2VtbSGAl4Pawkzv5f5ElPtuw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 26 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-25",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-25/",
+          "nome": "Meitantei Precure! Episodio 25"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-27",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-27/",
+          "nome": "Meitantei Precure! Episodio 27"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:08.617Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-27/",
+      "numero": 27,
+      "temporada": 1,
+      "nome": "Episódio 27",
+      "descricao": "Aug. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/keawBP30AwbSFt12KqoP5YmPdRv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 27 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/27/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-27/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-26",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-26/",
+          "nome": "Meitantei Precure! Episodio 26"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-28",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-28/",
+          "nome": "Meitantei Precure! Episodio 28"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:04.566Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-28/",
+      "numero": 28,
+      "temporada": 1,
+      "nome": "Episódio 28",
+      "descricao": "Aug. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/akTOSpFWumO5CRoaHhyrJJCgbaO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 28 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/28/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-28/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-27",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-27/",
+          "nome": "Meitantei Precure! Episodio 27"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-29",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-29/",
+          "nome": "Meitantei Precure! Episodio 29"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:59:00.202Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/28/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-29/",
+      "numero": 29,
+      "temporada": 1,
+      "nome": "Episódio 29",
+      "descricao": "Aug. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/xMmjMxb754g3tNewntDqcgZGqmx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 29 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/29/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-29/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-28",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-28/",
+          "nome": "Meitantei Precure! Episodio 28"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-30",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-30/",
+          "nome": "Meitantei Precure! Episodio 30"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/29/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:56.046Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/29/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/29/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-30/",
+      "numero": 30,
+      "temporada": 1,
+      "nome": "Episódio 30",
+      "descricao": "Aug. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/70YNSG2tKjMMorw1qU02FHvXqxQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 30 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/30/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-30/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-29",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-29/",
+          "nome": "Meitantei Precure! Episodio 29"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-31",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-31/",
+          "nome": "Meitantei Precure! Episodio 31"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/30/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:51.931Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/30/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/30/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-31/",
+      "numero": 31,
+      "temporada": 1,
+      "nome": "Episódio 31",
+      "descricao": "Aug. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/iCTrkdD41SNvMed3dersimPXKWK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 31 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/31/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-31/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-30",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-30/",
+          "nome": "Meitantei Precure! Episodio 30"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-32",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-32/",
+          "nome": "Meitantei Precure! Episodio 32"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/31/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:46.917Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/31/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/31/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-32/",
+      "numero": 32,
+      "temporada": 1,
+      "nome": "Episódio 32",
+      "descricao": "Sep. 06, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/lNWLTDtyi55fUmGAMx6WKdy4FZm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 32 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/32/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-32/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-31",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-31/",
+          "nome": "Meitantei Precure! Episodio 31"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-33",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-33/",
+          "nome": "Meitantei Precure! Episodio 33"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/32/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:42.857Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/32/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/32/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-33/",
+      "numero": 33,
+      "temporada": 1,
+      "nome": "Episódio 33",
+      "descricao": "Sep. 13, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/wEkmOYNxaobkLV52AuVaoiV3B1I.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 33 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/33/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-33/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-32",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-32/",
+          "nome": "Meitantei Precure! Episodio 32"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-34",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-34/",
+          "nome": "Meitantei Precure! Episodio 34"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/33/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:38.768Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/33/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/33/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-34/",
+      "numero": 34,
+      "temporada": 1,
+      "nome": "Episódio 34",
+      "descricao": "Sep. 20, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/ajoOn8MxZmx3agjWClQ6ZHbbWC1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 34 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/34/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-34/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-33",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-33/",
+          "nome": "Meitantei Precure! Episodio 33"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-35",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-35/",
+          "nome": "Meitantei Precure! Episodio 35"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/34/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:34.715Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/34/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/34/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-35/",
+      "numero": 35,
+      "temporada": 1,
+      "nome": "Episódio 35",
+      "descricao": "Sep. 27, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/zbETJxbZ1GBvMtLaBaK9ViY0rm9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 35 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/35/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-35/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-34",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-34/",
+          "nome": "Meitantei Precure! Episodio 34"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-36",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-36/",
+          "nome": "Meitantei Precure! Episodio 36"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/35/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:30.528Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/35/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/35/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-36/",
+      "numero": 36,
+      "temporada": 1,
+      "nome": "Episódio 36",
+      "descricao": "Oct. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/wBfpop1uyKZV8KvuzgKXrxGDkyu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 36 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/36/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-36/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-35",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-35/",
+          "nome": "Meitantei Precure! Episodio 35"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-37",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-37/",
+          "nome": "Meitantei Precure! Episodio 37"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/36/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:25.844Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/36/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/36/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-37/",
+      "numero": 37,
+      "temporada": 1,
+      "nome": "Episódio 37",
+      "descricao": "Oct. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/xydpZEr6Z0DxyujWsl8FpEyFbVI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 37 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/37/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-37/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-36",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-36/",
+          "nome": "Meitantei Precure! Episodio 36"
+        },
+        "nextEpisode": {
+          "slug": "e/meitantei-precure-episodio-38",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-38/",
+          "nome": "Meitantei Precure! Episodio 38"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/37/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:21.793Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/37/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/37/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/meitantei-precure-episodio-38/",
+      "numero": 38,
+      "temporada": 1,
+      "nome": "Episódio 38",
+      "descricao": "Oct. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/z9tPB70M8a7XJkrIvun257h6pLz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Meitantei Precure!: 1 Episodio 38 Online",
+        "animeSlug": "a/meitantei-precure",
+        "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/38/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/meitantei-precure-episodio-38/",
+        "previousEpisode": {
+          "slug": "e/meitantei-precure-episodio-37",
+          "link": "https://meusanimes.blog/e/meitantei-precure-episodio-37/",
+          "nome": "Meitantei Precure! Episodio 37"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/306721/1/38/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:58:17.663Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/306721/1/38/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/306721/1/38/"
+    }
+  ],
+  "coleta": {
+    "categoria": "lancamentos",
+    "paginasCatalogo": [
+      6
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 38,
+    "totalEpisodios": 38,
+    "midiasColetadas": 0,
+    "iframesColetados": 38,
+    "detalhesColetadosEm": "2026-10-22T17:58:11.336Z"
+  },
+  "titulo": "Meitantei Precure!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/02/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
+  "score": "6",
+  "status": "Em lançamento",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Feb. 01, 2026",
+  "url": "https://meusanimes.blog/a/meitantei-precure/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/02/zuPQ9R5x17EM6xEA37TLRkL2BGD.jpg",
+  "temporadas": 1,
+  "descricao": "!, Akechi Anna é uma estudante do segundo ano do ensino fundamental, de 14 anos, que mora na cidade de Makoto Mirai! Guiada pela fada Pochitan, que apareceu no seu aniversário, e pelo pingente em seu quarto,Viaje no tempo de 2027 para Makoto Mirai City em 1999! Lá ele conhece Kobayashi Mikuru, uma garota de 14 anos que sonha em se tornar uma grande detetive!As Detetives PreCure protegem o sorriso de todos com seu raciocínio dedutivo! “O mistério! A cura! Resolvido!” E será que Anna conseguirá retornar ao seu tempo original…?"
+}

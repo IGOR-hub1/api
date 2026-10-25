@@ -1,0 +1,2948 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "dr-stone",
+  "capturadoEm": "2026-10-22T09:48:14.209Z",
+  "atualizadoEm": "2026-10-22T22:58:56.334Z",
+  "catalogo": {
+    "slug": "a/dr-stone",
+    "titulo": "Dr. Stone",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+    "info": "Legendado • Jul. 05, 2019",
+    "audio": "Legendado",
+    "score": "8.6",
+    "ano": "2019",
+    "publicadoEm": "Jul. 05, 2019",
+    "url": "https://meusanimes.blog/a/dr-stone/",
+    "postId": "17418"
+  },
+  "detalhes": {
+    "slug": "a/dr-stone",
+    "titulo": "Dr. Stone",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+    "sinopse": "Dr. Stone Todos os Episódios Online, Assistir Dr. Stone Completo em HD e Full HD, Assistir Dr.STONE Online. Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência – Senku Ishigami. Diante de um mundo de pedra e do colapso generalizado da civilização, Senku decide usar sua mente para reconstruir o mundo. Ao lado de Taiju Oki, seu amigo de infância absurdamente forte, eles começam a reestabelecer a civilização do zero… Representando os dois milhões de anos da história da ciência, desde a Idade da Pedra até os dias atuais, esta aventura científica sem precedentes está prestes a começar!",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Ficção científica",
+      "Shounen"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2019",
+    "publicadoEm": "Jul. 05, 2019",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/dr-stone/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 05, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jNdIdz4cKsAvxJRh0QWocGaKN66.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 1 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-2/",
+          "nome": "Dr. Stone 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:56.334Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 12, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/l7BW5GPY9EcnoxBZKHXWZfEKeOA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 2 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-1/",
+          "nome": "Dr. Stone 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-3/",
+          "nome": "Dr. Stone 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:52.163Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 19, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/n5lpLE1e4njZIn0d6jmb55OWwKH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 3 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-2/",
+          "nome": "Dr. Stone 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-4/",
+          "nome": "Dr. Stone 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:47.830Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 26, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/30pMZkqgpxvpxysB1nlOuKWWTgA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 4 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-3/",
+          "nome": "Dr. Stone 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-5/",
+          "nome": "Dr. Stone 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:43.633Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 02, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mM4UPEQJhUcFp3oTAYgQW90nQDz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 5 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-4/",
+          "nome": "Dr. Stone 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-6/",
+          "nome": "Dr. Stone 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:39.323Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 09, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/71MPjVE59eUssTmByfFBYC5p8ad.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 6 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-5/",
+          "nome": "Dr. Stone 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-7/",
+          "nome": "Dr. Stone 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:35.151Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 16, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/w3Ybj8vPIEViNhvCjqmyGCj67ZT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 7 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-6/",
+          "nome": "Dr. Stone 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-8/",
+          "nome": "Dr. Stone 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:30.894Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Aug. 23, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vgeIE6xvK8wTDH345bBsz6eMIOO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 8 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-7/",
+          "nome": "Dr. Stone 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-9/",
+          "nome": "Dr. Stone 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:26.677Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Aug. 30, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/kVRz1t86UbFH6ILg9Lw9z1sqxL1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 9 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-8/",
+          "nome": "Dr. Stone 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-10/",
+          "nome": "Dr. Stone 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:22.197Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 06, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/sxqp8JCFDumCKbyQvX9hgGHqxsN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 10 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-9/",
+          "nome": "Dr. Stone 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-11/",
+          "nome": "Dr. Stone 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:17.946Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 13, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/bTpVChtIatCqNywNRdKMo1q612Z.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 11 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-10/",
+          "nome": "Dr. Stone 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-12/",
+          "nome": "Dr. Stone 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:13.643Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 20, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/yRZzEHHNfA9ZrxzgcxD0TS6ANJ6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 12 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-11/",
+          "nome": "Dr. Stone 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-13/",
+          "nome": "Dr. Stone 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:09.574Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Sep. 27, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9gbwAqikwaXPcOUoe9Xbr4WjlJE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 13 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-12/",
+          "nome": "Dr. Stone 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-14/",
+          "nome": "Dr. Stone 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:05.462Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 04, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mtoDxCqcZJGk2tDZZlMQrOLpwaI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 14 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-13/",
+          "nome": "Dr. Stone 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-15/",
+          "nome": "Dr. Stone 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:58:01.184Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Oct. 11, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/b4JdwngG7o59Pp3fOXO0oC1vZD3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 15 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-14/",
+          "nome": "Dr. Stone 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-16/",
+          "nome": "Dr. Stone 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:56.620Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Oct. 18, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/28Yz2QuiXD0Y9QmwnumXx82Xa2t.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 16 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-15/",
+          "nome": "Dr. Stone 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-17/",
+          "nome": "Dr. Stone 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:52.529Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Oct. 25, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wPRqE3dJPZsraso2gKoyoIqagZN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 17 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-16/",
+          "nome": "Dr. Stone 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-18/",
+          "nome": "Dr. Stone 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:48.326Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Nov. 01, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ojACONcUoDGtDTAGdjeRhyNM38g.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 18 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-17/",
+          "nome": "Dr. Stone 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-19/",
+          "nome": "Dr. Stone 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:43.930Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 08, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/pflOejXjo7Sv6M30ONwpnR9hAzd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 19 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-18/",
+          "nome": "Dr. Stone 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-20/",
+          "nome": "Dr. Stone 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:39.720Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Nov. 15, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/r4CvVy6gVY7WBPbZic2IPrV8Wcs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 20 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-19/",
+          "nome": "Dr. Stone 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-21/",
+          "nome": "Dr. Stone 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:35.539Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Nov. 22, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/vKq2lSipWkHjwz6dtzAKIiZYTya.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 21 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-20/",
+          "nome": "Dr. Stone 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-22/",
+          "nome": "Dr. Stone 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:31.358Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Nov. 29, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/pzYT1Dynwqp99Md54mch3l9HLzE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 22 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-21/",
+          "nome": "Dr. Stone 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-23",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-23/",
+          "nome": "Dr. Stone 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:27.224Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Dec. 06, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fmsDl2bBSCy6g2WyQ6ecTjkIeOY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 23 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-22/",
+          "nome": "Dr. Stone 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-1-episodio-24",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-24/",
+          "nome": "Dr. Stone 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:23.127Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Dec. 13, 2019",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mJC54TEmf2Sug3DLZT9fhqiGuxW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 1 Episodio 24 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-1-episodio-23",
+          "link": "https://meusanimes.blog/e/dr-stone-1-episodio-23/",
+          "nome": "Dr. Stone 1 Episodio 23"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:18.915Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 14, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/cW1XaeCWJya4PIgoDjijM2Qk3Vc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 1 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-2/",
+          "nome": "Dr. Stone 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:14.586Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 21, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/kyRkW4ICLl1AZwvWk5lo9IAJwQj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 2 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-1/",
+          "nome": "Dr. Stone 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-3/",
+          "nome": "Dr. Stone 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:10.088Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 28, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fOM5gNKdSaFAOtetiZpUUP2ZZaW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 3 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-2/",
+          "nome": "Dr. Stone 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-4/",
+          "nome": "Dr. Stone 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:05.727Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Feb. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7W3gH6WhfPED2iCimeI5zOI7yZQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 4 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-3/",
+          "nome": "Dr. Stone 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-5/",
+          "nome": "Dr. Stone 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:57:01.468Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/xdDdZDajj5l0o7sOnovnGEi7Sov.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 5 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-4/",
+          "nome": "Dr. Stone 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-6/",
+          "nome": "Dr. Stone 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:57.325Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/5wtdap5BlXlgmIIseNTSFFFhgEo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 6 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-5/",
+          "nome": "Dr. Stone 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-7/",
+          "nome": "Dr. Stone 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:53.216Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/dLDk4u9n6aXCmP2TDgS4BodHYRo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 7 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/7/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-6/",
+          "nome": "Dr. Stone 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-8/",
+          "nome": "Dr. Stone 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:49.041Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 04, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/oZusPVxwvyvnbwfPXQAlWUox8OB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 8 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/8/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-7/",
+          "nome": "Dr. Stone 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-9/",
+          "nome": "Dr. Stone 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:44.900Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 11, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/1pMkShY92cz8P4nrWAd3MlkKo9V.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 9 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/9/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-8/",
+          "nome": "Dr. Stone 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-10/",
+          "nome": "Dr. Stone 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:40.844Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8Na2zGSLtavAygx3MuAeOj651QS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 10 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/10/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-9/",
+          "nome": "Dr. Stone 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-2-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-11/",
+          "nome": "Dr. Stone 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:36.648Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 25, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/1ZAvZGt0teLnh4R0W9yhS3EjwK3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 2 Episodio 11 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/11/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-2-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-2-episodio-10/",
+          "nome": "Dr. Stone 2 Episodio 10"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:32.540Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 06, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/x3hrsz8A6WX1crKV5WLiMkvUuvo.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 1 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/1/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-2/",
+          "nome": "Dr. Stone 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:28.375Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 13, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/o15nnT0jmjhMfxLPn00PgkSisR7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 2 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/2/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-1/",
+          "nome": "Dr. Stone 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-3/",
+          "nome": "Dr. Stone 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:24.248Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 20, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7uRDjro0Z42MHQFT5AyFaUxvY6M.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 3 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/3/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-2/",
+          "nome": "Dr. Stone 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-4/",
+          "nome": "Dr. Stone 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:19.804Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 27, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/aVA397LlFUhOTIrEt9k3F7OKk6M.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 4 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/4/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-3/",
+          "nome": "Dr. Stone 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-5/",
+          "nome": "Dr. Stone 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:15.539Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "May. 04, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/3IjMInLbkq1mygdPzWSmj6Mrdp8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 5 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/5/",
+        "sources": [],
+        "audio": "",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-4/",
+          "nome": "Dr. Stone 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-6/",
+          "nome": "Dr. Stone 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:11.381Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "May. 11, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/v8hh3pmeXKH4MtPFajLqOQ3Hvqr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 6 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-5/",
+          "nome": "Dr. Stone 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-7/",
+          "nome": "Dr. Stone 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:07.008Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "May. 18, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4fgL5cLY8SqjUOyO3KC1ycPSBaB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 7 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-6/",
+          "nome": "Dr. Stone 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-8/",
+          "nome": "Dr. Stone 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:56:02.847Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "May. 25, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/n1yumf39DunOziTGMZWcCkgkS4b.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 8 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-7/",
+          "nome": "Dr. Stone 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-9/",
+          "nome": "Dr. Stone 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:58.682Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Jun. 01, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7LhbWIVc3mJf0cjshNwpVWJDLAQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 9 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-8/",
+          "nome": "Dr. Stone 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-10/",
+          "nome": "Dr. Stone 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:54.582Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 08, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/7OeCecH8SqkaKXDV9aS9vyMyKQz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 10 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-9/",
+          "nome": "Dr. Stone 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-11/",
+          "nome": "Dr. Stone 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:50.410Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 15, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/b577K4Y15J2zop96edjtQRjeG5S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 11 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-10/",
+          "nome": "Dr. Stone 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-12/",
+          "nome": "Dr. Stone 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:46.288Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Oct. 12, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/wK4bbwqbPk1PbLljcazH6KzWVvx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 12 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-11/",
+          "nome": "Dr. Stone 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-13/",
+          "nome": "Dr. Stone 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:42.122Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-13/",
+      "numero": 13,
+      "temporada": 3,
+      "nome": "Episódio 13",
+      "descricao": "Oct. 19, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/gTfHFLH8RNvq2KirV7aPemhzXW8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 13 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-12/",
+          "nome": "Dr. Stone 3 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-14/",
+          "nome": "Dr. Stone 3 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:37.956Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-14/",
+      "numero": 14,
+      "temporada": 3,
+      "nome": "Episódio 14",
+      "descricao": "Oct. 26, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/mHFWnsigkolhX6GyhV8Z4wb9rtp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 14 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-13/",
+          "nome": "Dr. Stone 3 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-15/",
+          "nome": "Dr. Stone 3 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:33.835Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-15/",
+      "numero": 15,
+      "temporada": 3,
+      "nome": "Episódio 15",
+      "descricao": "Nov. 02, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/i5WrLPDOESOxntDuoJ1AqVgYR9I.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 15 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-14/",
+          "nome": "Dr. Stone 3 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-16/",
+          "nome": "Dr. Stone 3 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:29.047Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-16/",
+      "numero": 16,
+      "temporada": 3,
+      "nome": "Episódio 16",
+      "descricao": "Nov. 09, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/uJGNLytepCwHWmUXl7MjPfOtZAa.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 16 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-15/",
+          "nome": "Dr. Stone 3 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-17/",
+          "nome": "Dr. Stone 3 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:24.951Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-17/",
+      "numero": 17,
+      "temporada": 3,
+      "nome": "Episódio 17",
+      "descricao": "Nov. 16, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/6v7V8kljFknyT2NhVRsHK9tESC1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 17 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-16/",
+          "nome": "Dr. Stone 3 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-18/",
+          "nome": "Dr. Stone 3 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:20.714Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-18/",
+      "numero": 18,
+      "temporada": 3,
+      "nome": "Episódio 18",
+      "descricao": "Nov. 23, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/93wkryYnttiGIYLbBpfK1ZsRtWV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 18 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-17/",
+          "nome": "Dr. Stone 3 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-19/",
+          "nome": "Dr. Stone 3 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:16.433Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-19/",
+      "numero": 19,
+      "temporada": 3,
+      "nome": "Episódio 19",
+      "descricao": "Nov. 30, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4PlCnfRS4V6Ij8RR7qLtK2akqKW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 19 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-18/",
+          "nome": "Dr. Stone 3 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-20/",
+          "nome": "Dr. Stone 3 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:12.277Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-20/",
+      "numero": 20,
+      "temporada": 3,
+      "nome": "Episódio 20",
+      "descricao": "Dec. 07, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8nhV9hoZ1k6qcUVHMZ5MV8jc0TJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 20 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-19/",
+          "nome": "Dr. Stone 3 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-21/",
+          "nome": "Dr. Stone 3 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:08.064Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-21/",
+      "numero": 21,
+      "temporada": 3,
+      "nome": "Episódio 21",
+      "descricao": "Dec. 14, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/r2YtNnc9wgcbC6pZTrFhi5LBHpm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 21 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-20/",
+          "nome": "Dr. Stone 3 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-3-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-22/",
+          "nome": "Dr. Stone 3 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:55:03.934Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-3-episodio-22/",
+      "numero": 22,
+      "temporada": 3,
+      "nome": "Episódio 22",
+      "descricao": "Dec. 21, 2023",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/2GB1NNoz7KsQC6yaMOpQs8xvVZO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 3 Episodio 22 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-3-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-3-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-3-episodio-21/",
+          "nome": "Dr. Stone 3 Episodio 21"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/3/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:59.651Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/3/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/3/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Jan. 09, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/nEe13H2dzeMLZsKgxoZWtMLsN5y.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 1 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-2/",
+          "nome": "Dr. Stone S04 Episódio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:55.346Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Jan. 16, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/9g0A6XVGIkXNXz56w9xjCp3zVOq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 2 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-1/",
+          "nome": "Dr. Stone S04 Episódio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-3/",
+          "nome": "Dr. Stone S04 Episódio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:51.055Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Jan. 23, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/jroZEcETT7etBtv03Kf1SsydZ4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 3 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-2/",
+          "nome": "Dr. Stone S04 Episódio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-4/",
+          "nome": "Dr. Stone S04 Episódio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:46.768Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Jan. 30, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/ttjeTBt1ZLIUjhaOu1PO6S74Zw0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 4 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-3/",
+          "nome": "Dr. Stone S04 Episódio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-5/",
+          "nome": "Dr. Stone S04 Episódio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:42.703Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "Feb. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/w0Cf0omdaTfnxKikdLOHTLCeKtB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 5 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-4/",
+          "nome": "Dr. Stone S04 Episódio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-6/",
+          "nome": "Dr. Stone S04 Episódio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:38.503Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "Feb. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/lLFi5q8mRqS48TXOQdxc8VG9Tpl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 6 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-5/",
+          "nome": "Dr. Stone S04 Episódio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-7/",
+          "nome": "Dr. Stone S04 Episódio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:34.309Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "Feb. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/53oHxXkmiPselcrT9A74SGItjt4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 7 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-6/",
+          "nome": "Dr. Stone S04 Episódio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-8/",
+          "nome": "Dr. Stone S04 Episódio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:29.796Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Feb. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/8QuD8JwRQKVutOVNCQi6cP0wHrV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 8 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-7/",
+          "nome": "Dr. Stone S04 Episódio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-9/",
+          "nome": "Dr. Stone S04 Episódio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:25.706Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 06, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/hG4fOlbgdt7EmD54N3AxjLmkouI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 9 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-8/",
+          "nome": "Dr. Stone S04 Episódio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-10/",
+          "nome": "Dr. Stone S04 Episódio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:21.561Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 13, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/m8JSOafuanBZHm5AvYc5qzKZ7hO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 10 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-9/",
+          "nome": "Dr. Stone S04 Episódio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-11/",
+          "nome": "Dr. Stone S04 Episódio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:17.382Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 20, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/m41G97oBvIzc6eTfH8vXZdKo8Vh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 11 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-10/",
+          "nome": "Dr. Stone S04 Episódio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-12/",
+          "nome": "Dr. Stone S04 Episódio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:13.190Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 27, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/4f8yWqwIz2nu0XTaH8wPzjP8KCz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 12 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-11/",
+          "nome": "Dr. Stone S04 Episódio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-13/",
+          "nome": "Dr. Stone S04 Episódio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:08.850Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-13/",
+      "numero": 13,
+      "temporada": 4,
+      "nome": "Episódio 13",
+      "descricao": "Jul. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/nKQswsgZYS6lzski4F78yJcJO2Z.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 13 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-12/",
+          "nome": "Dr. Stone S04 Episódio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-14/",
+          "nome": "Dr. Stone S04 Episódio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:54:03.171Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-14/",
+      "numero": 14,
+      "temporada": 4,
+      "nome": "Episódio 14",
+      "descricao": "Jul. 17, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/usXgtCw8S7vIdZFHiFPibh8cwuP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 14 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-13/",
+          "nome": "Dr. Stone S04 Episódio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-15/",
+          "nome": "Dr. Stone S04 Episódio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:59.026Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-15/",
+      "numero": 15,
+      "temporada": 4,
+      "nome": "Episódio 15",
+      "descricao": "Jul. 24, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/07/A8DX2r9WMKB0mfw6jvxaZpXXisL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 15 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-14",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-14/",
+          "nome": "Dr. Stone S04 Episódio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-16/",
+          "nome": "Dr. Stone S04 Episódio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:54.880Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-16/",
+      "numero": 16,
+      "temporada": 4,
+      "nome": "Episódio 16",
+      "descricao": "Jul. 31, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/3VdFxpg5qXwbwqByUFt8QcVSExT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 16 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-15",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-15/",
+          "nome": "Dr. Stone S04 Episódio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-17/",
+          "nome": "Dr. Stone S04 Episódio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:50.479Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-17/",
+      "numero": 17,
+      "temporada": 4,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 07, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/i1FRetXyFN5ssjk0j3JNMFLOTFp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 17 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-16",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-16/",
+          "nome": "Dr. Stone S04 Episódio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-18/",
+          "nome": "Dr. Stone S04 Episódio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:46.180Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-18/",
+      "numero": 18,
+      "temporada": 4,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 14, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cUamd5AnPoaV8gpbeOSYqP98xBT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 18 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-17",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-17/",
+          "nome": "Dr. Stone S04 Episódio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-19/",
+          "nome": "Dr. Stone S04 Episódio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:41.890Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-19/",
+      "numero": 19,
+      "temporada": 4,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 21, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/sysrBgyqcTQAkIV0FyGbr8wGElU.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 19 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-18",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-18/",
+          "nome": "Dr. Stone S04 Episódio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-20/",
+          "nome": "Dr. Stone S04 Episódio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:37.812Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-20/",
+      "numero": 20,
+      "temporada": 4,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 28, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/xCcnSYPMgYwx0kSXapNcExw9wUu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 20 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-19",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-19/",
+          "nome": "Dr. Stone S04 Episódio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-21/",
+          "nome": "Dr. Stone S04 Episódio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:33.537Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-21/",
+      "numero": 21,
+      "temporada": 4,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 04, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/wi00k5SHH4Rx1imtUnSnc3iHS7k.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 21 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-20",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-20/",
+          "nome": "Dr. Stone S04 Episódio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-22/",
+          "nome": "Dr. Stone S04 Episódio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:29.271Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-22/",
+      "numero": 22,
+      "temporada": 4,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 11, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/3Y5FMnjRwZDPGE9QKPzzXNprljb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 22 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-21",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-21/",
+          "nome": "Dr. Stone S04 Episódio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-23",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-23/",
+          "nome": "Dr. Stone S04 Episódio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:25.045Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-23/",
+      "numero": 23,
+      "temporada": 4,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 18, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/9rNkii47R4Za5MY9IwSyhSAGMiW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 23 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-22",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-22/",
+          "nome": "Dr. Stone S04 Episódio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-s04-episodio-24",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-24/",
+          "nome": "Dr. Stone S04 Episódio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:20.589Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-s04-episodio-24/",
+      "numero": 24,
+      "temporada": 4,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 25, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/FV01DRaIiI76EI2EPglHDMAkd4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 24 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-s04-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-23",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-23/",
+          "nome": "Dr. Stone S04 Episódio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-1/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 1"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:16.143Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-1/",
+      "numero": 25,
+      "temporada": 4,
+      "nome": "Episódio 25",
+      "descricao": "Apr. 02, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/csK2P8qgAJlpmjfiwEK24Idzs7J.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 25 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-1/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-s04-episodio-24",
+          "link": "https://meusanimes.blog/e/dr-stone-s04-episodio-24/",
+          "nome": "Dr. Stone S04 Episódio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-2/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:11.902Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-2/",
+      "numero": 26,
+      "temporada": 4,
+      "nome": "Episódio 26",
+      "descricao": "Apr. 09, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/8hLkiFYfTh2p3oWPB8U25A4LdVP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 26 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-1",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-1/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-3/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:07.752Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-3/",
+      "numero": 27,
+      "temporada": 4,
+      "nome": "Episódio 27",
+      "descricao": "Apr. 16, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tXvGNXMN91pEuoHIw9HcOHn9u8W.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 27 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/27/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-2",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-2/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-4/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/27/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:53:03.558Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/27/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/27/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-4/",
+      "numero": 28,
+      "temporada": 4,
+      "nome": "Episódio 28",
+      "descricao": "Apr. 23, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/fEIJ898viPqr0j7CnoBovvwWEyf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 28 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/28/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-3",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-3/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-5/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/28/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:59.239Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/28/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/28/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-5/",
+      "numero": 29,
+      "temporada": 4,
+      "nome": "Episódio 29",
+      "descricao": "Apr. 30, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/7ehwfb6aB6LuhAxGLU5xzdq3IpB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 29 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/29/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-4",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-4/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-6/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/29/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:55.132Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/29/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/29/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-6/",
+      "numero": 30,
+      "temporada": 4,
+      "nome": "Episódio 30",
+      "descricao": "May. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/2JaWJ9SygDxdmbpTJ8UMwTWA3TW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 30 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/30/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-5",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-5/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-7/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/30/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:51.034Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/30/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/30/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-7/",
+      "numero": 31,
+      "temporada": 4,
+      "nome": "Episódio 31",
+      "descricao": "May. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/kLhKTqF1ag0cc5nRBKwi6kchka1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 31 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/31/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-6",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-6/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-8/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/31/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:46.882Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/31/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/31/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-8/",
+      "numero": 32,
+      "temporada": 4,
+      "nome": "Episódio 32",
+      "descricao": "May. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/5Tdm4g6yJoP1OpO6HZhG9ZnbRhj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 32 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/32/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-7",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-7/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-9/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/32/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:42.762Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/32/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/32/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-9/",
+      "numero": 33,
+      "temporada": 4,
+      "nome": "Episódio 33",
+      "descricao": "May. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/c9Wtq5mg90jkH1hozFYNSExTKEY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 33 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/33/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-8",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-8/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-10/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/33/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:38.589Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/33/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/33/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-10/",
+      "numero": 34,
+      "temporada": 4,
+      "nome": "Episódio 34",
+      "descricao": "Jun. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/6qKflZD73Xq2gBDP8ixqaWweujr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 34 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/34/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-9",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-9/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-11/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/34/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:34.401Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/34/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/34/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-11/",
+      "numero": 35,
+      "temporada": 4,
+      "nome": "Episódio 35",
+      "descricao": "Jun. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/sTI46V4If7ZALmCG58HvJk2iyxY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 35 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/35/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-10",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-10/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-12/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/35/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:30.317Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/35/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/35/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-12/",
+      "numero": 36,
+      "temporada": 4,
+      "nome": "Episódio 36",
+      "descricao": "Jun. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/l3ZUyE6Fc9koO6AnTiX50qYNYM4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 36 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/36/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-11",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-11/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-13",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-13/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/36/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:26.161Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/36/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/36/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-13/",
+      "numero": 37,
+      "temporada": 4,
+      "nome": "Episódio 37",
+      "descricao": "Jul. 10, 2025",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/x9Q7jNLYl1vYQrKHLGjrkplL3lc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Dr. Stone: 4 Episodio 37 Online",
+        "animeSlug": "a/dr-stone",
+        "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/37/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/dr-stone-science-future-part-3-episodio-12",
+          "link": "https://meusanimes.blog/e/dr-stone-science-future-part-3-episodio-12/",
+          "nome": "Dr. Stone: Science Future Part 3 Episodio 12"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/86031/4/37/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:52:21.700Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/86031/4/37/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/86031/4/37/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      15
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 94,
+    "totalEpisodios": 94,
+    "midiasColetadas": 0,
+    "iframesColetados": 94,
+    "detalhesColetadosEm": "2026-10-22T22:52:12.298Z"
+  },
+  "titulo": "Dr. Stone",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2019",
+  "publicadoEm": "Jul. 05, 2019",
+  "url": "https://meusanimes.blog/a/dr-stone/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/06/fhZSf1CyARCaCr9bKCHwsFXzzse.jpg",
+  "temporadas": 4,
+  "descricao": "Dr. Stone Todos os Episódios Online, Assistir Dr. Stone Completo em HD e Full HD, Assistir Dr.STONE Online. Milhares de anos após um misterioso fenômeno transformar a humanidade inteira em pedra, desperta um garoto extraordinariamente inteligente e motivado pela ciência – Senku Ishigami. Diante de um mundo de pedra e do colapso generalizado da civilização, Senku decide usar sua mente para reconstruir o mundo. Ao lado de Taiju Oki, seu amigo de infância absurdamente forte, eles começam a reestabelecer a civilização do zero… Representando os dois milhões de anos da história da ciência, desde a Idade da Pedra até os dias atuais, esta aventura científica sem precedentes está prestes a começar!"
+}

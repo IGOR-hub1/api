@@ -1,0 +1,429 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "kami-no-niwatsuki-kusunoki-tei",
+  "capturadoEm": "2026-10-22T09:48:02.902Z",
+  "atualizadoEm": "2026-10-22T22:20:09.378Z",
+  "catalogo": {
+    "slug": "a/kami-no-niwatsuki-kusunoki-tei",
+    "titulo": "Kami no Niwatsuki Kusunoki-tei",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c.jpg",
+    "info": "Legendado • Apr. 05, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 05, 2026",
+    "url": "https://meusanimes.blog/a/kami-no-niwatsuki-kusunoki-tei/",
+    "postId": "81515"
+  },
+  "detalhes": {
+    "slug": "a/kami-no-niwatsuki-kusunoki-tei",
+    "titulo": "Kami no Niwatsuki Kusunoki-tei",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c.jpg",
+    "sinopse": "No interior, Minato Kusunoki fica responsável por uma casa aterrorizante, transbordando de espíritos malignos… ou pelo menos era assim até que sua habilidade extraordinária eliminasse todos eles! Em vez disso, uma procissão de deuses peculiares passa a ser atraída pelo conforto da residência Kusunoki purificada, e Minato passa seus dias relaxando na companhia de seus vizinhos espirituais. O que mais aguarda Minato enquanto vive tranquilamente cercado por deuses?",
+    "generos": [
+      "Ação",
+      "Comédia",
+      "Fantasia",
+      "Slice Of Life"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Apr. 05, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/kami-no-niwatsuki-kusunoki-tei/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Apr. 05, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/tb2MwUJgDjpkglW25qk9GLfwRH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 1 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-2",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-2/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:20:09.378Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Apr. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/p03Z1L2XII2cYRi5KivigvMNgNy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 2 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-1",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-1/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-3",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-3/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:20:04.887Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Apr. 19, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/aCPTMOWoGz5UBLkZt5JnaqvcQgZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 3 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-2",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-2/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-4",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-4/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:20:00.688Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Apr. 26, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/yjnxV4iXSsWp6eyLfTvGTNySsKz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 4 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-3",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-3/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-5",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-5/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:56.377Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "May. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/418VKTudwRFgPiHfDxnSr8rzXwW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 5 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-4",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-4/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-6",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-6/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:52.239Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "May. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/GWVFIpiaAa5H3Pe88gm3y2uDbq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 6 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-5",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-5/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-7",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-7/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:47.616Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "May. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/pGPYFefXAZodRdgItICVweDXZW4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 7 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-6",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-6/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-8",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-8/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:43.481Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "May. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/sd7NDZeCs2dTU0MqKdi9jEJYmu9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 8 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-7",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-7/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-9",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-9/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:39.202Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "May. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/05/51N9Wqm6tmSV8jWN4jTbC9gstjg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 9 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-8",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-8/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-10",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-10/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:35.134Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jun. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/3TLZ8CQHGmoZkoUy5efRpGPjujj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 10 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-9",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-9/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-11",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-11/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:31.056Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jun. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/d1SvGSOhDGy206y82HCiCOU7CIE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 11 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-10",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-10/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-12",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-12/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:26.873Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jun. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/06/cQgxI3YrGsXREPyJKqNlxa5BMq4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Kami no Niwatsuki Kusunoki-tei: 1 Episodio 12 Online",
+        "animeSlug": "a/kami-no-niwatsuki-kusunoki-tei",
+        "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/kami-no-niwatsuki-kusunoki-tei-episodio-11",
+          "link": "https://meusanimes.blog/e/kami-no-niwatsuki-kusunoki-tei-episodio-11/",
+          "nome": "Kami no Niwatsuki Kusunoki-tei Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/296870/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T22:19:22.780Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/296870/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/296870/1/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      14
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 12,
+    "totalEpisodios": 12,
+    "midiasColetadas": 0,
+    "iframesColetados": 12,
+    "detalhesColetadosEm": "2026-10-22T22:19:17.898Z"
+  },
+  "titulo": "Kami no Niwatsuki Kusunoki-tei",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Apr. 05, 2026",
+  "url": "https://meusanimes.blog/a/kami-no-niwatsuki-kusunoki-tei/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/04/1Ca3sCaQt853tpLzxUuXPZC6x5c.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "No interior, Minato Kusunoki fica responsável por uma casa aterrorizante, transbordando de espíritos malignos… ou pelo menos era assim até que sua habilidade extraordinária eliminasse todos eles! Em vez disso, uma procissão de deuses peculiares passa a ser atraída pelo conforto da residência Kusunoki purificada, e Minato passa seus dias relaxando na companhia de seus vizinhos espirituais. O que mais aguarda Minato enquanto vive tranquilamente cercado por deuses?"
+}

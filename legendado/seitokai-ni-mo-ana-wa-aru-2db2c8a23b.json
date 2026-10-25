@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "seitokai-ni-mo-ana-wa-aru",
+  "capturadoEm": "2026-10-22T09:45:03.715Z",
+  "atualizadoEm": "2026-10-22T13:27:20.079Z",
+  "catalogo": {
+    "slug": "a/seitokai-ni-mo-ana-wa-aru",
+    "titulo": "Seitokai ni mo Ana wa Aru!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/9GZSIxQjOU014sWWwxDChf7RnFc.jpg",
+    "info": "Legendado • Oct. 03, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "url": "https://meusanimes.blog/a/seitokai-ni-mo-ana-wa-aru/",
+    "postId": "99993"
+  },
+  "detalhes": {
+    "slug": "a/seitokai-ni-mo-ana-wa-aru",
+    "titulo": "Seitokai ni mo Ana wa Aru!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/9GZSIxQjOU014sWWwxDChf7RnFc.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/9GZSIxQjOU014sWWwxDChf7RnFc.jpg",
+    "sinopse": "Acompanha Ume Mizunoe, um estudante com dificuldades em algumas matérias que entra para o conselho estudantil para melhorar suas notas. Lá, ele conhece um grupo de alunos bem excêntricos e acaba vivendo várias situações cômicas, caóticas e românticas na escola.",
+    "generos": [
+      "Comédia",
+      "Ecchi",
+      "Escolar",
+      "Romance",
+      "Slice Of Life"
+    ],
+    "score": "5",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/seitokai-ni-mo-ana-wa-aru/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/8mwGjt5COkuTWPvu307HxNYRe1E.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Seitokai ni mo Ana wa Aru!: 1 Episodio 1 Online",
+        "animeSlug": "a/seitokai-ni-mo-ana-wa-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283938/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/seitokai-ni-mo-ana-wa-aru-episodio-2",
+          "link": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-2/",
+          "nome": "Seitokai ni mo Ana wa Aru! Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283938/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:27:20.079Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283938/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283938/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/eHvSM57hE07nFUnq7aeK2aYX41w.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Seitokai ni mo Ana wa Aru!: 1 Episodio 2 Online",
+        "animeSlug": "a/seitokai-ni-mo-ana-wa-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283938/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/seitokai-ni-mo-ana-wa-aru-episodio-1",
+          "link": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-1/",
+          "nome": "Seitokai ni mo Ana wa Aru! Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/seitokai-ni-mo-ana-wa-aru-episodio-3",
+          "link": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-3/",
+          "nome": "Seitokai ni mo Ana wa Aru! Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283938/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:27:16.213Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283938/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283938/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/resxhSoQ0kJkZWyAKv2Cci4ux6a.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Seitokai ni mo Ana wa Aru!: 1 Episodio 3 Online",
+        "animeSlug": "a/seitokai-ni-mo-ana-wa-aru",
+        "iframe": "https://serv01.meusdoramas.club/#/video/283938/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/seitokai-ni-mo-ana-wa-aru-episodio-2",
+          "link": "https://meusanimes.blog/e/seitokai-ni-mo-ana-wa-aru-episodio-2/",
+          "nome": "Seitokai ni mo Ana wa Aru! Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/283938/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:27:12.508Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/283938/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/283938/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T13:27:08.636Z"
+  },
+  "titulo": "Seitokai ni mo Ana wa Aru!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/9GZSIxQjOU014sWWwxDChf7RnFc.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 03, 2026",
+  "url": "https://meusanimes.blog/a/seitokai-ni-mo-ana-wa-aru/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/9GZSIxQjOU014sWWwxDChf7RnFc.jpg",
+  "score": "5",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "Acompanha Ume Mizunoe, um estudante com dificuldades em algumas matérias que entra para o conselho estudantil para melhorar suas notas. Lá, ele conhece um grupo de alunos bem excêntricos e acaba vivendo várias situações cômicas, caóticas e românticas na escola."
+}

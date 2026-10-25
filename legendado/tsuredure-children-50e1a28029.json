@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "tsuredure-children",
+  "capturadoEm": "2026-10-22T09:53:25.913Z",
+  "atualizadoEm": "2026-10-22T09:53:25.913Z",
+  "catalogo": {
+    "slug": "a/tsuredure-children",
+    "titulo": "Tsuredure Children",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/7cCFzTvhpU27G2hK1aIFQ6DLVlJ.jpg",
+    "info": "Legendado • Jul. 04, 2017",
+    "audio": "Legendado",
+    "score": "8.021",
+    "ano": "2017",
+    "publicadoEm": "Jul. 04, 2017",
+    "url": "https://meusanimes.blog/a/tsuredure-children/",
+    "postId": "50496"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      38
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Tsuredure Children",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/7cCFzTvhpU27G2hK1aIFQ6DLVlJ.jpg",
+  "score": "8.021",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Jul. 04, 2017",
+  "url": "https://meusanimes.blog/a/tsuredure-children/"
+}

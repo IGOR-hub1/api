@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "uq-holder",
+  "capturadoEm": "2026-10-22T09:54:56.840Z",
+  "atualizadoEm": "2026-10-22T09:54:56.840Z",
+  "catalogo": {
+    "slug": "a/uq-holder",
+    "titulo": "UQ Holder!",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/7oUjy6CIwjiPCHtjKWH7vw1k9xN.jpg",
+    "info": "Legendado • Oct. 03, 2017",
+    "audio": "Legendado",
+    "score": "7.613",
+    "ano": "2017",
+    "publicadoEm": "Oct. 03, 2017",
+    "url": "https://meusanimes.blog/a/uq-holder/",
+    "postId": "40256"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      44
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "UQ Holder!",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/09/7oUjy6CIwjiPCHtjKWH7vw1k9xN.jpg",
+  "score": "7.613",
+  "audio": "Legendado",
+  "ano": "2017",
+  "publicadoEm": "Oct. 03, 2017",
+  "url": "https://meusanimes.blog/a/uq-holder/"
+}

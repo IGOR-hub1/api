@@ -1,0 +1,2823 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "jigoku-shoujo",
+  "capturadoEm": "2026-10-22T09:46:01.433Z",
+  "atualizadoEm": "2026-10-22T17:38:02.436Z",
+  "catalogo": {
+    "slug": "a/jigoku-shoujo",
+    "titulo": "Jigoku Shoujo",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4fRGvTFgl7oSUCICUkDesqTtcSa.jpg",
+    "info": "Legendado • Oct. 04, 2005",
+    "audio": "Legendado",
+    "score": "8.2",
+    "ano": "2005",
+    "publicadoEm": "Oct. 04, 2005",
+    "url": "https://meusanimes.blog/a/jigoku-shoujo/",
+    "postId": "92972"
+  },
+  "detalhes": {
+    "slug": "a/jigoku-shoujo",
+    "titulo": "Jigoku Shoujo",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4fRGvTFgl7oSUCICUkDesqTtcSa.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/4fRGvTFgl7oSUCICUkDesqTtcSa.jpg",
+    "sinopse": "Em algum lugar no vasto mar da Internet, existe um site que só pode ser acessado ao badalar da meia-noite. Conhecido como Jigoku Tsushin, rumores indicam que se você postar qualquer ressentimento ou rancor lá, a Jigoku Shoujo aparece e arrasta qualquer pessoa que esteja lhe atormentando para as profundezas do inferno. Muito pouco é conhecido à respeito dessa garota – tudo que sabemos com certeza, é que ela vive com sua igualmente enigmática avó, as três bonecas que a acompanham e servem a seus propósitos, e qualquer mensagem postada no Jigoku Tsushin a desperta, e faz com que ela se torne a “garota do inferno”",
+    "generos": [
+      "Drama",
+      "Mistério",
+      "Terror"
+    ],
+    "score": "9",
+    "audio": "Legendado",
+    "ano": "2005",
+    "publicadoEm": "Oct. 04, 2005",
+    "temporadas": 4,
+    "url": "https://meusanimes.blog/a/jigoku-shoujo/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 04, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xQqBvxg77KoG9hbJcoIRXGgvlTR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 1 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-2",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-2/",
+          "nome": "Hell Girl 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:38:02.436Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 11, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/cvLEIazyrttmGz44KVyp3mUpddj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 2 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-1",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-1/",
+          "nome": "Hell Girl 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-3",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-3/",
+          "nome": "Hell Girl 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:58.320Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 18, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/24Ox7QYMLbONB0OEKc0iYwLxjGN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 3 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-2",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-2/",
+          "nome": "Hell Girl 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-4",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-4/",
+          "nome": "Hell Girl 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:54.118Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 25, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/saZMsiqB3wLdiue76FpOiEaSMTh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 4 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-3",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-3/",
+          "nome": "Hell Girl 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-5",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-5/",
+          "nome": "Hell Girl 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:49.885Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 01, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/blSywY5odoPd0GVk2phCV8a5cNZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 5 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-4",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-4/",
+          "nome": "Hell Girl 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-6",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-6/",
+          "nome": "Hell Girl 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:45.688Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 08, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/kPzWNw9FlgVvPaCCbvsNIDijnIj.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 6 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-5",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-5/",
+          "nome": "Hell Girl 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-7",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-7/",
+          "nome": "Hell Girl 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:41.537Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 08, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oHwnSBRRdazMSvceD6LH6BSRaf7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 7 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-6",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-6/",
+          "nome": "Hell Girl 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-8",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-8/",
+          "nome": "Hell Girl 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:37.341Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 22, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/bxS7ue9UI2wgifF6H0BmPldJvTh.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 8 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-7",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-7/",
+          "nome": "Hell Girl 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-9",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-9/",
+          "nome": "Hell Girl 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:32.683Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 29, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lGmMETzbO37jApH1BZzT6Akrzo4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 9 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-8",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-8/",
+          "nome": "Hell Girl 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-10",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-10/",
+          "nome": "Hell Girl 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:28.477Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 06, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/5wpH8DfooLAFrAPHGzd4kDbfWNg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 10 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-9",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-9/",
+          "nome": "Hell Girl 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-11",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-11/",
+          "nome": "Hell Girl 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:24.035Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 13, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/kztlsySQAUCja07ju3STKJSIehy.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 11 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-10",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-10/",
+          "nome": "Hell Girl 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-12",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-12/",
+          "nome": "Hell Girl 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:19.858Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 20, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4MwaubdfTBZ9VlNuZPtqFpm7Rwv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 12 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-11",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-11/",
+          "nome": "Hell Girl 1 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-13",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-13/",
+          "nome": "Hell Girl 1 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:15.666Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 27, 2005",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/ooXguMX3MUbni1qxIVNZ6yX9gEI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 13 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-12",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-12/",
+          "nome": "Hell Girl 1 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-14",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-14/",
+          "nome": "Hell Girl 1 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:11.458Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 03, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/5aTGJaCjBel6gt5uc77VWQdku9S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 14 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-13",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-13/",
+          "nome": "Hell Girl 1 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-15",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-15/",
+          "nome": "Hell Girl 1 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:07.346Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 17, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/XZSWb1uQl6xCxDQ2bmWIAcEbyR.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 15 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-14",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-14/",
+          "nome": "Hell Girl 1 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-16",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-16/",
+          "nome": "Hell Girl 1 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:37:03.192Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 24, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/MWl0YOaoliI30ryym0tPXKsz4w.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 16 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-15",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-15/",
+          "nome": "Hell Girl 1 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-17",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-17/",
+          "nome": "Hell Girl 1 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:59.054Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 04, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/2P62sS2fPWhXoxGhLg3GbUwoXNP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 17 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-16",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-16/",
+          "nome": "Hell Girl 1 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-18",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-18/",
+          "nome": "Hell Girl 1 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:54.917Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 11, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/tKpfzwNZK9sP87Gt0nzQ3xwFWEJ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 18 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-17",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-17/",
+          "nome": "Hell Girl 1 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-19",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-19/",
+          "nome": "Hell Girl 1 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:50.669Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Jan. 18, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4YRjHYpsZTSR6GqzwIoeUu41qXu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 19 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-18",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-18/",
+          "nome": "Hell Girl 1 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-20",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-20/",
+          "nome": "Hell Girl 1 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:46.178Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 25, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/kWTxUifqs7R2AwNxm9hgIm5gXEY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 20 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-19",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-19/",
+          "nome": "Hell Girl 1 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-21",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-21/",
+          "nome": "Hell Girl 1 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:42.012Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 04, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oZu5C8ZqBC0qaudB0cPitC3C8zS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 21 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-20",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-20/",
+          "nome": "Hell Girl 1 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-22",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-22/",
+          "nome": "Hell Girl 1 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:37.858Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 11, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fDnLhGgcS6CpSfMGF5OgbSvl7os.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 22 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-21",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-21/",
+          "nome": "Hell Girl 1 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-23",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-23/",
+          "nome": "Hell Girl 1 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:33.760Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 18, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/1KDuLwfWIvkZwzCdxHZKra6eJGV.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 23 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-22",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-22/",
+          "nome": "Hell Girl 1 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-24",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-24/",
+          "nome": "Hell Girl 1 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:29.561Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 25, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/5K0SqvKTXpqdLu7HMeEDvV4sTlN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 24 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-23",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-23/",
+          "nome": "Hell Girl 1 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-25",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-25/",
+          "nome": "Hell Girl 1 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:25.482Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Apr. 01, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/jamj5fJ2tt4XxF9RaJk3qu9EOlx.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 25 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-24",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-24/",
+          "nome": "Hell Girl 1 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-1-episodio-26",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-26/",
+          "nome": "Hell Girl 1 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:21.334Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-1-episodio-26/",
+      "numero": 26,
+      "temporada": 1,
+      "nome": "Episódio 26",
+      "descricao": "Apr. 08, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/mfPo1tf3YMhu5X5jR72tH9LCQzt.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 1 Episodio 26 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-1-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-1-episodio-25",
+          "link": "https://meusanimes.blog/e/hell-girl-1-episodio-25/",
+          "nome": "Hell Girl 1 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/1/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:17.232Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/1/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/1/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 07, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/sSDdPo95UzSyFLGmn5yJoqzkuCH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 1 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-2",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-2/",
+          "nome": "Hell Girl 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:13.083Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 14, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/tzATHQ0UkU3rEgN81n8TUSXSzU0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 2 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-1",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-1/",
+          "nome": "Hell Girl 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-3",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-3/",
+          "nome": "Hell Girl 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:08.957Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 21, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/zHd1iLRtWVo5GiKdlyGPuoRREVs.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 3 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-2",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-2/",
+          "nome": "Hell Girl 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-4",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-4/",
+          "nome": "Hell Girl 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:04.875Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 28, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rKqEOn0RsDaPVl8IDUlv6tHQ8RZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 4 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-3",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-3/",
+          "nome": "Hell Girl 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-5",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-5/",
+          "nome": "Hell Girl 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:36:00.701Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 04, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/6ZuucpWx3j5lm6SKZAYi32Se2Ti.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 5 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-4",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-4/",
+          "nome": "Hell Girl 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-6",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-6/",
+          "nome": "Hell Girl 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:56.547Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 11, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/b0zAICUAecGYAERNrpC4SR6erU7.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 6 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-5",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-5/",
+          "nome": "Hell Girl 2 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-7",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-7/",
+          "nome": "Hell Girl 2 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:52.386Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-7/",
+      "numero": 7,
+      "temporada": 2,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 18, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/ny4zLZce35ZGmbJSQEt7o4EcWPu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 7 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-6",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-6/",
+          "nome": "Hell Girl 2 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-8",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-8/",
+          "nome": "Hell Girl 2 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:48.266Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-8/",
+      "numero": 8,
+      "temporada": 2,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 25, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/d2s1foFiIpqEGL6zWPkVUM2gA2W.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 8 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-7",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-7/",
+          "nome": "Hell Girl 2 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-9",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-9/",
+          "nome": "Hell Girl 2 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:44.177Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-9/",
+      "numero": 9,
+      "temporada": 2,
+      "nome": "Episódio 9",
+      "descricao": "Dec. 02, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/g8pdIPsmtekgaUNjJ96qt0oHyg5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 9 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-8",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-8/",
+          "nome": "Hell Girl 2 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-10",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-10/",
+          "nome": "Hell Girl 2 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:40.022Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-10/",
+      "numero": 10,
+      "temporada": 2,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 09, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/d2s1foFiIpqEGL6zWPkVUM2gA2W.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 10 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-9",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-9/",
+          "nome": "Hell Girl 2 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-11",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-11/",
+          "nome": "Hell Girl 2 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:35.918Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-11/",
+      "numero": 11,
+      "temporada": 2,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 16, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lxa4DOSlWidrMu7TdP3CkXD0tvb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 11 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-10",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-10/",
+          "nome": "Hell Girl 2 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-12",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-12/",
+          "nome": "Hell Girl 2 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:31.644Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-12/",
+      "numero": 12,
+      "temporada": 2,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 23, 2006",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/ncp7MQjVR1coqs59JNHnVQR1F0c.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 12 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-11",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-11/",
+          "nome": "Hell Girl 2 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-13",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-13/",
+          "nome": "Hell Girl 2 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:27.491Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-13/",
+      "numero": 13,
+      "temporada": 2,
+      "nome": "Episódio 13",
+      "descricao": "Jan. 06, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/gkWENjNqj6pYrUsr1W0aEEVdWbN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 13 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-12",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-12/",
+          "nome": "Hell Girl 2 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-14",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-14/",
+          "nome": "Hell Girl 2 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:23.336Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-14/",
+      "numero": 14,
+      "temporada": 2,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 13, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/jLpQCmeXDiHsnVL6hQnfJNYpbKG.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 14 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-13",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-13/",
+          "nome": "Hell Girl 2 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-15",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-15/",
+          "nome": "Hell Girl 2 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:19.236Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-15/",
+      "numero": 15,
+      "temporada": 2,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 20, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lGJROY8XybHgcsTcRcqNSRnvgIE.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 15 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-14",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-14/",
+          "nome": "Hell Girl 2 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-16",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-16/",
+          "nome": "Hell Girl 2 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:15.047Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-16/",
+      "numero": 16,
+      "temporada": 2,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 27, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/fz8RVotRIubFEgY3fjiHWomTHuS.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 16 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-15",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-15/",
+          "nome": "Hell Girl 2 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-17",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-17/",
+          "nome": "Hell Girl 2 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:10.935Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-17/",
+      "numero": 17,
+      "temporada": 2,
+      "nome": "Episódio 17",
+      "descricao": "Feb. 03, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8s9XVqphKTui5jcu6kcUPbf6ez6.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 17 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-16",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-16/",
+          "nome": "Hell Girl 2 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-18",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-18/",
+          "nome": "Hell Girl 2 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:06.806Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-18/",
+      "numero": 18,
+      "temporada": 2,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 10, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/pWLVmDlguMyDfGjMtDFcs0SGyd1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 18 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-17",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-17/",
+          "nome": "Hell Girl 2 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-19",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-19/",
+          "nome": "Hell Girl 2 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:35:02.222Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-19/",
+      "numero": 19,
+      "temporada": 2,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 17, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/nwwOI8kFZvfE0ReVYpBK1ApVozm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 19 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-18",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-18/",
+          "nome": "Hell Girl 2 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-20",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-20/",
+          "nome": "Hell Girl 2 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:58.083Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-20/",
+      "numero": 20,
+      "temporada": 2,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 24, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/gQrJhMEU1NLOrJ00CmJUc4283V9.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 20 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-19",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-19/",
+          "nome": "Hell Girl 2 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-21",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-21/",
+          "nome": "Hell Girl 2 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:53.980Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-21/",
+      "numero": 21,
+      "temporada": 2,
+      "nome": "Episódio 21",
+      "descricao": "Mar. 03, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/ozOhEvn1k5mfB9UOeMqoB2wO9N0.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 21 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-20",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-20/",
+          "nome": "Hell Girl 2 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-22",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-22/",
+          "nome": "Hell Girl 2 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:49.875Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-22/",
+      "numero": 22,
+      "temporada": 2,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 10, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8czE2oOKUYkAttB7cVdziKDvH4D.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 22 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-21",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-21/",
+          "nome": "Hell Girl 2 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-23",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-23/",
+          "nome": "Hell Girl 2 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:45.751Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-23/",
+      "numero": 23,
+      "temporada": 2,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 17, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/pv3EEt7JDB3KwVvGBVhGXIKbuuw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 23 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-22",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-22/",
+          "nome": "Hell Girl 2 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-24",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-24/",
+          "nome": "Hell Girl 2 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:41.642Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-24/",
+      "numero": 24,
+      "temporada": 2,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 24, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/cIevUd77N1OIcFQnNUXP90HNhRz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 24 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-23",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-23/",
+          "nome": "Hell Girl 2 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-25",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-25/",
+          "nome": "Hell Girl 2 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:37.512Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-25/",
+      "numero": 25,
+      "temporada": 2,
+      "nome": "Episódio 25",
+      "descricao": "Mar. 31, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/zCZefszW7ddjcTlCIa1njBLOQNu.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 25 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-24",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-24/",
+          "nome": "Hell Girl 2 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-2-episodio-26",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-26/",
+          "nome": "Hell Girl 2 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:33.367Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-2-episodio-26/",
+      "numero": 26,
+      "temporada": 2,
+      "nome": "Episódio 26",
+      "descricao": "Apr. 07, 2007",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/5hUv91G9rdqhSi1h33tSMEFjWD3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 2 Episodio 26 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-2-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-2-episodio-25",
+          "link": "https://meusanimes.blog/e/hell-girl-2-episodio-25/",
+          "nome": "Hell Girl 2 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/2/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:29.139Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/2/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/2/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-1/",
+      "numero": 1,
+      "temporada": 3,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 04, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/z69jpCbbLoiDyELihjBU4wuvKJM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 1 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-2",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-2/",
+          "nome": "Hell Girl 3 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:25.018Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-2/",
+      "numero": 2,
+      "temporada": 3,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 11, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/aNCWEyxJwBkqbT3umzbSUyV94kY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 2 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-1",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-1/",
+          "nome": "Hell Girl 3 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-3",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-3/",
+          "nome": "Hell Girl 3 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:20.863Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-3/",
+      "numero": 3,
+      "temporada": 3,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 18, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rAvhjHc8WoNdhcShPDqEHryu2bm.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 3 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-2",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-2/",
+          "nome": "Hell Girl 3 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-4",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-4/",
+          "nome": "Hell Girl 3 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:16.652Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-4/",
+      "numero": 4,
+      "temporada": 3,
+      "nome": "Episódio 4",
+      "descricao": "Oct. 25, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/iTuTQ3HsWiw7vrEFAgjGeXkyW8G.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 4 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-3",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-3/",
+          "nome": "Hell Girl 3 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-5",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-5/",
+          "nome": "Hell Girl 3 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:12.526Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-5/",
+      "numero": 5,
+      "temporada": 3,
+      "nome": "Episódio 5",
+      "descricao": "Nov. 01, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/qxDJ1Tkgkt5LkIoprFL7WRN7pQe.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 5 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-4",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-4/",
+          "nome": "Hell Girl 3 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-6",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-6/",
+          "nome": "Hell Girl 3 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:08.419Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-6/",
+      "numero": 6,
+      "temporada": 3,
+      "nome": "Episódio 6",
+      "descricao": "Nov. 08, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/o1tbDEzubPXhaxtnerd53hledpd.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 6 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-5",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-5/",
+          "nome": "Hell Girl 3 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-7",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-7/",
+          "nome": "Hell Girl 3 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:04.261Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-7/",
+      "numero": 7,
+      "temporada": 3,
+      "nome": "Episódio 7",
+      "descricao": "Nov. 15, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rjFMa5Gab3aSqp4956MTaIxcCBA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 7 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-6",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-6/",
+          "nome": "Hell Girl 3 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-8",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-8/",
+          "nome": "Hell Girl 3 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:34:00.127Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-8/",
+      "numero": 8,
+      "temporada": 3,
+      "nome": "Episódio 8",
+      "descricao": "Nov. 22, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/1XUNN3fnrVXRszUvMKKmwEwcc9P.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 8 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-7",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-7/",
+          "nome": "Hell Girl 3 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-9",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-9/",
+          "nome": "Hell Girl 3 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:55.996Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-9/",
+      "numero": 9,
+      "temporada": 3,
+      "nome": "Episódio 9",
+      "descricao": "Nov. 29, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/m7ERKVjIwM5XAnTqyCW7G60BZvq.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 9 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-8",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-8/",
+          "nome": "Hell Girl 3 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-10",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-10/",
+          "nome": "Hell Girl 3 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:51.859Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-10/",
+      "numero": 10,
+      "temporada": 3,
+      "nome": "Episódio 10",
+      "descricao": "Dec. 06, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8bzc2IUiRNMczFYV6nHsa2c92qW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 10 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-9",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-9/",
+          "nome": "Hell Girl 3 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-11",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-11/",
+          "nome": "Hell Girl 3 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:47.745Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-11/",
+      "numero": 11,
+      "temporada": 3,
+      "nome": "Episódio 11",
+      "descricao": "Dec. 13, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/qYlwh370jNc3qBeaTsIoocTdka5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 11 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-10",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-10/",
+          "nome": "Hell Girl 3 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-12",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-12/",
+          "nome": "Hell Girl 3 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:43.564Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-12/",
+      "numero": 12,
+      "temporada": 3,
+      "nome": "Episódio 12",
+      "descricao": "Dec. 20, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/tQ9iIMKH32YXlHFlq9v9MuCmkgi.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 12 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-11",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-11/",
+          "nome": "Hell Girl 3 Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-13",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-13/",
+          "nome": "Hell Girl 3 Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:39.436Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-13/",
+      "numero": 13,
+      "temporada": 3,
+      "nome": "Episódio 13",
+      "descricao": "Dec. 27, 2008",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/kyYwoQb3NOfCXUMVj90QxC8zCOf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 13 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-12",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-12/",
+          "nome": "Hell Girl 3 Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-14",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-14/",
+          "nome": "Hell Girl 3 Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:35.323Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-14/",
+      "numero": 14,
+      "temporada": 3,
+      "nome": "Episódio 14",
+      "descricao": "Jan. 10, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/n5fYDW9sjUDyg9WEgFWNVEKRT4B.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 14 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-13",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-13/",
+          "nome": "Hell Girl 3 Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-15",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-15/",
+          "nome": "Hell Girl 3 Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:31.184Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-15/",
+      "numero": 15,
+      "temporada": 3,
+      "nome": "Episódio 15",
+      "descricao": "Jan. 17, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8xe2H5RwLe2GFhVYydxaDp14mVL.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 15 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-14",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-14/",
+          "nome": "Hell Girl 3 Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-16",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-16/",
+          "nome": "Hell Girl 3 Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:27.080Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-16/",
+      "numero": 16,
+      "temporada": 3,
+      "nome": "Episódio 16",
+      "descricao": "Jan. 24, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/heMhQrJXcE2sw2Ikg4rxI6BUZCX.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 16 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-15",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-15/",
+          "nome": "Hell Girl 3 Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-17",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-17/",
+          "nome": "Hell Girl 3 Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:22.930Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-17/",
+      "numero": 17,
+      "temporada": 3,
+      "nome": "Episódio 17",
+      "descricao": "Jan. 31, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/aEWsuWr7QSvuXFXUoaoJu5NLleQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 17 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-16",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-16/",
+          "nome": "Hell Girl 3 Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-18",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-18/",
+          "nome": "Hell Girl 3 Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:18.840Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-18/",
+      "numero": 18,
+      "temporada": 3,
+      "nome": "Episódio 18",
+      "descricao": "Feb. 07, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/vIcAP9kN2DQbC5hKZ9CQUvMBSe5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 18 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-17",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-17/",
+          "nome": "Hell Girl 3 Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-19",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-19/",
+          "nome": "Hell Girl 3 Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:14.698Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-19/",
+      "numero": 19,
+      "temporada": 3,
+      "nome": "Episódio 19",
+      "descricao": "Feb. 14, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/q3gb3M1agOiTD5gEbwsln1Z3cpA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 19 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-18",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-18/",
+          "nome": "Hell Girl 3 Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-20",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-20/",
+          "nome": "Hell Girl 3 Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:10.518Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-20/",
+      "numero": 20,
+      "temporada": 3,
+      "nome": "Episódio 20",
+      "descricao": "Feb. 21, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/nbF6RV1rAJIxKXEuDQWhUzh37ci.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 20 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-19",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-19/",
+          "nome": "Hell Girl 3 Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-21",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-21/",
+          "nome": "Hell Girl 3 Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:06.263Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-21/",
+      "numero": 21,
+      "temporada": 3,
+      "nome": "Episódio 21",
+      "descricao": "Feb. 28, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/koFNLEpWIWAHD1swo3CiqEXDc3S.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 21 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-20",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-20/",
+          "nome": "Hell Girl 3 Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-22",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-22/",
+          "nome": "Hell Girl 3 Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:33:02.129Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-22/",
+      "numero": 22,
+      "temporada": 3,
+      "nome": "Episódio 22",
+      "descricao": "Mar. 07, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/y1T14SIsXpcALRfKuGFyWvIhy5s.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 22 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-21",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-21/",
+          "nome": "Hell Girl 3 Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-23",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-23/",
+          "nome": "Hell Girl 3 Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:58.034Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-23/",
+      "numero": 23,
+      "temporada": 3,
+      "nome": "Episódio 23",
+      "descricao": "Mar. 14, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4Y07hj7WVVL51ovZJCcCRNKfNVv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 23 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-22",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-22/",
+          "nome": "Hell Girl 3 Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-24",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-24/",
+          "nome": "Hell Girl 3 Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:53.807Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-24/",
+      "numero": 24,
+      "temporada": 3,
+      "nome": "Episódio 24",
+      "descricao": "Mar. 21, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/A4YYCZnG20PvrY8X1Thi8bQeTWY.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 24 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-23",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-23/",
+          "nome": "Hell Girl 3 Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-25",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-25/",
+          "nome": "Hell Girl 3 Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:49.652Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-25/",
+      "numero": 25,
+      "temporada": 3,
+      "nome": "Episódio 25",
+      "descricao": "Mar. 28, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/cJOS9V3mCGAo7BJJkxEMh8SOByk.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 25 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-24",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-24/",
+          "nome": "Hell Girl 3 Episodio 24"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-3-episodio-26",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-26/",
+          "nome": "Hell Girl 3 Episodio 26"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:45.475Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/25/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-3-episodio-26/",
+      "numero": 26,
+      "temporada": 3,
+      "nome": "Episódio 26",
+      "descricao": "Apr. 04, 2009",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7pelybrYsnvPu490oBLW2cvZtOH.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 3 Episodio 26 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/26/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-3-episodio-26/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-3-episodio-25",
+          "link": "https://meusanimes.blog/e/hell-girl-3-episodio-25/",
+          "nome": "Hell Girl 3 Episodio 25"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/3/26/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:41.278Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/3/26/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/3/26/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-1/",
+      "numero": 1,
+      "temporada": 4,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 14, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7WhmWrWbwaZJHhcGRz6E6AKDStw.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 1 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-2",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-2/",
+          "nome": "Hell Girl 4 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:37.094Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-2/",
+      "numero": 2,
+      "temporada": 4,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 22, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7IHLZS3iKXsz0bTOFQkc8heBDkA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 2 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-1",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-1/",
+          "nome": "Hell Girl 4 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-3",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-3/",
+          "nome": "Hell Girl 4 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:32.979Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-3/",
+      "numero": 3,
+      "temporada": 4,
+      "nome": "Episódio 3",
+      "descricao": "Aug. 06, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/56vvFjWPex6d1zoPoWrU768DYfc.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 3 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-2",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-2/",
+          "nome": "Hell Girl 4 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-4",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-4/",
+          "nome": "Hell Girl 4 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:28.812Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-4/",
+      "numero": 4,
+      "temporada": 4,
+      "nome": "Episódio 4",
+      "descricao": "Aug. 06, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/9MZviPZ8yBmccQWK4tM79tFhLVW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 4 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-3",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-3/",
+          "nome": "Hell Girl 4 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-5",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-5/",
+          "nome": "Hell Girl 4 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:24.732Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-5/",
+      "numero": 5,
+      "temporada": 4,
+      "nome": "Episódio 5",
+      "descricao": "Aug. 12, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/clfrmyoyxJc6DezQa1AxlVm5ef5.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 5 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-4",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-4/",
+          "nome": "Hell Girl 4 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-6",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-6/",
+          "nome": "Hell Girl 4 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:20.501Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-6/",
+      "numero": 6,
+      "temporada": 4,
+      "nome": "Episódio 6",
+      "descricao": "Aug. 19, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7IHLZS3iKXsz0bTOFQkc8heBDkA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 6 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-5",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-5/",
+          "nome": "Hell Girl 4 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-7",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-7/",
+          "nome": "Hell Girl 4 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:16.283Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-7/",
+      "numero": 7,
+      "temporada": 4,
+      "nome": "Episódio 7",
+      "descricao": "Aug. 26, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/m8rrwh6X7aFfpsh12tSeJIPEDP8.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 7 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-6",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-6/",
+          "nome": "Hell Girl 4 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-8",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-8/",
+          "nome": "Hell Girl 4 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:12.177Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-8/",
+      "numero": 8,
+      "temporada": 4,
+      "nome": "Episódio 8",
+      "descricao": "Sep. 02, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7WAmlwxtu65g2CnQxHlfoH5jXcv.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 8 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-7",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-7/",
+          "nome": "Hell Girl 4 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-9",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-9/",
+          "nome": "Hell Girl 4 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:07.762Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-9/",
+      "numero": 9,
+      "temporada": 4,
+      "nome": "Episódio 9",
+      "descricao": "Sep. 09, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/xnj8EpMDD9b6c1bWiQfnILQEePA.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 9 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-8",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-8/",
+          "nome": "Hell Girl 4 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-10",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-10/",
+          "nome": "Hell Girl 4 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:32:03.627Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-10/",
+      "numero": 10,
+      "temporada": 4,
+      "nome": "Episódio 10",
+      "descricao": "Sep. 16, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/9GgxKTRJDkSEN9TYhwrwU7IW5o4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 10 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-9",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-9/",
+          "nome": "Hell Girl 4 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-11",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-11/",
+          "nome": "Hell Girl 4 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:31:59.472Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-11/",
+      "numero": 11,
+      "temporada": 4,
+      "nome": "Episódio 11",
+      "descricao": "Sep. 23, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/aAkWVUlJLRxBrPCVe0RizB9rNOl.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 11 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-10",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-10/",
+          "nome": "Hell Girl 4 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/hell-girl-4-episodio-12",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-12/",
+          "nome": "Hell Girl 4 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:31:55.268Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/hell-girl-4-episodio-12/",
+      "numero": 12,
+      "temporada": 4,
+      "nome": "Episódio 12",
+      "descricao": "Sep. 30, 2017",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/r93yZbb7BP4SJnZs8iRTSJ2vUzr.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Jigoku Shoujo: 4 Episodio 12 Online",
+        "animeSlug": "a/jigoku-shoujo",
+        "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/hell-girl-4-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/hell-girl-4-episodio-11",
+          "link": "https://meusanimes.blog/e/hell-girl-4-episodio-11/",
+          "nome": "Hell Girl 4 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/8974/4/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T17:31:50.990Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/8974/4/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/8974/4/12/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      5
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 90,
+    "totalEpisodios": 90,
+    "midiasColetadas": 0,
+    "iframesColetados": 90,
+    "detalhesColetadosEm": "2026-10-22T17:31:40.757Z"
+  },
+  "titulo": "Jigoku Shoujo",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/4fRGvTFgl7oSUCICUkDesqTtcSa.jpg",
+  "score": "9",
+  "audio": "Legendado",
+  "ano": "2005",
+  "publicadoEm": "Oct. 04, 2005",
+  "url": "https://meusanimes.blog/a/jigoku-shoujo/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/4fRGvTFgl7oSUCICUkDesqTtcSa.jpg",
+  "temporadas": 4,
+  "descricao": "Em algum lugar no vasto mar da Internet, existe um site que só pode ser acessado ao badalar da meia-noite. Conhecido como Jigoku Tsushin, rumores indicam que se você postar qualquer ressentimento ou rancor lá, a Jigoku Shoujo aparece e arrasta qualquer pessoa que esteja lhe atormentando para as profundezas do inferno. Muito pouco é conhecido à respeito dessa garota – tudo que sabemos com certeza, é que ela vive com sua igualmente enigmática avó, as três bonecas que a acompanham e servem a seus propósitos, e qualquer mensagem postada no Jigoku Tsushin a desperta, e faz com que ela se torne a “garota do inferno”"
+}

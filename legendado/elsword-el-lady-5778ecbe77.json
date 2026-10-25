@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "elsword-el-lady",
+  "capturadoEm": "2026-10-22T09:52:32.670Z",
+  "atualizadoEm": "2026-10-22T09:52:32.670Z",
+  "catalogo": {
+    "slug": "a/elsword-el-lady",
+    "titulo": "Elsword: El Lady",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/9j4KpMN6tZKOaPbW8s7xye5rGRS.jpg",
+    "info": "Legendado • Dec. 13, 2016",
+    "audio": "Legendado",
+    "score": "6.1",
+    "ano": "2016",
+    "publicadoEm": "Dec. 13, 2016",
+    "url": "https://meusanimes.blog/a/elsword-el-lady/",
+    "postId": "54582"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      34
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Elsword: El Lady",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/9j4KpMN6tZKOaPbW8s7xye5rGRS.jpg",
+  "score": "6.1",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Dec. 13, 2016",
+  "url": "https://meusanimes.blog/a/elsword-el-lady/"
+}

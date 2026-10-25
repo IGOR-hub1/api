@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "rokka-no-yuusha",
+  "capturadoEm": "2026-10-22T09:51:48.780Z",
+  "atualizadoEm": "2026-10-22T09:51:48.780Z",
+  "catalogo": {
+    "slug": "a/rokka-no-yuusha",
+    "titulo": "Rokka no Yuusha",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/t9O20KwN1jPX3nt6CqJW6A7wLjT.jpg",
+    "info": "Legendado • Jul. 05, 2015",
+    "audio": "Legendado",
+    "score": "6.83",
+    "ano": "2015",
+    "publicadoEm": "Jul. 05, 2015",
+    "url": "https://meusanimes.blog/a/rokka-no-yuusha/",
+    "postId": "57535"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      31
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Rokka no Yuusha",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/t9O20KwN1jPX3nt6CqJW6A7wLjT.jpg",
+  "score": "6.83",
+  "audio": "Legendado",
+  "ano": "2015",
+  "publicadoEm": "Jul. 05, 2015",
+  "url": "https://meusanimes.blog/a/rokka-no-yuusha/"
+}

@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "91-days",
+  "capturadoEm": "2026-10-22T09:53:02.633Z",
+  "atualizadoEm": "2026-10-22T09:53:02.633Z",
+  "catalogo": {
+    "slug": "a/91-days",
+    "titulo": "91 Days",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ArJQiKRRLM3v5SoEaPN0qo6NUVp.jpg",
+    "info": "Legendado • Jul. 09, 2016",
+    "audio": "Legendado",
+    "score": "7.641",
+    "ano": "2016",
+    "publicadoEm": "Jul. 09, 2016",
+    "url": "https://meusanimes.blog/a/91-days/",
+    "postId": "52505"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      36
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "91 Days",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/ArJQiKRRLM3v5SoEaPN0qo6NUVp.jpg",
+  "score": "7.641",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Jul. 09, 2016",
+  "url": "https://meusanimes.blog/a/91-days/"
+}

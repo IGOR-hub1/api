@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "pluto",
+  "capturadoEm": "2026-10-22T09:49:12.546Z",
+  "atualizadoEm": "2026-10-22T09:49:12.546Z",
+  "catalogo": {
+    "slug": "a/pluto",
+    "titulo": "Pluto",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/9GlqAkmHyP1BNtZX0jwLrMtykUC.png",
+    "info": "Legendado • Oct. 26, 2023",
+    "audio": "Legendado",
+    "score": "7.877",
+    "ano": "2023",
+    "publicadoEm": "Oct. 26, 2023",
+    "url": "https://meusanimes.blog/a/pluto/",
+    "postId": "71148"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      19
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Pluto",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/9GlqAkmHyP1BNtZX0jwLrMtykUC.png",
+  "score": "7.877",
+  "audio": "Legendado",
+  "ano": "2023",
+  "publicadoEm": "Oct. 26, 2023",
+  "url": "https://meusanimes.blog/a/pluto/"
+}

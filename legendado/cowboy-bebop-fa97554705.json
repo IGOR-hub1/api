@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "cowboy-bebop",
+  "capturadoEm": "2026-10-22T09:53:08.199Z",
+  "atualizadoEm": "2026-10-22T09:53:08.199Z",
+  "catalogo": {
+    "slug": "a/cowboy-bebop",
+    "titulo": "Cowboy Bebop",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+    "info": "Legendado • Apr. 03, 1998",
+    "audio": "Legendado",
+    "score": "8.522",
+    "ano": "1998",
+    "publicadoEm": "Apr. 03, 1998",
+    "url": "https://meusanimes.blog/a/cowboy-bebop/",
+    "postId": "52023"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      36
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Cowboy Bebop",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/10/hbLDwYri1pyiEIMpICgftu7s8NE.jpg",
+  "score": "8.522",
+  "audio": "Legendado",
+  "ano": "1998",
+  "publicadoEm": "Apr. 03, 1998",
+  "url": "https://meusanimes.blog/a/cowboy-bebop/"
+}

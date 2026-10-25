@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "haibane-renmei",
+  "capturadoEm": "2026-10-22T09:49:24.612Z",
+  "atualizadoEm": "2026-10-22T09:49:24.612Z",
+  "catalogo": {
+    "slug": "a/haibane-renmei",
+    "titulo": "Haibane Renmei",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/OnIJxXw7vXIgn8SbuyGE5GivJd.jpg",
+    "info": "Legendado • Oct. 09, 2002",
+    "audio": "Legendado",
+    "score": "7.699",
+    "ano": "2002",
+    "publicadoEm": "Oct. 09, 2002",
+    "url": "https://meusanimes.blog/a/haibane-renmei/",
+    "postId": "69895"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      20
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Haibane Renmei",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/OnIJxXw7vXIgn8SbuyGE5GivJd.jpg",
+  "score": "7.699",
+  "audio": "Legendado",
+  "ano": "2002",
+  "publicadoEm": "Oct. 09, 2002",
+  "url": "https://meusanimes.blog/a/haibane-renmei/"
+}

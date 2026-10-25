@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "ao-no-hako",
+  "capturadoEm": "2026-10-22T09:49:42.263Z",
+  "atualizadoEm": "2026-10-22T09:49:42.263Z",
+  "catalogo": {
+    "slug": "a/ao-no-hako",
+    "titulo": "Ao no Hako",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/93YKdmC5m4WZQPd4Wr19IDyQup8.jpg",
+    "info": "Legendado • Oct. 03, 2024",
+    "audio": "Legendado",
+    "score": "7.947",
+    "ano": "2024",
+    "publicadoEm": "Oct. 03, 2024",
+    "url": "https://meusanimes.blog/a/ao-no-hako/",
+    "postId": "67794"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      21
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Ao no Hako",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/01/93YKdmC5m4WZQPd4Wr19IDyQup8.jpg",
+  "score": "7.947",
+  "audio": "Legendado",
+  "ano": "2024",
+  "publicadoEm": "Oct. 03, 2024",
+  "url": "https://meusanimes.blog/a/ao-no-hako/"
+}

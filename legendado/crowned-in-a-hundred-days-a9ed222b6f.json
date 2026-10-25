@@ -1,0 +1,832 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "crowned-in-a-hundred-days",
+  "capturadoEm": "2026-10-22T09:46:38.682Z",
+  "atualizadoEm": "2026-10-22T19:12:49.740Z",
+  "catalogo": {
+    "slug": "a/crowned-in-a-hundred-days",
+    "titulo": "Crowned in a Hundred Days",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/9aY1UUREcdtYExktdNI57fSUHef.jpg",
+    "info": "Legendado • Jul. 03, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 03, 2026",
+    "url": "https://meusanimes.blog/a/crowned-in-a-hundred-days/",
+    "postId": "92258"
+  },
+  "detalhes": {
+    "slug": "a/crowned-in-a-hundred-days",
+    "titulo": "Crowned in a Hundred Days",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/9aY1UUREcdtYExktdNI57fSUHef.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/9aY1UUREcdtYExktdNI57fSUHef.jpg",
+    "sinopse": "Num segundo o restaurante estava cheio de alegria, no seguinte era um rio de sangue… O rei, que claramente amava o seu povo, de repente tornou-se uma fera sedenta de sangue… “Ming” perdeu todos com quem gostava; este terrível rei é realmente horrível! Eu vou me vingar! Espere, você quer dizer que a alma na minha frente com apenas 100 dias de vida é a verdadeira “mentira”? Tudo bem, tudo bem! 100 dias – vamos ser coroados reis juntos!",
+    "generos": [
+      "Ação",
+      "Aventura",
+      "Donghua",
+      "Fantasia"
+    ],
+    "score": "7",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Jul. 03, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/crowned-in-a-hundred-days/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Jul. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/lufZ1IT6wsCMfMMFw2ijOrznUFP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 1 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-2",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-2/",
+          "nome": "Crowned in a Hundred Days Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:49.740Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Jul. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/7EVN3cy8NlgCvlAWwOaTuo63ULg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 2 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-1",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-1/",
+          "nome": "Crowned in a Hundred Days Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-3",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-3/",
+          "nome": "Crowned in a Hundred Days Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:45.642Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Jul. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8RU5ptIM5OpEh9HYnhMaT3DskIP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 3 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-2",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-2/",
+          "nome": "Crowned in a Hundred Days Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-4",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-4/",
+          "nome": "Crowned in a Hundred Days Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:41.536Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Jul. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/dJPFCZkNy2z9u8MjmXuhx0yiDUQ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 4 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/4/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-3",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-3/",
+          "nome": "Crowned in a Hundred Days Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-5",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-5/",
+          "nome": "Crowned in a Hundred Days Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:37.456Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Jul. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/dl9JigkeAaasaR7y5MGXH4d5oF4.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 5 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/5/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-4",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-4/",
+          "nome": "Crowned in a Hundred Days Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-6",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-6/",
+          "nome": "Crowned in a Hundred Days Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:33.374Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Jul. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/nzXMMdgwqOIyEFuzYGW8V8gsrre.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 6 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/6/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-5",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-5/",
+          "nome": "Crowned in a Hundred Days Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-7",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-7/",
+          "nome": "Crowned in a Hundred Days Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:29.277Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Jul. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/s38zB8QwlqqwNaoX42nazGpmslg.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 7 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/7/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-6",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-6/",
+          "nome": "Crowned in a Hundred Days Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-8",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-8/",
+          "nome": "Crowned in a Hundred Days Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:25.105Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Jul. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/bwkDDHoBqQ4kxIKUJr9A1jclvVf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 8 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/8/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-7",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-7/",
+          "nome": "Crowned in a Hundred Days Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-9",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-9/",
+          "nome": "Crowned in a Hundred Days Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:20.978Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Jul. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/oJyBJv8NhUsJyXrnj3j7rfbgneT.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 9 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/9/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-8",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-8/",
+          "nome": "Crowned in a Hundred Days Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-10",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-10/",
+          "nome": "Crowned in a Hundred Days Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:16.888Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Jul. 24, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/rWzUZkD8cyZYUxajaKlWuavrJnM.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 10 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/10/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-9",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-9/",
+          "nome": "Crowned in a Hundred Days Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-11",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-11/",
+          "nome": "Crowned in a Hundred Days Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:12.765Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Jul. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/6znuFwkyyJiKiFzCSIxGRDJbbyO.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 11 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/11/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-10",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-10/",
+          "nome": "Crowned in a Hundred Days Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-12",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-12/",
+          "nome": "Crowned in a Hundred Days Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:08.677Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Jul. 31, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/8RU5ptIM5OpEh9HYnhMaT3DskIP.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 12 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/12/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-11",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-11/",
+          "nome": "Crowned in a Hundred Days Episodio 11"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-13",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-13/",
+          "nome": "Crowned in a Hundred Days Episodio 13"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:12:04.079Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-13/",
+      "numero": 13,
+      "temporada": 1,
+      "nome": "Episódio 13",
+      "descricao": "Aug. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/oRmUEiy5Zl1Q7Hsmms2uxbaoFww.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 13 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/13/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-13/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-12",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-12/",
+          "nome": "Crowned in a Hundred Days Episodio 12"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-14",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-14/",
+          "nome": "Crowned in a Hundred Days Episodio 14"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/13/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:59.992Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/13/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/13/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-14/",
+      "numero": 14,
+      "temporada": 1,
+      "nome": "Episódio 14",
+      "descricao": "Aug. 07, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/nzXMMdgwqOIyEFuzYGW8V8gsrre.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 14 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/14/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-14/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-13",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-13/",
+          "nome": "Crowned in a Hundred Days Episodio 13"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-15",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-15/",
+          "nome": "Crowned in a Hundred Days Episodio 15"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/14/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:53.822Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/14/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/14/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-15/",
+      "numero": 15,
+      "temporada": 1,
+      "nome": "Episódio 15",
+      "descricao": "Aug. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/7IyZyjEeYwbnZ6iHTeNflg2QNIW.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 15 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/15/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-15/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-14",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-14/",
+          "nome": "Crowned in a Hundred Days Episodio 14"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-16",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-16/",
+          "nome": "Crowned in a Hundred Days Episodio 16"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/15/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:49.747Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/15/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/15/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-16/",
+      "numero": 16,
+      "temporada": 1,
+      "nome": "Episódio 16",
+      "descricao": "Aug. 14, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/xP8XJFVMd3MAfncjG569FmZjGgZ.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 16 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/16/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-16/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-15",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-15/",
+          "nome": "Crowned in a Hundred Days Episodio 15"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-17",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-17/",
+          "nome": "Crowned in a Hundred Days Episodio 17"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/16/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:45.617Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/16/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/16/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-17/",
+      "numero": 17,
+      "temporada": 1,
+      "nome": "Episódio 17",
+      "descricao": "Aug. 18, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/zjbeMkG5bVXpFV64Co51Rkftoe3.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 17 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/17/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-17/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-16",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-16/",
+          "nome": "Crowned in a Hundred Days Episodio 16"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-18",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-18/",
+          "nome": "Crowned in a Hundred Days Episodio 18"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/17/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:41.534Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/17/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/17/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-18/",
+      "numero": 18,
+      "temporada": 1,
+      "nome": "Episódio 18",
+      "descricao": "Aug. 21, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/bwkDDHoBqQ4kxIKUJr9A1jclvVf.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 18 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/18/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-18/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-17",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-17/",
+          "nome": "Crowned in a Hundred Days Episodio 17"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-19",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-19/",
+          "nome": "Crowned in a Hundred Days Episodio 19"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/18/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:37.465Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/18/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/18/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-19/",
+      "numero": 19,
+      "temporada": 1,
+      "nome": "Episódio 19",
+      "descricao": "Aug. 25, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/e5oIKCHGbUQ8OGSludVmNKCExli.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 19 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/19/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-19/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-18",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-18/",
+          "nome": "Crowned in a Hundred Days Episodio 18"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-20",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-20/",
+          "nome": "Crowned in a Hundred Days Episodio 20"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/19/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:33.423Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/19/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/19/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-20/",
+      "numero": 20,
+      "temporada": 1,
+      "nome": "Episódio 20",
+      "descricao": "Aug. 28, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/08/jVOxD1EymutLHMgdBRTDLTkM4Kb.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 20 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/20/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-20/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-19",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-19/",
+          "nome": "Crowned in a Hundred Days Episodio 19"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-21",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-21/",
+          "nome": "Crowned in a Hundred Days Episodio 21"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/20/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:29.319Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/20/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/20/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-21/",
+      "numero": 21,
+      "temporada": 1,
+      "nome": "Episódio 21",
+      "descricao": "Sep. 01, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/9poWb7poJZ6vRbUjFNIqh5sH0nK.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 21 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/21/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-21/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-20",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-20/",
+          "nome": "Crowned in a Hundred Days Episodio 20"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-22",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-22/",
+          "nome": "Crowned in a Hundred Days Episodio 22"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/21/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:25.306Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/21/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/21/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-22/",
+      "numero": 22,
+      "temporada": 1,
+      "nome": "Episódio 22",
+      "descricao": "Sep. 04, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/g0Qs2yVtNYJI7cbkaFhEL9d90Qp.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 22 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/22/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-22/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-21",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-21/",
+          "nome": "Crowned in a Hundred Days Episodio 21"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-23",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-23/",
+          "nome": "Crowned in a Hundred Days Episodio 23"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/22/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:21.229Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/22/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/22/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-23/",
+      "numero": 23,
+      "temporada": 1,
+      "nome": "Episódio 23",
+      "descricao": "Sep. 08, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/qjhjrs2gfaP1mWVZca01wkZnQNN.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 23 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/23/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-23/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-22",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-22/",
+          "nome": "Crowned in a Hundred Days Episodio 22"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-24",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-24/",
+          "nome": "Crowned in a Hundred Days Episodio 24"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/23/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:17.086Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/23/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/23/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-24/",
+      "numero": 24,
+      "temporada": 1,
+      "nome": "Episódio 24",
+      "descricao": "Sep. 11, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/gJkYWJweRuMzKVKR3YSD26cpuN1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 24 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/24/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-24/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-23",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-23/",
+          "nome": "Crowned in a Hundred Days Episodio 23"
+        },
+        "nextEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-25",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-25/",
+          "nome": "Crowned in a Hundred Days Episodio 25"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/24/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:12.979Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/24/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/24/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-25/",
+      "numero": 25,
+      "temporada": 1,
+      "nome": "Episódio 25",
+      "descricao": "Sep. 15, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/09/x6rETGIgOCwRULBoeCj02SZhAWz.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Crowned in a Hundred Days: 1 Episodio 25 Online",
+        "animeSlug": "a/crowned-in-a-hundred-days",
+        "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/25/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-25/",
+        "previousEpisode": {
+          "slug": "e/crowned-in-a-hundred-days-episodio-24",
+          "link": "https://meusanimes.blog/e/crowned-in-a-hundred-days-episodio-24/",
+          "nome": "Crowned in a Hundred Days Episodio 24"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/326844/1/25/"
+      },
+      "playerCapturadoEm": "2026-10-22T19:11:08.948Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/326844/1/25/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/326844/1/25/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      8
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 25,
+    "totalEpisodios": 25,
+    "midiasColetadas": 0,
+    "iframesColetados": 25,
+    "detalhesColetadosEm": "2026-10-22T19:11:03.468Z"
+  },
+  "titulo": "Crowned in a Hundred Days",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/07/9aY1UUREcdtYExktdNI57fSUHef.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Jul. 03, 2026",
+  "url": "https://meusanimes.blog/a/crowned-in-a-hundred-days/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/07/9aY1UUREcdtYExktdNI57fSUHef.jpg",
+  "score": "7",
+  "temporadas": 1,
+  "descricao": "Num segundo o restaurante estava cheio de alegria, no seguinte era um rio de sangue… O rei, que claramente amava o seu povo, de repente tornou-se uma fera sedenta de sangue… “Ming” perdeu todos com quem gostava; este terrível rei é realmente horrível! Eu vou me vingar! Espere, você quer dizer que a alma na minha frente com apenas 100 dias de vida é a verdadeira “mentira”? Tudo bem, tudo bem! 100 dias – vamos ser coroados reis juntos!"
+}

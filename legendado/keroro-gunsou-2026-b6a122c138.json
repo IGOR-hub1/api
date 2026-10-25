@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "keroro-gunsou-2026",
+  "capturadoEm": "2026-10-22T09:45:10.923Z",
+  "atualizadoEm": "2026-10-22T13:42:04.004Z",
+  "catalogo": {
+    "slug": "a/keroro-gunsou-2026",
+    "titulo": "Keroro Gunsou (2026)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/pG3VqumaXP9xE7A9EA2w9eDLiV6.jpg",
+    "info": "Legendado • Oct. 03, 2026",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "url": "https://meusanimes.blog/a/keroro-gunsou-2026/",
+    "postId": "99910"
+  },
+  "detalhes": {
+    "slug": "a/keroro-gunsou-2026",
+    "titulo": "Keroro Gunsou (2026)",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/pG3VqumaXP9xE7A9EA2w9eDLiV6.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/pG3VqumaXP9xE7A9EA2w9eDLiV6.jpg",
+    "sinopse": "O Sargento Keroro vem para conquistar a Terra, mas acaba capturado e preso vivendo com a família Hinata!",
+    "generos": [
+      "Comédia",
+      "Ficção científica",
+      "Kids"
+    ],
+    "score": "6",
+    "status": "Em lançamento",
+    "audio": "Legendado",
+    "ano": "2026",
+    "publicadoEm": "Oct. 03, 2026",
+    "temporadas": 1,
+    "url": "https://meusanimes.blog/a/keroro-gunsou-2026/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Oct. 03, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/9eCxY8FsZbeokJByPBnb1DiybEB.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Keroro Gunsou (2026): 1 Episodio 1 Online",
+        "animeSlug": "a/keroro-gunsou-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308977/1/1/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/keroro-gunsou-2026-episodio-2",
+          "link": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-2/",
+          "nome": "Keroro Gunsou (2026) Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308977/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:42:04.004Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308977/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308977/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Oct. 10, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/1uR6ylt8ICHCI0GlpP98HKJE8eI.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Keroro Gunsou (2026): 1 Episodio 2 Online",
+        "animeSlug": "a/keroro-gunsou-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308977/1/2/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/keroro-gunsou-2026-episodio-1",
+          "link": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-1/",
+          "nome": "Keroro Gunsou (2026) Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/keroro-gunsou-2026-episodio-3",
+          "link": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-3/",
+          "nome": "Keroro Gunsou (2026) Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308977/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:42:00.277Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308977/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308977/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Oct. 17, 2026",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/yaDJJ4SJr10eJwXjy4EC11J0mG1.jpg",
+      "audio": "Legendado",
+      "player": {
+        "title": "Keroro Gunsou (2026): 1 Episodio 3 Online",
+        "animeSlug": "a/keroro-gunsou-2026",
+        "iframe": "https://serv01.meusdoramas.club/#/video/308977/1/3/",
+        "sources": [],
+        "audio": "Legendado",
+        "referer": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/keroro-gunsou-2026-episodio-2",
+          "link": "https://meusanimes.blog/e/keroro-gunsou-2026-episodio-2/",
+          "nome": "Keroro Gunsou (2026) Episodio 2"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/308977/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T13:41:56.522Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/308977/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/308977/1/3/"
+    }
+  ],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      3
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 3,
+    "totalEpisodios": 3,
+    "midiasColetadas": 0,
+    "iframesColetados": 3,
+    "detalhesColetadosEm": "2026-10-22T13:41:52.543Z"
+  },
+  "titulo": "Keroro Gunsou (2026)",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2026/10/pG3VqumaXP9xE7A9EA2w9eDLiV6.jpg",
+  "audio": "Legendado",
+  "ano": "2026",
+  "publicadoEm": "Oct. 03, 2026",
+  "url": "https://meusanimes.blog/a/keroro-gunsou-2026/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2026/10/pG3VqumaXP9xE7A9EA2w9eDLiV6.jpg",
+  "score": "6",
+  "status": "Em lançamento",
+  "temporadas": 1,
+  "descricao": "O Sargento Keroro vem para conquistar a Terra, mas acaba capturado e preso vivendo com a família Hinata!"
+}

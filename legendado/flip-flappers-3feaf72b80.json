@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "flip-flappers",
+  "capturadoEm": "2026-10-22T09:52:34.691Z",
+  "atualizadoEm": "2026-10-22T09:52:34.691Z",
+  "catalogo": {
+    "slug": "a/flip-flappers",
+    "titulo": "Flip Flappers",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/nn52MkIV5GM8XzDJq8oOUIJ8xO.jpg",
+    "info": "Legendado • Oct. 06, 2016",
+    "audio": "Legendado",
+    "score": "7",
+    "ano": "2016",
+    "publicadoEm": "Oct. 06, 2016",
+    "url": "https://meusanimes.blog/a/flip-flappers/",
+    "postId": "54466"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      34
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Flip Flappers",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/nn52MkIV5GM8XzDJq8oOUIJ8xO.jpg",
+  "score": "7",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 06, 2016",
+  "url": "https://meusanimes.blog/a/flip-flappers/"
+}

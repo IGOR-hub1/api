@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "legendado",
+  "slug": "brave-witches",
+  "capturadoEm": "2026-10-22T09:52:27.223Z",
+  "atualizadoEm": "2026-10-22T09:52:27.223Z",
+  "catalogo": {
+    "slug": "a/brave-witches",
+    "titulo": "Brave Witches",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/6Ew3lcSFyrITOvgsaYPXWSaECKg.jpg",
+    "info": "Legendado • Oct. 06, 2016",
+    "audio": "Legendado",
+    "score": "5.478",
+    "ano": "2016",
+    "publicadoEm": "Oct. 06, 2016",
+    "url": "https://meusanimes.blog/a/brave-witches/",
+    "postId": "55044"
+  },
+  "detalhes": {},
+  "episodios": [],
+  "coleta": {
+    "categoria": "legendado",
+    "paginasCatalogo": [
+      33
+    ],
+    "detalhesColetados": false,
+    "playersColetados": 0,
+    "totalEpisodios": 0,
+    "midiasColetadas": 0,
+    "iframesColetados": 0
+  },
+  "titulo": "Brave Witches",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/11/6Ew3lcSFyrITOvgsaYPXWSaECKg.jpg",
+  "score": "5.478",
+  "audio": "Legendado",
+  "ano": "2016",
+  "publicadoEm": "Oct. 06, 2016",
+  "url": "https://meusanimes.blog/a/brave-witches/"
+}

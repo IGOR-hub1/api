@@ -1,0 +1,611 @@
+{
+  "schemaVersion": 1,
+  "fonte": {
+    "nome": "Meus Animes",
+    "origem": "https://meusanimes.blog"
+  },
+  "categoria": "dublado",
+  "slug": "b-the-beginning-dublado",
+  "capturadoEm": "2026-10-22T02:24:09.416Z",
+  "atualizadoEm": "2026-10-22T09:41:39.677Z",
+  "catalogo": {
+    "slug": "a/b-the-beginning-dublado",
+    "titulo": "B: The Beginning Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/icgDgsRLKZR7IkYEjUjY0xRSzoK.jpg",
+    "info": "Dublado • Mar. 02, 2018",
+    "audio": "Dublado",
+    "score": "7.7",
+    "ano": "2018",
+    "publicadoEm": "Mar. 02, 2018",
+    "url": "https://meusanimes.blog/a/b-the-beginning-dublado/",
+    "postId": "85739"
+  },
+  "detalhes": {
+    "slug": "a/b-the-beginning-dublado",
+    "titulo": "B: The Beginning Dublado",
+    "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/icgDgsRLKZR7IkYEjUjY0xRSzoK.jpg",
+    "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/icgDgsRLKZR7IkYEjUjY0xRSzoK.jpg",
+    "sinopse": "O genial investigador Keith Flick regressa à polícia bem quando o serial killer “B” entra em ação. O misterioso jovem Koku pode ser um aliado. Ou será ele um alvo?",
+    "generos": [
+      "Ação",
+      "Crime",
+      "Drama",
+      "Fantasia",
+      "Mistério",
+      "Sobrenatural",
+      "Super Poderes"
+    ],
+    "score": "6",
+    "audio": "Dublado",
+    "ano": "2018",
+    "publicadoEm": "Mar. 02, 2018",
+    "temporadas": 2,
+    "url": "https://meusanimes.blog/a/b-the-beginning-dublado/"
+  },
+  "episodios": [
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-1/",
+      "numero": 1,
+      "temporada": 1,
+      "nome": "Episódio 1",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/bmpw1XeI9KMA5z1FEckoiHILpIK.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 1 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-2/",
+          "nome": "B: The Beginning Dublado 1 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:25:23.490Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-2/",
+      "numero": 2,
+      "temporada": 1,
+      "nome": "Episódio 2",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ezQyfhYVeZPVGyndxrhg2JN3jQI.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 2 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-1",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-1/",
+          "nome": "B: The Beginning Dublado 1 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-3/",
+          "nome": "B: The Beginning Dublado 1 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:25:19.346Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-3/",
+      "numero": 3,
+      "temporada": 1,
+      "nome": "Episódio 3",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/5coyRYvepUZuYASMoUYLaDmfPzJ.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 3 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-2",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-2/",
+          "nome": "B: The Beginning Dublado 1 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-4/",
+          "nome": "B: The Beginning Dublado 1 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:25:15.325Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-4/",
+      "numero": 4,
+      "temporada": 1,
+      "nome": "Episódio 4",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/l6cJwn379EPpkRgOAF2GiS2bWH.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 4 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-3",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-3/",
+          "nome": "B: The Beginning Dublado 1 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-5/",
+          "nome": "B: The Beginning Dublado 1 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:25:11.252Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-5/",
+      "numero": 5,
+      "temporada": 1,
+      "nome": "Episódio 5",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/1PMiPYmRAx8GVUna0d086qp4WrM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 5 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-4",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-4/",
+          "nome": "B: The Beginning Dublado 1 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-6/",
+          "nome": "B: The Beginning Dublado 1 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:25:07.206Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-6/",
+      "numero": 6,
+      "temporada": 1,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/wCNXqJkioZBnf8w3wRILxcssmaY.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 6 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-5",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-5/",
+          "nome": "B: The Beginning Dublado 1 Episodio 5"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-7/",
+          "nome": "B: The Beginning Dublado 1 Episodio 7"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:25:03.012Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/6/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-7/",
+      "numero": 7,
+      "temporada": 1,
+      "nome": "Episódio 7",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/jDR5YfIxHgl1xKEJ4PrfeZZ71Ya.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 7 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/7/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-7/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-6",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-6/",
+          "nome": "B: The Beginning Dublado 1 Episodio 6"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-8/",
+          "nome": "B: The Beginning Dublado 1 Episodio 8"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/7/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:58.931Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/7/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/7/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-8/",
+      "numero": 8,
+      "temporada": 1,
+      "nome": "Episódio 8",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/AevVOUqvfLwqGoDAycdOtsT62OM.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 8 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/8/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-8/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-7",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-7/",
+          "nome": "B: The Beginning Dublado 1 Episodio 7"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-9/",
+          "nome": "B: The Beginning Dublado 1 Episodio 9"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/8/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:54.859Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/8/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/8/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-9/",
+      "numero": 9,
+      "temporada": 1,
+      "nome": "Episódio 9",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/ht98ZmsSpMXPoUE2ASJzTtEbQdb.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 9 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/9/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-9/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-8",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-8/",
+          "nome": "B: The Beginning Dublado 1 Episodio 8"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-10/",
+          "nome": "B: The Beginning Dublado 1 Episodio 10"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/9/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:50.784Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/9/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/9/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-10/",
+      "numero": 10,
+      "temporada": 1,
+      "nome": "Episódio 10",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/cmiQxdMQaXOi4ZnReyFNy0zJk2.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 10 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/10/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-10/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-9",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-9/",
+          "nome": "B: The Beginning Dublado 1 Episodio 9"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-11/",
+          "nome": "B: The Beginning Dublado 1 Episodio 11"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/10/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:46.744Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/10/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/10/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-11/",
+      "numero": 11,
+      "temporada": 1,
+      "nome": "Episódio 11",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/pFhlZmcbD1gQ2BvHgCNDcp48eoR.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 11 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/11/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-11/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-10",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-10/",
+          "nome": "B: The Beginning Dublado 1 Episodio 10"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-12",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-12/",
+          "nome": "B: The Beginning Dublado 1 Episodio 12"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/11/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:42.688Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/11/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/11/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-12/",
+      "numero": 12,
+      "temporada": 1,
+      "nome": "Episódio 12",
+      "descricao": "Mar. 02, 2018",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/daCF2adftnD1RdCULlguSY4QwVu.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 1 Episodio 12 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/12/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-12/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-1-episodio-11",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-1-episodio-11/",
+          "nome": "B: The Beginning Dublado 1 Episodio 11"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/1/12/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:38.554Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/1/12/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/1/12/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-1/",
+      "numero": 1,
+      "temporada": 2,
+      "nome": "Episódio 1",
+      "descricao": "Mar. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/vHNoumHDBCJnbiSlbp9WK9RJee5.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 2 Episodio 1 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/1/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-1/",
+        "previousEpisode": null,
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-2/",
+          "nome": "B: The Beginning Dublado 2 Episodio 2"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/2/1/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:34.571Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/1/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/2/1/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-2/",
+      "numero": 2,
+      "temporada": 2,
+      "nome": "Episódio 2",
+      "descricao": "Mar. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/hPOqaRdVzPSQI8W5479ll13pR2K.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 2 Episodio 2 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/2/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-2/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-1",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-1/",
+          "nome": "B: The Beginning Dublado 2 Episodio 1"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-3/",
+          "nome": "B: The Beginning Dublado 2 Episodio 3"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/2/2/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:30.572Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/2/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/2/2/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-3/",
+      "numero": 3,
+      "temporada": 2,
+      "nome": "Episódio 3",
+      "descricao": "Mar. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/x2gUAtReKVliQBIhTHgEm9hIDY7.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 2 Episodio 3 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/3/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-3/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-2",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-2/",
+          "nome": "B: The Beginning Dublado 2 Episodio 2"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-4/",
+          "nome": "B: The Beginning Dublado 2 Episodio 4"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/2/3/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:26.480Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/3/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/2/3/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-4/",
+      "numero": 4,
+      "temporada": 2,
+      "nome": "Episódio 4",
+      "descricao": "Mar. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/jugIEtTZjy1MrE7tzUPV5N9fB66.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 2 Episodio 4 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/4/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-4/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-3",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-3/",
+          "nome": "B: The Beginning Dublado 2 Episodio 3"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-5/",
+          "nome": "B: The Beginning Dublado 2 Episodio 5"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/2/4/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:22.354Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/4/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/2/4/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-5/",
+      "numero": 5,
+      "temporada": 2,
+      "nome": "Episódio 5",
+      "descricao": "Mar. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/hj6MwcEvLI0s9c3mCKJiMsJD5cS.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 2 Episodio 5 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/5/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-5/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-4",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-4/",
+          "nome": "B: The Beginning Dublado 2 Episodio 4"
+        },
+        "nextEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-6",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-6/",
+          "nome": "B: The Beginning Dublado 2 Episodio 6"
+        },
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/2/5/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:18.348Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/5/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/2/5/"
+    },
+    {
+      "paginaEpisodio": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-6/",
+      "numero": 6,
+      "temporada": 2,
+      "nome": "Episódio 6",
+      "descricao": "Mar. 18, 2021",
+      "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/7rkzYXjxljc0Xm6Nh9wZ91mUf8G.jpg",
+      "audio": "Dublado",
+      "player": {
+        "title": "B: The Beginning Dublado: 2 Episodio 6 Online",
+        "animeSlug": "a/b-the-beginning-dublado",
+        "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/6/",
+        "sources": [],
+        "audio": "Dublado",
+        "referer": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-6/",
+        "previousEpisode": {
+          "slug": "e/b-the-beginning-dublado-2-episodio-5",
+          "link": "https://meusanimes.blog/e/b-the-beginning-dublado-2-episodio-5/",
+          "nome": "B: The Beginning Dublado 2 Episodio 5"
+        },
+        "nextEpisode": null,
+        "serviceIframe": "https://serv01.meusdoramas.club/#/video/775291/2/6/"
+      },
+      "playerCapturadoEm": "2026-10-22T02:24:14.154Z",
+      "iframe": "https://serv01.meusdoramas.club/#/video/775291/2/6/",
+      "urlPlayer": "https://serv01.meusdoramas.club/#/video/775291/2/6/"
+    }
+  ],
+  "coleta": {
+    "categoria": "dublado",
+    "paginasCatalogo": [
+      9
+    ],
+    "detalhesColetados": true,
+    "playersColetados": 18,
+    "totalEpisodios": 18,
+    "detalhesColetadosEm": "2026-10-22T02:24:09.416Z",
+    "midiasColetadas": 0,
+    "iframesColetados": 18
+  },
+  "titulo": "B: The Beginning Dublado",
+  "capa": "https://meusanimes.blog/wp-content/uploads/2025/08/icgDgsRLKZR7IkYEjUjY0xRSzoK.jpg",
+  "score": "7.7",
+  "audio": "Dublado",
+  "ano": "2018",
+  "publicadoEm": "Mar. 02, 2018",
+  "url": "https://meusanimes.blog/a/b-the-beginning-dublado/",
+  "backdrop": "https://meusanimes.blog/wp-content/uploads/2025/08/icgDgsRLKZR7IkYEjUjY0xRSzoK.jpg",
+  "temporadas": 2,
+  "descricao": "O genial investigador Keith Flick regressa à polícia bem quando o serial killer “B” entra em ação. O misterioso jovem Koku pode ser um aliado. Ou será ele um alvo?"
+}
