@@ -1,12 +1,7 @@
 {
   "functions": {
     "api/animes.js": {
-      "includeFiles": [
-        "dublado/**/*.json",
-        "legendado/**/*.json",
-        "lancamentos/**/*.json",
-        "catalog-api-index.json"
-      ]
+      "includeFiles": "**/*.json"
     }
   },
   "headers": [
